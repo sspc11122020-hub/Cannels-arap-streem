@@ -1,12 +1,12 @@
-name: Ultimate Channels Scraper
+name: Chann Scraper & Updater
 
 on:
   schedule:
-    - cron: '0 0 * * *' # يتم التحديث تلقائياً يومياً في منتصف الليل
-  workflow_dispatch:
+    - cron: '0 0 * * *' # يتم التشغيل يومياً في منتصف الليل
+  workflow_dispatch: # زر التشغيل اليدوي من GitHub
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,11 +23,11 @@ jobs:
           npm init -y
           npm install axios
 
-      - name: Run Smart Scraper
+      - name: Run Scraper Script
         run: node scraper.js
 
-      - name: Commit and Push Sorted JSONs
+      - name: Commit and Push Generated JSONs
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "تحديث وتصنيف ملفات القنوات تلقائياً"
-          file_pattern: 'Arabic/*.json Global/*.json'
+          commit_message: "تحديث ملفات القنوات (chann) تلقائياً"
+          file_pattern: 'chann/*.json'
