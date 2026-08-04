@@ -1,12 +1,12 @@
-name: DaddyLive Channels Scraper
+name: Ultimate Channels Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * *' # يعمل تلقائياً كل يوم في منتصف الليل
-  workflow_dispatch: # يتيح لك تشغيله يدوياً من واجهة GitHub
+    - cron: '0 0 * * *' # يتم التحديث تلقائياً يومياً في منتصف الليل
+  workflow_dispatch:
 
 jobs:
-  scrape-and-save:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,13 +21,13 @@ jobs:
       - name: Install Dependencies
         run: |
           npm init -y
-          npm install puppeteer
+          npm install axios
 
-      - name: Run Puppeteer Scraper
+      - name: Run Smart Scraper
         run: node scraper.js
 
-      - name: Commit and Push Changes
+      - name: Commit and Push Sorted JSONs
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "تحديث روابط القنوات تلقائياً"
+          commit_message: "تحديث وتصنيف ملفات القنوات تلقائياً"
           file_pattern: 'Arabic/*.json Global/*.json'
