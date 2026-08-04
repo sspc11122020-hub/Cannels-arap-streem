@@ -33,6 +33,28 @@ function isArabicChannel(name) {
     return arabicKeywords.some(keyword => lower.includes(keyword)) || /\bar\b/.test(lower);
 }
 
+// دالة للحصول على الحرف الأول من اسم القناة (مع تجاهل الأرقام والرموز الخاصة)
+function getFirstLetter(name) {
+    if (!name) return '#';
+    
+    // إزالة المسافات في البداية والنهاية
+    const trimmed = name.trim();
+    
+    // إذا كان الاسم فارغاً بعد التنظيف
+    if (trimmed.length === 0) return '#';
+    
+    // الحصول على أول حرف
+    const firstChar = trimmed.charAt(0).toUpperCase();
+    
+    // التحقق إذا كان حرفاً إنجليزياً
+    if (/[A-Z]/.test(firstChar)) {
+        return firstChar;
+    }
+    
+    // إذا كان رقماً أو رمزاً خاصاً
+    return '#';
+}
+
 async function scrapeChannels() {
     let allProcessedChannels = [];
 
@@ -78,38 +100,62 @@ async function scrapeChannels() {
 
     console.log(`إجمالي القنوات الفريدة المستخرجة: ${uniqueChannels.length}. جاري الفرز والحفظ...`);
 
-    // تقسيم القنوات إلى قسمين أساسيين: عربية وعالمية
-    const arabicChannels = [];
-    const globalChannels = [];
-
+    // تقسيم القنوات حسب الحرف الأول
+    const channelsByLetter = {};
+    
     uniqueChannels.forEach(channel => {
-        if (isArabicChannel(channel.name)) {
-            arabicChannels.push(channel);
-        } else {
-            globalChannels.push(channel);
+        const firstLetter = getFirstLetter(channel.name);
+        
+        if (!channelsByLetter[firstLetter]) {
+            channelsByLetter[firstLetter] = [];
         }
+        
+        channelsByLetter[firstLetter].push(channel);
     });
 
-    // ترتيب القنوات أبجدياً لسهولة التصفح
-    arabicChannels.sort((a, b) => a.name.localeCompare(b.name));
-    globalChannels.sort((a, b) => a.name.localeCompare(b.name));
+    // ترتيب القنوات داخل كل مجموعة أبجدياً
+    Object.keys(channelsByLetter).forEach(letter => {
+        channelsByLetter[letter].sort((a, b) => a.name.localeCompare(b.name));
+    });
 
-    // حفظ القنوات العربية في مجلد Arabic
-    const arabicDir = path.join(__dirname, 'Arabic');
-    if (!fs.existsSync(arabicDir)) {
-        fs.mkdirSync(arabicDir, { recursive: true });
+    // إنشاء مجلد /chann/ الرئيسي
+    const mainDir = path.join(__dirname, 'chann');
+    if (!fs.existsSync(mainDir)) {
+        fs.mkdirSync(mainDir, { recursive: true });
     }
-    fs.writeFileSync(path.join(arabicDir, 'channels.json'), JSON.stringify(arabicChannels, null, 4), 'utf-8');
-    console.log(`تم حفظ ${arabicChannels.length} قناة عربية في مجلد Arabic/channels.json`);
 
-    // حفظ باقي القنوات في مجلد Global
-    const globalDir = path.join(__dirname, 'Global');
-    if (!fs.existsSync(globalDir)) {
-        fs.mkdirSync(globalDir, { recursive: true });
+    // حفظ كل مجموعة في ملف منفصل
+    let totalSaved = 0;
+    const letters = Object.keys(channelsByLetter).sort();
+    
+    for (const letter of letters) {
+        const channels = channelsByLetter[letter];
+        const fileName = `${letter}.json`;
+        const filePath = path.join(mainDir, fileName);
+        
+        fs.writeFileSync(filePath, JSON.stringify(channels, null, 4), 'utf-8');
+        console.log(`تم حفظ ${channels.length} قناة في ملف ${fileName}`);
+        totalSaved += channels.length;
     }
-    fs.writeFileSync(path.join(globalDir, 'channels.json'), JSON.stringify(globalChannels, null, 4), 'utf-8');
-    console.log(`تم حفظ ${globalChannels.length} قناة عالمية في مجلد Global/channels.json`);
 
+    // إنشاء ملف فهرس (index) يحتوي على جميع القنوات مع معلومات الحرف
+    const indexData = {};
+    for (const letter of letters) {
+        indexData[letter] = {
+            count: channelsByLetter[letter].length,
+            file: `${letter}.json`,
+            channels: channelsByLetter[letter].map(c => c.name) // قائمة بأسماء القنوات فقط للتصفح السريع
+        };
+    }
+    
+    fs.writeFileSync(
+        path.join(mainDir, 'index.json'), 
+        JSON.stringify(indexData, null, 4), 
+        'utf-8'
+    );
+    
+    console.log(`\nتم حفظ الفهرس العام في chann/index.json`);
+    console.log(`تم حفظ إجمالي ${totalSaved} قناة في ${letters.length} ملف داخل مجلد /chann/`);
     console.log("اكتملت عملية الفرز والحفظ بنجاح!");
 }
 
