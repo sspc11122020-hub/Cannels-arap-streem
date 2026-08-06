@@ -1186,20 +1186,6 @@
     },
     {
         "id": null,
-        "name": "WCBS-TV 2.1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/32/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/32/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "WCCA 194 Worcester MA (WCCA-TV) (480p)",
         "servers": [
             {
@@ -1237,20 +1223,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "WDAF-TV 4.2 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/9/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/9/index.m3u8"
             }
         ]
     },
@@ -3417,6 +3389,20 @@
             {
                 "name": "URL",
                 "link": "https://world.lls.pbs.org/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Entertainment TV 42",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://3bb.engatetv.com:25461/hstn/line/147"
+            },
+            {
+                "name": "URL",
+                "link": "http://3bb.engatetv.com:25461/hstn/line/147"
             }
         ]
     },

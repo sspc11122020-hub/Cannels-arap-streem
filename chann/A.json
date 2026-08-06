@@ -2292,11 +2292,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/2486/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/2486/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8"
             }
         ]
     },
@@ -7628,20 +7628,6 @@
     },
     {
         "id": null,
-        "name": "Altitude Sports (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/6153/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/6153/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Altitude US",
         "servers": [
             {
@@ -7861,6 +7847,20 @@
             {
                 "name": "URL",
                 "link": "https://goccn.cloud/hls/amanitv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Amara (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8"
             }
         ]
     },
@@ -9434,6 +9434,20 @@
     },
     {
         "id": null,
+        "name": "Anhui TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ani (576p)",
         "servers": [
             {
@@ -10727,6 +10741,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Arena (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8"
             }
         ]
     },
@@ -12057,11 +12085,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/10/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/10/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8"
             }
         ]
     },

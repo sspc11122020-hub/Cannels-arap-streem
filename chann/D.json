@@ -4875,11 +4875,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/650/index.m3u8"
+                "link": "http://190.14.10.19:16000/play/a06z/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/650/index.m3u8"
+                "link": "http://190.14.10.19:16000/play/a06z/index.m3u8"
             }
         ]
     },
@@ -4978,20 +4978,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Disney%20Channel&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Disney Channel West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/3146/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/3146/index.m3u8"
             }
         ]
     },
@@ -5160,20 +5146,6 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Disney Junior West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/655/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/655/index.m3u8"
             }
         ]
     },
@@ -6037,11 +6009,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/56/index.m3u8"
+                "link": "http://46.151.196.223:14382"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/56/index.m3u8"
+                "link": "http://46.151.196.223:14382"
             }
         ]
     },

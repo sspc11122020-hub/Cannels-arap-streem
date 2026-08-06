@@ -15,15 +15,43 @@
     },
     {
         "id": null,
-        "name": "E International Asia (480p)",
+        "name": "E International (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8"
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8"
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "E International Asia (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "E International Europe (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8"
             }
         ]
     },
@@ -3431,6 +3459,34 @@
     },
     {
         "id": null,
+        "name": "Eros Universe Bollywood Cinema",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eros Universe Entertainment",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ERT 1 Ⓖ",
         "servers": [
             {
@@ -6810,6 +6866,11 @@
     {
         "id": "5022",
         "name": "Event PPV Boxing",
+        "servers": []
+    },
+    {
+        "id": "7001",
+        "name": "Event Stream",
         "servers": []
     },
     {

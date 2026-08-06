@@ -967,20 +967,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/122/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/122/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic Wild (1080p)",
         "servers": [
             {
@@ -1896,20 +1882,6 @@
     },
     {
         "id": null,
-        "name": "NBC News NOW HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/127/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/127/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NBC Sports Bay Area",
         "servers": [
             {
@@ -1961,20 +1933,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/nbc-sports-california"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NBC Sports Chicago (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/6141/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/6141/index.m3u8"
             }
         ]
     },
@@ -4323,6 +4281,34 @@
     },
     {
         "id": null,
+        "name": "NH BollyFlix",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NH BollyRaga",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cc-up9j649x4thrj.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/f935ee75-bf1b-4bf6-a30c-1f096a0083c5/0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NH Nieuws",
         "servers": [
             {
@@ -5028,15 +5014,15 @@
     },
     {
         "id": null,
-        "name": "Nicktoons (1080p)",
+        "name": "Nicktoons (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/3151/index.m3u8"
+                "link": "https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/3151/index.m3u8"
+                "link": "https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8"
             }
         ]
     },
@@ -5051,20 +5037,6 @@
             {
                 "name": "URL",
                 "link": "https://stream8.cinerama.uz/1502/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nicktoons West (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/3152/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/3152/index.m3u8"
             }
         ]
     },

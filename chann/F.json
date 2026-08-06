@@ -440,20 +440,6 @@
     },
     {
         "id": null,
-        "name": "FanDuel Racing (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/6139/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/6139/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "FanDuel Sports Network Arizona",
         "servers": [
             {
@@ -1359,11 +1345,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/60/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/60/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
             }
         ]
     },
@@ -5434,20 +5420,6 @@
     },
     {
         "id": null,
-        "name": "Freeform West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/70/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/70/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "FreeTV Estelar (1080p)",
         "servers": [
             {
@@ -6354,20 +6326,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/fyi"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FYI (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/78/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/78/index.m3u8"
             }
         ]
     }

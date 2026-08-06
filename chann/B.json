@@ -271,11 +271,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/639/index.m3u8"
+                "link": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/639/index.m3u8"
+                "link": "https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8"
             }
         ]
     },
@@ -318,20 +318,6 @@
             {
                 "name": "URL",
                 "link": "https://saran-live.ercdn.net/babytv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BabyTV US (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/641/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/641/index.m3u8"
             }
         ]
     },
@@ -1676,6 +1662,20 @@
             {
                 "name": "URL",
                 "link": "http://185.102.171.218/BBCEarth/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BBC Earth Turkiye (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://194.156.236.23:8004/play/a018"
+            },
+            {
+                "name": "URL",
+                "link": "http://194.156.236.23:8004/play/a018"
             }
         ]
     },
@@ -5668,20 +5668,6 @@
     },
     {
         "id": null,
-        "name": "BET Gospel (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/17/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/17/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BET Her (720p)",
         "servers": [
             {
@@ -5696,29 +5682,15 @@
     },
     {
         "id": null,
-        "name": "BET Her West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/19/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/19/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BET Jams (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/20/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/20/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8"
             }
         ]
     },
@@ -5742,11 +5714,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/21/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/21/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8"
             }
         ]
     },
@@ -5812,11 +5784,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/16/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/16/index.m3u8"
+                "link": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8"
             }
         ]
     },
@@ -6690,6 +6662,20 @@
             {
                 "name": "URL",
                 "link": "https://tvdatta.com:3021/live/biosferatvlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Bioskop TelkomVision (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8"
             }
         ]
     },

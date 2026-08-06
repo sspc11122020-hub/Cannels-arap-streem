@@ -1098,20 +1098,6 @@
     },
     {
         "id": null,
-        "name": "Patriot (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pauta (1080p)",
         "servers": [
             {
@@ -1424,25 +1410,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/669/index.m3u8"
+                "link": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/669/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS Kids 24/7 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/672/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/672/index.m3u8"
+                "link": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8"
             }
         ]
     },
@@ -8005,20 +7977,6 @@
             {
                 "name": "URL",
                 "link": "https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PokerGo (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/4249/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/4249/index.m3u8"
             }
         ]
     },

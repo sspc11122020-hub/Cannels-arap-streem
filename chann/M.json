@@ -2015,6 +2015,20 @@
     },
     {
         "id": null,
+        "name": "Marla Vision (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://soportedvb.click:3877/live/merlavisionlive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://soportedvb.click:3877/live/merlavisionlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Marquee Sports Network",
         "servers": [
             {
@@ -5343,20 +5357,6 @@
     },
     {
         "id": null,
-        "name": "MeTV Toons (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/112/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/112/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "METV USA",
         "servers": [
             {
@@ -5375,11 +5375,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/111/index.m3u8"
+                "link": "http://40.160.24.53/METV_Plus/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/111/index.m3u8"
+                "link": "http://40.160.24.53/METV_Plus/index.m3u8"
             }
         ]
     },
@@ -6878,6 +6878,20 @@
             {
                 "name": "URL",
                 "link": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MNB Family",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.mnb.mn/hls/mnb_family.stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.mnb.mn/hls/mnb_family.stream.m3u8"
             }
         ]
     },
@@ -9620,15 +9634,15 @@
     },
     {
         "id": null,
-        "name": "MTV Classic (720p)",
+        "name": "MTV Classic (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://206.212.244.63/117/index.m3u8"
+                "link": "http://40.160.24.53/MTV_CLASSIC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://206.212.244.63/117/index.m3u8"
+                "link": "http://40.160.24.53/MTV_CLASSIC/index.m3u8"
             }
         ]
     },
@@ -10288,20 +10302,6 @@
             {
                 "name": "URL",
                 "link": "https://live-fi.tvkaista.net/mtv3/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTVU (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/119/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/119/index.m3u8"
             }
         ]
     },

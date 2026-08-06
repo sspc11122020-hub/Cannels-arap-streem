@@ -911,20 +911,6 @@
     },
     {
         "id": null,
-        "name": "Samay National (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/674/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/674/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Samen1 TV (720p)",
         "servers": [
             {
@@ -2437,20 +2423,6 @@
             {
                 "name": "URL",
                 "link": "https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Scares by Shudder (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/147/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/147/index.m3u8"
             }
         ]
     },
@@ -16115,20 +16087,6 @@
     },
     {
         "id": null,
-        "name": "Super Channel Vault (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://206.212.244.63/6142/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://206.212.244.63/6142/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Super Digital TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -17576,6 +17534,20 @@
             {
                 "name": "URL",
                 "link": "https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Svoboda",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.19/live/svoboda/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.19/live/svoboda/index.m3u8"
             }
         ]
     },
