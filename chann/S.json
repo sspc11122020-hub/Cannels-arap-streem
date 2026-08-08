@@ -4805,15 +4805,15 @@
     },
     {
         "id": null,
-        "name": "Showtime Family Zone (1080p) [Geo-blocked]",
+        "name": "Showtime Family Zone (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8"
+                "link": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8"
+                "link": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8"
             }
         ]
     },
@@ -4847,15 +4847,15 @@
     },
     {
         "id": null,
-        "name": "Showtime Next (1080p) [Geo-blocked]",
+        "name": "Showtime Next (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8"
+                "link": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8"
+                "link": "http://40.160.24.55/SHOWTIME_NEXT/index.m3u8"
             }
         ]
     },
@@ -4954,20 +4954,6 @@
             {
                 "name": "URL",
                 "link": "https://logic.icelanders.st/embed/showtimewomen-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Showtime Women (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8"
             }
         ]
     },
@@ -9305,11 +9291,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
+                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
+                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
             }
         ]
     },
@@ -13842,15 +13828,15 @@
     },
     {
         "id": null,
-        "name": "Starz Cinema (1080p) [Geo-blocked]",
+        "name": "Starz Cinema (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8"
+                "link": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8"
+                "link": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8"
             }
         ]
     },

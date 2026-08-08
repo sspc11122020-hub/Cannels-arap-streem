@@ -3112,6 +3112,20 @@
     },
     {
         "id": null,
+        "name": "Vision (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Vision 3000 [Geo-blocked]",
         "servers": [
             {
@@ -4399,6 +4413,11 @@
                 "link": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "7015",
+        "name": "VTV6",
+        "servers": []
     },
     {
         "id": null,

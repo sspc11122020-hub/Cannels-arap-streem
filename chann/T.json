@@ -9700,20 +9700,6 @@
     },
     {
         "id": null,
-        "name": "Three +1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://i.mjh.nz/.r/three-plus1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://i.mjh.nz/.r/three-plus1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Three's Company",
         "servers": [
             {
@@ -20213,6 +20199,20 @@
             {
                 "name": "URL",
                 "link": "http://103.250.28.74:8000/play/a06e/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV Today Janakpur",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
             }
         ]
     },

@@ -3408,15 +3408,15 @@
     },
     {
         "id": null,
-        "name": "Raj TV (576p)",
+        "name": "Raj TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/707.m3u8"
+                "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/707.m3u8"
+                "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
             }
         ]
     },
@@ -5029,6 +5029,11 @@
                 "link": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "7013",
+        "name": "RCTI+",
+        "servers": []
     },
     {
         "id": null,
@@ -12418,6 +12423,16 @@
                 "link": "https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8"
             }
         ]
+    },
+    {
+        "id": "7024",
+        "name": "Rugby Stream",
+        "servers": []
+    },
+    {
+        "id": "7023",
+        "name": "RugbyTV",
+        "servers": []
     },
     {
         "id": null,

@@ -495,20 +495,6 @@
     },
     {
         "id": null,
-        "name": "Zee Action (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/488.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/488.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Alwan (576p) [Not 24/7]",
         "servers": [
             {
@@ -574,20 +560,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Biskope (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.154.3.101:5001/live/559.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.154.3.101:5001/live/559.m3u8"
             }
         ]
     },
@@ -798,6 +770,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zee Kannada HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            },
+            {
+                "name": "URL",
+                "link": "https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
             }
         ]
     },
@@ -1022,6 +1008,20 @@
             {
                 "name": "URL",
                 "link": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zee TV Asia Pacific (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8"
             }
         ]
     },
