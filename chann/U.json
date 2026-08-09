@@ -1230,20 +1230,6 @@
     },
     {
         "id": null,
-        "name": "UniMas West (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://200.39.57.254:8008/play/a003/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://200.39.57.254:8008/play/a003/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "UniNettuno University TV (720p)",
         "servers": [
             {
@@ -2191,11 +2177,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.186.23.7:8082/SYFY/index.m3u8"
+                "link": "http://138.121.15.230:9002/USA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.186.23.7:8082/SYFY/index.m3u8"
+                "link": "http://138.121.15.230:9002/USA/index.m3u8"
             }
         ]
     },

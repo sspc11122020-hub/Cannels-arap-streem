@@ -619,20 +619,6 @@
     },
     {
         "id": null,
-        "name": "Cablenoticias (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cabo Frio TV (720p)",
         "servers": [
             {
@@ -10553,6 +10539,20 @@
     },
     {
         "id": null,
+        "name": "Channel 7 Melbourne",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://44.32.200.142:5004/auto/v7"
+            },
+            {
+                "name": "URL",
+                "link": "http://44.32.200.142:5004/auto/v7"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Channel 7 Ukraine (720p)",
         "servers": [
             {
@@ -12466,20 +12466,6 @@
             {
                 "name": "URL",
                 "link": "https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cinecanal (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://138.186.23.7:8082/CINECANAL/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://138.186.23.7:8082/CINECANAL/index.m3u8"
             }
         ]
     },
@@ -15075,6 +15061,34 @@
     },
     {
         "id": null,
+        "name": "Colors MENA HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Rishtey Americas (396p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Colors Rishtey Asia (1080p)",
         "servers": [
             {
@@ -15098,6 +15112,20 @@
             {
                 "name": "URL",
                 "link": "http://103.72.101.252:8080/live/785.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Tamil HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8"
             }
         ]
     },

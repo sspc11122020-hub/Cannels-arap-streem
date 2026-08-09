@@ -47,11 +47,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
+                "link": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8"
+                "link": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
             }
         ]
     },
@@ -1881,11 +1881,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/11/playlist.m3u8"
+                "link": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/11/playlist.m3u8"
+                "link": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
             }
         ]
     },
@@ -1979,11 +1979,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/1/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/1/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8"
             }
         ]
     },
@@ -2199,6 +2199,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "SBS WorldWatch",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://44.32.200.142:5004/auto/v35"
+            },
+            {
+                "name": "URL",
+                "link": "http://44.32.200.142:5004/auto/v35"
             }
         ]
     },
@@ -9459,11 +9473,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.186.23.7:8082/SONYCHANNEL/index.m3u8"
+                "link": "http://177.234.249.178:8888/SONY-TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.186.23.7:8082/SONYCHANNEL/index.m3u8"
+                "link": "http://177.234.249.178:8888/SONY-TV/index.m3u8"
             }
         ]
     },
@@ -13006,20 +13020,6 @@
     },
     {
         "id": null,
-        "name": "STAR Channel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://86.87.15.10:8003/play/a024/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://86.87.15.10:8003/play/a024/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Star Channel (720p)",
         "servers": [
             {
@@ -15376,20 +15376,6 @@
             {
                 "name": "URL",
                 "link": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Studio Universal Latin America Mexico (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://200.39.57.254:8008/play/a0eg/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://200.39.57.254:8008/play/a0eg/index.m3u8"
             }
         ]
     },

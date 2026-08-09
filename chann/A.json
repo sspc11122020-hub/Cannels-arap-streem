@@ -4724,11 +4724,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/4/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/4/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
             }
         ]
     },
@@ -5313,15 +5313,15 @@
     },
     {
         "id": null,
-        "name": "Al Quran Al Kareem TV (1080p)",
+        "name": "Al Quran Al Kareem TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/7/playlist.m3u8"
+                "link": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/7/playlist.m3u8"
+                "link": "http://m.live.net.sa:1935/live/quran/gmswf.m3u8"
             }
         ]
     },
@@ -5429,11 +5429,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/12/playlist.m3u8"
+                "link": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/12/playlist.m3u8"
+                "link": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
             }
         ]
     },
@@ -5471,11 +5471,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/2/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/2/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
             }
         ]
     },
@@ -5499,11 +5499,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/17/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/17/playlist.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8"
             }
         ]
     },
@@ -5565,15 +5565,15 @@
     },
     {
         "id": null,
-        "name": "Al Sunnah Al Nabawiyah TV (1080p)",
+        "name": "Al Sunnah Al Nabawiyah TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/6/playlist.m3u8"
+                "link": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/6/playlist.m3u8"
+                "link": "http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8"
             }
         ]
     },
@@ -6955,11 +6955,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aloula-redirect.vercel.app/18/playlist.m3u8"
+                "link": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aloula-redirect.vercel.app/18/playlist.m3u8"
+                "link": "https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8"
             }
         ]
     },
@@ -7847,20 +7847,6 @@
             {
                 "name": "URL",
                 "link": "https://goccn.cloud/hls/amanitv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Amara (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gist.githubusercontent.com/iptvonlinetv/23a95454a8469d86beac39e49e1b35c1/raw/b981f54ad2df25069b0524b07378d56e3deb608e/udp250.110.700:5100.m3u8"
             }
         ]
     },
@@ -9803,6 +9789,20 @@
     },
     {
         "id": null,
+        "name": "Antena International (720P)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Antena Monden (720p)",
         "servers": [
             {
@@ -10755,20 +10755,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Arena (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gist.githubusercontent.com/iptvonlinetv/b9e0c530348c2a14bf2de025bcfec053/raw/96db8c5e17807ab5a22212f289b53afd6edb0966/udp310.910.810:1050.m3u8"
             }
         ]
     },
@@ -13816,11 +13802,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.186.23.7:8082/AXN/index.m3u8"
+                "link": "http://177.234.249.178:8888/AXN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.186.23.7:8082/AXN/index.m3u8"
+                "link": "http://177.234.249.178:8888/AXN/index.m3u8"
             }
         ]
     },

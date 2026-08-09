@@ -80,20 +80,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Galavision (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://200.39.57.254:8008/play/a00v/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://200.39.57.254:8008/play/a00v/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "743",
         "name": "Galavision USA",
         "servers": []
@@ -2256,15 +2242,15 @@
     },
     {
         "id": null,
-        "name": "Globovision (720p)",
+        "name": "Globovision (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.186.23.7:8082/GLOBOVISION/index.m3u8"
+                "link": "http://181.78.8.199:8000/play/a09k/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.186.23.7:8082/GLOBOVISION/index.m3u8"
+                "link": "http://181.78.8.199:8000/play/a09k/index.m3u8"
             }
         ]
     },
@@ -2965,11 +2951,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8"
+                "link": "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.186.23.7:8082/GOLDENEDGE/index.m3u8"
+                "link": "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8"
             }
         ]
     },
