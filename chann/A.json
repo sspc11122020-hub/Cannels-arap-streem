@@ -155,15 +155,15 @@
     },
     {
         "id": null,
-        "name": "A&E (1080p)",
+        "name": "A&E (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/AE/index.m3u8"
+                "link": "http://23.239.31.26:8989/aande/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/AE/index.m3u8"
+                "link": "http://23.239.31.26:8989/aande/index.m3u8"
             }
         ]
     },
@@ -2288,20 +2288,6 @@
     },
     {
         "id": null,
-        "name": "ACC Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ACC Network US",
         "servers": [
             {
@@ -2769,34 +2755,6 @@
             {
                 "name": "URL",
                 "link": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ActionMax (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.52/ACTIONMAX/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.52/ACTIONMAX/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ActionMax East HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8"
             }
         ]
     },
@@ -8118,20 +8076,6 @@
     },
     {
         "id": null,
-        "name": "AMC+ (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/AMC_PLUS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ame 47 (576p)",
         "servers": [
             {
@@ -9504,6 +9448,20 @@
     },
     {
         "id": null,
+        "name": "Animax (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls"
+            },
+            {
+                "name": "URL",
+                "link": "https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -9513,20 +9471,6 @@
             {
                 "name": "URL",
                 "link": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Animax Asia Philippines (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8"
             }
         ]
     },
@@ -10008,20 +9952,6 @@
             {
                 "name": "URL",
                 "link": "https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Antenna TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/ANTENNA_TV/index.m3u8"
             }
         ]
     },
@@ -12095,20 +12025,6 @@
     },
     {
         "id": null,
-        "name": "Aspire (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Assam Talks (576p)",
         "servers": [
             {
@@ -13714,20 +13630,6 @@
     },
     {
         "id": null,
-        "name": "AXN Asia Philippines (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "AXN Asia Taiwan (720p)",
         "servers": [
             {
@@ -13896,15 +13798,15 @@
     },
     {
         "id": null,
-        "name": "AXS TV (1080p)",
+        "name": "AXS TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8"
+                "link": "http://23.239.31.26:8989/axstv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8"
+                "link": "http://23.239.31.26:8989/axstv/index.m3u8"
             }
         ]
     },

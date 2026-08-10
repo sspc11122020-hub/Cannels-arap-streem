@@ -2250,6 +2250,34 @@
     },
     {
         "id": null,
+        "name": "NBT 2 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NBT World (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NCIS",
         "servers": [
             {
@@ -4197,15 +4225,15 @@
     },
     {
         "id": null,
-        "name": "NFL Network (1080p) [Geo-blocked]",
+        "name": "NFL Network (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8"
+                "link": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8"
+                "link": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
             }
         ]
     },

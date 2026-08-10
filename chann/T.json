@@ -9205,6 +9205,20 @@
     },
     {
         "id": null,
+        "name": "The Retro Channel (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "The Rifleman",
         "servers": [
             {
@@ -21647,6 +21661,20 @@
             {
                 "name": "URL",
                 "link": "http://23.133.220.149/TV5/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV5 Unis",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.133.220.149/Unis_TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.133.220.149/Unis_TV/index.m3u8"
             }
         ]
     },

@@ -1471,20 +1471,6 @@
     },
     {
         "id": null,
-        "name": "BBC America East HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BBC Arabic (720p)",
         "servers": [
             {
@@ -1634,20 +1620,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BBC Earth Asia (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8"
             }
         ]
     },
@@ -1858,20 +1830,6 @@
             {
                 "name": "URL",
                 "link": "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BBC Lifestyle Philippines (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8"
             }
         ]
     },
@@ -3666,6 +3624,11 @@
                 "link": "https://bolaloca.my/player/3/69"
             }
         ]
+    },
+    {
+        "id": "3039",
+        "name": "beIN Spors USA",
+        "servers": []
     },
     {
         "id": null,
@@ -5654,20 +5617,6 @@
     },
     {
         "id": null,
-        "name": "BET (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BET Cinema",
         "servers": [
             {
@@ -5710,34 +5659,6 @@
     },
     {
         "id": null,
-        "name": "BET Her (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BET_HER/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET Jams (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BET Pluto TV",
         "servers": [
             {
@@ -5747,20 +5668,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET Soul (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8"
             }
         ]
     },
@@ -5817,20 +5724,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8"
             }
         ]
     },
@@ -8576,15 +8469,15 @@
     },
     {
         "id": null,
-        "name": "Bravo (1080p)",
+        "name": "Bravo (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8"
+                "link": "http://41.205.93.154/BRAVO/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BRAVO/index.m3u8"
+                "link": "http://41.205.93.154/BRAVO/index.m3u8"
             }
         ]
     },

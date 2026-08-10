@@ -2792,6 +2792,20 @@
     },
     {
         "id": null,
+        "name": "SCTV5 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV"
+            },
+            {
+                "name": "URL",
+                "link": "https://liveh34.vtvprime.vn/hls/SCTV5/01.m3u8?note=TheWavesIPTV"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "SCTV6 (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4968,6 +4982,20 @@
             {
                 "name": "URL",
                 "link": "https://logic.icelanders.st/embed/showtimewomen-usa"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Showtime Women (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8"
             }
         ]
     },
@@ -7940,6 +7968,11 @@
                 "link": "https://logic.icelanders.st/embed/skysportsmix-uk"
             }
         ]
+    },
+    {
+        "id": "3095",
+        "name": "Sky Sports Mix DE",
+        "servers": []
     },
     {
         "id": null,
@@ -15278,6 +15311,20 @@
             {
                 "name": "URL",
                 "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ctc-kids-hd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "StuBru (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8"
             }
         ]
     },
