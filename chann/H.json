@@ -4342,29 +4342,15 @@
     },
     {
         "id": null,
-        "name": "Hum News (1080p)",
+        "name": "Hum News",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://116.90.120.151:8000/play/a024/index.m3u8"
+                "link": "http://103.86.135.164:9981/stream/channelid/2024790699?ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C&profile=pass"
             },
             {
                 "name": "URL",
-                "link": "http://116.90.120.151:8000/play/a024/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hum Sitaray",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass"
+                "link": "http://103.86.135.164:9981/stream/channelid/2024790699?ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C&profile=pass"
             }
         ]
     },

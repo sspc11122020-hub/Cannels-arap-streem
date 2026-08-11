@@ -99,20 +99,6 @@
     },
     {
         "id": null,
-        "name": "B4U Movies (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "B4U Movies APAC (720p)",
         "servers": [
             {
@@ -1937,11 +1923,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8"
             }
         ]
     },
@@ -4857,11 +4843,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+                "link": "https://stream.paroledivita.org/bejoy.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
+                "link": "https://stream.paroledivita.org/bejoy.m3u8"
             }
         ]
     },
@@ -7680,20 +7666,6 @@
             {
                 "name": "URL",
                 "link": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bol Entertainment (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8"
             }
         ]
     },

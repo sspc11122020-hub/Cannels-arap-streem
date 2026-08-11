@@ -2003,15 +2003,15 @@
     },
     {
         "id": null,
-        "name": "One Adria (1080p)",
+        "name": "One Adria",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8"
+                "link": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8"
+                "link": "https://oneadriaapp.b-cdn.net/1080p/index.m3u8"
             }
         ]
     },
@@ -2110,6 +2110,20 @@
             {
                 "name": "URL",
                 "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "One Music Television",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://oneapp.b-cdn.net/1080p/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://oneapp.b-cdn.net/1080p/index.m3u8"
             }
         ]
     },
@@ -2222,20 +2236,6 @@
             {
                 "name": "URL",
                 "link": "https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ONE1 Music (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8"
             }
         ]
     },
@@ -2714,20 +2714,6 @@
             {
                 "name": "URL",
                 "link": "https://orbitachiletv.org/hls/0/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ORF 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8"
             }
         ]
     },

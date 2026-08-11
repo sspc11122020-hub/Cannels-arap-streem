@@ -813,15 +813,15 @@
     },
     {
         "id": null,
-        "name": "ABC (720p)",
+        "name": "ABC (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/ABC/index.m3u8"
+                "link": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/ABC/index.m3u8"
+                "link": "http://190.11.225.124:5000/live/abc_hd/playlist.m3u8"
             }
         ]
     },
@@ -3133,6 +3133,20 @@
             {
                 "name": "URL",
                 "link": "https://a-cdn.klowdtv.com/live3/adr_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Adria Music Television",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://adriaapp.b-cdn.net/1080p/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://adriaapp.b-cdn.net/1080p/index.m3u8"
             }
         ]
     },
@@ -11670,34 +11684,6 @@
             {
                 "name": "URL",
                 "link": "https://arvhls.wns.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ARY News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://115.42.65.142:9981/stream/channelid/322092446"
-            },
-            {
-                "name": "URL",
-                "link": "http://115.42.65.142:9981/stream/channelid/322092446"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ARY Zindagi (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://115.42.65.142:9981/stream/channelid/1064070262"
-            },
-            {
-                "name": "URL",
-                "link": "http://115.42.65.142:9981/stream/channelid/1064070262"
             }
         ]
     },

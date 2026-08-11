@@ -2967,35 +2967,21 @@
     },
     {
         "id": null,
-        "name": "FOLX Music (1080p)",
+        "name": "Folx Music Television",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8"
+                "link": "https://folxapp.b-cdn.net/1080p/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8"
+                "link": "https://folxapp.b-cdn.net/1080p/index.m3u8"
             }
         ]
     },
     {
         "id": null,
         "name": "Folx Slovenija",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdne.folxplay.tv/folx-trz/streams/ch-5/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Folx Slovenija (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3811,20 +3797,6 @@
             {
                 "name": "URL",
                 "link": "http://45.190.28.50/FOX_NEWS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fox News International (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/FOX/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/FOX/index.m3u8"
             }
         ]
     },
@@ -6121,20 +6093,6 @@
     },
     {
         "id": null,
-        "name": "FX Movie Channel (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.52/FXM/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.52/FXM/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "FX TV 1",
         "servers": [
             {
@@ -6186,20 +6144,6 @@
             {
                 "name": "URL",
                 "link": "https://logic.icelanders.st/embed/fxm-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FXM (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/FXM/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/FXM/index.m3u8"
             }
         ]
     },

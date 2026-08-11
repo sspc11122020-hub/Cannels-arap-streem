@@ -7753,20 +7753,6 @@
     },
     {
         "id": null,
-        "name": "RFM TV [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "RFO (1080p)",
         "servers": [
             {
@@ -12912,6 +12898,20 @@
             {
                 "name": "URL",
                 "link": "https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rwenzori TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8"
             }
         ]
     },
