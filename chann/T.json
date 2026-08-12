@@ -6875,6 +6875,20 @@
     },
     {
         "id": null,
+        "name": "Telewizja Narew (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lowa8026-cmyk.github.io/PL/TVNAREW.php.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lowa8026-cmyk.github.io/PL/TVNAREW.php.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Telewizja Regionalna Zary",
         "servers": [
             {
@@ -15966,6 +15980,20 @@
     },
     {
         "id": null,
+        "name": "TV Alsace (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://194.163.157.137:8080/hls/radioalsace.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://194.163.157.137:8080/hls/radioalsace.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TV Alternativa (410p)",
         "servers": [
             {
@@ -18594,6 +18622,20 @@
     },
     {
         "id": null,
+        "name": "TV Mulhouse (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TV Muslim Thailand",
         "servers": [
             {
@@ -19364,15 +19406,15 @@
     },
     {
         "id": null,
-        "name": "TV Puls (1080p) [Geo-blocked]",
+        "name": "TV Puls (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs2120.vcdn.biz/6c6efc7232fd4d41767bcf4432d64e46_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/92e35ec5-e017-49e3-a917-4bb5a4bfc914/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/62.112.222.137*asn/u_srvc/81255/u_did/web_sJuDrXmW94S8elpG4blsFdv4WzmPUnfC/type.live/chunklist-sid713429206258929104-b4000000.m3u8"
+                "link": "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vs2120.vcdn.biz/6c6efc7232fd4d41767bcf4432d64e46_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/92e35ec5-e017-49e3-a917-4bb5a4bfc914/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/62.112.222.137*asn/u_srvc/81255/u_did/web_sJuDrXmW94S8elpG4blsFdv4WzmPUnfC/type.live/chunklist-sid713429206258929104-b4000000.m3u8"
+                "link": "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8"
             }
         ]
     },

@@ -6093,6 +6093,20 @@
     },
     {
         "id": null,
+        "name": "FX Movie Channel (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/FXM_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/FXM_SD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "FX TV 1",
         "servers": [
             {

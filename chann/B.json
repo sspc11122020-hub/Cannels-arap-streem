@@ -5603,6 +5603,20 @@
     },
     {
         "id": null,
+        "name": "BET (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/BET_EAST_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/BET_EAST_SD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BET Cinema",
         "servers": [
             {
@@ -5645,6 +5659,34 @@
     },
     {
         "id": null,
+        "name": "BET Her (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/BET_HER_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/BET_HER_SD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET Jams (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/BET_JAMS_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/BET_JAMS_SD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BET Pluto TV",
         "servers": [
             {
@@ -5654,6 +5696,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET Soul (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/BET_SOUL_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/BET_SOUL_SD/index.m3u8"
             }
         ]
     },
@@ -5710,6 +5766,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET West (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/BET_WEST_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/BET_WEST_SD/index.m3u8"
             }
         ]
     },
