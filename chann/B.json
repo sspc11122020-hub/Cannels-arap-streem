@@ -1,34 +1,6 @@
 [
     {
         "id": null,
-        "name": "B Smart TV (320p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/bsmart.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "B+ TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "B15 Fresnillo (1080p)",
         "servers": [
             {
@@ -225,20 +197,6 @@
     },
     {
         "id": null,
-        "name": "Baby Time",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://89.218.32.179:18000/play/a028"
-            },
-            {
-                "name": "URL",
-                "link": "http://89.218.32.179:18000/play/a028"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Babyfirst",
         "servers": [
             {
@@ -388,34 +346,6 @@
             {
                 "name": "URL",
                 "link": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Baden TV Süd (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bagmati TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8"
             }
         ]
     },
@@ -575,15 +505,15 @@
     },
     {
         "id": null,
-        "name": "Baku TV (720p)",
+        "name": "Baku.TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8"
+                "link": "https://rtmp.baku.tv/hls/bakutv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8"
+                "link": "https://rtmp.baku.tv/hls/bakutv.m3u8"
             }
         ]
     },
@@ -687,15 +617,15 @@
     },
     {
         "id": null,
-        "name": "Balkan Radio Salzburg (480p)",
+        "name": "Balle Balle (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
+                "link": "https://mcncdndigital.com/balleballetv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8"
+                "link": "https://mcncdndigital.com/balleballetv/index.m3u8"
             }
         ]
     },
@@ -780,20 +710,6 @@
             {
                 "name": "URL",
                 "link": "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Banat TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.btv.ro/hls/banat-tv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.btv.ro/hls/banat-tv.m3u8"
             }
         ]
     },
@@ -925,29 +841,15 @@
     },
     {
         "id": null,
-        "name": "Bangla TV (720p)",
+        "name": "Bangla Vision (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/banglatv/index.m3u8"
+                "link": "https://tvsen5.aynaott.com/banglavision/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen6.aynaott.com/banglatv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bangla Vision (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
+                "link": "https://tvsen5.aynaott.com/banglavision/index.m3u8"
             }
         ]
     },
@@ -1144,20 +1046,6 @@
             {
                 "name": "URL",
                 "link": "https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Barbud Music (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8"
             }
         ]
     },
@@ -1648,20 +1536,6 @@
             {
                 "name": "URL",
                 "link": "http://194.156.236.23:8004/play/a018"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BBC First",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://91.146.94.234:10001/play/a087"
-            },
-            {
-                "name": "URL",
-                "link": "http://91.146.94.234:10001/play/a087"
             }
         ]
     },
@@ -3268,20 +3142,6 @@
     },
     {
         "id": null,
-        "name": "BCN TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.bcntv.org/live/bcn_16_9.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.bcntv.org/live/bcn_16_9.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BCS StarCross TV (576p)",
         "servers": [
             {
@@ -3305,20 +3165,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.oursnetworktv.com/latin/telegtmb/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BDC TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8"
             }
         ]
     },
@@ -3543,20 +3389,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/18-plus-18-alt11"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Beelzebub",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-67fe498f9ebfe4142424c55d.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-67fe498f9ebfe4142424c55d.m3u8"
             }
         ]
     },
@@ -5071,20 +4903,6 @@
     },
     {
         "id": null,
-        "name": "Belize Adventist Television Network (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamer1.nexgen.bz/ATN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamer1.nexgen.bz/ATN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Bella Abanquina TV (720p)",
         "servers": [
             {
@@ -6163,6 +5981,20 @@
     },
     {
         "id": null,
+        "name": "Bharat Express (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bharat Samachar (576p)",
         "servers": [
             {
@@ -6228,20 +6060,6 @@
             {
                 "name": "URL",
                 "link": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BHTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
             }
         ]
     },
@@ -6387,34 +6205,6 @@
     },
     {
         "id": null,
-        "name": "Big Magic (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Big Planet (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/big-planet-hd.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/big-planet-hd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Big Ten Network (720p)",
         "servers": [
             {
@@ -6513,20 +6303,6 @@
             {
                 "name": "URL",
                 "link": "http://212.79.122.11:5014/udp/239.255.6.13:1234"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bijoy TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/bijoytv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvsen6.aynaott.com/bijoytv/index.m3u8"
             }
         ]
     },
@@ -6826,7 +6602,7 @@
     },
     {
         "id": null,
-        "name": "Bizz TV",
+        "name": "Bizz TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7713,15 +7489,15 @@
     },
     {
         "id": null,
-        "name": "Boishakhi TV (720p)",
+        "name": "Boishakhi TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8"
+                "link": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8"
+                "link": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
             }
         ]
     },
@@ -7797,20 +7573,6 @@
     },
     {
         "id": null,
-        "name": "Bolivia Punto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Bolivia TV (1080p)",
         "servers": [
             {
@@ -7829,11 +7591,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8"
+                "link": "http://15.204.246.24:8080/BolivisionHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8"
+                "link": "http://15.204.246.24:8080/BolivisionHD/index.m3u8"
             }
         ]
     },
@@ -8515,11 +8277,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/BRAVO/index.m3u8"
+                "link": "http://40.160.24.56/BRAVO_SD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/BRAVO/index.m3u8"
+                "link": "http://40.160.24.56/BRAVO_SD/index.m3u8"
             }
         ]
     },
@@ -8609,43 +8371,15 @@
     },
     {
         "id": null,
-        "name": "Bravo West (1080p)",
+        "name": "Bravo! Kids TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.52/BRAVO_WEST/index.m3u8"
+                "link": "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.52/BRAVO_WEST/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bravo! Kids TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bravo! TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
+                "link": "https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8"
             }
         ]
     },
@@ -8688,20 +8422,6 @@
             {
                 "name": "URL",
                 "link": "https://amg02703-leadstory-leadstory-samsungnz-vc7nn.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungnz/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bref Cinéma 100% Court Métrage",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -9145,11 +8865,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
+                "link": "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8"
+                "link": "https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8"
             }
         ]
     },
@@ -9393,6 +9113,20 @@
     },
     {
         "id": null,
+        "name": "BTN TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tv.btnrwanda.com:3973/live/btnv2live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tv.btnrwanda.com:3973/live/btnv2live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BTN TV (1080p)",
         "servers": [
             {
@@ -9402,20 +9136,6 @@
             {
                 "name": "URL",
                 "link": "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BTN TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.btnrwanda.com:3086/live/btnlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.btnrwanda.com:3086/live/btnlive.m3u8"
             }
         ]
     },
@@ -9496,20 +9216,6 @@
     },
     {
         "id": null,
-        "name": "BTV Chattogram (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "bTV Lady Bulgaria",
         "servers": [
             {
@@ -9519,20 +9225,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/btv-lady-bulgaria"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BTV National (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8"
             }
         ]
     },
@@ -9561,20 +9253,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BTV World (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
             }
         ]
     },
@@ -10168,20 +9846,6 @@
     },
     {
         "id": null,
-        "name": "Burkina Info TV (540p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/burkinainfo/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/burkinainfo/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Bursa AS TV (900p)",
         "servers": [
             {
@@ -10275,20 +9939,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Buxoro MTRK (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8"
             }
         ]
     },

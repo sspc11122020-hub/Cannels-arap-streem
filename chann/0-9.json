@@ -347,20 +347,6 @@
     },
     {
         "id": null,
-        "name": "100% Docs",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "100% News (576p)",
         "servers": [
             {
@@ -384,20 +370,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "101tv Axarquia (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8"
             }
         ]
     },
@@ -678,20 +650,6 @@
             {
                 "name": "URL",
                 "link": "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "13 Ulica (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://91.146.94.234:10001/play/a088"
-            },
-            {
-                "name": "URL",
-                "link": "http://91.146.94.234:10001/play/a088"
             }
         ]
     },
@@ -1206,6 +1164,20 @@
     },
     {
         "id": null,
+        "name": "20 Mediaset [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "20 Mediaset Ⓖ",
         "servers": [
             {
@@ -1388,20 +1360,6 @@
     },
     {
         "id": null,
-        "name": "24/7 Canal de Noticias",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "247 Box TV",
         "servers": [
             {
@@ -1430,15 +1388,15 @@
     },
     {
         "id": null,
-        "name": "24KZ",
+        "name": "27 TwentySeven [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8"
+                "link": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8"
+                "link": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8"
             }
         ]
     },
@@ -1523,20 +1481,6 @@
             {
                 "name": "URL",
                 "link": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "2STV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/2stv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/2stv/playlist.m3u8"
             }
         ]
     },
@@ -2135,20 +2079,6 @@
     },
     {
         "id": null,
-        "name": "3Cat El búnquer (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "3Cat Exclusiu 1 (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -2387,20 +2317,6 @@
     },
     {
         "id": null,
-        "name": "48 Hours GB (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "4DmásNoticias TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -2466,20 +2382,6 @@
             {
                 "name": "URL",
                 "link": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "4Kids TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://tvsen5.aynascope.net/4KidsTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://tvsen5.aynascope.net/4KidsTV/index.m3u8"
             }
         ]
     },
@@ -2770,20 +2672,6 @@
     },
     {
         "id": null,
-        "name": "6 TV Telugu (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-1.pishow.tv/live/232/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-1.pishow.tv/live/232/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "6 Wise Tv (720p)",
         "servers": [
             {
@@ -2957,20 +2845,6 @@
     },
     {
         "id": null,
-        "name": "7 YOU & ME (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "70-80 TV (1080P)",
         "servers": [
             {
@@ -2994,20 +2868,6 @@
             {
                 "name": "URL",
                 "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "7S Music (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8"
             }
         ]
     },
@@ -3918,20 +3778,6 @@
             {
                 "name": "URL",
                 "link": "https://cloudvideo.servers10.com:8081/8118/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Óbuda TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.streaming4u.hu/ObudaTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.streaming4u.hu/ObudaTV/index.m3u8"
             }
         ]
     },
@@ -5043,6 +4889,20 @@
     },
     {
         "id": null,
+        "name": "Здоровое ТВ (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Zdorovoe_TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Zdorovoe_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ЗОНА М1 ТВ",
         "servers": [
             {
@@ -5421,20 +5281,6 @@
     },
     {
         "id": null,
-        "name": "Матур ТВ (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Матч ТВ Ⓢ",
         "servers": [
             {
@@ -5739,20 +5585,6 @@
     },
     {
         "id": null,
-        "name": "Музыка Первого (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Muzika_Pervogo/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Muzika_Pervogo/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Мульт (1080p)",
         "servers": [
             {
@@ -5762,6 +5594,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/Mult_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Мультиландия (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Multilandiya/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Multilandiya/index.m3u8"
             }
         ]
     },
@@ -5963,20 +5809,6 @@
     },
     {
         "id": null,
-        "name": "Новый Век",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Новый Русский (720p)",
         "servers": [
             {
@@ -6056,6 +5888,20 @@
             {
                 "name": "URL",
                 "link": "http://ott-cdn.ucom.am/s17/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "НТВ Хит (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
             }
         ]
     },
@@ -6224,6 +6070,20 @@
             {
                 "name": "URL",
                 "link": "https://v4.proofix.ru/0mir/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ОТР (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/OTR/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/OTR/index.m3u8"
             }
         ]
     },
@@ -6495,20 +6355,6 @@
     },
     {
         "id": null,
-        "name": "Радио Хит (Орск) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://lova.me/hls/hithd.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://lova.me/hls/hithd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Радио Шансон (720p) [Not 24/7]",
         "servers": [
             {
@@ -6672,20 +6518,6 @@
             {
                 "name": "URL",
                 "link": "https://player.smotrim.ru/iframe/stream/live_id/19201"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Россия-РТР",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
             }
         ]
     },
@@ -7414,20 +7246,6 @@
             {
                 "name": "URL",
                 "link": "http://ott-cdn.ucom.am/s52/04.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Студия Факт",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8"
             }
         ]
     },
@@ -9001,34 +8819,6 @@
     },
     {
         "id": null,
-        "name": "内江公共 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://njzb.scnj.tv:90/live/gggy_gggy800.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "内江科教 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://njzb.scnj.tv:90/live/kjpd_kjpd800.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "内蒙古卫视 (576p)",
         "servers": [
             {
@@ -9682,20 +9472,6 @@
             {
                 "name": "URL",
                 "link": "http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "四川公共 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8"
             }
         ]
     },
@@ -10555,20 +10331,6 @@
     },
     {
         "id": null,
-        "name": "房山电视台 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.funhillrm.com/2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.funhillrm.com/2/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "抚州公共 (270p)",
         "servers": [
             {
@@ -10858,20 +10620,6 @@
             {
                 "name": "URL",
                 "link": "http://jzlive.jztvnews.com:90/live/jzgg.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "晋中综合 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://jzlive.jztvnews.com:90/live/jzzh.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://jzlive.jztvnews.com:90/live/jzzh.m3u8"
             }
         ]
     },
@@ -11325,20 +11073,6 @@
     },
     {
         "id": null,
-        "name": "洪雅新闻综合 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "浙江 Ⅰ 绍兴影视 (720p)",
         "servers": [
             {
@@ -11628,48 +11362,6 @@
             {
                 "name": "URL",
                 "link": "http://183.167.193.45:1935/live/cztvkj/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "滨州公共电视剧 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.bzcm.net/1/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.bzcm.net/1/sd/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "滨州新闻综合 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.bzcm.net/2/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.bzcm.net/2/sd/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "滨州测试 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.bzcm.net/4/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.bzcm.net/4/sd/live.m3u8"
             }
         ]
     },
@@ -12277,48 +11969,6 @@
     },
     {
         "id": null,
-        "name": "芜湖公共 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://live1.wuhubtv.com/channel3/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://live1.wuhubtv.com/channel3/sd/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "芜湖新闻综合 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://live1.wuhubtv.com/channel1/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://live1.wuhubtv.com/channel1/sd/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "芜湖生活 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://live1.wuhubtv.com/channel2/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://live1.wuhubtv.com/channel2/sd/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "荣昌综合 (404p) [Not 24/7]",
         "servers": [
             {
@@ -12440,20 +12090,6 @@
             {
                 "name": "URL",
                 "link": "http://palive.patv123.com:8091/live/xwpd_800K.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "蕪湖教育頻道 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://live1.wuhubtv.com/channel4/sd/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://live1.wuhubtv.com/channel4/sd/live.m3u8"
             }
         ]
     },
@@ -13005,15 +12641,15 @@
     },
     {
         "id": null,
-        "name": "青海卫视 (1080p)",
+        "name": "青海卫视 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://live.geermurmt.com/qhws/sd/live.m3u8"
+                "link": "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://live.geermurmt.com/qhws/sd/live.m3u8"
+                "link": "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8"
             }
         ]
     },

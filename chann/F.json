@@ -398,20 +398,6 @@
     },
     {
         "id": null,
-        "name": "Family Jr (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://tvsen5.aynascope.net/familyjr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://tvsen5.aynascope.net/familyjr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Family Ties",
         "servers": [
             {
@@ -678,20 +664,6 @@
     },
     {
         "id": null,
-        "name": "FanDuel TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/TVG/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/TVG/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "FanDuel TV Extra (1080p)",
         "servers": [
             {
@@ -715,20 +687,6 @@
             {
                 "name": "URL",
                 "link": "https://aegis-cloudfront-1.tubi.video/bf25c5e4-9d1e-4b3e-a6c3-5f5578a81382/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FanDuel TV Extra (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8"
             }
         ]
     },
@@ -776,15 +734,15 @@
     },
     {
         "id": null,
-        "name": "FAP TV (1080p)",
+        "name": "FAP TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://15.204.246.24:8080/FAPTVHD/index.m3u8"
+                "link": "https://edge.enhdtv.com/faptv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://15.204.246.24:8080/FAPTVHD/index.m3u8"
+                "link": "https://edge.enhdtv.com/faptv/index.m3u8"
             }
         ]
     },
@@ -1345,11 +1303,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
+                "link": "http://40.160.24.56/FETV_SD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/FETV/index.m3u8"
+                "link": "http://40.160.24.56/FETV_SD/index.m3u8"
             }
         ]
     },
@@ -1434,20 +1392,6 @@
             {
                 "name": "URL",
                 "link": "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fidele TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8"
             }
         ]
     },
@@ -1677,20 +1621,6 @@
             {
                 "name": "URL",
                 "link": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fillka TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amixtv.com/fillkatvhd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amixtv.com/fillkatvhd/index.m3u8"
             }
         ]
     },
@@ -2214,20 +2144,6 @@
     },
     {
         "id": null,
-        "name": "Filmzie (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Filstalwelle (1080p)",
         "servers": [
             {
@@ -2396,20 +2312,6 @@
     },
     {
         "id": null,
-        "name": "Fish TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.localstreamgh.com/fishtv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.localstreamgh.com/fishtv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Fish TV (720p)",
         "servers": [
             {
@@ -2433,20 +2335,6 @@
             {
                 "name": "URL",
                 "link": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fitel TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.mywifisocial.es/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.mywifisocial.es/live.m3u8"
             }
         ]
     },
@@ -2605,20 +2493,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Flix (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/FLIX/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/FLIX/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "175",
         "name": "FloHockey",
         "servers": []
@@ -2738,20 +2612,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Flynn Carson et The Outpost",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-68d292d554c61bfff220a635.m3u8"
             }
         ]
     },
@@ -3009,6 +2869,34 @@
     },
     {
         "id": null,
+        "name": "FON Music (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fon Music (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/317/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/317/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fontana Community Television (720p) [Geo-blocked]",
         "servers": [
             {
@@ -3191,20 +3079,6 @@
     },
     {
         "id": null,
-        "name": "FORMedia TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mercury.32bit.gr:19360/formediatv/720p.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Formula",
         "servers": [
             {
@@ -3349,11 +3223,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+                "link": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+                "link": "https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8"
             }
         ]
     },
@@ -3615,11 +3489,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8"
+                "link": "http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8"
+                "link": "http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8"
             }
         ]
     },
@@ -3671,15 +3545,15 @@
     },
     {
         "id": null,
-        "name": "Fox Deportes (1280p)",
+        "name": "Fox Deportes (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
             }
         ]
     },
@@ -3792,11 +3666,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/FOX_NEWS/index.m3u8"
+                "link": "http://40.160.24.56/FOX_NEWS_SD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/FOX_NEWS/index.m3u8"
+                "link": "http://40.160.24.56/FOX_NEWS_SD/index.m3u8"
             }
         ]
     },
@@ -3858,20 +3732,6 @@
     },
     {
         "id": null,
-        "name": "Fox Soccer Plus (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "FOX Soccer Plus US",
         "servers": [
             {
@@ -3890,11 +3750,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
+                "link": "https://foxsoul-vizio.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
+                "link": "https://foxsoul-vizio.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -4778,20 +4638,6 @@
     },
     {
         "id": null,
-        "name": "France 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/france2/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/france2/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "France 24",
         "servers": [
             {
@@ -5002,29 +4848,15 @@
     },
     {
         "id": null,
-        "name": "France 5 (1080p)",
+        "name": "France 5 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://69.64.57.208/france5/mono.m3u8"
+                "link": "http://145.239.5.177/305/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://69.64.57.208/france5/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "France Inter (288p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8"
+                "link": "http://145.239.5.177/305/index.m3u8"
             }
         ]
     },
@@ -5093,20 +4925,6 @@
             {
                 "name": "URL3",
                 "link": "https://bolaloca.my/player/3/30"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Franceinfo",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8"
             }
         ]
     },
@@ -5284,11 +5102,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8"
+                "link": "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8"
+                "link": "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8"
             }
         ]
     },
@@ -5452,11 +5270,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://94.230.129.31:8080/Friday/index.m3u8"
+                "link": "http://stream.mcquack.net/181/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://94.230.129.31:8080/Friday/index.m3u8"
+                "link": "http://stream.mcquack.net/181/index.m3u8"
             }
         ]
     },
@@ -5775,6 +5593,20 @@
     },
     {
         "id": null,
+        "name": "Fuel TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fuerteventura TV (1080p)",
         "servers": [
             {
@@ -5812,20 +5644,6 @@
             {
                 "name": "URL",
                 "link": "https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fun Radio",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8"
             }
         ]
     },
@@ -5985,11 +5803,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://168.197.104.22:80/FUTURA/index.m3u8"
+                "link": "http://168.197.104.22/FUTURA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://168.197.104.22:80/FUTURA/index.m3u8"
+                "link": "http://168.197.104.22/FUTURA/index.m3u8"
             }
         ]
     },
@@ -6055,11 +5873,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.193.35/FX/index.m3u8"
+                "link": "http://15.204.246.24:8080/FXHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.193.35/FX/index.m3u8"
+                "link": "http://15.204.246.24:8080/FXHD/index.m3u8"
             }
         ]
     },

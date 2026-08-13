@@ -285,20 +285,6 @@
     },
     {
         "id": null,
-        "name": "ZB Cinema (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ZB Music (720p)",
         "servers": [
             {
@@ -420,20 +406,6 @@
             {
                 "name": "URL",
                 "link": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zdorovoe TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8"
             }
         ]
     },
@@ -1027,43 +999,15 @@
     },
     {
         "id": null,
-        "name": "Zee TV Canada (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee TV HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/ZEE-TV/index.m3u8"
+                "link": "https://trs1.aynaott.com/zeetvhd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/ZEE-TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee TV UK HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11783"
-            },
-            {
-                "name": "URL",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11783"
+                "link": "https://trs1.aynaott.com/zeetvhd/index.m3u8"
             }
         ]
     },
@@ -1573,20 +1517,6 @@
     },
     {
         "id": null,
-        "name": "Zona Sur TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5ff3d9babae13.streamlock.net/tvtumqsfdn/tvtumqsfdn/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5ff3d9babae13.streamlock.net/tvtumqsfdn/tvtumqsfdn/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zonavision TV [Not 24/7]",
         "servers": [
             {
@@ -1797,20 +1727,6 @@
     },
     {
         "id": null,
-        "name": "Zvezda +2 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://94.230.128.107:8080/Zvezda/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://94.230.128.107:8080/Zvezda/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zvezda HD (1080p)",
         "servers": [
             {
@@ -1820,20 +1736,6 @@
             {
                 "name": "URL",
                 "link": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zvezda Plus (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/zvezda-plus-hd/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/zvezda-plus-hd/video.m3u8"
             }
         ]
     },

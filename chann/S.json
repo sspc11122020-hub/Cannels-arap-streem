@@ -29,29 +29,15 @@
     },
     {
         "id": null,
-        "name": "S.W.A.T.",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "S4C (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
+                "link": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-hls.m3u8"
+                "link": "https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd"
             }
         ]
     },
@@ -80,20 +66,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/s4c-uk"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SA TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/satv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvsen6.aynaott.com/satv/index.m3u8"
             }
         ]
     },
@@ -505,20 +477,6 @@
     },
     {
         "id": null,
-        "name": "Sakti TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://saktitv.siar.us/saktitv/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://saktitv.siar.us/saktitv/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sala de Emergencias: Historias Inéditas",
         "servers": [
             {
@@ -668,20 +626,6 @@
             {
                 "name": "URL",
                 "link": "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Salsa Latina FM",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://panel.streamingmedia.com.co:3557/stream/play.m3u8"
             }
         ]
     },
@@ -887,11 +831,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://samarra.tv/proxy.php/hls/main3/playlist.m3u8"
+                "link": "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://samarra.tv/proxy.php/hls/main3/playlist.m3u8"
+                "link": "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
             }
         ]
     },
@@ -906,20 +850,6 @@
             {
                 "name": "URL",
                 "link": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Samen1 TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8"
             }
         ]
     },
@@ -1298,20 +1228,6 @@
             {
                 "name": "URL",
                 "link": "https://live.sangkemtv.com/memfs/sangkem.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sangsad TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8"
             }
         ]
     },
@@ -2344,20 +2260,6 @@
     },
     {
         "id": null,
-        "name": "SBT Sinop",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "SBT TV",
         "servers": [
             {
@@ -2652,20 +2554,6 @@
     },
     {
         "id": null,
-        "name": "SCM TV HD 32.1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Scorch TV (1080p)",
         "servers": [
             {
@@ -2731,6 +2619,20 @@
             {
                 "name": "URL",
                 "link": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "SCTV1 (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://javiptv.s.gy/iptv-m3u-sctv-vn"
+            },
+            {
+                "name": "URL",
+                "link": "https://javiptv.s.gy/iptv-m3u-sctv-vn"
             }
         ]
     },
@@ -3035,20 +2937,6 @@
     },
     {
         "id": null,
-        "name": "SEC Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/SEC_NETWORK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/SEC_NETWORK/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "SEC Network US",
         "servers": [
             {
@@ -3143,20 +3031,6 @@
             {
                 "name": "URL",
                 "link": "https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SelvaTV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-evg7.tv360.bitel.com.pe/bitel/selvatv/playlist.m3u8"
             }
         ]
     },
@@ -3269,20 +3143,6 @@
             {
                 "name": "URL",
                 "link": "https://livestream.perucast.com/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Señal Positiva TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://eu1.servers10.com:8081/8108/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://eu1.servers10.com:8081/8108/index.m3u8"
             }
         ]
     },
@@ -4058,20 +3918,6 @@
     },
     {
         "id": null,
-        "name": "Shaanxi Satelital TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Shabab FM (720p) [Not 24/7]",
         "servers": [
             {
@@ -4109,20 +3955,6 @@
             {
                 "name": "URL",
                 "link": "https://pb-mn2nw2xfj5wcy.akamaized.net/Shades_of_Black.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Shakthi TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11612"
-            },
-            {
-                "name": "URL",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11612"
             }
         ]
     },
@@ -4277,20 +4109,6 @@
             {
                 "name": "URL",
                 "link": "https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Shanghai Education Television Station",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://223.166.234.114:7777/tsfile/live/1033_1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://223.166.234.114:7777/tsfile/live/1033_1.m3u8"
             }
         ]
     },
@@ -4627,20 +4445,6 @@
             {
                 "name": "URL",
                 "link": "https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Shiva Live TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streameurope.ch/live/shivalivetv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streameurope.ch/live/shivalivetv.m3u8"
             }
         ]
     },
@@ -5617,20 +5421,6 @@
     },
     {
         "id": null,
-        "name": "Sion TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.streamcasthd.com:3536/live/siontvlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.streamcasthd.com:3536/live/siontvlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Siping TV",
         "servers": [
             {
@@ -5668,20 +5458,6 @@
             {
                 "name": "URL",
                 "link": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sirasa TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11614"
-            },
-            {
-                "name": "URL",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11614"
             }
         ]
     },
@@ -6513,20 +6289,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/sky-max"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sky Mix (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://80.194.62.172:50002/stream/channelid/1848745953"
-            },
-            {
-                "name": "URL",
-                "link": "http://80.194.62.172:50002/stream/channelid/1848745953"
             }
         ]
     },
@@ -8382,20 +8144,6 @@
     },
     {
         "id": null,
-        "name": "SkyShowtime 1 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://91.146.94.234:10001/play/a0bg"
-            },
-            {
-                "name": "URL",
-                "link": "http://91.146.94.234:10001/play/a0bg"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "SL 1",
         "servers": [
             {
@@ -8425,20 +8173,6 @@
     {
         "id": null,
         "name": "SL 48 Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://media.velcom.it:1935/sl48/sl48/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://media.velcom.it:1935/sl48/sl48/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SL48 TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8489,20 +8223,6 @@
             {
                 "name": "URL",
                 "link": "https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Slice (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/SLICE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/SLICE/index.m3u8"
             }
         ]
     },
@@ -9068,15 +8788,15 @@
     },
     {
         "id": null,
-        "name": "SNT (1080p)",
+        "name": "SNT (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8"
+                "link": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8"
+                "link": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8"
             }
         ]
     },
@@ -9105,20 +8825,6 @@
             {
                 "name": "URL",
                 "link": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "So... Real (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cineverse-all3-soreal-1-us.ono.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cineverse-all3-soreal-1-us.ono.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -9163,6 +8869,11 @@
                 "link": "https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "7027",
+        "name": "Soccer Stream",
+        "servers": []
     },
     {
         "id": null,
@@ -9460,20 +9171,6 @@
     },
     {
         "id": null,
-        "name": "Somoy News TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Son La TV (720p)",
         "servers": [
             {
@@ -9534,11 +9231,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764"
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260"
             },
             {
                 "name": "URL",
-                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764"
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260"
             }
         ]
     },
@@ -9632,11 +9329,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.234.249.178:8888/SONY-TV/index.m3u8"
+                "link": "http://15.204.246.24:8080/SonyHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.234.249.178:8888/SONY-TV/index.m3u8"
+                "link": "http://15.204.246.24:8080/SonyHD/index.m3u8"
             }
         ]
     },
@@ -9646,11 +9343,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega"
+                "link": "http://38.96.178.205/SONYHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega"
+                "link": "http://38.96.178.205/SONYHD/index.m3u8"
             }
         ]
     },
@@ -9679,20 +9376,6 @@
             {
                 "name": "URL",
                 "link": "https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony Max (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8"
             }
         ]
     },
@@ -9744,11 +9427,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/SONY_MOVIES/index.m3u8"
+                "link": "http://15.204.246.24:8080/SonyMoviesHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/SONY_MOVIES/index.m3u8"
+                "link": "http://15.204.246.24:8080/SonyMoviesHD/index.m3u8"
             }
         ]
     },
@@ -9847,34 +9530,6 @@
             {
                 "name": "URL",
                 "link": "https://d2n3o8b1tdnc4w.cloudfront.net/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony One Series Comedie (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony One Series Thriller (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
             }
         ]
     },
@@ -9987,20 +9642,6 @@
             {
                 "name": "URL",
                 "link": "https://logic.icelanders.st/embed/sonysportsnetwork5-in"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony Sports Ten 3 Hindi (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.229.254.25:7001/play/a09q/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.229.254.25:7001/play/a09q/index.m3u8"
             }
         ]
     },
@@ -10356,20 +9997,6 @@
     },
     {
         "id": null,
-        "name": "South Park Rocks!",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-664f12bb3d173b0008168c1f.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "South Park Versión Original",
         "servers": [
             {
@@ -10594,20 +10221,6 @@
     },
     {
         "id": null,
-        "name": "South Park: Stars & Sternchen",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-664f0d373d173b0008164948.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "South Park: Welcome to Canada!",
         "servers": [
             {
@@ -10710,11 +10323,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"
+                "link": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"
+                "link": "https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -10729,20 +10342,6 @@
             {
                 "name": "URL",
                 "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Space TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8"
             }
         ]
     },
@@ -10836,11 +10435,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://94.230.129.31:8080/SPAS/index.m3u8"
+                "link": "http://hls127.freeott.top:8080/Spas/video.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://94.230.129.31:8080/SPAS/index.m3u8"
+                "link": "http://hls127.freeott.top:8080/Spas/video.m3u8"
             }
         ]
     },
@@ -11916,20 +11515,6 @@
     },
     {
         "id": null,
-        "name": "Sportitalia Live 24",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sportitalia LIVE24",
         "servers": [
             {
@@ -12357,71 +11942,15 @@
     },
     {
         "id": null,
-        "name": "SporTV (1280p)",
+        "name": "SporTV 3 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
+                "link": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SporTV 2 (1280p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-            },
-            {
-                "name": "URL",
-                "link": "https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SporTV 2 Alternativo (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stm.sinalmycn.com/19025/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stm.sinalmycn.com/19025/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SporTV 3 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-            },
-            {
-                "name": "URL",
-                "link": "https://stm.sinalmycn.com/21006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SporTV Alternativo (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stm.sinalmycn.com/19024/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stm.sinalmycn.com/19024/video.m3u8"
+                "link": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8"
             }
         ]
     },
@@ -12773,35 +12302,7 @@
     },
     {
         "id": null,
-        "name": "SSTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ST Europe Channel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ST Europe Channel (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -13239,11 +12740,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.193.35/STAR_CHANNEL/index.m3u8"
+                "link": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.193.35/STAR_CHANNEL/index.m3u8"
+                "link": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8"
             }
         ]
     },
@@ -13403,20 +12904,6 @@
     },
     {
         "id": null,
-        "name": "Star Jalsha HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://tvsen7.aynascope.net/sjhdbd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://tvsen7.aynascope.net/sjhdbd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Star Kentrikis Elladas (1080p)",
         "servers": [
             {
@@ -13459,20 +12946,6 @@
     },
     {
         "id": null,
-        "name": "Star News (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Star Plus Music (1080p) [Not 24/7]",
         "servers": [
             {
@@ -13505,11 +12978,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.253.18.58:8000/play/a00m"
+                "link": "http://41.205.93.154/STARSPORTS1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.253.18.58:8000/play/a00m"
+                "link": "http://41.205.93.154/STARSPORTS1/index.m3u8"
             }
         ]
     },
@@ -13561,11 +13034,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+                "link": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
+                "link": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8"
             }
         ]
     },
@@ -13771,11 +13244,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+                "link": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5"
             },
             {
                 "name": "URL",
-                "link": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+                "link": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5"
             }
         ]
     },
@@ -13921,20 +13394,6 @@
             {
                 "name": "URL",
                 "link": "http://40.160.24.55/START_TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "START World",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8"
             }
         ]
     },
@@ -14303,20 +13762,6 @@
             {
                 "name": "URL",
                 "link": "https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Stimmungsgarten TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
             }
         ]
     },
@@ -14882,6 +14327,20 @@
     },
     {
         "id": null,
+        "name": "Stingray Remember the 80s",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Stingray Remember the 80s (1080p)",
         "servers": [
             {
@@ -15218,34 +14677,6 @@
     },
     {
         "id": null,
-        "name": "Stormcast Novelas",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stormcast-novelas-2-es.rakuten.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stormcast-novelas-2-es.rakuten.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Stormcast Novelas TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Story Television",
         "servers": [
             {
@@ -15446,11 +14877,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ctc-kids-hd.m3u8"
+                "link": "http://31.148.48.15/STS_Kids_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ctc-kids-hd.m3u8"
+                "link": "http://31.148.48.15/STS_Kids_HD/index.m3u8"
             }
         ]
     },
@@ -15470,7 +14901,7 @@
     },
     {
         "id": null,
-        "name": "Studio + TV",
+        "name": "Studio + TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -15479,20 +14910,6 @@
             {
                 "name": "URL",
                 "link": "https://cloudvideo.servers10.com:8081/8184/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Studio 47 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
             }
         ]
     },
@@ -15544,11 +14961,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
+                "link": "http://15.204.246.24:8080/StudioUniversalHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.193.35/STUDIO-UNIVERSAL/index.m3u8"
+                "link": "http://15.204.246.24:8080/StudioUniversalHD/index.m3u8"
             }
         ]
     },
@@ -15653,20 +15070,6 @@
     },
     {
         "id": null,
-        "name": "STV City",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1"
-            },
-            {
-                "name": "URL",
-                "link": "http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "STV HD (720p)",
         "servers": [
             {
@@ -15676,20 +15079,6 @@
             {
                 "name": "URL",
                 "link": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "STV News and General",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1"
-            },
-            {
-                "name": "URL",
-                "link": "http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1"
             }
         ]
     },
@@ -15751,20 +15140,6 @@
             {
                 "name": "URL",
                 "link": "https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "STZ Telebista (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8"
             }
         ]
     },
@@ -15877,20 +15252,6 @@
             {
                 "name": "URL",
                 "link": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sud Radio (288p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8"
             }
         ]
     },
@@ -16045,20 +15406,6 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sun+ TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livemaraboo.com/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livemaraboo.com/hls/stream.m3u8"
             }
         ]
     },
@@ -16283,20 +15630,6 @@
             {
                 "name": "URL",
                 "link": "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Super Mario Bros.",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-697a2f8b3991484f03064614.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-697a2f8b3991484f03064614.m3u8"
             }
         ]
     },
@@ -17208,7 +16541,7 @@
     },
     {
         "id": null,
-        "name": "Sur TV (720p)",
+        "name": "Sur TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -17222,57 +16555,29 @@
     },
     {
         "id": null,
-        "name": "SUR TV Itapua",
+        "name": "Suram TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8"
+                "link": "https://us.streaminghd.cl/suramtv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8"
+                "link": "https://us.streaminghd.cl/suramtv/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Surabaya TV (1080p)",
+        "name": "Surau TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://e.siar.us/live/surabayatv.m3u8"
+                "link": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://e.siar.us/live/surabayatv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Suram TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Surau TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://surautv.siar.us/live/surautv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://surautv.siar.us/live/surautv.m3u8"
+                "link": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8"
             }
         ]
     },
@@ -17334,15 +16639,15 @@
     },
     {
         "id": null,
-        "name": "Suria",
+        "name": "Suria [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8"
+                "link": "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8"
+                "link": "https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8"
             }
         ]
     },
@@ -17880,20 +17185,6 @@
             {
                 "name": "URL",
                 "link": "https://pb-fbdfahhani6sz.akamaized.net/Swamp_People.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Swantham (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8"
             }
         ]
     },
@@ -18464,20 +17755,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.syritv.al/live/syritv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Syria One (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.syriaone.tv/live/syriaone.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.syriaone.tv/live/syriaone.m3u8"
             }
         ]
     },

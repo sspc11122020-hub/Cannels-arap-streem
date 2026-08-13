@@ -281,20 +281,6 @@
     },
     {
         "id": null,
-        "name": "E! Latin America Brazil (432p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://145.239.5.177/111/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://145.239.5.177/111/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "E! Latin America Mexico (720p)",
         "servers": [
             {
@@ -337,20 +323,6 @@
     },
     {
         "id": null,
-        "name": "E4 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://80.194.62.172:50002/stream/channelid/1096333958"
-            },
-            {
-                "name": "URL",
-                "link": "http://80.194.62.172:50002/stream/channelid/1096333958"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "E4 Channel",
         "servers": [
             {
@@ -384,15 +356,15 @@
     },
     {
         "id": null,
-        "name": "EAC News TV (720p)",
+        "name": "EAC News TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8"
+                "link": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8"
+                "link": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
             }
         ]
     },
@@ -1182,34 +1154,6 @@
     },
     {
         "id": null,
-        "name": "Efterlyst",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Eggheads (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00654-itv-amg00654c28-rakuten-uk-5302.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "EGM Channel (480p)",
         "servers": [
             {
@@ -1308,20 +1252,6 @@
     },
     {
         "id": null,
-        "name": "Ekattor TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ekhon TV (1080p)",
         "servers": [
             {
@@ -1364,15 +1294,15 @@
     },
     {
         "id": null,
-        "name": "Ekushey TV (720p)",
+        "name": "Ekushey TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/etv/index.m3u8"
+                "link": "https://ekusheyserver.com/etvlivesn.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen6.aynaott.com/etv/index.m3u8"
+                "link": "https://ekusheyserver.com/etvlivesn.m3u8"
             }
         ]
     },
@@ -1564,11 +1494,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8"
+                "link": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.234.249.178:8888/EL-GOURMET/index.m3u8"
+                "link": "http://15.204.246.24:8080/ElGourmetHD/index.m3u8"
             }
         ]
     },
@@ -1620,11 +1550,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8"
+                "link": "http://15.204.246.24:8080/elnueveHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8"
+                "link": "http://15.204.246.24:8080/elnueveHD/index.m3u8"
             }
         ]
     },
@@ -1868,6 +1798,20 @@
     },
     {
         "id": null,
+        "name": "El Trece (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.246.24:8080/eltreceHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.246.24:8080/eltreceHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "EL TV (260p) [Not 24/7]",
         "servers": [
             {
@@ -1910,15 +1854,15 @@
     },
     {
         "id": null,
-        "name": "El-Heddaf TV (1080i)",
+        "name": "El-Heddaf TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.elheddaftv.com:8081/elheddaf/index.mpd"
+                "link": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.elheddaftv.com:8081/elheddaf/index.mpd"
+                "link": "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
             }
         ]
     },
@@ -2349,20 +2293,6 @@
     },
     {
         "id": null,
-        "name": "Elshinta TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Elsö Kerület TV (1080p)",
         "servers": [
             {
@@ -2433,20 +2363,6 @@
     },
     {
         "id": null,
-        "name": "Emanuel TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://michaelgm.live:3684/live/emanueltvlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://michaelgm.live:3684/live/emanueltvlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Embrujadas",
         "servers": [
             {
@@ -2456,48 +2372,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EMCI TV (288p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciafrique.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EMCI TV America (288p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emciamerique.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EMCI TV Europe (288p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/emcieurope.m3u8"
             }
         ]
     },
@@ -2601,20 +2475,6 @@
     },
     {
         "id": null,
-        "name": "ems TV Lingen (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "En el punto de mira",
         "servers": [
             {
@@ -2624,20 +2484,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "En Lengua de Senas TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
             }
         ]
     },
@@ -3049,20 +2895,6 @@
     },
     {
         "id": null,
-        "name": "Entertainment Hub (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg01447-samsungau-enthubnz-samsungnz-t9rkn.amagi.tv/playlist/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg01447-samsungau-enthubnz-samsungnz-t9rkn.amagi.tv/playlist/amg01447-samsungau-enthubnz-samsungnz/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Entertainment Tonight (1080p)",
         "servers": [
             {
@@ -3310,20 +3142,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Equinoxe TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/equinoxtv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/equinoxtv/playlist.m3u8"
             }
         ]
     },
@@ -4221,20 +4039,6 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Eska TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://91.246.72.88:8000/play/a002/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://91.246.72.88:8000/play/a002/index.m3u8"
             }
         ]
     },
@@ -5208,20 +5012,6 @@
     },
     {
         "id": null,
-        "name": "ESPNews (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ESPNU",
         "servers": [
             {
@@ -5353,20 +5143,6 @@
     },
     {
         "id": null,
-        "name": "Estacion Radio TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stmv7.voxtvhd.com.br/radiovida/radiovida/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stmv7.voxtvhd.com.br/radiovida/radiovida/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Estacion TV (720p)",
         "servers": [
             {
@@ -5404,20 +5180,6 @@
             {
                 "name": "URL",
                 "link": "http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Estelar TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://srt.tvdatta.com/tvestelar/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://srt.tvdatta.com/tvestelar/index.m3u8"
             }
         ]
     },
@@ -6170,20 +5932,6 @@
     },
     {
         "id": null,
-        "name": "EuroAl TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.135.92.131:1935/live/euroAl/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.135.92.131:1935/live/euroAl/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "euronews",
         "servers": [
             {
@@ -6235,20 +5983,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Euronews Albania (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8"
             }
         ]
     },
@@ -6887,11 +6621,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://kali.vdopanel.com:3090/hybrid/play.m3u8"
+                "link": "https://kali.vdopanel.com:3788/hybrid/play.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://kali.vdopanel.com:3090/hybrid/play.m3u8"
+                "link": "https://kali.vdopanel.com:3788/hybrid/play.m3u8"
             }
         ]
     },
@@ -6991,11 +6725,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
+                "link": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
+                "link": "https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8"
             }
         ]
     },
@@ -7295,15 +7029,15 @@
     },
     {
         "id": null,
-        "name": "Exa TV (576p)",
+        "name": "Exa TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.189.62.33:8002/play/a0lr/index.m3u8"
+                "link": "http://190.61.90.17:40000/play/a0hk/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.189.62.33:8002/play/a0lr/index.m3u8"
+                "link": "http://190.61.90.17:40000/play/a0hk/index.m3u8"
             }
         ]
     },

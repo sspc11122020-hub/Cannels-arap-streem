@@ -141,29 +141,15 @@
     },
     {
         "id": null,
-        "name": "Yazd TV",
+        "name": "Yazd",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://89.45.60.82/0.ts"
+                "link": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://89.45.60.82/0.ts"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Yemen Shabab Channel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://starmenajo.com/hls/yemenshabab/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://starmenajo.com/hls/yemenshabab/index.m3u8"
+                "link": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8"
             }
         ]
     },
@@ -178,20 +164,6 @@
             {
                 "name": "URL",
                 "link": "https://video.yementdy.tv/hls/yementoday.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Yemen TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8"
             }
         ]
     },
@@ -435,7 +407,7 @@
     },
     {
         "id": null,
-        "name": "Yobe TV",
+        "name": "Yobe TV (720p)",
         "servers": [
             {
                 "name": "Main Server",

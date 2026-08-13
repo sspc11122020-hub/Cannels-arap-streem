@@ -254,15 +254,15 @@
     },
     {
         "id": null,
-        "name": "Game Show Network (1080p)",
+        "name": "Game Show Network East (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/GSN/index.m3u8"
+                "link": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/GSN/index.m3u8"
+                "link": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8"
             }
         ]
     },
@@ -492,7 +492,7 @@
     },
     {
         "id": null,
-        "name": "Gaviota TV",
+        "name": "Gaviota TV [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1080,6 +1080,20 @@
     },
     {
         "id": null,
+        "name": "Gen",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Génération Sitcoms",
         "servers": [
             {
@@ -1192,20 +1206,6 @@
     },
     {
         "id": null,
-        "name": "Géopolis TV (240p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tnt-television.com/Geopolis_tv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tnt-television.com/Geopolis_tv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Geordie Shore",
         "servers": [
             {
@@ -1285,20 +1285,6 @@
             {
                 "name": "URL",
                 "link": "https://e562e489.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9HRk5Tb2NjZXJfSExT/manifest.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "GH Canada TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8"
             }
         ]
     },
@@ -1626,15 +1612,15 @@
     },
     {
         "id": null,
-        "name": "Girasol TV (1080p)",
+        "name": "Girasol TV (1080i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8"
+                "link": "https://s.emisoras.tv:8081/girasoltv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://59d39900ebfb8.streamlock.net/girasoltv/girasoltv/playlist.m3u8"
+                "link": "https://s.emisoras.tv:8081/girasoltv/index.m3u8"
             }
         ]
     },
@@ -1649,20 +1635,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Girovisual (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-evg8.tv360.bitel.com.pe/bitel/girovisual/playlist.m3u8"
             }
         ]
     },
@@ -2046,6 +2018,20 @@
     },
     {
         "id": null,
+        "name": "Global TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.93.224.42/GLOBAL/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.93.224.42/GLOBAL/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Global TV (720p)",
         "servers": [
             {
@@ -2162,11 +2148,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.70.146/GLOBONEWS/index.m3u8"
+                "link": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.70.146/GLOBONEWS/index.m3u8"
+                "link": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8"
             }
         ]
     },
@@ -2279,20 +2265,6 @@
             {
                 "name": "URL",
                 "link": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "GM24 (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8"
             }
         ]
     },
@@ -2489,34 +2461,6 @@
             {
                 "name": "URL",
                 "link": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Go2Travel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://go2thls.wns.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://go2thls.wns.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Goa365 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ktismaservers.in:3086/live/goa365live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ktismaservers.in:3086/live/goa365live.m3u8"
             }
         ]
     },
@@ -2933,20 +2877,6 @@
     },
     {
         "id": null,
-        "name": "Goldmines (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://trs1.aynaott.com/Goldmines/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://trs1.aynaott.com/Goldmines/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Goldmines 2 (576p)",
         "servers": [
             {
@@ -3003,15 +2933,15 @@
     },
     {
         "id": null,
-        "name": "Golf Channel (1080p)",
+        "name": "Golf Channel (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8"
+                "link": "https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8"
+                "link": "https://messi.damitv.st/papi/ts/golfchannel-usa/playlist.m3u8"
             }
         ]
     },
@@ -3021,11 +2951,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://72.1.184.5:8089/play/a0cw/index.m3u8"
+                "link": "http://15.204.246.24:8080/GolfChannelHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://72.1.184.5:8089/play/a0cw/index.m3u8"
+                "link": "http://15.204.246.24:8080/GolfChannelHD/index.m3u8"
             }
         ]
     },
@@ -3096,20 +3026,6 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "GoLochTel TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/songsofangels33/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/songsofangels33/playlist.m3u8"
             }
         ]
     },
@@ -3985,20 +3901,6 @@
     },
     {
         "id": null,
-        "name": "Great American Faith & Living (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Great American Family (1080p)",
         "servers": [
             {
@@ -4055,15 +3957,15 @@
     },
     {
         "id": null,
-        "name": "Great Entertainment Television (1080p)",
+        "name": "Great Entertainment Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/GetTV/index.m3u8"
+                "link": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/GetTV/index.m3u8"
+                "link": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8"
             }
         ]
     },
@@ -4148,20 +4050,6 @@
             {
                 "name": "URL",
                 "link": "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Grit (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/GRIT/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/GRIT/index.m3u8"
             }
         ]
     },
@@ -4531,20 +4419,6 @@
     },
     {
         "id": null,
-        "name": "GTV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Guada TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -4862,20 +4736,6 @@
             {
                 "name": "URL",
                 "link": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "GV TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-manifest.production-public.tubi.io/live/8b8e2623-a616-4d17-b711-c0f0d2da7aa7/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-manifest.production-public.tubi.io/live/8b8e2623-a616-4d17-b711-c0f0d2da7aa7/playlist.m3u8"
             }
         ]
     },

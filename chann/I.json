@@ -295,20 +295,6 @@
     },
     {
         "id": null,
-        "name": "IberoAmerica TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://limited39.todostreaming.es/live/salome-livestream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://limited39.todostreaming.es/live/salome-livestream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "IBN",
         "servers": [
             {
@@ -346,20 +332,6 @@
             {
                 "name": "URL",
                 "link": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IBTV USA (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://tvsen7.aynascope.net/ibtvusa/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://tvsen7.aynascope.net/ibtvusa/index.m3u8"
             }
         ]
     },
@@ -463,20 +435,6 @@
     },
     {
         "id": null,
-        "name": "Ice Road Truckers (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/f86823bb-d35d-4e5f-ab3e-ee0693dac9d4/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/f86823bb-d35d-4e5f-ab3e-ee0693dac9d4/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ice Road Truckers (720p)",
         "servers": [
             {
@@ -500,20 +458,6 @@
             {
                 "name": "URL",
                 "link": "https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ici Elsass (180p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/icielsass.m3u8"
             }
         ]
     },
@@ -1032,11 +976,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8"
+                "link": "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv"
             },
             {
                 "name": "URL",
-                "link": "https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8"
+                "link": "https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv"
             }
         ]
     },
@@ -1196,15 +1140,15 @@
     },
     {
         "id": null,
-        "name": "Ignite Television (1080p)",
+        "name": "Ignite Television (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8"
+                "link": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/playlist.m3u8"
+                "link": "https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -1373,20 +1317,6 @@
             {
                 "name": "URL",
                 "link": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Imagen TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8"
             }
         ]
     },
@@ -1658,15 +1588,15 @@
     },
     {
         "id": null,
-        "name": "Imperial Television (1080p)",
+        "name": "Imperial Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://sc1.wasidata.com/Imperial/index.m3u8"
+                "link": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://sc1.wasidata.com/Imperial/index.m3u8"
+                "link": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8"
             }
         ]
     },
@@ -1709,20 +1639,6 @@
             {
                 "name": "URL",
                 "link": "https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IMRyT Morelos TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
             }
         ]
     },
@@ -1896,20 +1812,6 @@
     },
     {
         "id": null,
-        "name": "Independent TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "India Ahead (576p)",
         "servers": [
             {
@@ -2073,20 +1975,6 @@
             {
                 "name": "URL",
                 "link": "http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IndiMusic TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-evg10.tv360.bitel.com.pe/bitel/musictv/playlist.m3u8"
             }
         ]
     },
@@ -2330,20 +2218,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Inkavision (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-evg5.tv360.bitel.com.pe/bitel/inkavisionSRT/playlist.m3u8"
             }
         ]
     },
@@ -2759,11 +2633,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3"
+                "link": "https://tv-omega-nine.vercel.app/hls/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3"
+                "link": "https://tv-omega-nine.vercel.app/hls/live.m3u8"
             }
         ]
     },
@@ -3147,34 +3021,6 @@
     },
     {
         "id": null,
-        "name": "IraneFarda TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hls.iranfarda.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hls.iranfarda.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Iraneman",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "IranPress Ⓢ",
         "servers": [
             {
@@ -3310,6 +3156,20 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Iris [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8"
             }
         ]
     },
@@ -3506,20 +3366,6 @@
             {
                 "name": "URL",
                 "link": "https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Islam Channel Urdu (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8"
             }
         ]
     },
@@ -3733,20 +3579,6 @@
     },
     {
         "id": null,
-        "name": "IT-3 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "It’s Anime (1080p)",
         "servers": [
             {
@@ -3784,6 +3616,20 @@
             {
                 "name": "URL",
                 "link": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Italia 1 [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8"
             }
         ]
     },
@@ -3999,20 +3845,6 @@
     },
     {
         "id": null,
-        "name": "ITN (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11597"
-            },
-            {
-                "name": "URL",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11597"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ITSF (1080p)",
         "servers": [
             {
@@ -4172,34 +4004,6 @@
     },
     {
         "id": null,
-        "name": "iTV Afrobeats Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "iTV Arabic Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ITV Choice (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4232,53 +4036,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.eac-news.com/Khmer/streams/ITVHD.m3u8"
+                "link": "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.eac-news.com/Khmer/streams/ITVHD.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "iTV Indian Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "iTV Latin Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ITV Life (2160p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8"
+                "link": "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8"
             }
         ]
     },
@@ -4293,20 +4055,6 @@
             {
                 "name": "URL",
                 "link": "https://redirector.dps.live/hls/itv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ITV Persian Music (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -4326,20 +4074,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00654-itv-amg00654c32-rakuten-fr-6134.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-unvillagesfrancais-rakutenfr/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "iTV Urban Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8"
             }
         ]
     },

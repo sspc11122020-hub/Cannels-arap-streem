@@ -15,20 +15,6 @@
     },
     {
         "id": null,
-        "name": "J Music TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "J SPORTS 1",
         "servers": [
             {
@@ -211,20 +197,6 @@
     },
     {
         "id": null,
-        "name": "Jai Maharashtra (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-3.pishow.tv/live/1465/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-3.pishow.tv/live/1465/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jaihind TV (396p)",
         "servers": [
             {
@@ -267,20 +239,6 @@
     },
     {
         "id": null,
-        "name": "Jakarta Globe News Channel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifest.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jakt är Jakt",
         "servers": [
             {
@@ -309,29 +267,15 @@
     },
     {
         "id": null,
-        "name": "Jalsha Movies HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.229.254.25:7001/play/a0dt/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.229.254.25:7001/play/a0dt/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jalwa TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D593B973B8404789C46D3559B8&profile=pass"
+                "link": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8"
             },
             {
                 "name": "URL",
-                "link": "http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D593B973B8404789C46D3559B8&profile=pass"
+                "link": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8"
             }
         ]
     },
@@ -411,11 +355,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8"
+                "link": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8"
+                "link": "https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8"
             }
         ]
     },
@@ -519,34 +463,6 @@
     },
     {
         "id": null,
-        "name": "Jawa Pos TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jawa Pos TV Bali (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jawa Pos TV Jakarta (720p)",
         "servers": [
             {
@@ -556,48 +472,6 @@
             {
                 "name": "URL",
                 "link": "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jawa Pos TV Madiun (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jawa Pos TV Magelang (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jawa Pos TV Semarang (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8"
             }
         ]
     },
@@ -1317,20 +1191,6 @@
     },
     {
         "id": null,
-        "name": "Job Plus TV (한국직업방송) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "JOB TV (1080p)",
         "servers": [
             {
@@ -1589,20 +1449,6 @@
     },
     {
         "id": null,
-        "name": "Jonack (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-6.pishow.tv/live/10006/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-6.pishow.tv/live/10006/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "JonmoBhumi TV (720p)",
         "servers": [
             {
@@ -1799,20 +1645,6 @@
     },
     {
         "id": null,
-        "name": "JOS TV HD",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Joshua TV (720p)",
         "servers": [
             {
@@ -1981,20 +1813,6 @@
     },
     {
         "id": null,
-        "name": "JTV Kediri",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "JTV Madiun",
         "servers": [
             {
@@ -2102,20 +1920,6 @@
             {
                 "name": "URL",
                 "link": "https://juicex.nz/hls/mystream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Junior (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8"
             }
         ]
     },
@@ -2233,20 +2037,6 @@
     },
     {
         "id": null,
-        "name": "Just Tattoo of Us",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-6304f20c941c5d00089634e7.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Just.fishing",
         "servers": [
             {
@@ -2284,6 +2074,20 @@
             {
                 "name": "URL",
                 "link": "http://40.160.24.53/JUSTICE_CENTRAL/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Justicia TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
             }
         ]
     },

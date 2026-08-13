@@ -197,20 +197,6 @@
     },
     {
         "id": null,
-        "name": "Obedira TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Oberpfalz TV (1080p)",
         "servers": [
             {
@@ -584,20 +570,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/194/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "OIK TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamer05.low-latency.cz/oiktv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamer05.low-latency.cz/oiktv/index.m3u8"
             }
         ]
     },
@@ -1723,34 +1695,6 @@
     },
     {
         "id": null,
-        "name": "Once México (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Once Ninas y Ninos (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.189.62.33:8002/play/a0p7/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.189.62.33:8002/play/a0p7/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Onda 15 TV (224p)",
         "servers": [
             {
@@ -2031,20 +1975,6 @@
     },
     {
         "id": null,
-        "name": "ONE Championship TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "One Channel",
         "servers": [
             {
@@ -2194,20 +2124,6 @@
             {
                 "name": "URL",
                 "link": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "One TV Drama 3 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8"
             }
         ]
     },
@@ -2939,20 +2855,6 @@
     },
     {
         "id": null,
-        "name": "ORTB TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/ortb/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/ortb/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ORTM 1 (540p) [Not 24/7]",
         "servers": [
             {
@@ -2962,20 +2864,6 @@
             {
                 "name": "URL",
                 "link": "http://69.64.57.208/ortm/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ORTM 2 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/tm2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/tm2/playlist.m3u8"
             }
         ]
     },
@@ -3102,20 +2990,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/214/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "OTR (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://94.230.128.107:8080/OTP/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://94.230.128.107:8080/OTP/index.m3u8"
             }
         ]
     },
@@ -3354,6 +3228,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Outside TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://outsidetv-firetv.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://outsidetv-firetv.amagi.tv/playlist.m3u8"
             }
         ]
     },

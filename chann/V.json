@@ -43,15 +43,15 @@
     },
     {
         "id": null,
-        "name": "V gostyakh u skazki (1080p)",
+        "name": "V gostyakh u skazki (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8"
+                "link": "http://stream.mcquack.net/93/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8"
+                "link": "http://stream.mcquack.net/93/index.m3u8"
             }
         ]
     },
@@ -259,20 +259,6 @@
             {
                 "name": "URL",
                 "link": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Vahos TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://canal.vahostv.com/stream/0.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://canal.vahostv.com/stream/0.m3u8"
             }
         ]
     },
@@ -810,20 +796,6 @@
     },
     {
         "id": null,
-        "name": "Vasantham TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11610"
-            },
-            {
-                "name": "URL",
-                "link": "https://mini.allinonereborn.fun/tata.php?id=11610"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Vásárhelyi Televízió",
         "servers": [
             {
@@ -959,20 +931,6 @@
             {
                 "name": "URL",
                 "link": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VC Online (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
             }
         ]
     },
@@ -1188,20 +1146,6 @@
     },
     {
         "id": null,
-        "name": "Venezolana de Television (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://181.78.8.199:8000/play/a091/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://181.78.8.199:8000/play/a091/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Venezolana de Televisión Ⓓ",
         "servers": [
             {
@@ -1300,15 +1244,15 @@
     },
     {
         "id": null,
-        "name": "Verbum TV (1080p)",
+        "name": "Verbum TV (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://samson.streamerr.co:8081/verbumtv/index.m3u8"
+                "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://samson.streamerr.co:8081/verbumtv/index.m3u8"
+                "link": "https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8"
             }
         ]
     },
@@ -3028,20 +2972,6 @@
     },
     {
         "id": null,
-        "name": "VIP TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VIP TV (720p)",
         "servers": [
             {
@@ -3065,20 +2995,6 @@
             {
                 "name": "URL",
                 "link": "https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Virgin Media Two HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://41.205.93.154/BBCTHREE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://41.205.93.154/BBCTHREE/index.m3u8"
             }
         ]
     },
@@ -3336,20 +3252,6 @@
     },
     {
         "id": null,
-        "name": "VIVA Russia (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/it_KlgcrpetPAAs-Pfyogw/1785516951/f712ae5ff3db23ec09b3674133d44daa/720p_stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/it_KlgcrpetPAAs-Pfyogw/1785516951/f712ae5ff3db23ec09b3674133d44daa/720p_stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Viva TV Canal 30 San Juan de Río Coco [Not 24/7]",
         "servers": [
             {
@@ -3392,20 +3294,6 @@
     },
     {
         "id": null,
-        "name": "Vivax TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Vive Kanal D Drama (720p)",
         "servers": [
             {
@@ -3443,20 +3331,6 @@
             {
                 "name": "URL",
                 "link": "https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VIVO TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.vivotv.uy/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.vivotv.uy/hls/stream.m3u8"
             }
         ]
     },
@@ -3812,34 +3686,6 @@
     },
     {
         "id": null,
-        "name": "VOX1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hls.vox1.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hls.vox1.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VoxAfrica (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://69.64.57.208/voxafrica/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://69.64.57.208/voxafrica/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Voyages & Saveurs (720p)",
         "servers": [
             {
@@ -3917,20 +3763,6 @@
     },
     {
         "id": null,
-        "name": "VPItv (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VR Canal 21 Nasca (720p)",
         "servers": [
             {
@@ -3945,20 +3777,6 @@
     },
     {
         "id": null,
-        "name": "Vremya (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VRT Channel (720p)",
         "servers": [
             {
@@ -3968,48 +3786,6 @@
             {
                 "name": "URL",
                 "link": "https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VRT Radio 1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VRT Radio 2 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VRT Radio Klara (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8"
             }
         ]
     },
@@ -4331,11 +4107,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
+                "link": "https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
+                "link": "https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
             }
         ]
     },
@@ -4472,20 +4248,6 @@
             {
                 "name": "URL",
                 "link": "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VV8 TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8"
             }
         ]
     },
