@@ -85,6 +85,34 @@
     },
     {
         "id": null,
+        "name": "C-SPAN (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/C-SPAN_HD_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/C-SPAN_HD_SD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "C-SPAN 2 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/C-SPAN_2_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/C-SPAN_2_SD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "C'est pas sorcier",
         "servers": [
             {
@@ -2061,15 +2089,15 @@
     },
     {
         "id": null,
-        "name": "Canal 24 Horas Canarias (720p)",
+        "name": "Canal 24 Horas (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ztnr.rtve.es/ztnr/5473142.m3u8"
+                "link": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ztnr.rtve.es/ztnr/5473142.m3u8"
+                "link": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
             }
         ]
     },
@@ -9586,11 +9614,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+                "link": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+                "link": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
             }
         ]
     },
@@ -11187,11 +11215,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+                "link": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+                "link": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8"
             }
         ]
     },
@@ -13012,6 +13040,20 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/cleo-tv"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cleo TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://40.160.24.56/Cleo_TV_SD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://40.160.24.56/Cleo_TV_SD/index.m3u8"
             }
         ]
     },
@@ -14851,20 +14893,6 @@
     },
     {
         "id": null,
-        "name": "Comedy TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Comercio TV (1080p)",
         "servers": [
             {
@@ -15630,20 +15658,6 @@
             {
                 "name": "URL",
                 "link": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Córdoba TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudvideo.servers10.com:8081/8020/index.m3u8"
             }
         ]
     },

@@ -2624,20 +2624,6 @@
     },
     {
         "id": null,
-        "name": "SCTV1 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://javiptv.s.gy/iptv-m3u-sctv-vn"
-            },
-            {
-                "name": "URL",
-                "link": "https://javiptv.s.gy/iptv-m3u-sctv-vn"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "SCTV11 (720p)",
         "servers": [
             {
@@ -8601,6 +8587,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "SMNI (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.kdlc.click/hls/0/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.kdlc.click/hls/0/stream.m3u8"
             }
         ]
     },

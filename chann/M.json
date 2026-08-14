@@ -8631,20 +8631,6 @@
     },
     {
         "id": null,
-        "name": "MSG Plus (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MSG SportsZone (720p)",
         "servers": [
             {
@@ -10489,6 +10475,20 @@
             {
                 "name": "URL",
                 "link": "https://goliveafrica.media:9998/live/6516be24a6bac/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MWD Documentary [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://203.81.84.130/hls/mwd_document/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://203.81.84.130/hls/mwd_document/index.m3u8"
             }
         ]
     },
