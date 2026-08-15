@@ -150,6 +150,20 @@
     },
     {
         "id": null,
+        "name": "Waffi TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Waffi TV (240p)",
         "servers": [
             {
@@ -654,6 +668,20 @@
     },
     {
         "id": null,
+        "name": "Wazobia Max TV Nigeria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wazobia.live:8333/channel/wmax.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wazobia.live:8333/channel/wmax.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Wazobia Max TV Nigeria (720p)",
         "servers": [
             {
@@ -663,6 +691,20 @@
             {
                 "name": "URL",
                 "link": "https://wazobia.live:8333/channel/wmax.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wazobia Max TV Port Harcourt",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wazobia.live:8333/channel/wmaxph.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wazobia.live:8333/channel/wmaxph.m3u8"
             }
         ]
     },

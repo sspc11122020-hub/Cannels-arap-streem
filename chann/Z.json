@@ -621,15 +621,15 @@
     },
     {
         "id": null,
-        "name": "Zee Cinema (720p)",
+        "name": "Zee Cinema (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8"
+                "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8"
+                "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8"
             }
         ]
     },
@@ -999,20 +999,6 @@
     },
     {
         "id": null,
-        "name": "Zee TV HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://trs1.aynaott.com/zeetvhd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://trs1.aynaott.com/zeetvhd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Uttar Pradesh/Uttarakhand (720p)",
         "servers": [
             {
@@ -1134,20 +1120,6 @@
             {
                 "name": "URL",
                 "link": "http://hls127.freeott.top:8080/Zhara/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zhara Kids TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://trs1.aynaott.com/discoverykids/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://trs1.aynaott.com/discoverykids/index.m3u8"
             }
         ]
     },

@@ -239,20 +239,6 @@
     },
     {
         "id": null,
-        "name": "BabyTV Netherlands (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/BabyTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/BabyTV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -738,20 +724,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bandamax USA (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://177.234.249.135:8888/Bandamax/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://177.234.249.135:8888/Bandamax/index.m3u8"
             }
         ]
     },
@@ -1494,20 +1466,6 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BBC Earth Greece (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/BBCEarth/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/BBCEarth/index.m3u8"
             }
         ]
     },
@@ -5981,15 +5939,15 @@
     },
     {
         "id": null,
-        "name": "Bharat Samachar (576p)",
+        "name": "Bharat Samachar (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/BharatSamachar/index.m3u8"
+                "link": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/BharatSamachar/index.m3u8"
+                "link": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
             }
         ]
     },
@@ -6373,6 +6331,20 @@
             {
                 "name": "URL",
                 "link": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Bio Bio TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
             }
         ]
     },
@@ -8828,6 +8800,20 @@
             {
                 "name": "URL",
                 "link": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Bruzz",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8"
             }
         ]
     },

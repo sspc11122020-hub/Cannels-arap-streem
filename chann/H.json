@@ -1872,11 +1872,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/HindiKhabar/index.m3u8"
+                "link": "https://cdn-2.pishow.tv/live/1041/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/HindiKhabar/index.m3u8"
+                "link": "https://cdn-2.pishow.tv/live/1041/master.m3u8"
             }
         ]
     },
@@ -2157,6 +2157,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "History Asia (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9856"
             }
         ]
     },
@@ -2628,11 +2642,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://8.243.126.131:8000/play/a0fg/index.m3u8"
+                "link": "http://15.204.246.24:8080/HOLATVHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://8.243.126.131:8000/play/a0fg/index.m3u8"
+                "link": "http://15.204.246.24:8080/HOLATVHD/index.m3u8"
             }
         ]
     },

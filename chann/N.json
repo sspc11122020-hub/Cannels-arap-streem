@@ -2894,6 +2894,20 @@
     },
     {
         "id": null,
+        "name": "NET25 (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/net_25/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/net_25/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NETALKOLE TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -2946,15 +2960,15 @@
     },
     {
         "id": null,
-        "name": "Network 10 (576p)",
+        "name": "Network 10",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/Network10/index.m3u8"
+                "link": "https://network10.livebox.co.in/network10hls/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/Network10/index.m3u8"
+                "link": "https://network10.livebox.co.in/network10hls/live.m3u8"
             }
         ]
     },
@@ -3100,15 +3114,15 @@
     },
     {
         "id": null,
-        "name": "News 1 India (576p)",
+        "name": "News 1 India (396p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/News1India/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/News1India/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8"
             }
         ]
     },
@@ -3902,11 +3916,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/NewsTime/index.m3u8"
+                "link": "https://cdn-2.pishow.tv/live/1494/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/NewsTime/index.m3u8"
+                "link": "https://cdn-2.pishow.tv/live/1494/master.m3u8"
             }
         ]
     },

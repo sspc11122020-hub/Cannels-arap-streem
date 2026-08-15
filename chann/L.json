@@ -836,11 +836,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://8.243.126.131:8000/play/a01v/index.m3u8"
+                "link": "http://190.93.224.42/LA-TELE/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://8.243.126.131:8000/play/a01v/index.m3u8"
+                "link": "http://190.93.224.42/LA-TELE/index.m3u8"
             }
         ]
     },
@@ -1523,6 +1523,20 @@
             {
                 "name": "URL",
                 "link": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Lamore Rock Show WebTV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
             }
         ]
     },
@@ -3524,6 +3538,20 @@
             {
                 "name": "URL",
                 "link": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Light TV (480p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/light_tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/light_tv/playlist.m3u8"
             }
         ]
     },

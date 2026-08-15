@@ -549,34 +549,6 @@
     },
     {
         "id": null,
-        "name": "Cablenet Sports 1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/CablenetSports1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/CablenetSports1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cablenet Sports 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/CablenetSports2/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/CablenetSports2/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cabo Frio TV (720p)",
         "servers": [
             {
@@ -1533,11 +1505,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://sktv-forwarders.7m.pl/get.php?x=Canal13"
+                "link": "https://redirector.dps.live/hls/13cl/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://sktv-forwarders.7m.pl/get.php?x=Canal13"
+                "link": "https://redirector.dps.live/hls/13cl/playlist.m3u8"
             }
         ]
     },
@@ -4413,20 +4385,6 @@
     },
     {
         "id": null,
-        "name": "Canal N (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://8.243.126.131:8000/play/a058/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://8.243.126.131:8000/play/a058/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal Nets (720p) [Not 24/7]",
         "servers": [
             {
@@ -6197,6 +6155,20 @@
             {
                 "name": "URL",
                 "link": "https://streaming.tvnepal.com:19360/capitaltv/capitaltv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Capital TV HD HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8"
             }
         ]
     },
@@ -10581,6 +10553,20 @@
     },
     {
         "id": null,
+        "name": "Channels TV Ⓨ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://www.youtube.com/@ChannelsTelevision/live"
+            },
+            {
+                "name": "URL",
+                "link": "https://www.youtube.com/@ChannelsTelevision/live"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Chaos City",
         "servers": [
             {
@@ -11145,11 +11131,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://sktv-forwarders.7m.pl/get.php?x=Chilevision"
+                "link": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://sktv-forwarders.7m.pl/get.php?x=Chilevision"
+                "link": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8"
             }
         ]
     },
@@ -16436,11 +16422,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://trs1.aynaott.com/cp24/index.m3u8"
+                "link": "https://tvsen6.aynaott.com/cp24/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://trs1.aynaott.com/cp24/index.m3u8"
+                "link": "https://tvsen6.aynaott.com/cp24/index.m3u8"
             }
         ]
     },
@@ -18295,20 +18281,6 @@
     },
     {
         "id": null,
-        "name": "Cytavision Sports 1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/Cytavisionsports1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/Cytavisionsports1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cytavision Sports 1 CY",
         "servers": [
             {
@@ -18332,20 +18304,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/cytavision-sports-1-cyprus"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cytavision Sports 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/Cytavisionsports2/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/Cytavisionsports2/index.m3u8"
             }
         ]
     },
@@ -18379,20 +18337,6 @@
     },
     {
         "id": null,
-        "name": "Cytavision Sports 3 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/Cytavisionsports3/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/Cytavisionsports3/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cytavision Sports 3 CY",
         "servers": [
             {
@@ -18421,20 +18365,6 @@
     },
     {
         "id": null,
-        "name": "Cytavision Sports 4 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/Cytavisionsports4/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/Cytavisionsports4/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cytavision Sports 4 CY",
         "servers": [
             {
@@ -18458,20 +18388,6 @@
             {
                 "name": "URL",
                 "link": "https://tv247us.live/embed/cytavision-sports-4-cyprus"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cytavision Sports 5 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/Cytavisionsports5/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/Cytavisionsports5/index.m3u8"
             }
         ]
     },

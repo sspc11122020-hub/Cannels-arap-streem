@@ -3546,6 +3546,20 @@
     },
     {
         "id": null,
+        "name": "MBC Loud",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "MBC Masr (1080p)",
         "servers": [
             {
@@ -4465,20 +4479,6 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/Mega2HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mega Channel (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/MegaHD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/MegaHD/index.m3u8"
             }
         ]
     },
@@ -6561,6 +6561,20 @@
             {
                 "name": "URL",
                 "link": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MNCTV HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
             }
         ]
     },
@@ -10480,6 +10494,20 @@
     },
     {
         "id": null,
+        "name": "MWD (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://203.81.84.130/hls/mwd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://203.81.84.130/hls/mwd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "MWD Documentary [Geo-blocked]",
         "servers": [
             {
@@ -10489,6 +10517,20 @@
             {
                 "name": "URL",
                 "link": "http://203.81.84.130/hls/mwd_document/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MWD Variety (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://203.81.84.130/hls/mwd_variety/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://203.81.84.130/hls/mwd_variety/index.m3u8"
             }
         ]
     },

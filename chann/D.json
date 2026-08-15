@@ -4680,20 +4680,6 @@
     },
     {
         "id": null,
-        "name": "Disney Channel EMEA (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.102.171.218/DisneyChannel/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.102.171.218/DisneyChannel/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Disney Channel Latin America (1080p)",
         "servers": [
             {
@@ -4992,11 +4978,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.234.249.135:8888/DistritoComedia/index.m3u8"
+                "link": "http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.234.249.135:8888/DistritoComedia/index.m3u8"
+                "link": "http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8"
             }
         ]
     },
@@ -5940,6 +5926,20 @@
     },
     {
         "id": null,
+        "name": "Dong Nai TV 3 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dethich.pw/dongnai3/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dethich.pw/dongnai3/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Donna Shopping Tv",
         "servers": [
             {
@@ -6836,20 +6836,6 @@
     },
     {
         "id": null,
-        "name": "DSports (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://8.243.126.131:8000/play/a05a/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://8.243.126.131:8000/play/a05a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dsports +",
         "servers": [
             {
@@ -7648,20 +7634,6 @@
     },
     {
         "id": null,
-        "name": "Duronto TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://trs1.aynaott.com/duronto/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://trs1.aynaott.com/duronto/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dushanbe HD (1080p)",
         "servers": [
             {
@@ -7919,6 +7891,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DZMM TeleRadyo (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/teleradyo/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DZRHTV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/dzrh/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/dzrh/playlist.m3u8"
             }
         ]
     }

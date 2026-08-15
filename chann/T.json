@@ -1537,6 +1537,20 @@
     },
     {
         "id": null,
+        "name": "TDK 42",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TDM Entertainment",
         "servers": [
             {
@@ -4253,20 +4267,6 @@
     },
     {
         "id": null,
-        "name": "TeleHit Estados Unidos (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://177.234.249.135:8888/Telehit/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://177.234.249.135:8888/Telehit/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Telehit Musica (1080p)",
         "servers": [
             {
@@ -4276,20 +4276,6 @@
             {
                 "name": "URL",
                 "link": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Telehit Musica Estados Unidos (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://177.234.249.135:8888/TelehitMusica/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://177.234.249.135:8888/TelehitMusica/index.m3u8"
             }
         ]
     },
@@ -5162,6 +5148,20 @@
             {
                 "name": "URL",
                 "link": "https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TeleOnce (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8"
             }
         ]
     },
@@ -10045,11 +10045,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.234.249.135:8888/Telenovelas/index.m3u8"
+                "link": "http://209.14.115.253:8081/TELENOVELAS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.234.249.135:8888/Telenovelas/index.m3u8"
+                "link": "http://209.14.115.253:8081/TELENOVELAS/index.m3u8"
             }
         ]
     },
@@ -15196,6 +15196,20 @@
     },
     {
         "id": null,
+        "name": "TV Alsace",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://194.163.157.137:8080/hls/radioalsace.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://194.163.157.137:8080/hls/radioalsace.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TV Alsace (1080p)",
         "servers": [
             {
@@ -17474,6 +17488,20 @@
     },
     {
         "id": null,
+        "name": "TV Maria (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/tvmaria/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TV María (720p) [Not 24/7]",
         "servers": [
             {
@@ -17665,6 +17693,20 @@
             {
                 "name": "URL",
                 "link": "https://e.siar.us/live/tvmu.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV Mulhouse",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8"
             }
         ]
     },
@@ -18178,11 +18220,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://181.119.93.83:8000/play/a25t/index.m3u8"
+                "link": "http://190.93.224.42/TV-PERU/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://181.119.93.83:8000/play/a25t/index.m3u8"
+                "link": "http://190.93.224.42/TV-PERU/index.m3u8"
             }
         ]
     },
@@ -21559,20 +21601,6 @@
     },
     {
         "id": null,
-        "name": "TVE Internacional America (576p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -22408,11 +22436,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://sktv-forwarders.7m.pl/get.php?x=TVN"
+                "link": "https://iptv2.intersurtv.cl/TVN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://sktv-forwarders.7m.pl/get.php?x=TVN"
+                "link": "https://iptv2.intersurtv.cl/TVN/index.m3u8"
             }
         ]
     },

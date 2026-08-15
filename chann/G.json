@@ -2284,6 +2284,20 @@
     },
     {
         "id": null,
+        "name": "GMA TV (480p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/gma_7/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/gma_7/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "GMM 25 (720p)",
         "servers": [
             {
@@ -2858,20 +2872,6 @@
             {
                 "name": "URL",
                 "link": "http://38.19.41.46:8081/GOLDENEDGE/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Golden Plus (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://177.234.249.135:8888/GoldenPlus/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://177.234.249.135:8888/GoldenPlus/index.m3u8"
             }
         ]
     },
@@ -4419,6 +4419,20 @@
     },
     {
         "id": null,
+        "name": "GTV HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Guada TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -4442,6 +4456,20 @@
             {
                 "name": "URL",
                 "link": "https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Guangdong Satellite TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8"
             }
         ]
     },

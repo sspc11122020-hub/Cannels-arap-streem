@@ -698,6 +698,20 @@
     },
     {
         "id": null,
+        "name": "Ulytau",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ulytau.tv/hls/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ulytau.tv/hls/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "UMA TV",
         "servers": [
             {
@@ -1855,6 +1869,20 @@
             {
                 "name": "URL",
                 "link": "https://d1si3n1st4nkgb.cloudfront.net/10502/88896052/hls/master.m3u8?ads.xumo_channelId=88896052"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "UNTV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/untv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/untv/playlist.m3u8"
             }
         ]
     },
