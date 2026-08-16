@@ -4971,15 +4971,15 @@
     },
     {
         "id": null,
-        "name": "Telemundo West (720p)",
+        "name": "Telemundo West (2160p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://181.119.108.43:9001/play/a044/index.m3u8"
+                "link": "http://168.228.44.241:9997/play/a07g/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://181.119.108.43:9001/play/a044/index.m3u8"
+                "link": "http://168.228.44.241:9997/play/a07g/index.m3u8"
             }
         ]
     },
@@ -10283,11 +10283,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8"
+                "link": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8"
+                "link": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8"
             }
         ]
     },
@@ -13633,6 +13633,20 @@
             {
                 "name": "URL",
                 "link": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TRT Spor (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://corestream.siteyaptim.live/trt-spor/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://corestream.siteyaptim.live/trt-spor/index.m3u8"
             }
         ]
     },
@@ -20883,6 +20897,11 @@
     {
         "id": "1005",
         "name": "TV8 Turkey",
+        "servers": []
+    },
+    {
+        "id": "1006",
+        "name": "TV8,5",
         "servers": []
     },
     {

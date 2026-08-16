@@ -3090,15 +3090,15 @@
     },
     {
         "id": null,
-        "name": "WLTV-DT1 [Geo-blocked]",
+        "name": "WLTV-DT 23.1 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8"
+                "link": "http://168.228.44.241:9997/play/a09d/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8"
+                "link": "http://168.228.44.241:9997/play/a09d/index.m3u8"
             }
         ]
     },
