@@ -183,20 +183,6 @@
     },
     {
         "id": null,
-        "name": "UBC TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://59.23.231.102:1935/live/UBCstream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://59.23.231.102:1935/live/UBCstream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ucayalina de Television (720p)",
         "servers": [
             {
@@ -211,20 +197,6 @@
     },
     {
         "id": null,
-        "name": "UChile TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Uchu TV (720p)",
         "servers": [
             {
@@ -234,20 +206,6 @@
             {
                 "name": "URL",
                 "link": "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "UCL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ucl/ucl.smil/playlist.m3u8"
             }
         ]
     },
@@ -276,20 +234,6 @@
             {
                 "name": "URL",
                 "link": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "UCV Televisión",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
             }
         ]
     },
@@ -420,48 +364,18 @@
         ]
     },
     {
-        "id": "2003",
-        "name": "UFC Channel",
-        "servers": []
-    },
-    {
-        "id": "5015",
-        "name": "UFC Fight Night",
-        "servers": []
-    },
-    {
-        "id": "250",
-        "name": "UFC Fight Pass",
-        "servers": []
-    },
-    {
-        "id": "5009",
-        "name": "UFC Fight Pass 1",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "UFC Fight Pass 24/7",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/ufc-fight-pass"
+                "link": "https://cdx-08192.website/embed/ufc-fight-pass"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/ufc-fight-pass"
+                "link": "https://cdx-08192.website/embed/ufc-fight-pass"
             }
         ]
-    },
-    {
-        "id": "7036",
-        "name": "UFC Stream",
-        "servers": []
-    },
-    {
-        "id": "2024",
-        "name": "UFCTV",
-        "servers": []
     },
     {
         "id": null,
@@ -633,20 +547,6 @@
     },
     {
         "id": null,
-        "name": "Ultimate Classic Wrestling – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ultimate TV (1080p)",
         "servers": [
             {
@@ -745,20 +645,6 @@
     },
     {
         "id": null,
-        "name": "Umbria Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Umbria TV (576p) [Not 24/7]",
         "servers": [
             {
@@ -768,20 +654,6 @@
             {
                 "name": "URL",
                 "link": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Umbria+ TRT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://diretta.teleterni.it:8080//show/show.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://diretta.teleterni.it:8080//show/show.m3u8"
             }
         ]
     },
@@ -941,20 +813,6 @@
     },
     {
         "id": null,
-        "name": "Unbeaten Sports – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Unchained TV (1080p)",
         "servers": [
             {
@@ -1053,20 +911,6 @@
     },
     {
         "id": null,
-        "name": "UNIAN TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509"
-            },
-            {
-                "name": "URL",
-                "link": "https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "UNIANDES TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -1076,20 +920,6 @@
             {
                 "name": "URL",
                 "link": "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Unicanal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.55.127.106/live/unicanal.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.55.127.106/live/unicanal.m3u8"
             }
         ]
     },
@@ -1165,20 +995,6 @@
     },
     {
         "id": null,
-        "name": "Unimas",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/unimas"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/unimas"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "UniMas Central (720p)",
         "servers": [
             {
@@ -1208,20 +1024,6 @@
     {
         "id": null,
         "name": "UniNettuno University TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "UniNettuno University TV Ⓖ",
         "servers": [
             {
                 "name": "Main Server",
@@ -1501,20 +1303,6 @@
     },
     {
         "id": null,
-        "name": "Universal Kids USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/universal-kids-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/universal-kids-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Universal Monsters (1080p)",
         "servers": [
             {
@@ -1617,25 +1405,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=universo_usa"
+                "link": "https://streamtp-golden1.click/global1.php?stream=universo_usa"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=universo_usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Univision",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/univision"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/univision"
+                "link": "https://streamtp-golden1.click/global2.php?stream=universo_usa"
             }
         ]
     },
@@ -1701,11 +1475,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=univision_usa"
+                "link": "https://streamtp-golden1.click/global1.php?stream=univision_usa"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=univision_usa"
+                "link": "https://streamtp-golden1.click/global2.php?stream=univision_usa"
             }
         ]
     },
@@ -1734,34 +1508,6 @@
             {
                 "name": "URL",
                 "link": "https://a-cdn.klowdtv.com/live3/unleashed_720p/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Uno Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream1.aswifi.it/unotv/live/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream1.aswifi.it/unotv/live/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Uno4 Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.uno4.it/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.uno4.it/index.m3u8"
             }
         ]
     },
@@ -1934,11 +1680,6 @@
         ]
     },
     {
-        "id": "9000",
-        "name": "UPL.TV",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "UPP TV/Bolivisión SCZ (720p) [Not 24/7]",
         "servers": [
@@ -2010,20 +1751,6 @@
     },
     {
         "id": null,
-        "name": "Urbana Tevé",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Urbano TV (720p)",
         "servers": [
             {
@@ -2084,11 +1811,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/usanetwork-usa"
+                "link": "https://cdx-08192.website/embed/usanetwork-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/usanetwork-usa"
+                "link": "https://cdx-08192.website/embed/usanetwork-usa"
             }
         ]
     },
@@ -2135,11 +1862,6 @@
         ]
     },
     {
-        "id": "3010",
-        "name": "USA Network USA",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "USA Network West (1080p)",
         "servers": [
@@ -2150,20 +1872,6 @@
             {
                 "name": "URL",
                 "link": "http://40.160.24.55/USA_NETWORK_WEST/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "USA Today",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lnc-usa-today.tubi.video/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lnc-usa-today.tubi.video/playlist.m3u8"
             }
         ]
     },
@@ -2248,20 +1956,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "UTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8"
             }
         ]
     },

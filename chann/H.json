@@ -210,11 +210,6 @@
         ]
     },
     {
-        "id": "3058",
-        "name": "Hajduk TV",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "Hakka TV",
         "servers": [
@@ -337,20 +332,6 @@
             {
                 "name": "URL",
                 "link": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hallmark Movies & Mysterie",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hallmark-movies-and-mysteries"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hallmark-movies-and-mysteries"
             }
         ]
     },
@@ -561,20 +542,6 @@
             {
                 "name": "URL",
                 "link": "https://tv.mediacp.eu:8081/happyradio/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Happy TV Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/happy-tv-serbia"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/happy-tv-serbia"
             }
         ]
     },
@@ -818,20 +785,6 @@
     },
     {
         "id": null,
-        "name": "Hawe TV Vitebsk Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://95.46.208.8:26259/nashe"
-            },
-            {
-                "name": "URL",
-                "link": "http://95.46.208.8:26259/nashe"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Haz Clic!",
         "servers": [
             {
@@ -850,11 +803,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/hbo-usa"
+                "link": "https://cdx-08192.website/embed/hbo-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/hbo-usa"
+                "link": "https://cdx-08192.website/embed/hbo-usa"
             }
         ]
     },
@@ -864,25 +817,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/hbocomedy-usa"
+                "link": "https://cdx-08192.website/embed/hbocomedy-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/hbocomedy-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Comedy USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-comedy-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-comedy-usa"
+                "link": "https://cdx-08192.website/embed/hbocomedy-usa"
             }
         ]
     },
@@ -892,25 +831,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/hbodrama-usa"
+                "link": "https://cdx-08192.website/embed/hbodrama-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/hbodrama-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Family USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-family-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-family-usa"
+                "link": "https://cdx-08192.website/embed/hbodrama-usa"
             }
         ]
     },
@@ -920,25 +845,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/hbolatino-usa"
+                "link": "https://cdx-08192.website/embed/hbolatino-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/hbolatino-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Latino USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-latino-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-latino-usa"
+                "link": "https://cdx-08192.website/embed/hbolatino-usa"
             }
         ]
     },
@@ -948,39 +859,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/hbomovies-usa"
+                "link": "https://cdx-08192.website/embed/hbomovies-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/hbomovies-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-poland"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-poland"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Signature USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-signature-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-signature-usa"
+                "link": "https://cdx-08192.website/embed/hbomovies-usa"
             }
         ]
     },
@@ -995,48 +878,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Zone USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo-zone-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo-zone-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO2 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hbo2-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hbo2-usa"
             }
         ]
     },
@@ -1126,20 +967,6 @@
     },
     {
         "id": null,
-        "name": "Headline News",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/headline-news"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/headline-news"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Heart Radio Aruba",
         "servers": [
             {
@@ -1172,11 +999,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8"
+                "link": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8"
+                "link": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8"
             }
         ]
     },
@@ -1289,20 +1116,6 @@
             {
                 "name": "URL",
                 "link": "https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hegyvidék TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.hegyvidek.hu/hvtv/hvstream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.hegyvidek.hu/hvtv/hvstream.m3u8"
             }
         ]
     },
@@ -1532,20 +1345,6 @@
     },
     {
         "id": null,
-        "name": "Hero",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/hero/live.m3u8?src=freetv"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hero (720p) [Not 24/7]",
         "servers": [
             {
@@ -1555,34 +1354,6 @@
             {
                 "name": "URL",
                 "link": "https://live-fi.tvkaista.net/hero/live.m3u8?hd=true"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Heroes & Icons (H&I) USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/heroes-and-icons-hi-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/heroes-and-icons-hi-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Héviz TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8"
             }
         ]
     },
@@ -1648,25 +1419,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/hgtv-usa"
+                "link": "https://cdx-08192.website/embed/hgtv-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/hgtv-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HGTV – Home & Garden Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+                "link": "https://cdx-08192.website/embed/hgtv-usa"
             }
         ]
     },
@@ -1737,20 +1494,6 @@
             {
                 "name": "URL",
                 "link": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "High TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.streams.ovh/hightv/hightv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.streams.ovh/hightv/hightv/playlist.m3u8"
             }
         ]
     },
@@ -1840,20 +1583,6 @@
     },
     {
         "id": null,
-        "name": "Himlen TV7",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Himlen TV7 (720p)",
         "servers": [
             {
@@ -1896,20 +1625,6 @@
     },
     {
         "id": null,
-        "name": "Hipodromo de las Americas",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://wms30.tecnoxia.com/soelvi/abr_soelvi/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HIPTV (1080p)",
         "servers": [
             {
@@ -1919,20 +1634,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16993"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hír TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://onlinestream.live/play.m3u?id=4740&ext=.m3u"
-            },
-            {
-                "name": "URL",
-                "link": "https://onlinestream.live/play.m3u?id=4740&ext=.m3u"
             }
         ]
     },
@@ -2288,20 +1989,6 @@
     },
     {
         "id": null,
-        "name": "History USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/history-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/history-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hit FM",
         "servers": [
             {
@@ -2372,6 +2059,20 @@
     },
     {
         "id": null,
+        "name": "HITS NOW SD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://usatv.dpdns.org/usatv/hitsnow_sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Hitz TV (1080p)",
         "servers": [
             {
@@ -2395,20 +2096,6 @@
             {
                 "name": "URL",
                 "link": "https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hlektra",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8"
             }
         ]
     },
@@ -2549,20 +2236,6 @@
             {
                 "name": "URL",
                 "link": "https://d1klo92zvoj2of.cloudfront.net/v1/aenetworks_hoarders_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hobby Maker",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lo2-1.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
             }
         ]
     },
@@ -3044,6 +2717,20 @@
     },
     {
         "id": null,
+        "name": "Hope Channel Philippines (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Hope4Life TV (720p)",
         "servers": [
             {
@@ -3081,20 +2768,6 @@
             {
                 "name": "URL",
                 "link": "https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Horror – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
             }
         ]
     },
@@ -3282,20 +2955,6 @@
     },
     {
         "id": null,
-        "name": "HOT3 Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/hot3-israel"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/hot3-israel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hotel Inspector (1080p)",
         "servers": [
             {
@@ -3310,20 +2969,6 @@
     },
     {
         "id": null,
-        "name": "House of Docs – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4f123d000876b78b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "House of Lies",
         "servers": [
             {
@@ -3333,20 +2978,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Houses of the Oireachtas Channel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8"
             }
         ]
     },
@@ -3408,286 +3039,6 @@
     },
     {
         "id": null,
-        "name": "HOY TV Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Arabic",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Baladas",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Blues",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Chill Out",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Classic",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Dance",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Folk",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Gym",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Hip Hop",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Hits",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Jazz",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Kids",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Latin",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Pop",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Relax",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Remember",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Rock",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HQM Spanish",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HR Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "hr-fernsehen (1080p)",
         "servers": [
             {
@@ -3716,20 +3067,6 @@
     },
     {
         "id": null,
-        "name": "HRT 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HRT 1 HD (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -3744,20 +3081,6 @@
     },
     {
         "id": null,
-        "name": "HRT 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HRT 2 HD (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -3767,20 +3090,6 @@
             {
                 "name": "URL",
                 "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HRT 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8"
             }
         ]
     },
@@ -3811,11 +3120,6 @@
                 "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd"
             }
         ]
-    },
-    {
-        "id": "247",
-        "name": "HRT2 Croatia",
-        "servers": []
     },
     {
         "id": null,
@@ -4042,25 +3346,6 @@
         ]
     },
     {
-        "id": "4",
-        "name": "Hub Premier",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "Huda TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Huda TV (720p) [Not 24/7]",
         "servers": [
@@ -4127,20 +3412,6 @@
             {
                 "name": "URL",
                 "link": "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Humanity Documentari",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8"
             }
         ]
     },

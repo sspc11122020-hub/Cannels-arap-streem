@@ -15,62 +15,6 @@
     },
     {
         "id": null,
-        "name": "J SPORTS 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "J SPORTS 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "J SPORTS 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "J SPORTS 4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "J3NEWS TV",
         "servers": [
             {
@@ -421,34 +365,6 @@
     },
     {
         "id": null,
-        "name": "Järviradio TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jászsági Térségi TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jászsági Térségi TV (440p)",
         "servers": [
             {
@@ -542,20 +458,6 @@
             {
                 "name": "URL",
                 "link": "http://80.79.6.221:25461/smash/public/25"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jazz TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8"
             }
         ]
     },
@@ -663,11 +565,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Jednotka"
+                "link": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Jednotka"
+                "link": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8"
             }
         ]
     },
@@ -757,20 +659,6 @@
     },
     {
         "id": null,
-        "name": "Jersey Shore – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jersey Shore Family Vacation",
         "servers": [
             {
@@ -780,20 +668,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jewellery Maker",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8"
             }
         ]
     },
@@ -953,20 +827,6 @@
     },
     {
         "id": null,
-        "name": "JIBS TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://123.140.197.22/stream/1/play.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://123.140.197.22/stream/1/play.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jihočeská televize (1080p)",
         "servers": [
             {
@@ -1032,20 +892,6 @@
             {
                 "name": "URL",
                 "link": "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jim",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv"
             }
         ]
     },
@@ -1289,110 +1135,6 @@
     },
     {
         "id": null,
-        "name": "JOJ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JOJ 24",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%2024"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JOJ Cinema",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JOJ Family Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Family"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JOJ Plus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Plus"
-            }
-        ]
-    },
-    {
-        "id": "1050",
-        "name": "JOJ SK",
-        "servers": []
-    },
-    {
-        "id": "220",
-        "name": "JOJ Sport",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "JOJ Šport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20%C5%A0port"
-            }
-        ]
-    },
-    {
-        "id": "1052",
-        "name": "JOJ Sport SK",
-        "servers": []
-    },
-    {
-        "id": "24",
-        "name": "JOJ Sport Slovakia",
-        "servers": []
-    },
-    {
-        "id": null,
         "name": "JOJG-DTV (1080i)",
         "servers": [
             {
@@ -1402,20 +1144,6 @@
             {
                 "name": "URL",
                 "link": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jojko",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Jojko"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Jojko"
             }
         ]
     },
@@ -1715,20 +1443,6 @@
     },
     {
         "id": null,
-        "name": "Joy News",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Joy TV (1080p)",
         "servers": [
             {
@@ -1850,20 +1564,6 @@
             {
                 "name": "URL",
                 "link": "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JTV TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8"
             }
         ]
     },
@@ -2004,20 +1704,6 @@
             {
                 "name": "URL",
                 "link": "http://103.154.3.101:5001/live/959.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Just for laughs – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
             }
         ]
     },

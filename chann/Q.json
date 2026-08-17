@@ -71,20 +71,6 @@
     },
     {
         "id": null,
-        "name": "Qatar Television",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Qatar Television (1080p)",
         "servers": [
             {
@@ -99,20 +85,6 @@
     },
     {
         "id": null,
-        "name": "Qatar Television 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Qatar Television 2 (1080p)",
         "servers": [
             {
@@ -122,20 +94,6 @@
             {
                 "name": "URL",
                 "link": "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Qatar Television The Holy Quran",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8"
             }
         ]
     },
@@ -519,20 +477,6 @@
     },
     {
         "id": null,
-        "name": "Quarto Canale Flegreo",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Quarto Canale Flegreo (720p)",
         "servers": [
             {
@@ -701,20 +645,6 @@
     },
     {
         "id": null,
-        "name": "QVC",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "QVC (1080p)",
         "servers": [
             {
@@ -785,34 +715,6 @@
     },
     {
         "id": null,
-        "name": "QVC Beauty Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/3/3.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "QVC Extra Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/3/3.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "QVC Germany (720p)",
         "servers": [
             {
@@ -855,20 +757,6 @@
     },
     {
         "id": null,
-        "name": "QVC Style Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/3/3.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "QVC UK (540p)",
         "servers": [
             {
@@ -906,20 +794,6 @@
             {
                 "name": "URL",
                 "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "QVC UK Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8"
             }
         ]
     },

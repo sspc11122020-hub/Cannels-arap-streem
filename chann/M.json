@@ -126,100 +126,6 @@
         ]
     },
     {
-        "id": "3029",
-        "name": "M. Liga de Campeones",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "M»Net",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://ares.mnet.mk/hls/mnet.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://ares.mnet.mk/hls/mnet.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M»Net Info",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://ares.mnet.mk/hls/mnet-info.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://ares.mnet.mk/hls/mnet-info.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M»Net Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://ares.mnet.mk/hls/mnet-sport.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://ares.mnet.mk/hls/mnet-sport.m3u8"
-            }
-        ]
-    },
-    {
-        "id": "3028",
-        "name": "M+ Deportes 2 ES",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "M1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://212.79.122.11:5014/udp/239.255.6.28:1234"
-            },
-            {
-                "name": "URL",
-                "link": "http://212.79.122.11:5014/udp/239.255.6.28:1234"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M1 Hiradó Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/@M1-Hirado/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/@M1-Hirado/live"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.m2.tv/hls3/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.m2.tv/hls3/stream.m3u8"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "M2 (1080p)",
         "servers": [
@@ -230,20 +136,6 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.19/live/m2_hun/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M2 / Petőfi TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://c201-node61-cdn.connectmedia.hu/110102/7184521041cf54cee9c6548e8d0ba377/64117799/index.m3u8"
             }
         ]
     },
@@ -267,44 +159,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://c401-node62-cdn.connectmedia.hu/110110/5dd8dc6d853c9b7f94db85646ed44326/641177e3/index.m3u8"
+                "link": "http://88.212.15.19/live/m4_hun/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://c401-node62-cdn.connectmedia.hu/110110/5dd8dc6d853c9b7f94db85646ed44326/641177e3/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M4 Sports Hungary",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/m4-sports"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/m4-sports"
-            }
-        ]
-    },
-    {
-        "id": "3066",
-        "name": "M4 Sports Hungry",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "M4TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8"
+                "link": "http://88.212.15.19/live/m4_hun/index.m3u8"
             }
         ]
     },
@@ -324,20 +183,6 @@
     },
     {
         "id": null,
-        "name": "M5 Hungary",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://152.66.115.226:33390/bysid/201"
-            },
-            {
-                "name": "URL",
-                "link": "http://152.66.115.226:33390/bysid/201"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "m6",
         "servers": [
             {
@@ -351,20 +196,6 @@
             {
                 "name": "URL3",
                 "link": "https://bolaloca.my/player/3/26"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "M6 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/m6-france"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/m6-france"
             }
         ]
     },
@@ -440,20 +271,6 @@
     },
     {
         "id": null,
-        "name": "Macedonian Documentary Channel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://giganet.mk/hls/macdoc.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://giganet.mk/hls/macdoc.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MacGyver",
         "servers": [
             {
@@ -463,20 +280,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MacGyver – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
             }
         ]
     },
@@ -561,34 +364,6 @@
             {
                 "name": "URL",
                 "link": "https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Made – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ee20112ca70007d8accc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ee20112ca70007d8accc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Made in BO",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
             }
         ]
     },
@@ -719,55 +494,6 @@
         ]
     },
     {
-        "id": "239",
-        "name": "Magenta Sport 301",
-        "servers": []
-    },
-    {
-        "id": "29",
-        "name": "Magenta Sport 302",
-        "servers": []
-    },
-    {
-        "id": "164",
-        "name": "Magenta Sport 304",
-        "servers": []
-    },
-    {
-        "id": "76",
-        "name": "Magenta Sport 305",
-        "servers": []
-    },
-    {
-        "id": "30",
-        "name": "Magenta Sport 306",
-        "servers": []
-    },
-    {
-        "id": "69",
-        "name": "Magenta Sport 307",
-        "servers": []
-    },
-    {
-        "id": "162",
-        "name": "Magenta Sport 308",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "Magic Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878"
-            },
-            {
-                "name": "URL",
-                "link": "https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?yo.up=https%3A%2F%2Fboxtv.secure.footprint.net%2Fmagic%2F&spotxc1=195996&spotxc2=190878"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Magic PowerRadio (288p) [Not 24/7]",
         "servers": [
@@ -834,20 +560,6 @@
             {
                 "name": "URL",
                 "link": "https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Magnolia Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/magnolia-network"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/magnolia-network"
             }
         ]
     },
@@ -965,20 +677,6 @@
     },
     {
         "id": null,
-        "name": "Mai dire sì – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Maidan (720p)",
         "servers": [
             {
@@ -1086,20 +784,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MAK TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8"
             }
         ]
     },
@@ -1315,20 +999,6 @@
     },
     {
         "id": null,
-        "name": "MAN-GA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u"
-            },
-            {
-                "name": "URL",
-                "link": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Maná Church Online (1080p) [Not 24/7]",
         "servers": [
             {
@@ -1525,15 +1195,15 @@
     },
     {
         "id": null,
-        "name": "Maniel TV",
+        "name": "Maniel TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.inliveserver.com:19360/8010/8010.m3u8"
+                "link": "https://mp.panelchs.com/hls/8024/8024.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.inliveserver.com:19360/8010/8010.m3u8"
+                "link": "https://mp.panelchs.com/hls/8024/8024.m3u8"
             }
         ]
     },
@@ -1735,20 +1405,6 @@
     },
     {
         "id": null,
-        "name": "Maria Vision",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Maria Vision (1080p)",
         "servers": [
             {
@@ -1903,34 +1559,6 @@
     },
     {
         "id": null,
-        "name": "Markíza",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Markiza"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Markiza"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Markíza TN Live",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Mark%C3%ADza%20TN%20Live"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Marla Vision (576p) [Not 24/7]",
         "servers": [
             {
@@ -1940,20 +1568,6 @@
             {
                 "name": "URL",
                 "link": "https://soportedvb.click:3877/live/merlavisionlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Marquee Sports Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/marquee-sports-network"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/marquee-sports-network"
             }
         ]
     },
@@ -2211,20 +1825,6 @@
     },
     {
         "id": null,
-        "name": "MASN USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/masn-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/masn-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Master TV (720p)",
         "servers": [
             {
@@ -2351,20 +1951,6 @@
     },
     {
         "id": null,
-        "name": "Match Football 1 Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/match-football-1"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/match-football-1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Match Football 2 RU",
         "servers": [
             {
@@ -2374,20 +1960,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Football%202&code=ru&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Match Football 2 Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/match-football-2"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/match-football-2"
             }
         ]
     },
@@ -2407,25 +1979,6 @@
     },
     {
         "id": null,
-        "name": "Match Football 3 Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/match-football-3"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/match-football-3"
-            }
-        ]
-    },
-    {
-        "id": "168",
-        "name": "Match Igra Russia",
-        "servers": []
-    },
-    {
-        "id": null,
         "name": "Match Premier RU",
         "servers": [
             {
@@ -2440,20 +1993,6 @@
     },
     {
         "id": null,
-        "name": "Match Premier Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/match-premier"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/match-premier"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Match TV RU",
         "servers": [
             {
@@ -2463,20 +2002,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20TV&code=ru&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Match TV Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/match-tv"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/match-tv"
             }
         ]
     },
@@ -2594,20 +2119,6 @@
     },
     {
         "id": null,
-        "name": "Matrix Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Mattel Jr. (720p)",
         "servers": [
             {
@@ -2664,20 +2175,6 @@
     },
     {
         "id": null,
-        "name": "MAVTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mavtv-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mavtv-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Max & Ruby",
         "servers": [
             {
@@ -2720,34 +2217,6 @@
     },
     {
         "id": null,
-        "name": "Max Sport 1 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-1"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-1"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Max Sport 1 Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/max-sport-croatia-1"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/max-sport-croatia-1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Max Sport 2 BG",
         "servers": [
             {
@@ -2757,34 +2226,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Max Sport 2 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-2"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-2"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Max Sport 2 Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/max-sport-croatia-2"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/max-sport-croatia-2"
             }
         ]
     },
@@ -2804,20 +2245,6 @@
     },
     {
         "id": null,
-        "name": "Max Sport 3 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-3"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-3"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Max Sport 4 BG",
         "servers": [
             {
@@ -2827,20 +2254,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Max Sport 4 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-4"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/max-sport-bulgaria-4"
             }
         ]
     },
@@ -3084,20 +2497,6 @@
     },
     {
         "id": null,
-        "name": "MBC 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC 1 (1080p)",
         "servers": [
             {
@@ -3140,34 +2539,6 @@
     },
     {
         "id": null,
-        "name": "MBC 2 Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://37.122.156.107:4000/play/a07g/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://37.122.156.107:4000/play/a07g/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC 3 USA (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -3177,20 +2548,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC 4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"
             }
         ]
     },
@@ -3210,20 +2567,6 @@
     },
     {
         "id": null,
-        "name": "MBC 5",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC 5 (1080p)",
         "servers": [
             {
@@ -3233,20 +2576,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Action Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://37.122.156.107:4000/play/a07h/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://37.122.156.107:4000/play/a07h/index.m3u8"
             }
         ]
     },
@@ -3275,20 +2604,6 @@
             {
                 "name": "URL",
                 "link": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Bollywood",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
             }
         ]
     },
@@ -3387,20 +2702,6 @@
             {
                 "name": "URL",
                 "link": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Drama",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
             }
         ]
     },
@@ -3574,34 +2875,6 @@
     },
     {
         "id": null,
-        "name": "MBC Masr 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Masr 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC Masr 2 (1080p)",
         "servers": [
             {
@@ -3639,20 +2912,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Max Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://37.122.156.107:4000/play/a07i/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://37.122.156.107:4000/play/a07i/index.m3u8"
             }
         ]
     },
@@ -3700,20 +2959,6 @@
     },
     {
         "id": null,
-        "name": "MBC Persia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC Persia (1080p)",
         "servers": [
             {
@@ -3723,20 +2968,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8"
             }
         ]
     },
@@ -3980,20 +3211,6 @@
     },
     {
         "id": null,
-        "name": "MDR DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mdr-de"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mdr-de"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MDR Fernsehen Sachsen (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4031,48 +3248,6 @@
             {
                 "name": "URL",
                 "link": "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MDR Sachsen Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MDR Sachsen-Anhalt Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MDR Thüringen Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8"
             }
         ]
     },
@@ -4260,20 +3435,6 @@
     },
     {
         "id": null,
-        "name": "Mediaset Extra Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MediBizTV (720p)",
         "servers": [
             {
@@ -4316,20 +3477,6 @@
     },
     {
         "id": null,
-        "name": "Mediterranea Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream1.aswifi.it/mediterraneatv/live/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream1.aswifi.it/mediterraneatv/live/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MediterraniaTV (1080p)",
         "servers": [
             {
@@ -4358,20 +3505,6 @@
     },
     {
         "id": null,
-        "name": "Medjugorje Italia Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Medjugorje Italia TV (480p)",
         "servers": [
             {
@@ -4381,20 +3514,6 @@
             {
                 "name": "URL",
                 "link": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Medjugorje Tv Puglia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8"
             }
         ]
     },
@@ -4423,20 +3542,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-691b453846ca5e6d1665f03b.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mega",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://212.79.122.11:5014/udp/239.255.6.40:1234"
-            },
-            {
-                "name": "URL",
-                "link": "http://212.79.122.11:5014/udp/239.255.6.40:1234"
             }
         ]
     },
@@ -4493,34 +3598,6 @@
             {
                 "name": "URL",
                 "link": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mega News",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mega Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.189.225.150:85/mega/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.189.225.150:85/mega/index.m3u8"
             }
         ]
     },
@@ -4635,11 +3712,6 @@
                 "link": "http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8"
             }
         ]
-    },
-    {
-        "id": "3068",
-        "name": "MEGOGO Football 1 Ukrain",
-        "servers": []
     },
     {
         "id": null,
@@ -4895,20 +3967,6 @@
     },
     {
         "id": null,
-        "name": "Mesogeios TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtmp.win:3793/live/mesogeiostvlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Mesogeios TV (720p)",
         "servers": [
             {
@@ -4988,20 +4046,6 @@
             {
                 "name": "URL",
                 "link": "https://streaming.meteonews.net/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Metro Globe Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
             }
         ]
     },
@@ -5119,20 +4163,6 @@
     },
     {
         "id": null,
-        "name": "METV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/metv-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/metv-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "meWATCH LIVE 1 (1080p)",
         "servers": [
             {
@@ -5175,20 +4205,6 @@
     },
     {
         "id": null,
-        "name": "Mezzo (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-3.otcnet.ru/Mezzo/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-3.otcnet.ru/Mezzo/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Mezzo Live (1080p)",
         "servers": [
             {
@@ -5198,20 +4214,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/276/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mədəniyyət TV Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://str.yodacdn.net/medeniyyet/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://str.yodacdn.net/medeniyyet/index.m3u8"
             }
         ]
     },
@@ -5240,20 +4242,6 @@
             {
                 "name": "URL",
                 "link": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MGM+ USA / Epix",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mgm-plus-epix-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mgm-plus-epix-usa"
             }
         ]
     },
@@ -5622,11 +4610,6 @@
         ]
     },
     {
-        "id": "7011",
-        "name": "Migu TV",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "Mihan TV",
         "servers": [
@@ -5833,20 +4816,6 @@
             {
                 "name": "URL",
                 "link": "https://mp.panelchs.com:1936/8044/8044/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Minformo Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8"
             }
         ]
     },
@@ -6146,20 +5115,6 @@
     },
     {
         "id": null,
-        "name": "Miskolc TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://video.mhzrt.hu/live/mitv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://video.mhzrt.hu/live/mitv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Mission Asia (1080p)",
         "servers": [
             {
@@ -6402,11 +5357,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/mlbnetwork-usa"
+                "link": "https://cdx-08192.website/embed/mlbnetwork-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/mlbnetwork-usa"
+                "link": "https://cdx-08192.website/embed/mlbnetwork-usa"
             }
         ]
     },
@@ -6440,20 +5395,6 @@
     },
     {
         "id": null,
-        "name": "MLB Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mlb-network-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mlb-network-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MLB Strike Zone (720p)",
         "servers": [
             {
@@ -6463,20 +5404,6 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MM Somali TV Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8"
             }
         ]
     },
@@ -6505,20 +5432,6 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/M1_Global/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MMC TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV"
             }
         ]
     },
@@ -6575,20 +5488,6 @@
             {
                 "name": "URL",
                 "link": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mnet",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
             }
         ]
     },
@@ -6682,11 +5581,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8"
+                "link": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amogonetworx-moconomy-2-us.tcl.wurl.tv/playlist.m3u8"
+                "link": "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8"
             }
         ]
     },
@@ -6888,20 +5787,6 @@
     },
     {
         "id": null,
-        "name": "Moldova 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova1"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Moldova 1 (1080p)",
         "servers": [
             {
@@ -6911,20 +5796,6 @@
             {
                 "name": "URL",
                 "link": "https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Moldova 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova2"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova2"
             }
         ]
     },
@@ -7000,20 +5871,6 @@
     },
     {
         "id": null,
-        "name": "MonacoInfo",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://webtvmonacoinfo.mc/live/prod_720/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://webtvmonacoinfo.mc/live/prod_720/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Monagas Visión (720p) [Not 24/7]",
         "servers": [
             {
@@ -7037,20 +5894,6 @@
             {
                 "name": "URL",
                 "link": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MONDO TV KIDS",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -7135,20 +5978,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68e8fe3bcba140ddfe903677.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Monster Jam – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
             }
         ]
     },
@@ -7275,20 +6104,6 @@
             {
                 "name": "URL",
                 "link": "http://live.greektv.ca/hls1/greektv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Monumental Sports Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/monumental-sports-network"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/monumental-sports-network"
             }
         ]
     },
@@ -7517,11 +6332,6 @@
         ]
     },
     {
-        "id": "9005",
-        "name": "Morocco Stream",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "MorroTV (720p) [Not 24/7]",
         "servers": [
@@ -7653,11 +6463,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/motpgp-tv"
+                "link": "https://cdx-08192.website/embed/motpgp-tv"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/motpgp-tv"
+                "link": "https://cdx-08192.website/embed/motpgp-tv"
             }
         ]
     },
@@ -7672,48 +6482,6 @@
             {
                 "name": "URL",
                 "link": "https://d1kqz1q7knpsue.cloudfront.net/MotoGP.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Motor Trend",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/motor-trend"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/motor-trend"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Motor1TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Motori Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8"
             }
         ]
     },
@@ -7770,20 +6538,6 @@
             {
                 "name": "URL",
                 "link": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Motowizja Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/motowizja"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/motowizja"
             }
         ]
     },
@@ -8041,34 +6795,6 @@
     },
     {
         "id": null,
-        "name": "Movistar Deportes 2 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-deportes-2"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-deportes-2"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movistar Deportes 3 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-deportes-3"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-deportes-3"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Movistar Deportes 4 ES",
         "servers": [
             {
@@ -8078,39 +6804,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%204&code=es&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movistar Deportes 4 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-deportes-4-alt1"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-deportes-4-alt1"
-            }
-        ]
-    },
-    {
-        "id": "184",
-        "name": "Movistar Deportes 8 Spain",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "Movistar Deportes Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-deportes-4"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-deportes-4"
             }
         ]
     },
@@ -8130,63 +6823,6 @@
     },
     {
         "id": null,
-        "name": "Movistar Golf Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-golf"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-golf"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movistar Laliga",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-laliga"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-laliga"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movistar Liga de Campeones",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-liga-de-campeones"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-liga-de-campeones"
-            }
-        ]
-    },
-    {
-        "id": "172",
-        "name": "Movistar Liga de Campeones 2",
-        "servers": []
-    },
-    {
-        "id": "166",
-        "name": "Movistar Liga de Campeones 7",
-        "servers": []
-    },
-    {
-        "id": "77",
-        "name": "Movistar Liga de Campeones 9",
-        "servers": []
-    },
-    {
-        "id": null,
         "name": "Movistar Plus (576p)",
         "servers": [
             {
@@ -8198,30 +6834,6 @@
                 "link": "http://45.4.1.201:8000/play/a19y/index.m3u8"
             }
         ]
-    },
-    {
-        "id": "437",
-        "name": "Movistar Supercopa de Espana",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "Movistar Supercopa de España",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/movistar-supercopa-de-espana"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/movistar-supercopa-de-espana"
-            }
-        ]
-    },
-    {
-        "id": "3027",
-        "name": "Movistar+ Spain",
-        "servers": []
     },
     {
         "id": null,
@@ -8379,34 +6991,6 @@
     },
     {
         "id": null,
-        "name": "MRT 2 Sat",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU="
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT Sat",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDU6NDMgUE0maGFzaF92YWx1ZT1XVzZCQVZaRysvOEU0M2Z5VHNYNUl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3Njk3ODdkNmU="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/45/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDU6NDMgUE0maGFzaF92YWx1ZT1XVzZCQVZaRysvOEU0M2Z5VHNYNUl3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3Njk3ODdkNmU="
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MRT Sobraniski kanal [Geo-blocked]",
         "servers": [
             {
@@ -8416,90 +7000,6 @@
             {
                 "name": "URL",
                 "link": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT Sobraniski kanal Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzA6MTQgUE0maGFzaF92YWx1ZT0yS29FektrRDdpNXpza1hhV01kcENRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MmY2MzcwMzg="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzA6MTQgUE0maGFzaF92YWx1ZT0yS29FektrRDdpNXpza1hhV01kcENRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MmY2MzcwMzg="
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT1 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM="
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT2 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q="
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT3 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI="
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT4 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc="
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRT5 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI="
-            },
-            {
-                "name": "URL",
-                "link": "https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI="
             }
         ]
     },
@@ -8673,34 +7173,6 @@
     },
     {
         "id": null,
-        "name": "MSG USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/msg"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/msg"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MSNBC",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/msnbc"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/msnbc"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MST3K (1080p)",
         "servers": [
             {
@@ -8831,11 +7303,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8"
+                "link": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8"
+                "link": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8"
             }
         ]
     },
@@ -8971,11 +7443,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/mtv-usa"
+                "link": "https://cdx-08192.website/embed/mtv-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/mtv-usa"
+                "link": "https://cdx-08192.website/embed/mtv-usa"
             }
         ]
     },
@@ -9009,20 +7481,6 @@
     },
     {
         "id": null,
-        "name": "MTV Ava",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MTV Ava (720p)",
         "servers": [
             {
@@ -9032,20 +7490,6 @@
             {
                 "name": "URL",
                 "link": "https://live-fi.tvkaista.net/ava/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV Azerbaijan Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan"
             }
         ]
     },
@@ -9200,20 +7644,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mtv-denmark"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mtv-denmark"
             }
         ]
     },
@@ -9414,11 +7844,6 @@
         ]
     },
     {
-        "id": "990",
-        "name": "MTV Poland",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "MTV Reality",
         "servers": [
@@ -9560,20 +7985,6 @@
     },
     {
         "id": null,
-        "name": "MTV Sub",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MTV Sub (720p)",
         "servers": [
             {
@@ -9602,59 +8013,7 @@
     },
     {
         "id": null,
-        "name": "MTV UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mtv"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mtv"
-            }
-        ]
-    },
-    {
-        "id": "3071",
-        "name": "MTV Urheilu 1",
-        "servers": []
-    },
-    {
-        "id": "3070",
-        "name": "MTV Urheilu 1 Finland",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "MTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mtv-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mtv-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MTV Uutiset (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV Uutiset Live",
         "servers": [
             {
                 "name": "Main Server",
@@ -9691,20 +8050,6 @@
             {
                 "name": "URL",
                 "link": "http://40.160.24.53/MTV2/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv"
             }
         ]
     },
@@ -9878,20 +8223,6 @@
     },
     {
         "id": null,
-        "name": "Multivision (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.picta.cu/multivision/multivision_1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.picta.cu/multivision/multivision_1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Multivisión Canal 3 (720p) [Not 24/7]",
         "servers": [
             {
@@ -9971,20 +8302,6 @@
             {
                 "name": "URL",
                 "link": "https://video.ipstream.cl:3710/hybrid/play.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mundotoro TV Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mundotoro-tv-spain"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mundotoro-tv-spain"
             }
         ]
     },
@@ -10172,20 +8489,6 @@
     },
     {
         "id": null,
-        "name": "Music Channel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://media.boni-records.com/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://media.boni-records.com/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Music India (720p) [Not 24/7]",
         "servers": [
             {
@@ -10200,20 +8503,6 @@
     },
     {
         "id": null,
-        "name": "Music ON TV!（エムオン）",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Music TV Granada (1080p) [Not 24/7]",
         "servers": [
             {
@@ -10223,20 +8512,6 @@
             {
                 "name": "URL",
                 "link": "https://cloudvideo.servers10.com:8081/8032/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MUSICPlus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://s02.diazol.hu:10192/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://s02.diazol.hu:10192/stream.m3u8"
             }
         ]
     },
@@ -10270,20 +8545,6 @@
     },
     {
         "id": null,
-        "name": "Mutant X – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MUTV (720p)",
         "servers": [
             {
@@ -10293,20 +8554,6 @@
             {
                 "name": "URL",
                 "link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MUTV UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/mutv-uk"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/mutv-uk"
             }
         ]
     },
@@ -10433,20 +8680,6 @@
             {
                 "name": "URL",
                 "link": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MVM NoticiasⓈ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8"
             }
         ]
     },
@@ -10648,20 +8881,6 @@
     },
     {
         "id": null,
-        "name": "MY9TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/my9tv-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/my9tv-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Mysteries Xplored (720p)",
         "servers": [
             {
@@ -10839,6 +9058,20 @@
             {
                 "name": "URL",
                 "link": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Myx (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknsd/myx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknsd/myx/playlist.m3u8"
             }
         ]
     },

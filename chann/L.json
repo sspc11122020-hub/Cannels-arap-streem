@@ -29,39 +29,6 @@
     },
     {
         "id": null,
-        "name": "L'Altro Corriere Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "L'Équipe ⒹⒼ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.dailymotion.com/video/x2lefik"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.dailymotion.com/video/x2lefik"
-            }
-        ]
-    },
-    {
-        "id": "645",
-        "name": "L'Equipe France",
-        "servers": []
-    },
-    {
-        "id": null,
         "name": "L1 (1080p)",
         "servers": [
             {
@@ -90,20 +57,6 @@
     },
     {
         "id": null,
-        "name": "L1 Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "L1mburg TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -113,48 +66,6 @@
             {
                 "name": "URL",
                 "link": "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 1 (Canarias)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 1 (Catalunya)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
             }
         ]
     },
@@ -220,39 +131,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
+                "link": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 2 (Canarias)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 2 (Catalunya)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
+                "link": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
             }
         ]
     },
@@ -281,34 +164,6 @@
             {
                 "name": "URL",
                 "link": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 5 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La 8 Mediterráneo",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming004.gestec-video.com/hls/8TV.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming004.gestec-video.com/hls/8TV.m3u8"
             }
         ]
     },
@@ -636,20 +491,6 @@
     },
     {
         "id": null,
-        "name": "La Nuova Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "La Nuova TV",
         "servers": [
             {
@@ -659,20 +500,6 @@
             {
                 "name": "URL",
                 "link": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La Otra",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://laotra-1-23-secure2.akamaized.net/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://laotra-1-23-secure2.akamaized.net/master.m3u8"
             }
         ]
     },
@@ -790,34 +617,6 @@
     },
     {
         "id": null,
-        "name": "La Sexta",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://185.189.225.150:85/LaSexta/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://185.189.225.150:85/LaSexta/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La Sexta Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/la-sexta-spain"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/la-sexta-spain"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "La Sultana del Este TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -860,20 +659,6 @@
     },
     {
         "id": null,
-        "name": "La Tenda Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "La Top 102.9 (720p)",
         "servers": [
             {
@@ -902,20 +687,6 @@
     },
     {
         "id": null,
-        "name": "La tr3 Marsala",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "La TR3 Marsala (720p)",
         "servers": [
             {
@@ -925,20 +696,6 @@
             {
                 "name": "URL",
                 "link": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La Trois",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts"
-            },
-            {
-                "name": "URL",
-                "link": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts"
             }
         ]
     },
@@ -958,20 +715,6 @@
     },
     {
         "id": null,
-        "name": "La Une",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "La Une (720p)",
         "servers": [
             {
@@ -983,11 +726,6 @@
                 "link": "http://145.239.5.177/329/index.m3u8"
             }
         ]
-    },
-    {
-        "id": "3049",
-        "name": "La Une Belgim 2",
-        "servers": []
     },
     {
         "id": null,
@@ -1075,48 +813,6 @@
     },
     {
         "id": null,
-        "name": "La7",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La7 Cinema",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La7 Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/la7"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/la7"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "LA7d (720p)",
         "servers": [
             {
@@ -1126,34 +822,6 @@
             {
                 "name": "URL",
                 "link": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LA7d HD+ Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/la7d"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/la7d"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lab Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8"
             }
         ]
     },
@@ -1201,20 +869,6 @@
     },
     {
         "id": null,
-        "name": "LaC News 24",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "LaC News 24 (720p)",
         "servers": [
             {
@@ -1224,20 +878,6 @@
             {
                 "name": "URL",
                 "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LaC Tv Calabria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
             }
         ]
     },
@@ -1383,20 +1023,6 @@
     },
     {
         "id": null,
-        "name": "LaLa TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Lalegul TV (1080p)",
         "servers": [
             {
@@ -1415,11 +1041,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=hypermotion1"
+                "link": "https://streamtp-golden1.click/global1.php?stream=hypermotion1"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=hypermotion1"
+                "link": "https://streamtp-golden1.click/global2.php?stream=hypermotion1"
             }
         ]
     },
@@ -1429,11 +1055,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=hypermotion2"
+                "link": "https://streamtp-golden1.click/global1.php?stream=hypermotion2"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=hypermotion2"
+                "link": "https://streamtp-golden1.click/global2.php?stream=hypermotion2"
             }
         ]
     },
@@ -1443,25 +1069,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=hypermotion3"
+                "link": "https://streamtp-golden1.click/global1.php?stream=hypermotion3"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=hypermotion3"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LaLiga SmartBank TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/laliga-smartbank-tv"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/laliga-smartbank-tv"
+                "link": "https://streamtp-golden1.click/global2.php?stream=hypermotion3"
             }
         ]
     },
@@ -1476,25 +1088,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": "108",
-        "name": "LALIGA TV Hypermotion 2",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "LaLigaTV UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/laligatv-uk"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/laligatv-uk"
             }
         ]
     },
@@ -1766,20 +1359,6 @@
     },
     {
         "id": null,
-        "name": "Las Estrellas",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-416.frequency.stream/416/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-416.frequency.stream/416/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Las Estrellas (1080p)",
         "servers": [
             {
@@ -1952,20 +1531,6 @@
     },
     {
         "id": null,
-        "name": "Latina TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Latina TV (1080p)",
         "servers": [
             {
@@ -2106,20 +1671,6 @@
     },
     {
         "id": null,
-        "name": "Law & Crime Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/law-crime-network"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/law-crime-network"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Law & Order (720p)",
         "servers": [
             {
@@ -2143,20 +1694,6 @@
             {
                 "name": "URL",
                 "link": "https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lazio Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
             }
         ]
     },
@@ -2203,11 +1740,6 @@
         ]
     },
     {
-        "id": "962",
-        "name": "LCI France",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "LCI HD (1080p)",
         "servers": [
@@ -2232,34 +1764,6 @@
             {
                 "name": "URL",
                 "link": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LCP",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lcp.fr/le-live-lcp-tnt-5433"
-            },
-            {
-                "name": "URL",
-                "link": "https://lcp.fr/le-live-lcp-tnt-5433"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Le Cronache Lucane Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stucazz.com:8888/hls/cronache.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stucazz.com:8888/hls/cronache.m3u8"
             }
         ]
     },
@@ -2372,34 +1876,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Le sorelle mcleod – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Le vite degli altri – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
             }
         ]
     },
@@ -2741,20 +2217,6 @@
     },
     {
         "id": null,
-        "name": "Lepanto",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Lepanto TV",
         "servers": [
             {
@@ -3021,20 +2483,6 @@
     },
     {
         "id": null,
-        "name": "Libertas TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.luci.xyz/hls/LTV.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.luci.xyz/hls/LTV.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Libertas TV (1080p)",
         "servers": [
             {
@@ -3058,20 +2506,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Líceum TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://193.225.32.62:8890/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://193.225.32.62:8890/live.m3u8"
             }
         ]
     },
@@ -3114,20 +2548,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lietuvos Rytas TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.lietuvosryto.tv/live/hls/eteris.m3u8"
             }
         ]
     },
@@ -3226,34 +2646,6 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Life TV Estonia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lifetv.bitflip.ee/live/stream2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lifetv.bitflip.ee/live/stream2.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Life TV Europe",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lifetv.bitflip.ee/live/stream1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lifetv.bitflip.ee/live/stream1.m3u8"
             }
         ]
     },
@@ -3399,34 +2791,6 @@
     },
     {
         "id": null,
-        "name": "Lifetime Movies Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/lifetime-movies-network"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/lifetime-movies-network"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lifetime Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/lifetime-network"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/lifetime-network"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Lifetime Real Women (576p)",
         "servers": [
             {
@@ -3487,11 +2851,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=liga1max"
+                "link": "https://streamtp-golden1.click/global1.php?stream=liga1max"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=liga1max"
+                "link": "https://streamtp-golden1.click/global2.php?stream=liga1max"
             }
         ]
     },
@@ -3754,11 +3118,6 @@
         ]
     },
     {
-        "id": "3052",
-        "name": "Ligue1+ 7 France",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "Lila TV Pencahue",
         "servers": [
@@ -3857,11 +3216,6 @@
         ]
     },
     {
-        "id": "1515",
-        "name": "LINK 2",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "LINQ TV (480p)",
         "servers": [
@@ -3886,20 +3240,6 @@
             {
                 "name": "URL",
                 "link": "http://103.159.180.34:5001/live/2327.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lira Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
             }
         ]
     },
@@ -4073,20 +3413,6 @@
     },
     {
         "id": null,
-        "name": "Liv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Liv (720p)",
         "servers": [
             {
@@ -4142,11 +3468,6 @@
         ]
     },
     {
-        "id": "7002",
-        "name": "Live Stream",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "Live99FM (1080p)",
         "servers": [
@@ -4162,20 +3483,6 @@
     },
     {
         "id": null,
-        "name": "LiveNOW from FOX",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lnc-fox-live-now.tubi.video/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lnc-fox-live-now.tubi.video/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "LiveNOW from FOX (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4185,20 +3492,6 @@
             {
                 "name": "URL",
                 "link": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Liverpool TV (LFC TV)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/liverpool-tv-lfc-tv"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/liverpool-tv-lfc-tv"
             }
         ]
     },
@@ -4283,34 +3576,6 @@
             {
                 "name": "URL",
                 "link": "https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LN+ Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/c/LaNacionMas/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/c/LaNacionMas/live"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LN24",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"
             }
         ]
     },
@@ -4442,20 +3707,6 @@
     },
     {
         "id": null,
-        "name": "Logo TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/logo-tv-usa"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/logo-tv-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Logos TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -4521,20 +3772,6 @@
             {
                 "name": "URL",
                 "link": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lokal-TV Uddevalla / Fyrbodal-TV Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/@LtvuSeTube/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/@LtvuSeTube/live"
             }
         ]
     },
@@ -4619,20 +3856,6 @@
             {
                 "name": "URL",
                 "link": "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lombardia Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8"
             }
         ]
     },
@@ -5114,20 +4337,6 @@
     },
     {
         "id": null,
-        "name": "Love in Venice",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Love Island Danmark",
         "servers": [
             {
@@ -5324,20 +4533,6 @@
     },
     {
         "id": null,
-        "name": "Love TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Love TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -5361,20 +4556,6 @@
             {
                 "name": "URL",
                 "link": "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lóverseny közvetítés",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8"
             }
         ]
     },
@@ -5492,20 +4673,6 @@
     },
     {
         "id": null,
-        "name": "LRT Lituanica",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream-live.lrt.lt/lituanica/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream-live.lrt.lt/lituanica/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "LRT Lituanica (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -5557,20 +4724,6 @@
             {
                 "name": "URL",
                 "link": "https://stream-live.lrt.lt/radijas/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LRT TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8"
             }
         ]
     },
@@ -5632,20 +4785,6 @@
     },
     {
         "id": null,
-        "name": "LTV1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ltvlive3167.bstrm.net/slive/_definst_/ltvlive_dzsv1_8wg_43518_default_1710_hls.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ltvlive3167.bstrm.net/slive/_definst_/ltvlive_dzsv1_8wg_43518_default_1710_hls.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "LTV1 (720p)",
         "servers": [
             {
@@ -5669,34 +4808,6 @@
             {
                 "name": "URL",
                 "link": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LTV7 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ltvlive3167.bstrm.net/slive/_definst_/ltvlive_event_3_pg2_44004_default_2306_hls.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ltvlive3167.bstrm.net/slive/_definst_/ltvlive_event_3_pg2_44004_default_2306_hls.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lucania Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8"
             }
         ]
     },
@@ -5879,20 +4990,6 @@
             {
                 "name": "URL",
                 "link": "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lychnos",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://thor.mental-media.gr:19360/imp/imp.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://thor.mental-media.gr:19360/imp/imp.m3u8"
             }
         ]
     },

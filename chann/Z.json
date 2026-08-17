@@ -71,20 +71,6 @@
     },
     {
         "id": null,
-        "name": "Zagros TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zagros TV (1080p)",
         "servers": [
             {
@@ -108,20 +94,6 @@
             {
                 "name": "URL",
                 "link": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zalaegerszeg TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
             }
         ]
     },
@@ -317,25 +289,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/zdf"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/zdf"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ZDF Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -345,11 +303,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/zdf-info"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/zdf-info"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -369,20 +327,6 @@
     },
     {
         "id": null,
-        "name": "ZDFinfo Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ZDFneo (720p) [Geo-blocked]",
         "servers": [
             {
@@ -392,20 +336,6 @@
             {
                 "name": "URL",
                 "link": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ZDFneo Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8"
             }
         ]
     },
@@ -1069,34 +999,6 @@
     },
     {
         "id": null,
-        "name": "Zerouno Tv Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zerouno Tv News",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ZFM Zoetermeer (720p)",
         "servers": [
             {
@@ -1185,11 +1087,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-2"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-2"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1199,11 +1101,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-3"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-3"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1213,11 +1115,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-4"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-4"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1241,11 +1143,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-5"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-5"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1255,25 +1157,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-6-alt1"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-6-alt1"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ziggo Sport NL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-6"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/ziggo-sport-nl-6"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1624,20 +1512,6 @@
             {
                 "name": "URL",
                 "link": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zugló TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
             }
         ]
     },

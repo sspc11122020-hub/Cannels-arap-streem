@@ -169,39 +169,6 @@
     },
     {
         "id": null,
-        "name": "Dacwa TV Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dajto",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Dajto"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Dajto"
-            }
-        ]
-    },
-    {
-        "id": "1051",
-        "name": "Dajto SK",
-        "servers": []
-    },
-    {
-        "id": null,
         "name": "Dali TV (大立電視台) (720p)",
         "servers": [
             {
@@ -301,20 +268,6 @@
     {
         "id": null,
         "name": "Dance Television (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dance TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -523,11 +476,6 @@
         ]
     },
     {
-        "id": "225",
-        "name": "Darts borad 2",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "Daru TV (720p)",
         "servers": [
@@ -552,20 +500,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Das%20Erste&code=de&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Das Erste Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8"
             }
         ]
     },
@@ -683,20 +617,6 @@
     },
     {
         "id": null,
-        "name": "Dave",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dave"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dave"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dawson",
         "servers": [
             {
@@ -739,20 +659,6 @@
     },
     {
         "id": null,
-        "name": "DAZN 1 Bar DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-1-bar-de"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-1-bar-de"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DAZN 1 DE",
         "servers": [
             {
@@ -785,11 +691,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/dazn1-de"
+                "link": "https://cdx-08192.website/embed/dazn1-de"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/dazn1-de"
+                "link": "https://cdx-08192.website/embed/dazn1-de"
             }
         ]
     },
@@ -799,11 +705,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/dazn1-it"
+                "link": "https://cdx-08192.website/embed/dazn1-it"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/dazn1-it"
+                "link": "https://cdx-08192.website/embed/dazn1-it"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DAZN 1 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/dazn1-pt"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/dazn1-pt"
             }
         ]
     },
@@ -813,25 +733,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/dazn1-es"
+                "link": "https://cdx-08192.website/embed/dazn1-es"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/dazn1-es"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DAZN 1 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-1-uk"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-1-uk"
+                "link": "https://cdx-08192.website/embed/dazn1-es"
             }
         ]
     },
@@ -841,25 +747,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/dazn1-usa"
+                "link": "https://cdx-08192.website/embed/dazn1-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/dazn1-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DAZN 2 Bar DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-2-bar-de"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-2-bar-de"
+                "link": "https://cdx-08192.website/embed/dazn1-usa"
             }
         ]
     },
@@ -883,11 +775,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/dazn2-de"
+                "link": "https://cdx-08192.website/embed/dazn2-de"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/dazn2-de"
+                "link": "https://cdx-08192.website/embed/dazn2-de"
             }
         ]
     },
@@ -911,11 +803,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/dazn2-es"
+                "link": "https://cdx-08192.website/embed/dazn2-es"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/dazn2-es"
+                "link": "https://cdx-08192.website/embed/dazn2-es"
             }
         ]
     },
@@ -935,20 +827,6 @@
     },
     {
         "id": null,
-        "name": "DAZN 3 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-3-spain"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-3-spain"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DAZN 4 PT",
         "servers": [
             {
@@ -958,20 +836,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204&code=pt&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DAZN 4 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-4-spain"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-4-spain"
             }
         ]
     },
@@ -1002,11 +866,6 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206&code=pt&user=cdnlivetv&plan=free"
             }
         ]
-    },
-    {
-        "id": "226",
-        "name": "DAZN Baloncesto",
-        "servers": []
     },
     {
         "id": null,
@@ -1045,11 +904,6 @@
         ]
     },
     {
-        "id": "227",
-        "name": "DAZN Baloncesto 2",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "dazn baloncesto 3",
         "servers": [
@@ -1066,11 +920,6 @@
                 "link": "https://bolaloca.my/player/3/157"
             }
         ]
-    },
-    {
-        "id": "6034",
-        "name": "DAZN Belgium",
-        "servers": []
     },
     {
         "id": null,
@@ -1101,26 +950,16 @@
         ]
     },
     {
-        "id": "3099",
-        "name": "DAZN DE",
-        "servers": []
-    },
-    {
-        "id": "5003",
-        "name": "DAZN ES",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "DAZN F1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/daznf1-es"
+                "link": "https://cdx-08192.website/embed/daznf1-es"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/daznf1-es"
+                "link": "https://cdx-08192.website/embed/daznf1-es"
             }
         ]
     },
@@ -1130,18 +969,13 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-f1-es"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-f1-es"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=cdnlivetv&plan=free"
             }
         ]
-    },
-    {
-        "id": "179",
-        "name": "DAZN France",
-        "servers": []
     },
     {
         "id": null,
@@ -1158,28 +992,18 @@
         ]
     },
     {
-        "id": "3047",
-        "name": "DAZN IT",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "DAZN LaLiga",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-laliga"
+                "link": "https://cdx-08192.website/embed/daznlaliga-es"
             },
             {
                 "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-laliga"
+                "link": "https://cdx-08192.website/embed/daznlaliga-es"
             }
         ]
-    },
-    {
-        "id": "205",
-        "name": "DAZN LaLiga 2",
-        "servers": []
     },
     {
         "id": null,
@@ -1208,55 +1032,6 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free"
             }
         ]
-    },
-    {
-        "id": "960",
-        "name": "DAZN Ligue 1 France",
-        "servers": []
-    },
-    {
-        "id": "3030",
-        "name": "DAZN MotoGP ES",
-        "servers": []
-    },
-    {
-        "id": "4000",
-        "name": "DAZN Mundial",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "DAZN Portugal FIFA Mundial de Clubes",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-portugal-fifa-mundial-de-clubes"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-portugal-fifa-mundial-de-clubes"
-            }
-        ]
-    },
-    {
-        "id": "3006",
-        "name": "DAZN PPP",
-        "servers": []
-    },
-    {
-        "id": "161",
-        "name": "DAZN PPV",
-        "servers": []
-    },
-    {
-        "id": "6036",
-        "name": "DAZN PPV Box",
-        "servers": []
-    },
-    {
-        "id": "3045",
-        "name": "DAZN Pro League 2",
-        "servers": []
     },
     {
         "id": null,
@@ -1313,40 +1088,6 @@
                 "link": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8"
             }
         ]
-    },
-    {
-        "id": "1067",
-        "name": "DAZN USA",
-        "servers": []
-    },
-    {
-        "id": "55",
-        "name": "DAZN Zona 2 IT",
-        "servers": []
-    },
-    {
-        "id": null,
-        "name": "DAZN ZONA Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dazn-zona-italy"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dazn-zona-italy"
-            }
-        ]
-    },
-    {
-        "id": "3017",
-        "name": "DAZN1 DE 2",
-        "servers": []
-    },
-    {
-        "id": "3018",
-        "name": "DAZN2 DE 2",
-        "servers": []
     },
     {
         "id": null,
@@ -1518,20 +1259,6 @@
     },
     {
         "id": null,
-        "name": "DD Bharati Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/@ddbharati/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/@ddbharati/live"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DD Bihar (720p)",
         "servers": [
             {
@@ -1630,20 +1357,6 @@
     },
     {
         "id": null,
-        "name": "DD India",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DD India (1080p)",
         "servers": [
             {
@@ -1653,20 +1366,6 @@
             {
                 "name": "URL",
                 "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DD India Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/DDIndia/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/DDIndia/live"
             }
         ]
     },
@@ -1709,20 +1408,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-6.pishow.tv/live/9/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DD Kisan Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/@DDKisan/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/@DDKisan/live"
             }
         ]
     },
@@ -1840,20 +1525,6 @@
     },
     {
         "id": null,
-        "name": "DD National Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/doordarshan/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/doordarshan/live"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DD News",
         "servers": [
             {
@@ -1877,20 +1548,6 @@
             {
                 "name": "URL",
                 "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DD News Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/c/ddnews/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/c/ddnews/live"
             }
         ]
     },
@@ -2017,20 +1674,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-4.pishow.tv/live/8/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DD Urdu Ⓨ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.youtube.com/@DDUrdu/live"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.youtube.com/@DDUrdu/live"
             }
         ]
     },
@@ -2534,20 +2177,6 @@
     },
     {
         "id": null,
-        "name": "Deejay TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Deejay TV (1080p)",
         "servers": [
             {
@@ -2716,34 +2345,6 @@
     },
     {
         "id": null,
-        "name": "Delta Evros",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Delta Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Delta TV",
         "servers": [
             {
@@ -2800,20 +2401,6 @@
     },
     {
         "id": null,
-        "name": "Deluxe 139",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Deluxe 139 (480p)",
         "servers": [
             {
@@ -2856,48 +2443,6 @@
     },
     {
         "id": null,
-        "name": "Deluxe Lounge HD",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Deluxe Lounge HD – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6278ec6c33d85a00077ad814/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DELUXE MUSIC",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Deluxe Music (720p)",
         "servers": [
             {
@@ -2907,34 +2452,6 @@
             {
                 "name": "URL",
                 "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DELUXE MUSIC DANCE BY KONTOR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DELUXE MUSIC RAP",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8"
             }
         ]
     },
@@ -3089,34 +2606,6 @@
             {
                 "name": "URL",
                 "link": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Deportes13 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DeporTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
             }
         ]
     },
@@ -3304,20 +2793,6 @@
     },
     {
         "id": null,
-        "name": "Destination America",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/destination-america"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/destination-america"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Det sene show med Christian Fuhlendorff",
         "servers": [
             {
@@ -3441,16 +2916,6 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Detroit%20Tigers&code=us&user=cdnlivetv&plan=free"
             }
         ]
-    },
-    {
-        "id": "3015",
-        "name": "DF1",
-        "servers": []
-    },
-    {
-        "id": "11",
-        "name": "DF1 DE",
-        "servers": []
     },
     {
         "id": null,
@@ -3608,20 +3073,6 @@
     },
     {
         "id": null,
-        "name": "Di TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Di TV (1080p)",
         "servers": [
             {
@@ -3636,20 +3087,6 @@
     },
     {
         "id": null,
-        "name": "Di.Tv 80",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DI.TV 80 (720p)",
         "servers": [
             {
@@ -3659,20 +3096,6 @@
             {
                 "name": "URL",
                 "link": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Di.Tv 92",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8"
             }
         ]
     },
@@ -3846,34 +3269,6 @@
     },
     {
         "id": null,
-        "name": "Diema Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/diema-bulgaria"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/diema-bulgaria"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Diema Family Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/diema-family-bulgaria"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/diema-family-bulgaria"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Diema Sport 2 BG",
         "servers": [
             {
@@ -3888,20 +3283,6 @@
     },
     {
         "id": null,
-        "name": "Diema Sport 2 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/diema-sport-2-bulgaria"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/diema-sport-2-bulgaria"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Diema Sport 3 BG",
         "servers": [
             {
@@ -3911,34 +3292,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Diema Sport 3 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/diema-sport-3-bulgaria"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/diema-sport-3-bulgaria"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Diema Sport Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/diema-sport-bulgaria"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/diema-sport-bulgaria"
             }
         ]
     },
@@ -4056,20 +3409,6 @@
     },
     {
         "id": null,
-        "name": "Digi Sport 1 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/digi-sport-1-romania"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/digi-sport-1-romania"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Digi Sport 2 RO",
         "servers": [
             {
@@ -4079,20 +3418,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202&code=ro&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Digi Sport 2 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/digi-sport-2-romania"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/digi-sport-2-romania"
             }
         ]
     },
@@ -4112,20 +3437,6 @@
     },
     {
         "id": null,
-        "name": "Digi Sport 3 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/digi-sport-3-romania"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/digi-sport-3-romania"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Digi Sport 4 RO",
         "servers": [
             {
@@ -4135,20 +3446,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204&code=ro&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Digi Sport 4 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/digi-sport-4-romania"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/digi-sport-4-romania"
             }
         ]
     },
@@ -4182,20 +3479,6 @@
     },
     {
         "id": null,
-        "name": "Digital Tv7 Benevento",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Digital Vision 63 (720p) [Geo-blocked]",
         "servers": [
             {
@@ -4205,34 +3488,6 @@
             {
                 "name": "URL",
                 "link": "https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dijlah Tarab",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dijlah TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ghaasiflu.online/Dijlah/tracks-v1a1/playlist.m3u8"
             }
         ]
     },
@@ -4345,20 +3600,6 @@
             {
                 "name": "URL",
                 "link": "https://d3jxyaglfha0h3.cloudfront.net/Dinos_247.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DION",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtmp.win:3650/live/diontvlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtmp.win:3650/live/diontvlive.m3u8"
             }
         ]
     },
@@ -4487,16 +3728,6 @@
         ]
     },
     {
-        "id": "1159",
-        "name": "Dirtgvision",
-        "servers": []
-    },
-    {
-        "id": "5017",
-        "name": "DirtTrackPPV",
-        "servers": []
-    },
-    {
         "id": null,
         "name": "Discover Pakistan (1080p)",
         "servers": [
@@ -4530,11 +3761,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
+                "link": "https://cdx-08192.website/embed/discovery-usa"
             },
             {
                 "name": "URL",
-                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
+                "link": "https://cdx-08192.website/embed/discovery-usa"
             }
         ]
     },
@@ -4558,25 +3789,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/discoveryfamily-usa"
+                "link": "https://cdx-08192.website/embed/discoveryfamily-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/discoveryfamily-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Discovery Life Channel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/discovery-life-channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/discovery-life-channel"
+                "link": "https://cdx-08192.website/embed/discoveryfamily-usa"
             }
         ]
     },
@@ -4586,11 +3803,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/discoveryturbo-usa"
+                "link": "https://cdx-08192.website/embed/discoveryturbo-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/discoveryturbo-usa"
+                "link": "https://cdx-08192.website/embed/discoveryturbo-usa"
             }
         ]
     },
@@ -4605,20 +3822,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Discovery Velocity CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/discovery-velocity-ca"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/discovery-velocity-ca"
             }
         ]
     },
@@ -4778,20 +3981,6 @@
     },
     {
         "id": null,
-        "name": "Disney JR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/disney-jr"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/disney-jr"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Disney Jr. (1080p)",
         "servers": [
             {
@@ -4894,11 +4083,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/disneyjunior-usa"
+                "link": "https://cdx-08192.website/embed/disneyjunior-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/disneyjunior-usa"
+                "link": "https://cdx-08192.website/embed/disneyjunior-usa"
             }
         ]
     },
@@ -4936,11 +4125,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://logic.icelanders.st/embed/disneyxd-usa"
+                "link": "https://cdx-08192.website/embed/disneyxd-usa"
             },
             {
                 "name": "URL",
-                "link": "https://logic.icelanders.st/embed/disneyxd-usa"
+                "link": "https://cdx-08192.website/embed/disneyxd-usa"
             }
         ]
     },
@@ -5025,20 +4214,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-678f8676ad083171df19ca07.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Divinity Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8"
             }
         ]
     },
@@ -5151,20 +4326,6 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dlife",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1"
             }
         ]
     },
@@ -5380,20 +4541,6 @@
     },
     {
         "id": null,
-        "name": "DMAX",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DMF (1080p) [Not 24/7]",
         "servers": [
             {
@@ -5520,20 +4667,6 @@
     },
     {
         "id": null,
-        "name": "Doctor Who – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Docu Vision (1080p)",
         "servers": [
             {
@@ -5590,34 +4723,6 @@
     },
     {
         "id": null,
-        "name": "Documentari – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Documentari – Rakuten TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rakuten-documentaries-6-eu.rakuten.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Documentary+ (1080p)",
         "servers": [
             {
@@ -5641,20 +4746,6 @@
             {
                 "name": "URL",
                 "link": "https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Docurama",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
             }
         ]
     },
@@ -5842,20 +4933,6 @@
     },
     {
         "id": null,
-        "name": "Doma",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Doma"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Doma"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Domashniy SD (576p)",
         "servers": [
             {
@@ -5940,20 +5017,6 @@
     },
     {
         "id": null,
-        "name": "Donna Shopping Tv",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Donna TV (480p)",
         "servers": [
             {
@@ -5963,20 +5026,6 @@
             {
                 "name": "URL",
                 "link": "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Donna TV Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8"
             }
         ]
     },
@@ -6318,20 +5367,6 @@
     },
     {
         "id": null,
-        "name": "DR Ramasjang Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dr. G",
         "servers": [
             {
@@ -6402,20 +5437,6 @@
     },
     {
         "id": null,
-        "name": "DR1 Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dr1-denmark"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dr1-denmark"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DR1 DK",
         "servers": [
             {
@@ -6425,20 +5446,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR1&code=dk&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DR1 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8"
             }
         ]
     },
@@ -6458,20 +5465,6 @@
     },
     {
         "id": null,
-        "name": "DR2 Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dr2-denmark"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dr2-denmark"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DR2 DK",
         "servers": [
             {
@@ -6481,20 +5474,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR2&code=dk&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DR2 Ⓖ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8"
             }
         ]
     },
@@ -6551,20 +5530,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Drammatico – Rakuten TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -6808,29 +5773,15 @@
     },
     {
         "id": null,
-        "name": "Drybar Comedy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dsports",
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=dsports"
+                "link": "https://streamtp-golden1.click/global1.php?stream=dsports"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=dsports"
+                "link": "https://streamtp-golden1.click/global2.php?stream=dsports"
             }
         ]
     },
@@ -6840,11 +5791,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=dsportsplus"
+                "link": "https://streamtp-golden1.click/global1.php?stream=dsportsplus"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=dsportsplus"
+                "link": "https://streamtp-golden1.click/global2.php?stream=dsportsplus"
             }
         ]
     },
@@ -6854,11 +5805,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp99a.sbs/global1.php?stream=dsports2"
+                "link": "https://streamtp-golden1.click/global1.php?stream=dsports2"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp99a.sbs/global2.php?stream=dsports2"
+                "link": "https://streamtp-golden1.click/global2.php?stream=dsports2"
             }
         ]
     },
@@ -6887,62 +5838,6 @@
             {
                 "name": "URL",
                 "link": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DSTV kykNET & kie",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dstv-kyknet-kie"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dstv-kyknet-kie"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DSTV M-Net",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dstv-m-net"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dstv-m-net"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DSTV Mzansi Magic",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dstv-mzansi-magic"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dstv-mzansi-magic"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8"
             }
         ]
     },
@@ -7046,174 +5941,6 @@
     },
     {
         "id": null,
-        "name": "Dubai One",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Racing 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Racing 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Racing 2 UAE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dubai-racing-2-uae"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dubai-racing-2-uae"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Racing 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Sports 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Sports 1 UAE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dubai-sports-1-uae"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dubai-sports-1-uae"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Sports 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Sports 2 UAE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dubai-sports-2-uae"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dubai-sports-2-uae"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Sports 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Sports 3 UAE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv247us.live/embed/dubai-sports-3-uae"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv247us.live/embed/dubai-sports-3-uae"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dubai TV International (1080p)",
         "servers": [
             {
@@ -7223,34 +5950,6 @@
             {
                 "name": "URL",
                 "link": "http://185.9.2.18/chid_139/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dubai Zaman",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dublin's Q102",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://wg.cdn.tibus.net/q102MP3128"
-            },
-            {
-                "name": "URL",
-                "link": "https://wg.cdn.tibus.net/q102MP3128"
             }
         ]
     },
@@ -7279,20 +5978,6 @@
             {
                 "name": "URL",
                 "link": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "duckTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8"
             }
         ]
     },
@@ -7368,20 +6053,6 @@
     },
     {
         "id": null,
-        "name": "Due Fantagenitori – Pluto TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            },
-            {
-                "name": "URL",
-                "link": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Duende Tv (720p) [Not 24/7]",
         "servers": [
             {
@@ -7433,34 +6104,6 @@
             {
                 "name": "URL",
                 "link": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Duna TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://152.66.115.226:33391/bysid/102"
-            },
-            {
-                "name": "URL",
-                "link": "http://152.66.115.226:33391/bysid/102"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Duna World / M4+ Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://152.66.115.226:33391/bysid/103"
-            },
-            {
-                "name": "URL",
-                "link": "http://152.66.115.226:33391/bysid/103"
             }
         ]
     },
@@ -7545,20 +6188,6 @@
             {
                 "name": "URL",
                 "link": "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dünya TV Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya"
             }
         ]
     },
@@ -7690,34 +6319,6 @@
     },
     {
         "id": null,
-        "name": "Dvojka",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Dvojka"
-            },
-            {
-                "name": "URL",
-                "link": "https://sktv.mxnticek.eu/new/stream.php?ch=Dvojka"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DW",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DW Arabic (1080p)",
         "servers": [
             {
@@ -7760,20 +6361,6 @@
     },
     {
         "id": null,
-        "name": "DW Español Ⓢ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DW Russian (1080p)",
         "servers": [
             {
@@ -7783,20 +6370,6 @@
             {
                 "name": "URL",
                 "link": "https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DW العربية",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
             }
         ]
     },
@@ -7813,16 +6386,6 @@
                 "link": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
             }
         ]
-    },
-    {
-        "id": "204",
-        "name": "DYN DE",
-        "servers": []
-    },
-    {
-        "id": "200",
-        "name": "DYN Germany",
-        "servers": []
     },
     {
         "id": null,
