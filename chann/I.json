@@ -742,6 +742,11 @@
         ]
     },
     {
+        "id": "243",
+        "name": "Ictimai TV Azerbaijan",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "ICTV (480p) [Not 24/7]",
         "servers": [
@@ -894,6 +899,11 @@
                 "link": "http://23.237.104.106:8080/USA_IFC/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "656",
+        "name": "IFC TV USA",
+        "servers": []
     },
     {
         "id": null,
@@ -1541,15 +1551,29 @@
     },
     {
         "id": null,
-        "name": "INC TV (480p)",
+        "name": "INC Radio (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8"
+                "link": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streams.comclark.com/pknsd/inc_tv/playlist.m3u8"
+                "link": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "INC TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8"
             }
         ]
     },
@@ -1720,6 +1744,11 @@
                 "link": "http://188.113.190.12/329/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "1",
+        "name": "Indosiar",
+        "servers": []
     },
     {
         "id": null,
@@ -2352,6 +2381,11 @@
         ]
     },
     {
+        "id": "324",
+        "name": "Investigation Discovery (ID USA)",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "INWILD (1080p)",
         "servers": [
@@ -2462,6 +2496,11 @@
                 "link": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "325",
+        "name": "ION USA",
+        "servers": []
     },
     {
         "id": null,
@@ -3218,6 +3257,11 @@
         ]
     },
     {
+        "id": "854",
+        "name": "Italia 1 Italy",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Italia 2 (480p) [Geo-blocked]",
         "servers": [
@@ -3344,6 +3388,11 @@
         ]
     },
     {
+        "id": "350",
+        "name": "ITV 1 UK",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "ITV 2 GB",
         "servers": [
@@ -3356,6 +3405,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%202&code=gb&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "351",
+        "name": "ITV 2 UK",
+        "servers": []
     },
     {
         "id": null,
@@ -3372,6 +3426,16 @@
         ]
     },
     {
+        "id": "352",
+        "name": "ITV 3 UK",
+        "servers": []
+    },
+    {
+        "id": "3004",
+        "name": "ITV 4",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "ITV 4 GB",
         "servers": [
@@ -3384,6 +3448,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%204&code=gb&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "353",
+        "name": "ITV 4 UK",
+        "servers": []
     },
     {
         "id": null,
@@ -3440,6 +3509,11 @@
                 "link": "https://redirector.dps.live/hls/itv/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "876",
+        "name": "ITV Quiz",
+        "servers": []
     },
     {
         "id": null,

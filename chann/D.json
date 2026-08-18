@@ -113,20 +113,6 @@
     },
     {
         "id": null,
-        "name": "Dabl (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/DABL/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/DABL/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dac TV (720p)",
         "servers": [
             {
@@ -166,6 +152,11 @@
                 "link": "https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "1051",
+        "name": "Dajto SK",
+        "servers": []
     },
     {
         "id": null,
@@ -476,6 +467,11 @@
         ]
     },
     {
+        "id": "225",
+        "name": "Darts borad 2",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Daru TV (720p)",
         "servers": [
@@ -616,6 +612,11 @@
         ]
     },
     {
+        "id": "348",
+        "name": "Dave",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Dawson",
         "servers": [
@@ -656,6 +657,11 @@
                 "link": "https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "426",
+        "name": "DAZN 1 Bar DE",
+        "servers": []
     },
     {
         "id": null,
@@ -742,6 +748,11 @@
         ]
     },
     {
+        "id": "230",
+        "name": "DAZN 1 UK",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DAZN 1 USA",
         "servers": [
@@ -754,6 +765,11 @@
                 "link": "https://cdx-08192.website/embed/dazn1-usa"
             }
         ]
+    },
+    {
+        "id": "427",
+        "name": "DAZN 2 Bar DE",
+        "servers": []
     },
     {
         "id": null,
@@ -826,6 +842,11 @@
         ]
     },
     {
+        "id": "447",
+        "name": "DAZN 3 Spain",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DAZN 4 PT",
         "servers": [
@@ -838,6 +859,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204&code=pt&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "448",
+        "name": "DAZN 4 Spain",
+        "servers": []
     },
     {
         "id": null,
@@ -866,6 +892,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206&code=pt&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "226",
+        "name": "DAZN Baloncesto",
+        "servers": []
     },
     {
         "id": null,
@@ -904,6 +935,11 @@
         ]
     },
     {
+        "id": "227",
+        "name": "DAZN Baloncesto 2",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "dazn baloncesto 3",
         "servers": [
@@ -920,6 +956,11 @@
                 "link": "https://bolaloca.my/player/3/157"
             }
         ]
+    },
+    {
+        "id": "6034",
+        "name": "DAZN Belgium",
+        "servers": []
     },
     {
         "id": null,
@@ -950,6 +991,16 @@
         ]
     },
     {
+        "id": "3099",
+        "name": "DAZN DE",
+        "servers": []
+    },
+    {
+        "id": "5003",
+        "name": "DAZN ES",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DAZN F1",
         "servers": [
@@ -978,6 +1029,11 @@
         ]
     },
     {
+        "id": "179",
+        "name": "DAZN France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DAZN Heldinnen x Pluto TV",
         "servers": [
@@ -992,6 +1048,11 @@
         ]
     },
     {
+        "id": "3047",
+        "name": "DAZN IT",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DAZN LaLiga",
         "servers": [
@@ -1004,6 +1065,11 @@
                 "link": "https://cdx-08192.website/embed/daznlaliga-es"
             }
         ]
+    },
+    {
+        "id": "205",
+        "name": "DAZN LaLiga 2",
+        "servers": []
     },
     {
         "id": null,
@@ -1032,6 +1098,46 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "960",
+        "name": "DAZN Ligue 1 France",
+        "servers": []
+    },
+    {
+        "id": "3030",
+        "name": "DAZN MotoGP ES",
+        "servers": []
+    },
+    {
+        "id": "4000",
+        "name": "DAZN Mundial",
+        "servers": []
+    },
+    {
+        "id": "918",
+        "name": "DAZN Portugal FIFA Mundial de Clubes",
+        "servers": []
+    },
+    {
+        "id": "3006",
+        "name": "DAZN PPP",
+        "servers": []
+    },
+    {
+        "id": "161",
+        "name": "DAZN PPV",
+        "servers": []
+    },
+    {
+        "id": "6036",
+        "name": "DAZN PPV Box",
+        "servers": []
+    },
+    {
+        "id": "3045",
+        "name": "DAZN Pro League 2",
+        "servers": []
     },
     {
         "id": null,
@@ -1088,6 +1194,31 @@
                 "link": "https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8"
             }
         ]
+    },
+    {
+        "id": "1067",
+        "name": "DAZN USA",
+        "servers": []
+    },
+    {
+        "id": "55",
+        "name": "DAZN Zona 2 IT",
+        "servers": []
+    },
+    {
+        "id": "877",
+        "name": "DAZN ZONA Italy",
+        "servers": []
+    },
+    {
+        "id": "3017",
+        "name": "DAZN1 DE 2",
+        "servers": []
+    },
+    {
+        "id": "3018",
+        "name": "DAZN2 DE 2",
+        "servers": []
     },
     {
         "id": null,
@@ -2792,6 +2923,11 @@
         ]
     },
     {
+        "id": "651",
+        "name": "Destination America",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Det sene show med Christian Fuhlendorff",
         "servers": [
@@ -2916,6 +3052,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Detroit%20Tigers&code=us&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "3015",
+        "name": "DF1",
+        "servers": []
+    },
+    {
+        "id": "11",
+        "name": "DF1 DE",
+        "servers": []
     },
     {
         "id": null,
@@ -3268,6 +3414,16 @@
         ]
     },
     {
+        "id": "482",
+        "name": "Diema Bulgaria",
+        "servers": []
+    },
+    {
+        "id": "485",
+        "name": "Diema Family Bulgaria",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Diema Sport 2 BG",
         "servers": [
@@ -3282,6 +3438,11 @@
         ]
     },
     {
+        "id": "466",
+        "name": "Diema Sport 2 Bulgaria",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Diema Sport 3 BG",
         "servers": [
@@ -3294,6 +3455,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203&code=bg&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "467",
+        "name": "Diema Sport 3 Bulgaria",
+        "servers": []
+    },
+    {
+        "id": "465",
+        "name": "Diema Sport Bulgaria",
+        "servers": []
     },
     {
         "id": null,
@@ -3408,6 +3579,11 @@
         ]
     },
     {
+        "id": "400",
+        "name": "Digi Sport 1 Romania",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Digi Sport 2 RO",
         "servers": [
@@ -3420,6 +3596,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202&code=ro&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "401",
+        "name": "Digi Sport 2 Romania",
+        "servers": []
     },
     {
         "id": null,
@@ -3436,6 +3617,11 @@
         ]
     },
     {
+        "id": "402",
+        "name": "Digi Sport 3 Romania",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Digi Sport 4 RO",
         "servers": [
@@ -3448,6 +3634,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204&code=ro&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "403",
+        "name": "Digi Sport 4 Romania",
+        "servers": []
     },
     {
         "id": null,
@@ -3728,6 +3919,16 @@
         ]
     },
     {
+        "id": "1159",
+        "name": "Dirtgvision",
+        "servers": []
+    },
+    {
+        "id": "5017",
+        "name": "DirtTrackPPV",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Discover Pakistan (1080p)",
         "servers": [
@@ -3798,6 +3999,16 @@
         ]
     },
     {
+        "id": "stream-313",
+        "name": "Discovery HD",
+        "servers": []
+    },
+    {
+        "id": "311",
+        "name": "Discovery Life Channel",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Discovery Turbo",
         "servers": [
@@ -3824,6 +4035,11 @@
                 "link": "https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8"
             }
         ]
+    },
+    {
+        "id": "285",
+        "name": "Discovery Velocity CA",
+        "servers": []
     },
     {
         "id": null,
@@ -3978,6 +4194,11 @@
                 "link": "http://149.71.34.166:8002/play/a01p/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "652",
+        "name": "Disney JR",
+        "servers": []
     },
     {
         "id": null,
@@ -5436,6 +5657,11 @@
         ]
     },
     {
+        "id": "801",
+        "name": "DR1 Denmark",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DR1 DK",
         "servers": [
@@ -5462,6 +5688,11 @@
                 "link": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8"
             }
         ]
+    },
+    {
+        "id": "802",
+        "name": "DR2 Denmark",
+        "servers": []
     },
     {
         "id": null,
@@ -5800,6 +6031,11 @@
         ]
     },
     {
+        "id": "stream-619",
+        "name": "DSports 1 Argentina",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Dsports 2",
         "servers": [
@@ -5840,6 +6076,21 @@
                 "link": "http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "828",
+        "name": "DSTV kykNET & kie",
+        "servers": []
+    },
+    {
+        "id": "827",
+        "name": "DSTV M-Net",
+        "servers": []
+    },
+    {
+        "id": "786",
+        "name": "DSTV Mzansi Magic",
+        "servers": []
     },
     {
         "id": null,
@@ -5938,6 +6189,26 @@
                 "link": "https://e.siar.us/live/dtvi.m3u8"
             }
         ]
+    },
+    {
+        "id": "608",
+        "name": "Dubai Racing 2 UAE",
+        "servers": []
+    },
+    {
+        "id": "604",
+        "name": "Dubai Sports 1 UAE",
+        "servers": []
+    },
+    {
+        "id": "605",
+        "name": "Dubai Sports 2 UAE",
+        "servers": []
+    },
+    {
+        "id": "606",
+        "name": "Dubai Sports 3 UAE",
+        "servers": []
     },
     {
         "id": null,
@@ -6386,6 +6657,16 @@
                 "link": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "204",
+        "name": "DYN DE",
+        "servers": []
+    },
+    {
+        "id": "200",
+        "name": "DYN Germany",
+        "servers": []
     },
     {
         "id": null,

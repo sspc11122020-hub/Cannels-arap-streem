@@ -84,6 +84,16 @@
         ]
     },
     {
+        "id": "5064",
+        "name": "(Fusball TV 1)",
+        "servers": []
+    },
+    {
+        "id": "5016",
+        "name": "(NBC UNIVERSO)",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "&flix HD (1080p)",
         "servers": [
@@ -138,6 +148,11 @@
                 "link": "http://149.71.34.166:8000/play/a001/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "521",
+        "name": "#Vamos Spain",
+        "servers": []
     },
     {
         "id": null,
@@ -602,6 +617,11 @@
         ]
     },
     {
+        "id": "3059",
+        "name": "1TV Ukraine",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "1Twente TV (1080p)",
         "servers": [
@@ -642,6 +662,11 @@
                 "link": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "857",
+        "name": "20 Mediaset Italy",
+        "servers": []
     },
     {
         "id": null,
@@ -908,6 +933,11 @@
                 "link": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https"
             }
         ]
+    },
+    {
+        "id": "155",
+        "name": "3 Schweiz",
+        "servers": []
     },
     {
         "id": null,
@@ -1554,6 +1584,11 @@
         ]
     },
     {
+        "id": "726",
+        "name": "3sat DE",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "4 Afghanistan",
         "servers": [
@@ -1678,6 +1713,11 @@
                 "link": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
             }
         ]
+    },
+    {
+        "id": "16",
+        "name": "4seven UK",
+        "servers": []
     },
     {
         "id": null,
@@ -1806,6 +1846,11 @@
         ]
     },
     {
+        "id": "360",
+        "name": "5 USA",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "5-Minute Craft (1080p)",
         "servers": [
@@ -1876,6 +1921,21 @@
         ]
     },
     {
+        "id": "stream-144",
+        "name": "5Sport Israel",
+        "servers": []
+    },
+    {
+        "id": "stream-145",
+        "name": "5Sport Plus Israel",
+        "servers": []
+    },
+    {
+        "id": "stream-147",
+        "name": "5Sport Star Israel",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "5TV Corrientes (480p) [Not 24/7]",
         "servers": [
@@ -1902,6 +1962,11 @@
                 "link": "https://live.enhdtv.com:8081/8150/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "800",
+        "name": "6'eren Denmark",
+        "servers": []
     },
     {
         "id": null,
@@ -1986,6 +2051,11 @@
                 "link": "http://145.239.5.177/314/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "963",
+        "name": "6ter France",
+        "servers": []
     },
     {
         "id": null,
@@ -2168,6 +2238,11 @@
                 "link": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "868",
+        "name": "8Sky Cinema Suspense Italy",
+        "servers": []
     },
     {
         "id": null,
@@ -3584,6 +3659,11 @@
         ]
     },
     {
+        "id": "213",
+        "name": "МАТЧ! Igra Russia",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "МАТЧ! Арена (720p)",
         "servers": [
@@ -3598,6 +3678,11 @@
         ]
     },
     {
+        "id": "395",
+        "name": "МАТЧ! БОЕЦ Russia",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "МАТЧ! Игра (720p)",
         "servers": [
@@ -3610,6 +3695,11 @@
                 "link": "http://31.148.48.15/Match_Igra_HD/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "167",
+        "name": "МАТЧ! СТРАНА Russia",
+        "servers": []
     },
     {
         "id": null,
@@ -5741,20 +5831,6 @@
     },
     {
         "id": null,
-        "name": "亚太台 (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://174.127.67.246/live330/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://174.127.67.246/live330/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "交城電視台 (576p)",
         "servers": [
             {
@@ -6198,34 +6274,6 @@
             {
                 "name": "URL",
                 "link": "https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "南川新闻综合 (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://221.5.213.4:30000/1111.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://221.5.213.4:30000/1111.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "南川旅游经济 (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://221.5.213.4:30000/2222.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://221.5.213.4:30000/2222.m3u8"
             }
         ]
     },

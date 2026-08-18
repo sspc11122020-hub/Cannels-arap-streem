@@ -700,6 +700,11 @@
         ]
     },
     {
+        "id": "275",
+        "name": "Bandsports Brasil",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Bandung TV (360p)",
         "servers": [
@@ -966,6 +971,11 @@
         ]
     },
     {
+        "id": "522",
+        "name": "Barca TV Spain",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Barinas TV (720p) [Not 24/7]",
         "servers": [
@@ -1120,6 +1130,11 @@
         ]
     },
     {
+        "id": "stream-891",
+        "name": "BB Cam Live",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BBC Alba (1080p) (HEVC) [Geo-blocked]",
         "servers": [
@@ -1160,6 +1175,11 @@
                 "link": "http://23.239.31.26:8989/bbcamerica/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "305",
+        "name": "BBC America (BBCA)",
+        "servers": []
     },
     {
         "id": null,
@@ -1275,20 +1295,6 @@
     },
     {
         "id": null,
-        "name": "BBC Earth Turkiye (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://194.156.236.23:8004/play/a018"
-            },
-            {
-                "name": "URL",
-                "link": "http://194.156.236.23:8004/play/a018"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BBC Food (1080p)",
         "servers": [
             {
@@ -1328,6 +1334,11 @@
                 "link": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
             }
         ]
+    },
+    {
+        "id": "359",
+        "name": "BBC Four UK",
+        "servers": []
     },
     {
         "id": null,
@@ -1442,6 +1453,11 @@
         ]
     },
     {
+        "id": "349",
+        "name": "BBC News Channel HD",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BBC News Latin America (720p)",
         "servers": [
@@ -1496,6 +1512,11 @@
                 "link": "http://45.153.96.44:8001"
             }
         ]
+    },
+    {
+        "id": "3001",
+        "name": "BBC One",
+        "servers": []
     },
     {
         "id": null,
@@ -1762,6 +1783,11 @@
                 "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd"
             }
         ]
+    },
+    {
+        "id": "356",
+        "name": "BBC One UK",
+        "servers": []
     },
     {
         "id": null,
@@ -2240,6 +2266,11 @@
         ]
     },
     {
+        "id": "358",
+        "name": "BBC Three UK",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BBC Three/CBBC (720p)",
         "servers": [
@@ -2422,6 +2453,11 @@
         ]
     },
     {
+        "id": "357",
+        "name": "BBC Two UK",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BBC Two Wales (720p) [Geo-blocked]",
         "servers": [
@@ -2460,6 +2496,34 @@
             {
                 "name": "URL",
                 "link": "https://xemzi.short.gy/1000002"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BBC UHD 3 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.14.84.37/bbc3/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.14.84.37/bbc3/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BBC UHD 4 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.14.84.37/bbc4/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.14.84.37/bbc4/index.m3u8"
             }
         ]
     },
@@ -2800,6 +2864,11 @@
         ]
     },
     {
+        "id": "5030",
+        "name": "Bein Arabic Baclup",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN En español",
         "servers": [
@@ -2816,6 +2885,11 @@
                 "link": "https://bolaloca.my/player/3/69"
             }
         ]
+    },
+    {
+        "id": "3039",
+        "name": "beIN Spors USA",
+        "servers": []
     },
     {
         "id": null,
@@ -2998,6 +3072,11 @@
         ]
     },
     {
+        "id": "3038",
+        "name": "beIN Sport USA",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN Sports",
         "servers": [
@@ -3010,6 +3089,11 @@
                 "link": "https://cdx-08192.website/embed/beinsports-usa"
             }
         ]
+    },
+    {
+        "id": "91",
+        "name": "beIN Sports 1 Arabic",
+        "servers": []
     },
     {
         "id": null,
@@ -3026,6 +3110,16 @@
         ]
     },
     {
+        "id": "3031",
+        "name": "beIN Sports 1 Austrelia",
+        "servers": []
+    },
+    {
+        "id": "3051",
+        "name": "beIN Sports 1 FR",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 1 FR",
         "servers": [
@@ -3038,6 +3132,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201&code=fr&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "116",
+        "name": "beIN SPORTS 1 France",
+        "servers": []
+    },
+    {
+        "id": "712",
+        "name": "beIN Sports 1 Malaysia",
+        "servers": []
     },
     {
         "id": null,
@@ -3054,6 +3158,11 @@
         ]
     },
     {
+        "id": "62",
+        "name": "beIN SPORTS 1 Turkey",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 1 US",
         "servers": [
@@ -3066,6 +3175,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201&code=us&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "92",
+        "name": "beIN Sports 2 Arabic",
+        "servers": []
+    },
+    {
+        "id": "3032",
+        "name": "beIN SPORTS 2 Austrelia",
+        "servers": []
     },
     {
         "id": null,
@@ -3082,6 +3201,21 @@
         ]
     },
     {
+        "id": "117",
+        "name": "beIN SPORTS 2 France",
+        "servers": []
+    },
+    {
+        "id": "713",
+        "name": "beIN Sports 2 Malaysia",
+        "servers": []
+    },
+    {
+        "id": "217",
+        "name": "beIN Sports 2 Max Turkey",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 2 TR",
         "servers": [
@@ -3094,6 +3228,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202&code=tr&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "63",
+        "name": "beIN SPORTS 2 Turkey",
+        "servers": []
     },
     {
         "id": null,
@@ -3110,6 +3249,16 @@
         ]
     },
     {
+        "id": "93",
+        "name": "beIN Sports 3 Arabic",
+        "servers": []
+    },
+    {
+        "id": "3003",
+        "name": "beIN SPORTS 3 Austrlia",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 3 FR",
         "servers": [
@@ -3122,6 +3271,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%203&code=fr&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "118",
+        "name": "beIN SPORTS 3 France",
+        "servers": []
+    },
+    {
+        "id": "714",
+        "name": "beIN Sports 3 Malaysia",
+        "servers": []
     },
     {
         "id": null,
@@ -3138,6 +3297,11 @@
         ]
     },
     {
+        "id": "64",
+        "name": "beIN SPORTS 3 Turkey",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 3 US",
         "servers": [
@@ -3150,6 +3314,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%203&code=us&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "94",
+        "name": "beIN Sports 4 Arabic",
+        "servers": []
     },
     {
         "id": null,
@@ -3180,6 +3349,21 @@
         ]
     },
     {
+        "id": "67",
+        "name": "beIN SPORTS 4 Turkey",
+        "servers": []
+    },
+    {
+        "id": "95",
+        "name": "beIN Sports 5 Arabic",
+        "servers": []
+    },
+    {
+        "id": "stream-495",
+        "name": "beIN Sports 5 Max France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 5 SA",
         "servers": [
@@ -3192,6 +3376,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%205&code=sa&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "1010",
+        "name": "bein Sports 5 Turkey",
+        "servers": []
+    },
+    {
+        "id": "96",
+        "name": "beIN Sports 6 Arabic",
+        "servers": []
     },
     {
         "id": null,
@@ -3208,6 +3402,11 @@
         ]
     },
     {
+        "id": "97",
+        "name": "beIN Sports 7 Arabic",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 7 SA",
         "servers": [
@@ -3220,6 +3419,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%207&code=sa&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "98",
+        "name": "beIN Sports 8 Arabic",
+        "servers": []
     },
     {
         "id": null,
@@ -3236,6 +3440,11 @@
         ]
     },
     {
+        "id": "99",
+        "name": "beIN Sports 9 Arabic",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 9 SA",
         "servers": [
@@ -3248,6 +3457,66 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%209&code=sa&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "3064",
+        "name": "beIN Sports AR",
+        "servers": []
+    },
+    {
+        "id": "491",
+        "name": "beIN SPORTS Australia 1",
+        "servers": []
+    },
+    {
+        "id": "492",
+        "name": "beIN SPORTS Australia 2",
+        "servers": []
+    },
+    {
+        "id": "493",
+        "name": "beIN SPORTS Australia 3",
+        "servers": []
+    },
+    {
+        "id": "372",
+        "name": "beIN SPORTS en Espanol",
+        "servers": []
+    },
+    {
+        "id": "stream-372",
+        "name": "beIN SPORTS en Español",
+        "servers": []
+    },
+    {
+        "id": "3033",
+        "name": "beIN Sports English 2",
+        "servers": []
+    },
+    {
+        "id": "3040",
+        "name": "beIN Sports Español",
+        "servers": []
+    },
+    {
+        "id": "578",
+        "name": "BeIN Sports HD Qatar",
+        "servers": []
+    },
+    {
+        "id": "stream-712",
+        "name": "beIN Sports Malaysia",
+        "servers": []
+    },
+    {
+        "id": "966",
+        "name": "Bein Sports MAX 1 Arabic",
+        "servers": []
+    },
+    {
+        "id": "196",
+        "name": "beIN SPORTS MAX 1 Turkey",
+        "servers": []
     },
     {
         "id": null,
@@ -3264,6 +3533,11 @@
         ]
     },
     {
+        "id": "500",
+        "name": "beIN Sports MAX 10 France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS MAX 4 FR",
         "servers": [
@@ -3276,6 +3550,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%204&code=fr&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "494",
+        "name": "beIN Sports MAX 4 France",
+        "servers": []
     },
     {
         "id": null,
@@ -3292,6 +3571,11 @@
         ]
     },
     {
+        "id": "495",
+        "name": "beIN Sports MAX 5 France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS MAX 6 FR",
         "servers": [
@@ -3304,6 +3588,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%206&code=fr&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "496",
+        "name": "beIN Sports MAX 6 France",
+        "servers": []
     },
     {
         "id": null,
@@ -3320,6 +3609,11 @@
         ]
     },
     {
+        "id": "497",
+        "name": "beIN Sports MAX 7 France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS MAX 8 FR",
         "servers": [
@@ -3334,6 +3628,11 @@
         ]
     },
     {
+        "id": "498",
+        "name": "beIN Sports MAX 8 France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN SPORTS MAX 9 FR",
         "servers": [
@@ -3346,6 +3645,41 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%209&code=fr&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "499",
+        "name": "beIN Sports MAX 9 France",
+        "servers": []
+    },
+    {
+        "id": "597",
+        "name": "beIN SPORTS MAX AR",
+        "servers": []
+    },
+    {
+        "id": "stream-95",
+        "name": "beIN Sports MENA 5",
+        "servers": []
+    },
+    {
+        "id": "stream-96",
+        "name": "beIN Sports MENA 6",
+        "servers": []
+    },
+    {
+        "id": "stream-97",
+        "name": "beIN Sports MENA 7",
+        "servers": []
+    },
+    {
+        "id": "61",
+        "name": "beIN Sports MENA English 1",
+        "servers": []
+    },
+    {
+        "id": "90",
+        "name": "beIN Sports MENA English 2",
+        "servers": []
     },
     {
         "id": null,
@@ -3376,6 +3710,11 @@
         ]
     },
     {
+        "id": "425",
+        "name": "BeIN SPORTS USA",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "beIN Sports USA (1080p) [Geo-blocked]",
         "servers": [
@@ -3402,6 +3741,21 @@
                 "link": "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "100",
+        "name": "beIN SPORTS XTRA 1",
+        "servers": []
+    },
+    {
+        "id": "968",
+        "name": "beIN SPORTS XTRA 3 Arabic",
+        "servers": []
+    },
+    {
+        "id": "969",
+        "name": "beIN SPORTS XTRA 4 Arabic",
+        "servers": []
     },
     {
         "id": null,
@@ -3582,6 +3936,20 @@
             {
                 "name": "URL",
                 "link": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Belarus-4 Gomel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8"
             }
         ]
     },
@@ -4099,20 +4467,6 @@
     },
     {
         "id": null,
-        "name": "BET (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/BET_EAST_SD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/BET_EAST_SD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BET Cinema",
         "servers": [
             {
@@ -4155,34 +4509,6 @@
     },
     {
         "id": null,
-        "name": "BET Her (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/BET_HER_SD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/BET_HER_SD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET Jams (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/BET_JAMS_SD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/BET_JAMS_SD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BET Pluto TV",
         "servers": [
             {
@@ -4192,20 +4518,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET Soul (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/BET_SOUL_SD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/BET_SOUL_SD/index.m3u8"
             }
         ]
     },
@@ -4238,6 +4550,11 @@
         ]
     },
     {
+        "id": "306",
+        "name": "BET USA",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BET Visionaries",
         "servers": [
@@ -4248,20 +4565,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/BET_WEST_SD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/BET_WEST_SD/index.m3u8"
             }
         ]
     },
@@ -4588,6 +4891,11 @@
         ]
     },
     {
+        "id": "957",
+        "name": "BFM TV France",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BFM2 (1080p)",
         "servers": [
@@ -4838,6 +5146,16 @@
                 "link": "http://23.237.104.106:8080/USA_BTN/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "397",
+        "name": "BIG TEN Network (BTN USA)",
+        "servers": []
+    },
+    {
+        "id": "214",
+        "name": "Big Ten Plus",
+        "servers": []
     },
     {
         "id": null,
@@ -5652,6 +5970,11 @@
         ]
     },
     {
+        "id": "3016",
+        "name": "Blue Sport D 1",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Blues TV",
         "servers": [
@@ -5764,6 +6087,11 @@
         ]
     },
     {
+        "id": "476",
+        "name": "BNT 1 Bulgaria",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BNT 2 (1080p)",
         "servers": [
@@ -5778,6 +6106,11 @@
         ]
     },
     {
+        "id": "477",
+        "name": "BNT 2 Bulgaria",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BNT 3 (1080p)",
         "servers": [
@@ -5790,6 +6123,11 @@
                 "link": "https://shift03.isp.bg/BNT3_HD/index.m3u8"
             }
         ]
+    },
+    {
+        "id": "478",
+        "name": "BNT 3 Bulgaria",
+        "servers": []
     },
     {
         "id": null,
@@ -6465,20 +6803,6 @@
     },
     {
         "id": null,
-        "name": "Box Movie 1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://usatv.dpdns.org/usatv/fpt_box_movie_1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://usatv.dpdns.org/usatv/fpt_box_movie_1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BPX TV Radio",
         "servers": [
             {
@@ -6490,6 +6814,11 @@
                 "link": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "737",
+        "name": "BR Fernsehen DE",
+        "servers": []
     },
     {
         "id": null,
@@ -6609,11 +6938,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.56/BRAVO_SD/index.m3u8"
+                "link": "http://41.205.93.154/BRAVO/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.56/BRAVO_SD/index.m3u8"
+                "link": "http://41.205.93.154/BRAVO/index.m3u8"
             }
         ]
     },
@@ -6658,6 +6987,11 @@
                 "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
             }
         ]
+    },
+    {
+        "id": "307",
+        "name": "Bravo USA",
+        "servers": []
     },
     {
         "id": null,
@@ -7066,6 +7400,11 @@
         ]
     },
     {
+        "id": "7012",
+        "name": "BRTV",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BRTV (720p)",
         "servers": [
@@ -7346,6 +7685,11 @@
         ]
     },
     {
+        "id": "207",
+        "name": "BTN+ USA",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "BTV (480p)",
         "servers": [
@@ -7374,6 +7718,11 @@
         ]
     },
     {
+        "id": "481",
+        "name": "bTV Action Bulgaria",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "bTV BG",
         "servers": [
@@ -7386,6 +7735,16 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=bTV&code=bg&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "479",
+        "name": "bTV Bulgaria",
+        "servers": []
+    },
+    {
+        "id": "484",
+        "name": "bTV Lady Bulgaria",
+        "servers": []
     },
     {
         "id": null,
