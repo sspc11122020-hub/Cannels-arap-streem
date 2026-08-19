@@ -3334,20 +3334,6 @@
     },
     {
         "id": null,
-        "name": "HTV Key (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
-            },
-            {
-                "name": "URL",
-                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HTV Live (1080p) [Not 24/7]",
         "servers": [
             {
@@ -3371,6 +3357,20 @@
             {
                 "name": "URL",
                 "link": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HTV4 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
             }
         ]
     },

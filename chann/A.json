@@ -1913,6 +1913,20 @@
     },
     {
         "id": null,
+        "name": "ACC Network (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.239.31.26:8989/accnetwork/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.239.31.26:8989/accnetwork/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ACC Network US",
         "servers": [
             {
@@ -7993,20 +8007,6 @@
             {
                 "name": "URL",
                 "link": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Anime Zone TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://animezonetv.net/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://animezonetv.net/hls/stream.m3u8"
             }
         ]
     },

@@ -693,6 +693,20 @@
     },
     {
         "id": null,
+        "name": "Kanal D2 (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream2.kanald.ro/iphone/knd2-live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream2.kanald.ro/iphone/knd2-live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kanal Firat (720p) [Not 24/7]",
         "servers": [
             {
@@ -2374,7 +2388,7 @@
     },
     {
         "id": null,
-        "name": "Knowledge Channel (480p)",
+        "name": "Knowledge Channel (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
