@@ -3499,6 +3499,48 @@
         "servers": []
     },
     {
+        "id": null,
+        "name": "beIN Sports Francais 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/beinsports1-fr"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/beinsports1-fr"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "beIN Sports Francais 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/beinsports2-fr"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/beinsports2-fr"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "beIN Sports Francais 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/beinsports3-fr"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/beinsports3-fr"
+            }
+        ]
+    },
+    {
         "id": "578",
         "name": "BeIN Sports HD Qatar",
         "servers": []
@@ -6761,15 +6803,15 @@
     },
     {
         "id": null,
-        "name": "Bounce (1080p)",
+        "name": "Bounce (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.58/BOUNCE_TV/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.58/BOUNCE_TV/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8"
             }
         ]
     },

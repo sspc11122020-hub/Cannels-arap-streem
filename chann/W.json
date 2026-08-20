@@ -1,20 +1,6 @@
 [
     {
         "id": null,
-        "name": "W Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/W_NETWORK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/W_NETWORK/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "W Polsce PL (720p)",
         "servers": [
             {
@@ -1307,11 +1293,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/WE_TV/index.m3u8"
+                "link": "http://170.254.17.2/WE_TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/WE_TV/index.m3u8"
+                "link": "http://170.254.17.2/WE_TV/index.m3u8"
             }
         ]
     },
@@ -1335,11 +1321,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/WEATHER_NATION/index.m3u8"
+                "link": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/WEATHER_NATION/index.m3u8"
+                "link": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8"
             }
         ]
     },

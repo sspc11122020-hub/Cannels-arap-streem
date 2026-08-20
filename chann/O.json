@@ -1761,15 +1761,15 @@
     },
     {
         "id": null,
-        "name": "One America News Network (1080p)",
+        "name": "One America News Network (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_OAN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/ONE_AMERICA_NEWS/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_OAN/index.m3u8"
             }
         ]
     },
@@ -2663,15 +2663,15 @@
     },
     {
         "id": null,
-        "name": "Outdoor Channel HD (1080p)",
+        "name": "Outdoor Channel HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8"
             }
         ]
     },
@@ -2766,20 +2766,6 @@
     },
     {
         "id": null,
-        "name": "Ovation (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/OVATION/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/OVATION/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Overcomers TV (720p)",
         "servers": [
             {
@@ -2868,11 +2854,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/OXYGEN/index.m3u8"
+                "link": "http://198.58.104.90:8989/oxygen/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/OXYGEN/index.m3u8"
+                "link": "http://198.58.104.90:8989/oxygen/index.m3u8"
             }
         ]
     },

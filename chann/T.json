@@ -5077,6 +5077,11 @@
         "servers": []
     },
     {
+        "id": "1071",
+        "name": "Tennis TV HD",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Tennis+ (1080p)",
         "servers": [
@@ -11289,20 +11294,6 @@
         "servers": []
     },
     {
-        "id": null,
-        "name": "TSN1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/TSN_1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/TSN_1/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "112",
         "name": "TSN2",
         "servers": []
@@ -13690,20 +13681,6 @@
     },
     {
         "id": null,
-        "name": "TV Land (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/TV_LAND/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/TV_LAND/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TV Land Drama",
         "servers": [
             {
@@ -14567,20 +14544,6 @@
             {
                 "name": "URL",
                 "link": "https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "TV One (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/TV_ONE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/TV_ONE/index.m3u8"
             }
         ]
     },

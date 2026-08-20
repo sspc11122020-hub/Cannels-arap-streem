@@ -1080,15 +1080,15 @@
     },
     {
         "id": null,
-        "name": "ABC Australia (1080p)",
+        "name": "ABC Australia (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.154.3.101:5001/live/2782.m3u8"
+                "link": "https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.154.3.101:5001/live/2782.m3u8"
+                "link": "https://streams.comclark.com/pknsd/abc_australia/playlist.m3u8"
             }
         ]
     },
@@ -3398,6 +3398,20 @@
             {
                 "name": "URL",
                 "link": "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AFV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -6878,20 +6892,6 @@
     },
     {
         "id": null,
-        "name": "America’s Funniest Home Videos (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "America's Funniest Home Videos (720p)",
         "servers": [
             {
@@ -9843,20 +9843,6 @@
     },
     {
         "id": null,
-        "name": "Aspire (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.56/ASPIRE_SD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.56/ASPIRE_SD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Assam Talks (576p)",
         "servers": [
             {
@@ -10395,6 +10381,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ATV Avrupa (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://flaskapihls-atv-avrupa-trkvzlive.onrender.com/hls_stream/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://flaskapihls-atv-avrupa-trkvzlive.onrender.com/hls_stream/master.m3u8"
             }
         ]
     },
@@ -11326,6 +11326,20 @@
         "id": "717",
         "name": "AXN Movies Portugal",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "AXN PH (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/pknhd/axn/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/pknhd/axn/playlist.m3u8"
+            }
+        ]
     },
     {
         "id": null,

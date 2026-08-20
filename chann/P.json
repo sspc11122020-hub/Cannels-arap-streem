@@ -543,20 +543,6 @@
     },
     {
         "id": null,
-        "name": "Paramount Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Paramount Network de Pluto TV",
         "servers": [
             {
@@ -2388,20 +2374,6 @@
     },
     {
         "id": null,
-        "name": "Pingviin (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pink (720p)",
         "servers": [
             {
@@ -2528,15 +2500,15 @@
     },
     {
         "id": null,
-        "name": "PixL TV (720p)",
+        "name": "PixL TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/PIXL/index.m3u8"
+                "link": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/PIXL/index.m3u8"
+                "link": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
             }
         ]
     },
@@ -7727,20 +7699,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Pop TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.55/POP/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.55/POP/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "653",
         "name": "POP TV USA",
         "servers": []
@@ -10240,15 +10198,15 @@
     },
     {
         "id": null,
-        "name": "Pursuit Channel (1080p)",
+        "name": "Pursuit Channel (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.55/PURSUIT/index.m3u8"
+                "link": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.55/PURSUIT/index.m3u8"
+                "link": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8"
             }
         ]
     },

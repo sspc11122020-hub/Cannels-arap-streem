@@ -4284,11 +4284,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.53/METV/index.m3u8"
+                "link": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.53/METV/index.m3u8"
+                "link": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8"
             }
         ]
     },
@@ -6934,6 +6934,20 @@
     },
     {
         "id": null,
+        "name": "Movistar Deportes",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/movistardeportes-es"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/movistardeportes-es"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Movistar Deportes (1080p)",
         "servers": [
             {
@@ -6962,6 +6976,20 @@
     },
     {
         "id": null,
+        "name": "Movistar Deportes 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/movistardeportes2-es"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/movistardeportes2-es"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Movistar Deportes 2 ES",
         "servers": [
             {
@@ -6978,6 +7006,20 @@
         "id": "438",
         "name": "Movistar Deportes 2 Spain",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Movistar Deportes 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/movistardeportes3-es"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/movistardeportes3-es"
+            }
+        ]
     },
     {
         "id": "526",
@@ -7056,6 +7098,20 @@
         "id": "77",
         "name": "Movistar Liga de Campeones 9",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Movistar Plus",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/movistarplus-es"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/movistarplus-es"
+            }
+        ]
     },
     {
         "id": null,
@@ -7372,11 +7428,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.53/MSNBC/index.m3u8"
+                "link": "http://cdn.haititivi.com/MSNBC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.53/MSNBC/index.m3u8"
+                "link": "http://cdn.haititivi.com/MSNBC/index.m3u8"
             }
         ]
     },
@@ -7718,11 +7774,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.53/MTV/index.m3u8"
+                "link": "http://198.58.104.90:8989/mtv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.53/MTV/index.m3u8"
+                "link": "http://198.58.104.90:8989/mtv/index.m3u8"
             }
         ]
     },
@@ -7821,20 +7877,6 @@
             {
                 "name": "URL",
                 "link": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV Classic (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.53/MTV_CLASSIC/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.53/MTV_CLASSIC/index.m3u8"
             }
         ]
     },
@@ -8055,15 +8097,15 @@
     },
     {
         "id": null,
-        "name": "MTV Live (1080p)",
+        "name": "MTV Live (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.53/MTV_LIVE/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.53/MTV_LIVE/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
             }
         ]
     },
@@ -8332,15 +8374,15 @@
     },
     {
         "id": null,
-        "name": "MTV2 (1080p)",
+        "name": "MTV2 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.53/MTV2/index.m3u8"
+                "link": "http://198.58.104.90:8989/mtv2/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.53/MTV2/index.m3u8"
+                "link": "http://198.58.104.90:8989/mtv2/index.m3u8"
             }
         ]
     },
@@ -8360,20 +8402,6 @@
             {
                 "name": "URL",
                 "link": "https://live-fi.tvkaista.net/mtv3/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Much (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.53/MUCH/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.53/MUCH/index.m3u8"
             }
         ]
     },

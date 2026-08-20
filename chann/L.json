@@ -950,15 +950,15 @@
     },
     {
         "id": null,
-        "name": "Laff (1080p)",
+        "name": "Laff (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.53/LAFF_TV/index.m3u8"
+                "link": "http://tvsen7.aynascope.net/laff/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.53/LAFF_TV/index.m3u8"
+                "link": "http://tvsen7.aynascope.net/laff/index.m3u8"
             }
         ]
     },
@@ -2734,20 +2734,6 @@
     },
     {
         "id": null,
-        "name": "Lifetime (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.53/LIFETIME/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.53/LIFETIME/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Lifetime Asia (1080p)",
         "servers": [
             {
@@ -2853,20 +2839,6 @@
         "id": "326",
         "name": "Lifetime Network",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Lifetime Real Women (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -3774,20 +3746,6 @@
             {
                 "name": "URL",
                 "link": "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Logo (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://40.160.24.53/LOGO_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://40.160.24.53/LOGO_TV/index.m3u8"
             }
         ]
     },

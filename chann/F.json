@@ -2821,15 +2821,15 @@
     },
     {
         "id": null,
-        "name": "Fox Business Network (720p)",
+        "name": "Fox Business Network (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8"
+                "link": "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8"
+                "link": "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8"
             }
         ]
     },
@@ -3013,6 +3013,20 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=foxone"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox Soccer Plus",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdx-08192.website/embed/foxsoccerplus-usa"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdx-08192.website/embed/foxsoccerplus-usa"
             }
         ]
     },
@@ -3209,11 +3223,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2"
+                "link": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2"
+                "link": "https://tvsen7.aynascope.net/foxsports2/index.m3u8"
             }
         ]
     },
@@ -4203,15 +4217,15 @@
     },
     {
         "id": null,
-        "name": "Freeform (1080p)",
+        "name": "Freeform (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://40.160.24.52/FREEFORM/index.m3u8"
+                "link": "https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://40.160.24.52/FREEFORM/index.m3u8"
+                "link": "https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8"
             }
         ]
     },
