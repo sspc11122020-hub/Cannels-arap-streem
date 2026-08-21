@@ -7616,6 +7616,20 @@
     },
     {
         "id": null,
+        "name": "Polsat Viasat History (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pomona Internet Streaming Channel (Pomona CA) (720p)",
         "servers": [
             {

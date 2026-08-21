@@ -3534,6 +3534,11 @@
         ]
     },
     {
+        "id": "3002",
+        "name": "NFL Game Pass",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "NFL Network",
         "servers": [
@@ -6456,6 +6461,20 @@
             {
                 "name": "URL",
                 "link": "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nudge Sports Channel [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
             }
         ]
     },

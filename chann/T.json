@@ -1052,6 +1052,20 @@
     },
     {
         "id": null,
+        "name": "TBC1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TBC1 (1080p)",
         "servers": [
             {
@@ -1070,11 +1084,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8"
+                "link": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_17ad3c50323511f08f79733d2dd68583/index.fmp4.m3u8"
+                "link": "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8"
             }
         ]
     },
@@ -1897,11 +1911,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8"
+                "link": "https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8"
+                "link": "https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8"
             }
         ]
     },
@@ -2336,6 +2350,20 @@
             {
                 "name": "URL",
                 "link": "https://live.tele7abc.ro/hls/stream/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tele7music (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.tele7music.ro/hls/stream/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.tele7music.ro/hls/stream/index.m3u8"
             }
         ]
     },
@@ -3256,6 +3284,20 @@
             {
                 "name": "URL",
                 "link": "https://tvlocales-live.freecaster.com/telemb/95d2f6ca-817a-48c0-aba5-6323a621c2d6/95d2f6ca-817a-48c0-aba5-6323a621c2d6.isml/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Telemedios Canal 8 (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls.tvabierta.net/hls/008.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls.tvabierta.net/hls/008.m3u8"
             }
         ]
     },
@@ -5050,6 +5092,11 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel&code=us&user=cdnlivetv&plan=free"
             }
         ]
+    },
+    {
+        "id": "1075",
+        "name": "Tennis HD Stream",
+        "servers": []
     },
     {
         "id": "1501",
@@ -12565,15 +12612,15 @@
     },
     {
         "id": null,
-        "name": "TV Canal Sur (1080p)",
+        "name": "TV Canal Sur (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8"
+                "link": "https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8"
+                "link": "https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8"
             }
         ]
     },
