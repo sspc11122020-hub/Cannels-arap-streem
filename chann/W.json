@@ -1,6 +1,76 @@
 [
     {
         "id": null,
+        "name": "W Polsce PL (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lowa8026-cmyk.github.io/WPolscePL.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "W Shopping (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "W14DK-D 14.1 TV Delmarva",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "W14DK-D 14.2 NEWSNET",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "W24 (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "w9",
         "servers": [
             {
@@ -18,9 +88,135 @@
         ]
     },
     {
+        "id": null,
+        "name": "W9 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8"
+            }
+        ]
+    },
+    {
         "id": "959",
         "name": "W9 France",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Waar TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Waffi TV (240p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wairarapa TV (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Waldivision Internacional",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://media.streambrothers.com:19360/8308/8308.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://media.streambrothers.com:19360/8308/8308.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Walker Texas Ranger",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wan Luo TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wanted: Dead or Alive (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wap TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://newproxy3.vidivu.tv/waptv/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -51,14 +247,2128 @@
         ]
     },
     {
+        "id": null,
+        "name": "WAPA+ (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d15svg0m77868y.cloudfront.net/v1/hemisphere_wapaplus_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wapp (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.wapptv.cl/video/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.wapptv.cl/video/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Warner Bros. TV Say Yes to the Dress (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Warner Bros. TV Sweet Escapes",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6532e7fa045c3d0008514ca7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wasabi la chaîne anime (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Waseb TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.250.28.74:8000/play/a04k/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.250.28.74:8000/play/a04k/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wata Vision",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Watan TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Watar Radio (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Watar TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://htvint.mada.ps:8889/orient/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://htvint.mada.ps:8889/orient/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WATC Harmony Gospel Music TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WATC The Loop (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WATC The POINT Network (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WATC TV57 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Watch it KID! (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Watch it Scream! (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Waterbear (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WaterBear (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wattan TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://htvmada.mada.ps:4443/wattan/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://htvmada.mada.ps:4443/wattan/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WAVE TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamer2.nexgen.bz/08-WAVE/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamer2.nexgen.bz/08-WAVE/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wavez FM",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wayanad Vision (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cloudsavre.in.net/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cloudsavre.in.net/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Waypoint TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wayra TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wazobia Max TV Nigeria (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wazobia.live:8333/channel/wmax.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wazobia.live:8333/channel/wmax.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wazobia Max TV Port Harcourt (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wazobia.live:8333/channel/wmaxph.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wazobia.live:8333/channel/wmaxph.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBBJ (Jackson TN) (432p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBRZ Weather Channel Baton Rouge LA (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTS-CD1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS"
+            },
+            {
+                "name": "URL",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV At the Movies (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/c24f15d1-f67e-4534-bfde-76b9a1b74360/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Chasing Criminals (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/2bbace1f-ef14-4f1d-84f3-4fa07e4cf498/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Classic Cinema (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/c9a11be6-98bc-4a1b-a8f0-6236bffa7286/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Crime scenes (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/f825d887-cd89-4520-9960-699bb3ef076d/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Family Faves [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/39524910-cb76-47bb-bd3b-1ab8676f0981/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Family Unscripted (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Generation Drama (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/a8250c51-f628-4936-97cb-67a931d2d7d8/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Ghosts are Real (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/0893a942-6252-4604-9e43-147c920a3250/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV HBO Boxing (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV How To (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/8ca40844-aba2-49f8-a58c-37e5597b170e/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV In The Garage (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/2fe3d2d3-5dca-4da5-999f-4fcc54f4a34b/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Living With Evil (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/963f4a88-fe30-44f7-ae20-09a08eeb7cf7/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/963f4a88-fe30-44f7-ae20-09a08eeb7cf7/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Love & Desire [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/d25f9356-8a66-41fb-826d-3545848cfec8/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/d25f9356-8a66-41fb-826d-3545848cfec8/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Love and Marriage (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/550da437-5c67-44a3-a95e-a897fc7d6612/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Mysterious Worlds (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/8fa6f1c5-c602-426c-999d-8651180ca7ff/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV News (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Nikita (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/69aad4c1-9bb9-49db-9b2a-f8b26a7c3582/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Paws and Claws (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/29c0f72f-e546-4599-a7d5-ad1c2928d531/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Sweet Escapes (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/7b765297-03ed-4d4a-90d7-3879e776c938/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV The FBI (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/0e9b3dc6-8b19-4854-b0d1-df85b9ffa282/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Travel and Adventure (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/399519f7-b848-4c8e-aaac-884546a1d916/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Unique Lives (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/5602f3d6-c62c-4109-8de7-b7d2434ab63b/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Watchlist [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/b399c32f-0c5f-4609-a2f2-94a773397b44/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/b399c32f-0c5f-4609-a2f2-94a773397b44/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WBTV Welcome Home (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-manifest.production-public.tubi.io/live/edb986fe-9600-4f83-8b6d-8593986f2f3a/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WCAU-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI"
+            },
+            {
+                "name": "URL",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WCBI (Columbus MI) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WCCA 194 Worcester MA (WCCA-TV) (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://worcester.vod.castus.tv/live/ch1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://worcester.vod.castus.tv/live/ch1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WCETV Digital Channel 31.8",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WCOT 13 (Tallahassee FL) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDEF-TV News Chattanooga TN (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR 1 Live (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "734",
         "name": "WDR DE",
         "servers": []
     },
     {
+        "id": null,
+        "name": "WDR Fernsehen (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Aachen (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Bielefeld (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Bonn (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Dortmund (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Duisburg (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Düsseldorf (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Essen (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Münster (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Siegen (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDR Fernsehen Wuppertal (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "We One Kerala (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "We Sport TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "We TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://170.254.17.2/WE_TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://170.254.17.2/WE_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Weather Spy (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WeatherNation (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WeatherNation Charlotte (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d16xlk626t29pt.cloudfront.net/ABR.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d16xlk626t29pt.cloudfront.net/ABR.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WeatherNation Los Angeles",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Weathernews (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Weatherspy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WeatherSpy (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WECN (Único TV) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wedding TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wedo Big Stories (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "wedo movies (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://videosolu-w4freemovies-samsunguk-jpmp3.amagi.tv/playlist/videosolu-w4freemovies-samsunguk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wedo TV Amor (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "wedotv Amor (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live3/amor_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live3/amor_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "wedotv Auta (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "wedotv Big Stories (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live3/bigstories_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live3/bigstories_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "wedotv Cars (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live3/cars_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live3/cars_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WEDQ-DT4 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Weeds / Nurse Jackie (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WeertFM TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Weird or What? With William Shatner",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65819f83a620e300080f692a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Welat TV (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.badinan.xyz/welat/tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Welt der Wunder TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wesal TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WeShort (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WEST (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "West Hollywood WeHoTV (West Hollywood CA) (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Western Bound (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Western Bound (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://pb-idvkhrn30b0jf.akamaized.net/cw.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Western TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Westerns 4U (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.224.255.210:8001/play/a0rq/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.224.255.210:8001/play/a0rq/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "655",
         "name": "WETV USA",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "WFLD-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFMZ Dorney Park Camera",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFMZ PennST camera",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFMZ PPL Tower Camera",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.jaybirdtv.com/wfmz/channel/9/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFMZ Traffic",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFTX News Fort Myers FL (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFUT-DT1 (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WFXT-DT2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WGAL-DT3 (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WGGS-DT2 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WGGS-TV 16.1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WGN-DT1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_WGN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_WGN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WGTV-DT3 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whakaata Maori (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://i.mjh.nz/.r/maori-tv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://i.mjh.nz/.r/maori-tv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WHBQ-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wheels & Steel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01775-amg01775c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c2-amgplt0002/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WHIO-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whiplash (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.whiplash.cc/whiplash/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.whiplash.cc/whiplash/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whiplash Cinema (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whiplash II (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.whiplash.cc/whiplash-2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.whiplash.cc/whiplash-2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "White Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "White Plains Community Media (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whittier CityTV (Whittier CA) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whole Word TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Whose Line Is It Anyway?",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-672cb91149c40600081cbee5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-672cb91149c40600081cbee5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WHPS Detroit",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wicked Tuna",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63693fa2bfa0690007ebc880.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63693fa2bfa0690007ebc880.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wicked Tuna (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wicked Tuna (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-686c2677ed17cf4c900a496d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wicked Tuna Germany (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WIKI TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild 'N Out",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild at Heart",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild Nature (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild Planet (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live3/wildtv_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live3/wildtv_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild West TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wild West TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WildEarth (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wildest Wish TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wildfire",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Will&Grace (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-697a0577f9c3aa5a215a4ef8.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-697a0577f9c3aa5a215a4ef8.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Willax TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.93.224.42/WILLAX/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.93.224.42/WILLAX/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Williams TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://79.120.178.90:1935/williams/williamstv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Willow (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+            }
+        ]
     },
     {
         "id": "598",
@@ -109,6 +2419,20 @@
     },
     {
         "id": null,
+        "name": "Willow Sports (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Win Sports",
         "servers": [
             {
@@ -118,6 +2442,20 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=winsports"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Win Sports (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8"
             }
         ]
     },
@@ -141,9 +2479,51 @@
         "servers": []
     },
     {
+        "id": null,
+        "name": "Win TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-4.pishow.tv/live/1531/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-4.pishow.tv/live/1531/master.m3u8"
+            }
+        ]
+    },
+    {
         "id": "stream-392",
         "name": "Win+ Futbol Colombia",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Window TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wine Watches Whiskey (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8"
+            }
+        ]
     },
     {
         "id": "7057",
@@ -197,6 +2577,342 @@
         "servers": []
     },
     {
+        "id": null,
+        "name": "Winter Vibes (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d11iakikomyd5e.cloudfront.net/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d11iakikomyd5e.cloudfront.net/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Winthrop Community Access TV (WCAT 15) (360p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://frontdoor.wcat-tv.org/live-12/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://frontdoor.wcat-tv.org/live-12/live/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Winx Club",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62568a94ed1f380007b0211f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WION (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wipe Out",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wipeout",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wipeout Xtra (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WIPR (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamwipr.pr/hls/stream/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamwipr.pr/hls/stream/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wired2Fish (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WiseHumanTv (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WITI-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WITN 22 (Wilmington DE) (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://witn.cablecast.tv/live-4/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://witn.cablecast.tv/live-4/live/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Witness to Justice (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dxwldsv8fdzik.cloudfront.net/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dxwldsv8fdzik.cloudfront.net/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WJAX-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WJBK-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WJXT News4JAX (Jacksonville FL) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WKAQ-DT1 (Telemundo PR) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WKAQ-DT2 (Punto 2) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WLMB (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WLNG Radio (410p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WLTV-DT 23.1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://168.228.44.241:9997/play/a09d/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://168.228.44.241:9997/play/a09d/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WMBC-DT1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WMGT-TV News (Macon GA) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WMPT-DT2 (PBS Create)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8"
+            }
+        ]
+    },
+    {
         "id": "5041",
         "name": "WNBA League Pass",
         "servers": []
@@ -205,6 +2921,748 @@
         "id": "5034",
         "name": "WNBA Season Pass",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "WNBC-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY"
+            },
+            {
+                "name": "URL",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WNYW-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Women's Sports Network (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wonder (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WooHoo (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.162.64.114/WOOHOO/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.162.64.114/WOOHOO/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Workpoint TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Billiards TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://world.lls.pbs.org/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://world.lls.pbs.org/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Entertainment TV 42",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://3bb.engatetv.com:25461/hstn/line/147"
+            },
+            {
+                "name": "URL",
+                "link": "http://3bb.engatetv.com:25461/hstn/line/147"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Harvest TV (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World of Freesports (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World of Love Island",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6440f6e25a0cd500083b1ca4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6440f6e25a0cd500083b1ca4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World of Love Island (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Of Love Island (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00654-itvstudios-worldofloveisland-samsungse-nbyj3.amagi.tv/playlist/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00654-itvstudios-worldofloveisland-samsungse-nbyj3.amagi.tv/playlist/amg00654-itvstudios-worldofloveisland-samsungse/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World of Love Island (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-69699b6d23ea437206f4a036.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Poker Tour",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World Poker Tour (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World TV Guatemala (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://183.bozztv.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World War TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6319ee0cf78bb10007ee5e6b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World War TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "World’s Most Evil Killers (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WOS TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WOW Kidz (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            },
+            {
+                "name": "URL",
+                "link": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WOW TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WP TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vs2142.vcdn.biz/f5c4d9b74c12f9db99c064d94631c59d_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/4673ad1b-2a38-46b9-82a9-7cbafbc54569/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/5.63.189.60*asn/u_srvc/81255/u_did/web_CMWYc1jg2seAIWTzywW0wnkKBUjPO3gG/type.live/chunklist-sid8153936265259287922-b4000000.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vs2142.vcdn.biz/f5c4d9b74c12f9db99c064d94631c59d_megogo/live/hls/b/700_2490_4000/u_sid/0/o/160416841/rsid/4673ad1b-2a38-46b9-82a9-7cbafbc54569/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/5.63.189.60*asn/u_srvc/81255/u_did/web_CMWYc1jg2seAIWTzywW0wnkKBUjPO3gG/type.live/chunklist-sid8153936265259287922-b4000000.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WPIX-HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvsen6.aynaott.com/pix11/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvsen6.aynaott.com/pix11/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WPS TV (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WPT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f8ecfb9db6c180007a6d1b0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WPTV News West Palm Beach FL (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WPXI-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WRC-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS"
+            },
+            {
+                "name": "URL",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wrestling Legends TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68c820525ec82769fdfcd104.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WRUA-DT1 (Tiva TV) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WSB-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WSBS-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WSLF-LD 35.1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WSOC Now (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WSOC-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTMO-CD 31.1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTNH-DT1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw=="
+            },
+            {
+                "name": "URL",
+                "link": "https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw=="
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTTG-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wtvlive.b-cdn.net/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wtvlive.b-cdn.net/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wtv (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTV Canal 20 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTVJ-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTVQ ABC 36 News (Lexington KY) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTVT-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WTXF-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wu Tang Collection (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
+            },
+            {
+                "name": "URL",
+                "link": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wuan+",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WVCU-LP Concord University Radio The Cure 97.7 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WVIT-DT1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT"
+            },
+            {
+                "name": "URL",
+                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WVVH-CD 18.1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8"
+            }
+        ]
     },
     {
         "id": "376",
@@ -218,6 +3676,20 @@
     },
     {
         "id": null,
+        "name": "WWE Superstar Central (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "WWE US",
         "servers": [
             {
@@ -227,6 +3699,104 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=WWE&code=us&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WWON TV CH 48",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WWOR-DT1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
+            },
+            {
+                "name": "URL",
+                "link": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WWXY-DT1 (Boricua TV) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WXTV-DT1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WXWZ-LD1 (MásTV Canal 23) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WXXV-TV News (Biloxi MS) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8"
             }
         ]
     }
