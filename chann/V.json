@@ -1798,6 +1798,20 @@
     },
     {
         "id": null,
+        "name": "Viasat Kino Balkan (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://176.61.157.250/TV1000/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://176.61.157.250/TV1000/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Viasat Nature [Not 24/7]",
         "servers": [
             {
@@ -3253,20 +3267,6 @@
     },
     {
         "id": null,
-        "name": "VTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.66.62.83:8000/play/a00c/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.66.62.83:8000/play/a00c/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VTV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -3332,6 +3332,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.nmih.hu:7962/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VTV HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://ikitv.sqn.at:8000/play/a023/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://ikitv.sqn.at:8000/play/a023/index.m3u8"
             }
         ]
     },

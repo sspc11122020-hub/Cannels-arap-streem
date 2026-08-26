@@ -1496,6 +1496,20 @@
     },
     {
         "id": null,
+        "name": "ABHP TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vietprocast.app/hls/abhp/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vietprocast.app/hls/abhp/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ABN Afghanistan (540p)",
         "servers": [
             {
@@ -3674,6 +3688,20 @@
     },
     {
         "id": null,
+        "name": "Aik News",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2"
+            },
+            {
+                "name": "URL",
+                "link": "https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AION TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -3711,6 +3739,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ajwa TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://ikitv.sqn.at:8000/play/a00j/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://ikitv.sqn.at:8000/play/a00j/index.m3u8"
             }
         ]
     },
@@ -8081,6 +8123,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Antena 1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "253",
         "name": "Antena 1 Romania",
         "servers": []
@@ -9558,6 +9614,20 @@
             {
                 "name": "URL",
                 "link": "https://arvhls.wns.live/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ARY News",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
             }
         ]
     },

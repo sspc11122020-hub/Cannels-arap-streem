@@ -496,20 +496,6 @@
     },
     {
         "id": null,
-        "name": "Salam TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://salamtv.siar.us/live/salamtv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://salamtv.siar.us/live/salamtv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Salamat",
         "servers": [
             {
@@ -7761,6 +7747,20 @@
     },
     {
         "id": null,
+        "name": "Somos Entre Rios (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Somos TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -13873,15 +13873,15 @@
     },
     {
         "id": null,
-        "name": "Surau TV",
+        "name": "Surau TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8"
+                "link": "http://ikitv.sqn.at:8000/play/a00l/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8"
+                "link": "http://ikitv.sqn.at:8000/play/a00l/index.m3u8"
             }
         ]
     },
@@ -14746,15 +14746,15 @@
     },
     {
         "id": null,
-        "name": "Swerve Combat (720p)",
+        "name": "Swerve Sports (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8"
+                "link": "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8"
+                "link": "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8"
             }
         ]
     },
