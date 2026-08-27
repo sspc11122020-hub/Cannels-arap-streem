@@ -1279,15 +1279,15 @@
     },
     {
         "id": null,
-        "name": "Hello Taste (720p)",
+        "name": "Hello Taste",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+                "link": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8"
+                "link": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8"
             }
         ]
     },
@@ -2899,6 +2899,48 @@
             {
                 "name": "URL",
                 "link": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hosanna TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hosanna TV Global",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hosanna TV Hindi",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8"
             }
         ]
     },

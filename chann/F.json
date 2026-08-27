@@ -1456,6 +1456,20 @@
     },
     {
         "id": null,
+        "name": "FILMBOX+ Comedy Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "FILMBOX+ Festival",
         "servers": [
             {
@@ -1465,6 +1479,62 @@
             {
                 "name": "URL",
                 "link": "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FILMBOX+ Festival HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FILMBOX+ Hits Romania (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FILMBOX+ Love & Crime Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FILMBOX+ One Romania (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8"
             }
         ]
     },

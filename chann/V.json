@@ -1953,6 +1953,20 @@
     },
     {
         "id": null,
+        "name": "Video Mix TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Video Rola (1080p)",
         "servers": [
             {
@@ -2289,15 +2303,15 @@
     },
     {
         "id": null,
-        "name": "Village TV (576p)",
+        "name": "Village TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8"
+                "link": "https://live.villagetv.net/villagetv/hd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8"
+                "link": "https://live.villagetv.net/villagetv/hd/index.m3u8"
             }
         ]
     },
