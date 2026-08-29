@@ -57,6 +57,20 @@
     },
     {
         "id": null,
+        "name": "DaAi 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "DAAI TV",
         "servers": [
             {
@@ -80,20 +94,6 @@
             {
                 "name": "URL",
                 "link": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DaAi2 (大愛2) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
             }
         ]
     },
@@ -725,11 +725,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn1-de"
+                "link": "https://epiembeds.online/embed/dazn1-de"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn1-de"
+                "link": "https://epiembeds.online/embed/dazn1-de"
             }
         ]
     },
@@ -739,11 +739,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn1-it"
+                "link": "https://epiembeds.online/embed/dazn1-it"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn1-it"
+                "link": "https://epiembeds.online/embed/dazn1-it"
             }
         ]
     },
@@ -753,11 +753,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn1-pt"
+                "link": "https://epiembeds.online/embed/dazn1-pt"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn1-pt"
+                "link": "https://epiembeds.online/embed/dazn1-pt"
             }
         ]
     },
@@ -767,11 +767,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn1-es"
+                "link": "https://epiembeds.online/embed/dazn1-es"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn1-es"
+                "link": "https://epiembeds.online/embed/dazn1-es"
             }
         ]
     },
@@ -786,11 +786,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn1-usa"
+                "link": "https://epiembeds.online/embed/dazn1-usa"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn1-usa"
+                "link": "https://epiembeds.online/embed/dazn1-usa"
             }
         ]
     },
@@ -819,11 +819,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn2-de"
+                "link": "https://epiembeds.online/embed/dazn2-de"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn2-de"
+                "link": "https://epiembeds.online/embed/dazn2-de"
             }
         ]
     },
@@ -847,11 +847,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/dazn2-es"
+                "link": "https://epiembeds.online/embed/dazn2-es"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/dazn2-es"
+                "link": "https://epiembeds.online/embed/dazn2-es"
             }
         ]
     },
@@ -1034,11 +1034,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/daznf1-es"
+                "link": "https://epiembeds.online/embed/daznf1-es"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/daznf1-es"
+                "link": "https://epiembeds.online/embed/daznf1-es"
             }
         ]
     },
@@ -1086,11 +1086,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/daznlaliga-es"
+                "link": "https://epiembeds.online/embed/daznlaliga-es"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/daznlaliga-es"
+                "link": "https://epiembeds.online/embed/daznlaliga-es"
             }
         ]
     },
@@ -4037,11 +4037,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/discovery-usa"
+                "link": "https://epiembeds.online/embed/discovery-usa"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/discovery-usa"
+                "link": "https://epiembeds.online/embed/discovery-usa"
             }
         ]
     },
@@ -4065,11 +4065,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/discoveryfamily-usa"
+                "link": "https://epiembeds.online/embed/discoveryfamily-usa"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/discoveryfamily-usa"
+                "link": "https://epiembeds.online/embed/discoveryfamily-usa"
             }
         ]
     },
@@ -4089,11 +4089,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/discoveryturbo-usa"
+                "link": "https://epiembeds.online/embed/discoveryturbo-usa"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/discoveryturbo-usa"
+                "link": "https://epiembeds.online/embed/discoveryturbo-usa"
             }
         ]
     },
@@ -4379,11 +4379,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/disneyjunior-usa"
+                "link": "https://epiembeds.online/embed/disneyjunior-usa"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/disneyjunior-usa"
+                "link": "https://epiembeds.online/embed/disneyjunior-usa"
             }
         ]
     },
@@ -4421,11 +4421,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdx-08192.website/embed/disneyxd-usa"
+                "link": "https://epiembeds.online/embed/disneyxd-usa"
             },
             {
                 "name": "URL",
-                "link": "https://cdx-08192.website/embed/disneyxd-usa"
+                "link": "https://epiembeds.online/embed/disneyxd-usa"
             }
         ]
     },
