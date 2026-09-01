@@ -2195,11 +2195,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+                "link": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+                "link": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
             }
         ]
     },
@@ -6480,20 +6480,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Sky Sports F1 HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://188.138.29.131/skysportsf1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://188.138.29.131/skysportsf1/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "60",
         "name": "Sky Sports F1 UK",
         "servers": []
@@ -6514,15 +6500,15 @@
     },
     {
         "id": null,
-        "name": "Sky Sports Football (1080p)",
+        "name": "Sky Sports Football (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://xemzi.short.gy/2000003"
+                "link": "http://188.138.29.131/skyfootball/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://xemzi.short.gy/2000003"
+                "link": "http://188.138.29.131/skyfootball/index.m3u8"
             }
         ]
     },
@@ -6579,20 +6565,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Sky Sports Golf HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://188.138.29.131/skygolf/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://188.138.29.131/skygolf/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "574",
         "name": "Sky Sports Golf Italy",
         "servers": []
@@ -6627,20 +6599,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event&code=gb&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sky Sports Main Event HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://xemzi.short.gy/2000001"
-            },
-            {
-                "name": "URL",
-                "link": "https://xemzi.short.gy/2000001"
             }
         ]
     },
@@ -10751,57 +10709,15 @@
     },
     {
         "id": null,
-        "name": "Star Gold 2 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.253.18.58:8000/play/a00r"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.253.18.58:8000/play/a00r"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold HD (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.253.18.58:8000/play/a00q"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.253.18.58:8000/play/a00q"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold Romance (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.253.18.58:8000/play/a017"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.253.18.58:8000/play/a017"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Star Gold Select HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.253.18.58:8000/play/a02u"
+                "link": "http://149.71.34.166:8000/play/a01d/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.253.18.58:8000/play/a02u"
+                "link": "http://149.71.34.166:8000/play/a01d/index.m3u8"
             }
         ]
     },
@@ -10886,34 +10802,6 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Movies HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a01f/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a01f/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Movies Select HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a01g/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a01g/index.m3u8"
             }
         ]
     },
@@ -13021,20 +12909,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/269/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Subharti TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
             }
         ]
     },

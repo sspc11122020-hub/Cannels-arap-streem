@@ -291,6 +291,20 @@
     },
     {
         "id": null,
+        "name": "RadiantTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio 1 (720p)",
         "servers": [
             {
@@ -3751,6 +3765,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ray TV HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8"
             }
         ]
     },

@@ -95,20 +95,6 @@
     },
     {
         "id": null,
-        "name": "&flix HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1322.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1322.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "&pictures (720p)",
         "servers": [
             {
@@ -123,20 +109,6 @@
     },
     {
         "id": null,
-        "name": "&pictures HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/185.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/185.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "&TV International (1080p)",
         "servers": [
             {
@@ -146,20 +118,6 @@
             {
                 "name": "URL",
                 "link": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "&xplor HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a001/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a001/index.m3u8"
             }
         ]
     },
@@ -2115,6 +2073,20 @@
     },
     {
         "id": null,
+        "name": "7 Gold (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "7 Info",
         "servers": [
             {
@@ -2299,20 +2271,6 @@
         "id": "868",
         "name": "8Sky Cinema Suspense Italy",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "8TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn6.163189.xyz/163189/8tv"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn6.163189.xyz/163189/8tv"
-            }
-        ]
     },
     {
         "id": null,

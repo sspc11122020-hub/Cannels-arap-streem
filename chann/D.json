@@ -154,6 +154,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Daily Post TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "1051",
         "name": "Dajto SK",
         "servers": []
@@ -2383,6 +2397,20 @@
     },
     {
         "id": null,
+        "name": "Deewana HD (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "DEFA TV (720p)",
         "servers": [
             {
@@ -3233,6 +3261,20 @@
             {
                 "name": "URL",
                 "link": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Dhool TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
             }
         ]
     },
@@ -4115,6 +4157,20 @@
         "id": "285",
         "name": "Discovery Velocity CA",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Disha TV (396p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -5131,20 +5187,6 @@
     },
     {
         "id": null,
-        "name": "Dog TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://46.151.196.223:14382"
-            },
-            {
-                "name": "URL",
-                "link": "http://46.151.196.223:14382"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dog Whisperer (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -6121,6 +6163,20 @@
     },
     {
         "id": null,
+        "name": "DSports",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Dsports +",
         "servers": [
             {
@@ -6149,6 +6205,20 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=dsports2"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DSports 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.113.175:8000/play/a0ca/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.113.175:8000/play/a0ca/index.m3u8"
             }
         ]
     },

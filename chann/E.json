@@ -2600,6 +2600,20 @@
     },
     {
         "id": null,
+        "name": "Epic Bhojpuri Digital (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Epic Crimes (1080p)",
         "servers": [
             {
@@ -3525,6 +3539,20 @@
             {
                 "name": "URL",
                 "link": "https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Espansione TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8"
             }
         ]
     },
@@ -4780,20 +4808,6 @@
     },
     {
         "id": null,
-        "name": "ETV Abhiruchi (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ETV Andhra Pradesh (1080p)",
         "servers": [
             {
@@ -4803,6 +4817,20 @@
             {
                 "name": "URL",
                 "link": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ETV Beats (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/stvp-IN4900002RV"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/stvp-IN4900002RV"
             }
         ]
     },
@@ -4910,11 +4938,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
+                "link": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
+                "link": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8"
             }
         ]
     },
@@ -6885,20 +6913,6 @@
             {
                 "name": "URL3",
                 "link": "https://bolaloca.my/player/3/163"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Extra TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8"
             }
         ]
     },

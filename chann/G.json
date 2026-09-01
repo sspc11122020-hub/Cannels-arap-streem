@@ -973,20 +973,6 @@
     },
     {
         "id": null,
-        "name": "Gen",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Génération Sitcoms",
         "servers": [
             {
@@ -2608,6 +2594,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Goldmines Bollywood (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
             }
         ]
     },

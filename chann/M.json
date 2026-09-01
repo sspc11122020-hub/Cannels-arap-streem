@@ -7900,11 +7900,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://epiembeds.online/embed/mtv-usa"
+                "link": "https://ma.anixa.tv/clips/stream/mtv/playlist.php"
             },
             {
                 "name": "URL",
-                "link": "https://epiembeds.online/embed/mtv-usa"
+                "link": "https://ma.anixa.tv/clips/stream/mtv/playlist.php"
             }
         ]
     },
@@ -8148,6 +8148,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Global (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dvr2.kablova.tv/MTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dvr2.kablova.tv/MTV/index.m3u8"
             }
         ]
     },

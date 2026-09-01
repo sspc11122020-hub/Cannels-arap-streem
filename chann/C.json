@@ -5180,6 +5180,20 @@
     },
     {
         "id": null,
+        "name": "Canale 5 HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Canale 7 (480p)",
         "servers": [
             {
@@ -10389,6 +10403,20 @@
             {
                 "name": "URL",
                 "link": "http://145.239.5.177/337/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cine34 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
             }
         ]
     },
