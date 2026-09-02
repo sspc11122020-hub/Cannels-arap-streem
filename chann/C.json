@@ -12357,43 +12357,15 @@
     },
     {
         "id": null,
-        "name": "Colors Kannada (576p)",
+        "name": "Colors Kannada HD (1080i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1370.m3u8"
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1370.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Kannada Cinema (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1632.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1632.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Kannada HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/757.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/757.m3u8"
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8"
             }
         ]
     },
@@ -12464,20 +12436,6 @@
             {
                 "name": "URL",
                 "link": "http://103.72.101.252:8080/live/279.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Super (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/785.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/785.m3u8"
             }
         ]
     },
@@ -13927,6 +13885,11 @@
     {
         "id": "5032",
         "name": "Court 7 Tennis",
+        "servers": []
+    },
+    {
+        "id": "1068",
+        "name": "Court Live Feed",
         "servers": []
     },
     {

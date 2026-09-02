@@ -510,11 +510,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/AasthaSD/playlist.m3u8"
+                "link": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/AasthaSD/playlist.m3u8"
+                "link": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8"
             }
         ]
     },
@@ -5813,6 +5813,20 @@
     },
     {
         "id": null,
+        "name": "All Time Movies (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "All Weddings We TV (720p) [Geo-blocked]",
         "servers": [
             {
@@ -9362,15 +9376,15 @@
     },
     {
         "id": null,
-        "name": "Arputhar Yesu TV (720p)",
+        "name": "Arputhar Yesu TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8"
+                "link": "https://account33.livebox.co.in/jesushelpshls/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8"
+                "link": "https://account33.livebox.co.in/jesushelpshls/live.m3u8"
             }
         ]
     },
@@ -9605,20 +9619,6 @@
             {
                 "name": "URL",
                 "link": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Aruljothi TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jothi.inet.moe/jothitv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jothi.inet.moe/jothitv/index.m3u8"
             }
         ]
     },
@@ -9862,15 +9862,29 @@
     },
     {
         "id": null,
-        "name": "Asianet Movies HD (1080p)",
+        "name": "Asianet Middle East (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a06e/index.m3u8"
+                "link": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a06e/index.m3u8"
+                "link": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Asianet Movies HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8"
             }
         ]
     },
@@ -10400,6 +10414,20 @@
             {
                 "name": "URL",
                 "link": "https://atomic.streamnet.ro/atomictv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ATR (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/244/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/244/index.m3u8"
             }
         ]
     },

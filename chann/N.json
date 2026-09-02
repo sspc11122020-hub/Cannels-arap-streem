@@ -809,20 +809,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic HD (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8002/play/a013/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8002/play/a013/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic HD East (720p)",
         "servers": [
             {
@@ -888,20 +874,6 @@
             {
                 "name": "URL",
                 "link": "https://saran-live.ercdn.net/natgeowild/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "National Geographic Wild HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8002/play/a012/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8002/play/a012/index.m3u8"
             }
         ]
     },
@@ -2563,6 +2535,20 @@
             {
                 "name": "URL",
                 "link": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nevis Television",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8"
             }
         ]
     },
@@ -4447,6 +4433,34 @@
             {
                 "name": "URL",
                 "link": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Niki Junior (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/262/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/262/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Niki Kids (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/271/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/271/index.m3u8"
             }
         ]
     },

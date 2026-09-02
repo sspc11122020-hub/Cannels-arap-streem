@@ -7321,20 +7321,6 @@
     },
     {
         "id": null,
-        "name": "Polonia 1 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vs2124.vcdn.biz/fab48aecdc2eda856dcf108cff23f0af_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818621/rsid/0e266c99-a1e7-4d85-b3c6-173eeac55ae0/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid6761789432318948657-b4000000.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vs2124.vcdn.biz/fab48aecdc2eda856dcf108cff23f0af_megogo/live/hls/b/700_2490_4000/u_sid/0/o/159818621/rsid/0e266c99-a1e7-4d85-b3c6-173eeac55ae0/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid6761789432318948657-b4000000.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Polsat (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -9932,6 +9918,20 @@
             {
                 "name": "URL",
                 "link": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Public Movies (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8"
             }
         ]
     },

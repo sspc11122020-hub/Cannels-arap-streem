@@ -754,6 +754,20 @@
     },
     {
         "id": null,
+        "name": "Fashion TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/287/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/287/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fashion&LifeStyle (1080p)",
         "servers": [
             {
@@ -852,6 +866,20 @@
             {
                 "name": "URL",
                 "link": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fast1 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-6.pishow.tv/live/10008/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-6.pishow.tv/live/10008/master.m3u8"
             }
         ]
     },
