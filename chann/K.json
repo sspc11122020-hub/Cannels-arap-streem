@@ -1814,6 +1814,20 @@
     },
     {
         "id": null,
+        "name": "KIIO-LD 10.1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KiKA (1080p) [Not 24/7]",
         "servers": [
             {
@@ -3788,20 +3802,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-657c0954dfed030008d82ea1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kvartal TV International",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
             }
         ]
     },
