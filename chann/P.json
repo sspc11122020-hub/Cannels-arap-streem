@@ -1164,20 +1164,6 @@
     },
     {
         "id": null,
-        "name": "PBS KET Louisville KY (WKMJ-TV) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "PBS KET World (480p)",
         "servers": [
             {
@@ -2626,6 +2612,20 @@
             {
                 "name": "URL",
                 "link": "https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Planet Fun (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a02k/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a02k/index.m3u8"
             }
         ]
     },
@@ -6994,6 +6994,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.live247stream.com/pmi/tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pobeda (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://94.155.93.182/POBEDA_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://94.155.93.182/POBEDA_HD/index.m3u8"
             }
         ]
     },

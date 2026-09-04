@@ -43,15 +43,29 @@
     },
     {
         "id": null,
-        "name": "B4U Movies APAC (720p)",
+        "name": "B4U Kadak (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8"
+                "link": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8"
+                "link": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "B4U Movies (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8"
             }
         ]
     },
@@ -66,20 +80,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-2.pishow.tv/live/415/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "B4U Music APAC (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8"
             }
         ]
     },
@@ -164,6 +164,20 @@
             {
                 "name": "URL",
                 "link": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Baby Time (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.134.1.158:8081/babytime/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.134.1.158:8081/babytime/index.m3u8"
             }
         ]
     },
@@ -5051,15 +5065,29 @@
     },
     {
         "id": null,
+        "name": "Bharat24 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bhojpuri Cinema (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8"
+                "link": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8"
+                "link": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
             }
         ]
     },
@@ -7317,6 +7345,20 @@
     },
     {
         "id": null,
+        "name": "BRIDGE Rock (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bring It! (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -7326,20 +7368,6 @@
             {
                 "name": "URL",
                 "link": "https://pb-46i4usnz2g1z1.akamaized.net/Bring_It.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Brio TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HBRIOTV/index.m3u8"
             }
         ]
     },

@@ -2238,7 +2238,7 @@
     },
     {
         "id": null,
-        "name": "Scientology Network KSCN-DT1",
+        "name": "Scientology Network KSCN-TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -2252,7 +2252,7 @@
     },
     {
         "id": null,
-        "name": "Scientology Network WFTT-DT1",
+        "name": "Scientology Network WFTT-TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -7803,6 +7803,20 @@
     },
     {
         "id": null,
+        "name": "Sonic (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.185.24.134:3001/SONIC/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.185.24.134:3001/SONIC/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Sonic The Hedgehog (720p)",
         "servers": [
             {
@@ -7868,6 +7882,20 @@
             {
                 "name": "URL",
                 "link": "http://www.sonus.fm:1935/public/stream_source/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Sony Aath (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.165.93.31:8095/sonyAath/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.165.93.31:8095/sonyAath/index.m3u8"
             }
         ]
     },
@@ -8153,6 +8181,20 @@
     },
     {
         "id": null,
+        "name": "Sony Pal (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Sony Pix HD (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -8261,6 +8303,20 @@
             {
                 "name": "URL",
                 "link": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Sony Yay! (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.165.93.31:8095/sonyYay/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.165.93.31:8095/sonyYay/index.m3u8"
             }
         ]
     },
@@ -8793,20 +8849,6 @@
             {
                 "name": "URL",
                 "link": "http://178.124.179.122:8080/TRO/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sozcu TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.178.103.239:55/yt1/szctv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.178.103.239:55/yt1/szctv.m3u8"
             }
         ]
     },
@@ -9901,6 +9943,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Sports Squad Haryana (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://180.188.254.253/live/SPORTSSQUADHARYANA.m3u8"
+            }
+        ]
+    },
+    {
         "id": "6003",
         "name": "Sports Stream",
         "servers": []
@@ -10709,6 +10765,62 @@
     },
     {
         "id": null,
+        "name": "Star Gold 2 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a00g/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a00g/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Star Gold 2 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a077/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a077/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Star Gold HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a00f/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a00f/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Star Gold Romance (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a00r/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a00r/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Star Gold Select HD (1080p)",
         "servers": [
             {
@@ -10802,6 +10914,34 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Star Movies HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a021/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a021/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Star Movies Select HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a020/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a020/index.m3u8"
             }
         ]
     },
@@ -12404,6 +12544,20 @@
     },
     {
         "id": null,
+        "name": "Story Television KPVM-LD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "StoryChannel TV (720p)",
         "servers": [
             {
@@ -12455,6 +12609,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-667f393836a2f90008fd17c0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "StreamForce 360 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8"
             }
         ]
     },
@@ -13222,6 +13390,20 @@
             {
                 "name": "URL",
                 "link": "https://mp.panelchs.com/hls/8032/8032.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Super Hungama (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8"
             }
         ]
     },

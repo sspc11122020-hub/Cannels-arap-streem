@@ -85,6 +85,20 @@
     },
     {
         "id": null,
+        "name": ".red HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.134.1.158:8081/red/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.134.1.158:8081/red/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": ".sci-fi (576p)",
         "servers": [
             {
@@ -123,6 +137,20 @@
     },
     {
         "id": null,
+        "name": "&TV HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.70.146.135:8000/play/a06c/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.70.146.135:8000/play/a06c/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "&TV International (1080p)",
         "servers": [
             {
@@ -132,6 +160,20 @@
             {
                 "name": "URL",
                 "link": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "&xplor HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a028/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a028/index.m3u8"
             }
         ]
     },
@@ -3871,20 +3913,6 @@
     },
     {
         "id": null,
-        "name": "Мир Сериала (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Mir_Seriala/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Mir_Seriala/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "МТВ (Волгоград) (720p) [Not 24/7]",
         "servers": [
             {
@@ -4179,20 +4207,6 @@
     },
     {
         "id": null,
-        "name": "НТВ Хит (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "НТК ТВ (1080p) [Not 24/7]",
         "servers": [
             {
@@ -4328,20 +4342,6 @@
             {
                 "name": "URL",
                 "link": "https://v4.proofix.ru/0mir/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ОТР (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/OTR/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/OTR/index.m3u8"
             }
         ]
     },
@@ -5355,20 +5355,6 @@
     },
     {
         "id": null,
-        "name": "ТНТ4 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/TNT4/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/TNT4/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Толк HD (720p)",
         "servers": [
             {
@@ -5378,20 +5364,6 @@
             {
                 "name": "URL",
                 "link": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Тонус (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Zdorovie/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Zdorovie/index.m3u8"
             }
         ]
     },
@@ -5434,20 +5406,6 @@
             {
                 "name": "URL",
                 "link": "http://46.46.112.223/live/livestream1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Уникум (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Detskiy/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Detskiy/index.m3u8"
             }
         ]
     },
@@ -5560,20 +5518,6 @@
             {
                 "name": "URL",
                 "link": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Че! (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Che/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Che/index.m3u8"
             }
         ]
     },

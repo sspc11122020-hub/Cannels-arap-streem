@@ -1371,6 +1371,20 @@
     },
     {
         "id": null,
+        "name": "Lapki Live (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.145.32.13:20440/unikum/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.145.32.13:20440/unikum/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "LaPuraCrema Television",
         "servers": [
             {
@@ -2762,15 +2776,15 @@
     },
     {
         "id": null,
-        "name": "Lifetime (576p)",
+        "name": "Lifetime (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
+                "link": "http://41.205.93.154/LIFETIME/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
+                "link": "http://41.205.93.154/LIFETIME/index.m3u8"
             }
         ]
     },
@@ -3527,6 +3541,25 @@
             {
                 "name": "URL",
                 "link": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true"
+            }
+        ]
+    },
+    {
+        "id": "1081",
+        "name": "Live Feed",
+        "servers": []
+    },
+    {
+        "id": null,
+        "name": "Live India (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8"
             }
         ]
     },

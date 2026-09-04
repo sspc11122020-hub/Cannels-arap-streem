@@ -388,11 +388,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/Dangal2/playlist.m3u8"
+                "link": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/Dangal2/playlist.m3u8"
+                "link": "https://live-dangal2.akamaized.net/liveabr/playlist.m3u8"
             }
         ]
     },
@@ -402,11 +402,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/Dangal/playlist.m3u8"
+                "link": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/Dangal/playlist.m3u8"
+                "link": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
             }
         ]
     },
@@ -1427,11 +1427,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/DDBharati/playlist.m3u8"
+                "link": "https://cdn-1.pishow.tv/live/10/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/DDBharati/playlist.m3u8"
+                "link": "https://cdn-1.pishow.tv/live/10/master.m3u8"
             }
         ]
     },
@@ -4216,6 +4216,20 @@
     },
     {
         "id": null,
+        "name": "Disney Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.70.146.135:8000/play/a01q/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.70.146.135:8000/play/a01q/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Disney Channel (720p) [Geo-blocked]",
         "servers": [
             {
@@ -4225,6 +4239,20 @@
             {
                 "name": "URL",
                 "link": "http://212.5.144.156/disney/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Disney Channel HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.102.126.10:8000/play/a013/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.102.126.10:8000/play/a013/index.m3u8"
             }
         ]
     },

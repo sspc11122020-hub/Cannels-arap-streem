@@ -1264,11 +1264,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8"
+                "link": "http://179.60.224.196:8000/play/a0dv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3mstgwjcwqz1y.cloudfront.net/ts:abr.m3u8"
+                "link": "http://179.60.224.196:8000/play/a0dv/index.m3u8"
             }
         ]
     },
@@ -1307,15 +1307,15 @@
     },
     {
         "id": null,
-        "name": "Canal 12 (480i)",
+        "name": "Canal 12 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8"
+                "link": "http://186.33.26.18:8000/play/a0nw/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8"
+                "link": "http://186.33.26.18:8000/play/a0nw/index.m3u8"
             }
         ]
     },
@@ -1344,6 +1344,20 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/Canal13HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal 13 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.61.101.11:7050/play/a07f/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.61.101.11:7050/play/a07f/index.m3u8"
             }
         ]
     },
@@ -1671,15 +1685,15 @@
     },
     {
         "id": null,
-        "name": "Canal 2 (480p) [Not 24/7]",
+        "name": "Canal 2 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+                "link": "http://186.33.26.18:8000/play/a0qp/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8"
+                "link": "http://186.33.26.18:8000/play/a0qp/index.m3u8"
             }
         ]
     },
@@ -2231,6 +2245,20 @@
     },
     {
         "id": null,
+        "name": "Canal 4 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.5.118.188:8000/play/a00j/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.5.118.188:8000/play/a00j/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Canal 4 (480p) [Not 24/7]",
         "servers": [
             {
@@ -2483,15 +2511,15 @@
     },
     {
         "id": null,
-        "name": "Canal 5 El Líder (720p) [Not 24/7]",
+        "name": "Canal 5 El Lider (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8"
+                "link": "http://186.33.26.18:8000/play/a0s4/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8"
+                "link": "http://186.33.26.18:8000/play/a0s4/index.m3u8"
             }
         ]
     },
@@ -2665,29 +2693,15 @@
     },
     {
         "id": null,
-        "name": "Canal 6 (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal 6 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8"
+                "link": "http://45.167.2.101:8000/play/a0qs/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3xpfoln9sj56.cloudfront.net/ts:abr.m3u8"
+                "link": "http://45.167.2.101:8000/play/a0qs/index.m3u8"
             }
         ]
     },
@@ -4546,6 +4560,20 @@
     },
     {
         "id": null,
+        "name": "Canal TRV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Canal TV Radio Maya TGBA (480p)",
         "servers": [
             {
@@ -4662,7 +4690,21 @@
     },
     {
         "id": null,
-        "name": "Canal+ Action Europe Czechia (720p)",
+        "name": "Canal+ Action Europe Czechia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.149.191.219:9106/play/a01g"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.149.191.219:9106/play/a01g"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal+ Action Europe Slovakia (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6655,6 +6697,20 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/cbeebies-uk"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "CBeebies Asia (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.70.146.135:8000/play/a0a2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.70.146.135:8000/play/a0a2/index.m3u8"
             }
         ]
     },
@@ -9087,20 +9143,6 @@
     },
     {
         "id": null,
-        "name": "Channel Y (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Channels 24",
         "servers": [
             {
@@ -9376,6 +9418,20 @@
             {
                 "name": "URL",
                 "link": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Che! (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://flussonic.linkintel.ru/che/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://flussonic.linkintel.ru/che/index.m3u8"
             }
         ]
     },
@@ -10478,15 +10534,15 @@
     },
     {
         "id": null,
-        "name": "Cinema",
+        "name": "Cinema (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://catchup.videoline.ru/cinema/playlist.m3u8"
+                "link": "http://flussonic.linkintel.ru/cinema/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://catchup.videoline.ru/cinema/playlist.m3u8"
+                "link": "http://flussonic.linkintel.ru/cinema/index.m3u8"
             }
         ]
     },
@@ -11614,6 +11670,20 @@
     },
     {
         "id": null,
+        "name": "CNBC (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://41.205.93.154/CNBC/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://41.205.93.154/CNBC/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CNBC Arabiya (1080p)",
         "servers": [
             {
@@ -12231,43 +12301,15 @@
     },
     {
         "id": null,
-        "name": "Colors Bangla Cinema (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1657.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1657.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Colors Bangla HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/756.m3u8"
+                "link": "http://103.165.93.31:8095/colorsBangla/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/756.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Cineplex (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.122.249.134:8000/play/a058"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.122.249.134:8000/play/a058"
+                "link": "http://103.165.93.31:8095/colorsBangla/index.m3u8"
             }
         ]
     },
@@ -12277,11 +12319,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1763.m3u8"
+                "link": "http://202.70.146.135:8000/play/a058/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1763.m3u8"
+                "link": "http://202.70.146.135:8000/play/a058/index.m3u8"
             }
         ]
     },
@@ -12291,25 +12333,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a00b/index.m3u8"
+                "link": "http://66.102.126.10:8000/play/a076/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a00b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Cineplex Superhits (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1450.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1450.m3u8"
+                "link": "http://66.102.126.10:8000/play/a076/index.m3u8"
             }
         ]
     },
@@ -12329,15 +12357,15 @@
     },
     {
         "id": null,
-        "name": "Colors Gujarati Cinema (360p)",
+        "name": "Colors HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1324.m3u8"
+                "link": "http://66.102.126.10:8000/play/a00a/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1324.m3u8"
+                "link": "http://66.102.126.10:8000/play/a00a/index.m3u8"
             }
         ]
     },
@@ -12347,11 +12375,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://149.71.34.166:8002/play/a01d/index.m3u8"
+                "link": "http://66.102.126.10:8000/play/a014/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://149.71.34.166:8002/play/a01d/index.m3u8"
+                "link": "http://66.102.126.10:8000/play/a014/index.m3u8"
             }
         ]
     },
@@ -12366,34 +12394,6 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Marathi (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1326.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1326.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Marathi HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/755.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/755.m3u8"
             }
         ]
     },
@@ -12422,20 +12422,6 @@
             {
                 "name": "URL",
                 "link": "https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Rishtey Asia (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/279.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/279.m3u8"
             }
         ]
     },

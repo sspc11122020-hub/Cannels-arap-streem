@@ -2194,6 +2194,20 @@
     },
     {
         "id": null,
+        "name": "ACE Country Radio KPVM-LD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ace TV (1080p)",
         "servers": [
             {
@@ -3935,6 +3949,20 @@
             {
                 "name": "URL",
                 "link": "https://live2.alalam.ir/alalam.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Al Alam Al Yawm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8"
             }
         ]
     },
@@ -6621,15 +6649,15 @@
     },
     {
         "id": null,
-        "name": "AMC (720p)",
+        "name": "AMC (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://23.239.31.26:8989/amc/index.m3u8"
+                "link": "http://41.205.93.154/AMC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://23.239.31.26:8989/amc/index.m3u8"
+                "link": "http://41.205.93.154/AMC/index.m3u8"
             }
         ]
     },

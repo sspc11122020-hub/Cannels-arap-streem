@@ -809,6 +809,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.165.93.31:8095/nationalGeographic/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.165.93.31:8095/nationalGeographic/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic HD East (720p)",
         "servers": [
             {
@@ -6545,6 +6559,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.ntv.ru/vitrina/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NTV-Hit (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.134.1.158:8081/ntvhit/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.134.1.158:8081/ntvhit/index.m3u8"
             }
         ]
     },
