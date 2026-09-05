@@ -2259,20 +2259,6 @@
     },
     {
         "id": null,
-        "name": "Canal 4 (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal 4 (720p)",
         "servers": [
             {
@@ -5899,6 +5885,20 @@
     },
     {
         "id": null,
+        "name": "Carousel International (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cartago Medios TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -8774,6 +8774,20 @@
     },
     {
         "id": null,
+        "name": "Channel 7 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Channel 7 (720p)",
         "servers": [
             {
@@ -8811,20 +8825,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/27/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Channel 7 Melbourne",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://44.32.200.142:5004/auto/v7"
-            },
-            {
-                "name": "URL",
-                "link": "http://44.32.200.142:5004/auto/v7"
             }
         ]
     },
@@ -9675,6 +9675,20 @@
             {
                 "name": "URL",
                 "link": "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Chikitoonz (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.70.201.81:8000/play/a00p/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.70.201.81:8000/play/a00p/index.m3u8"
             }
         ]
     },
@@ -11066,11 +11080,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://185.47.212.25:8080/Clan_HD/index.m3u8"
+                "link": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://185.47.212.25:8080/Clan_HD/index.m3u8"
+                "link": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8"
             }
         ]
     },
@@ -11735,20 +11749,6 @@
             {
                 "name": "URL",
                 "link": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CNBC Indonesia (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
             }
         ]
     },

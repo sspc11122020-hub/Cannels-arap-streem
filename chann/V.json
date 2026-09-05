@@ -25,15 +25,15 @@
     },
     {
         "id": null,
-        "name": "V gostyakh u skazki (576p)",
+        "name": "V gostyakh u skazki (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/93/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/93/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -2093,15 +2093,15 @@
     },
     {
         "id": null,
-        "name": "viju Nature",
+        "name": "viju Nature (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -2135,15 +2135,15 @@
     },
     {
         "id": null,
-        "name": "viju TV1000 Русское (576p)",
+        "name": "viju TV1000 russkoe (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8"
+                "link": "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8"
+                "link": "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -3017,6 +3017,20 @@
             {
                 "name": "URL",
                 "link": "https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Volver (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.113.175:8000/play/a04r/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.113.175:8000/play/a04r/index.m3u8"
             }
         ]
     },

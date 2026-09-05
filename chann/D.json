@@ -3196,20 +3196,6 @@
     },
     {
         "id": null,
-        "name": "Dharm Sandesh",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-2.pishow.tv/live/1455/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-2.pishow.tv/live/1455/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dharsan TV (720p)",
         "servers": [
             {
@@ -3627,20 +3613,6 @@
     },
     {
         "id": null,
-        "name": "Digi Shala (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1227.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1227.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Digi Sport 1 RO",
         "servers": [
             {
@@ -3857,15 +3829,15 @@
     },
     {
         "id": null,
-        "name": "DIM",
+        "name": "DIM (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
+                "link": "http://stream.mcquack.net/383/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8"
+                "link": "http://stream.mcquack.net/383/index.m3u8"
             }
         ]
     },
@@ -4346,11 +4318,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://149.71.34.166:8002/play/a01p/index.m3u8"
+                "link": "http://202.70.146.135:8000/play/a04p/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://149.71.34.166:8002/play/a01p/index.m3u8"
+                "link": "http://202.70.146.135:8000/play/a04p/index.m3u8"
             }
         ]
     },
@@ -4468,20 +4440,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/disneyjunior-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Disney Junior (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a00l/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a00l/index.m3u8"
             }
         ]
     },
@@ -5299,6 +5257,20 @@
     },
     {
         "id": null,
+        "name": "Dom kino International (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Dom kino Premium HD (1080p)",
         "servers": [
             {
@@ -5308,6 +5280,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/108/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Domashnie Zhivotnye (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -5481,15 +5467,15 @@
     },
     {
         "id": null,
-        "name": "Dorama",
+        "name": "Dorama (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv"
             }
         ]
     },

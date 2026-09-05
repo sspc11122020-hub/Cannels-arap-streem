@@ -4651,6 +4651,20 @@
     },
     {
         "id": null,
+        "name": "Television Publica (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.113.175:8000/play/a03l/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.113.175:8000/play/a03l/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Television Tarapoto (720p)",
         "servers": [
             {
@@ -8701,6 +8715,20 @@
     },
     {
         "id": null,
+        "name": "TNT4 International (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TNTCHILE Premium",
         "servers": [
             {
@@ -8733,6 +8761,20 @@
     },
     {
         "id": null,
+        "name": "TNV-Planet (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TNV-Tatarstan (720p)",
         "servers": [
             {
@@ -8742,6 +8784,20 @@
             {
                 "name": "URL",
                 "link": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tochka otryva (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -10398,6 +10454,20 @@
     },
     {
         "id": null,
+        "name": "Travel+Adventure HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/206/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/206/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
         "servers": [
             {
@@ -10440,15 +10510,15 @@
     },
     {
         "id": null,
-        "name": "Travelxp HD (1080p) [Geo-blocked]",
+        "name": "Travelxp HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
+                "link": "http://stream.mcquack.net/451/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
+                "link": "http://stream.mcquack.net/451/index.m3u8"
             }
         ]
     },
@@ -11688,6 +11758,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Turan TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -16267,6 +16351,20 @@
             {
                 "name": "URL",
                 "link": "http://flussonic.linkintel.ru/tv-3/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV-3 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/136/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/136/index.m3u8"
             }
         ]
     },

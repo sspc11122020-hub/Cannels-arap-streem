@@ -43,20 +43,6 @@
     },
     {
         "id": null,
-        "name": "E-Vidya 1 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/400.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/400.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "E-Vidya 10 (576p)",
         "servers": [
             {
@@ -94,34 +80,6 @@
             {
                 "name": "URL",
                 "link": "http://103.72.101.252:8080/live/1532.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "E-Vidya 2 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/402.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/402.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "E-Vidya 3 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/405.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/405.m3u8"
             }
         ]
     },
@@ -935,11 +893,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.streamjo.com/eetlive/eettv.m3u8"
+                "link": "https://eu.streamjo.com/eetlive/eettv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.streamjo.com/eetlive/eettv.m3u8"
+                "link": "https://eu.streamjo.com/eetlive/eettv.m3u8"
             }
         ]
     },
@@ -2208,6 +2166,20 @@
     },
     {
         "id": null,
+        "name": "Encuentro (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.113.175:8000/play/a04c/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.113.175:8000/play/a04c/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "EnerGeek (720p) [Not 24/7]",
         "servers": [
             {
@@ -2586,6 +2558,20 @@
     },
     {
         "id": null,
+        "name": "Epic Bharat (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Epic Bharat Digital (1080p)",
         "servers": [
             {
@@ -2693,20 +2679,6 @@
             {
                 "name": "URL",
                 "link": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Epic TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a00m/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a00m/index.m3u8"
             }
         ]
     },
@@ -4677,20 +4649,6 @@
     },
     {
         "id": null,
-        "name": "ET Now Swadesh (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ETB 1 (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4934,20 +4892,6 @@
     },
     {
         "id": null,
-        "name": "ETV Life (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ETV Manisa (1080p) [Not 24/7]",
         "servers": [
             {
@@ -4966,11 +4910,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8"
+                "link": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dg3721c3ez5m0.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264_cloud-in/index.m3u8"
+                "link": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8"
             }
         ]
     },
@@ -5789,6 +5733,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00276-amg00276c15-samsung-gb-3790.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Evrokino (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv"
             }
         ]
     },

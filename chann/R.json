@@ -9681,6 +9681,20 @@
     },
     {
         "id": null,
+        "name": "Rumbo Minero TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.70.201.81:8000/play/a018/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.70.201.81:8000/play/a018/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Runtime (720p)",
         "servers": [
             {
@@ -9984,6 +9998,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/204/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Russkiy Illusion (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
             }
         ]
     },

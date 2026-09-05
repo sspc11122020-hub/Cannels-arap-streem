@@ -618,6 +618,20 @@
     },
     {
         "id": null,
+        "name": "1HD Music Television (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "1KZN TV (576p)",
         "servers": [
             {
@@ -875,6 +889,20 @@
             {
                 "name": "URL",
                 "link": "https://hls.247box.live/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "24KZ (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -3394,20 +3422,6 @@
     },
     {
         "id": null,
-        "name": "Еврокино (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Evrokino/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Evrokino/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Енисей (1080p) [Not 24/7]",
         "servers": [
             {
@@ -3417,20 +3431,6 @@
             {
                 "name": "URL",
                 "link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Живая Планета (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8"
             }
         ]
     },
@@ -3473,20 +3473,6 @@
             {
                 "name": "URL",
                 "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Здоровое ТВ (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Zdorovoe_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Zdorovoe_TV/index.m3u8"
             }
         ]
     },
@@ -3543,20 +3529,6 @@
             {
                 "name": "URL",
                 "link": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Индия (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Zee_TV_Russia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Zee_TV_Russia/index.m3u8"
             }
         ]
     },
@@ -3983,20 +3955,6 @@
     },
     {
         "id": null,
-        "name": "Мультиландия (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Multilandiya/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Multilandiya/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Мультимания (576p)",
         "servers": [
             {
@@ -4118,20 +4076,6 @@
             {
                 "name": "URL",
                 "link": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Новое телевидение (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
             }
         ]
     },
@@ -4608,20 +4552,6 @@
             {
                 "name": "URL",
                 "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Русский Иллюзион (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/Russkiy_illusion/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/Russkiy_illusion/index.m3u8"
             }
         ]
     },
@@ -5336,20 +5266,6 @@
             {
                 "name": "URL",
                 "link": "http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ТНВ-Планета (Казань) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
             }
         ]
     },

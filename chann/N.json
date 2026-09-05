@@ -776,6 +776,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic (576p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+            },
+            {
+                "name": "URL",
+                "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic (720p)",
         "servers": [
             {
@@ -2273,6 +2287,20 @@
     },
     {
         "id": null,
+        "name": "NE News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt05.tangotv.in/87NeALx2NENEWS/preview.mp4"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt05.tangotv.in/87NeALx2NENEWS/preview.mp4"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nea TV (720p)",
         "servers": [
             {
@@ -2891,6 +2919,20 @@
     {
         "id": null,
         "name": "News Live (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-6.pishow.tv/live/10011/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-6.pishow.tv/live/10011/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "News Live Bangla (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5709,6 +5751,20 @@
             {
                 "name": "URL",
                 "link": "http://45.162.64.114/NOVO_TEMPO/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Novoe televidenie (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
             }
         ]
     },

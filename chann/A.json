@@ -6009,6 +6009,20 @@
     },
     {
         "id": null,
+        "name": "Almaty TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Alone By History (720p)",
         "servers": [
             {
@@ -8751,20 +8765,6 @@
     },
     {
         "id": null,
-        "name": "Aqui No Hay Quien Viva [_Geo-blocked_]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ara",
         "servers": [
             {
@@ -9427,6 +9427,20 @@
             {
                 "name": "URL",
                 "link": "http://149.100.11.252:8000/play/a065/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Arsenal (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -10232,6 +10246,20 @@
             {
                 "name": "URL",
                 "link": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Atameken Business (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -11128,6 +11156,20 @@
             {
                 "name": "URL",
                 "link": "https://avers.pp.ua/hls/efir.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AVI Rewind (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.70.201.81:8000/play/a010/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.70.201.81:8000/play/a010/index.m3u8"
             }
         ]
     },

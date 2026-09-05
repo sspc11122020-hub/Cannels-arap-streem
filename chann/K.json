@@ -57,6 +57,20 @@
     },
     {
         "id": null,
+        "name": "K News India (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "K POP by CJ ENM (1080p)",
         "servers": [
             {
@@ -127,15 +141,15 @@
     },
     {
         "id": null,
-        "name": "K2 (720p)",
+        "name": "K2 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8"
+                "link": "http://stream.mcquack.net/324/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8"
+                "link": "http://stream.mcquack.net/324/index.m3u8"
             }
         ]
     },
@@ -1552,6 +1566,20 @@
     },
     {
         "id": null,
+        "name": "Khabar (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Khabar Fast (576p)",
         "servers": [
             {
@@ -2061,6 +2089,20 @@
             {
                 "name": "URL",
                 "link": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kinopremyera HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv"
             }
         ]
     },

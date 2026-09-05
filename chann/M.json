@@ -2140,6 +2140,20 @@
     },
     {
         "id": null,
+        "name": "Match! Planeta (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Match! Strana (720p)",
         "servers": [
             {
@@ -3719,25 +3733,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://15.204.246.24:8080/MEGAHD/index.m3u8"
+                "link": "http://stream.mcquack.net/325/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://15.204.246.24:8080/MEGAHD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mega (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8"
+                "link": "http://stream.mcquack.net/325/index.m3u8"
             }
         ]
     },
@@ -8631,6 +8631,20 @@
     },
     {
         "id": null,
+        "name": "Mult International (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Multicanal Catamayo (720p) [Not 24/7]",
         "servers": [
             {
@@ -8640,6 +8654,20 @@
             {
                 "name": "URL",
                 "link": "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Multilandia (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv"
             }
         ]
     },
