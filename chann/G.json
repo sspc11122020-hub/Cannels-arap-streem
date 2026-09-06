@@ -1884,15 +1884,15 @@
     },
     {
         "id": null,
-        "name": "Globo TV (1080p) [Not 24/7]",
+        "name": "Globo TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://panel.dattalive.com/8122/8122/playlist.m3u8"
+                "link": "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://panel.dattalive.com/8122/8122/playlist.m3u8"
+                "link": "https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8"
             }
         ]
     },
@@ -2608,20 +2608,6 @@
             {
                 "name": "URL",
                 "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Goldmines Movies (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.213.31.109:90/GoldminesMovies/playlist.m3u8"
             }
         ]
     },
@@ -3530,15 +3516,15 @@
     },
     {
         "id": null,
-        "name": "Grande TV (720p) [Not 24/7]",
+        "name": "Grande TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
+                "link": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
+                "link": "https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8"
             }
         ]
     },
@@ -4263,20 +4249,6 @@
             {
                 "name": "URL",
                 "link": "https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Gulistan News (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.gulistannews.in/hls/gul.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.gulistannews.in/hls/gul.m3u8"
             }
         ]
     },

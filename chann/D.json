@@ -1005,6 +1005,11 @@
         "servers": []
     },
     {
+        "id": "216",
+        "name": "DAZN CA",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "DAZN Combat (684p)",
         "servers": [
@@ -5802,20 +5807,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "DR1 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"
-            }
-        ]
-    },
-    {
         "id": "801",
         "name": "DR1 Denmark",
         "servers": []
@@ -5906,6 +5897,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68e8fd7c3ede4398bc69af93.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Dragon TV International",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8"
             }
         ]
     },
@@ -6548,6 +6553,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Duma TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://185.23.80.23:8080/DumaTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://185.23.80.23:8080/DumaTV/index.m3u8"
             }
         ]
     },

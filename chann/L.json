@@ -1805,6 +1805,20 @@
     },
     {
         "id": null,
+        "name": "LBC (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://185.9.2.18/chid_327/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://185.9.2.18/chid_327/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "LBC International (1080p)",
         "servers": [
             {
@@ -2776,15 +2790,15 @@
     },
     {
         "id": null,
-        "name": "Lifetime (720p) [Geo-blocked]",
+        "name": "Lifetime (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/LIFETIME/index.m3u8"
+                "link": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/LIFETIME/index.m3u8"
+                "link": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
             }
         ]
     },
@@ -3212,6 +3226,11 @@
         "servers": []
     },
     {
+        "id": "222",
+        "name": "Ligue1+ 3 France",
+        "servers": []
+    },
+    {
         "id": "3054",
         "name": "Ligue1+ 4 France",
         "servers": []
@@ -3364,15 +3383,15 @@
     },
     {
         "id": null,
-        "name": "Lira TV (720p) [Not 24/7]",
+        "name": "Lira TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8"
+                "link": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8"
+                "link": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
             }
         ]
     },
@@ -3626,15 +3645,15 @@
     },
     {
         "id": null,
-        "name": "LiveNOW from FOX (1080p) [Geo-blocked]",
+        "name": "LiveNOW from FOX (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8"
+                "link": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8"
+                "link": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
             }
         ]
     },

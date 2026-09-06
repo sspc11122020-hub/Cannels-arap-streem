@@ -3686,15 +3686,15 @@
     },
     {
         "id": null,
-        "name": "Rasmey Hang Meas HDTV (720p) [Not 24/7]",
+        "name": "Rasmey Hang Meas HDTV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8"
+                "link": "https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8"
+                "link": "https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8"
             }
         ]
     },
@@ -3821,6 +3821,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/464/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RAZ 3 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/Kvartal-TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/Kvartal-TV/index.m3u8"
             }
         ]
     },
@@ -5162,15 +5176,15 @@
     },
     {
         "id": null,
-        "name": "Rede Minas (1080p) [Not 24/7]",
+        "name": "Rede Minas (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8"
+                "link": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8"
+                "link": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
             }
         ]
     },
@@ -5881,15 +5895,15 @@
     },
     {
         "id": null,
-        "name": "Rete 55 (720p) [Not 24/7]",
+        "name": "Rete 55",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.internet.one/Rete55_Live/index.m3u8"
+                "link": "https://live1.giocabet.tv/stream/6/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.internet.one/Rete55_Live/index.m3u8"
+                "link": "https://live1.giocabet.tv/stream/6/index.m3u8"
             }
         ]
     },
@@ -7745,6 +7759,20 @@
     },
     {
         "id": null,
+        "name": "RT (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://212.5.144.156:8080/rt/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://212.5.144.156:8080/rt/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RT Arabic (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -8619,6 +8647,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "RTR-Planeta (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
         "id": "3098",
         "name": "RTRS Moldova",
         "servers": []
@@ -8681,15 +8723,15 @@
     },
     {
         "id": null,
-        "name": "RTS 1 (720p) [Not 24/7]",
+        "name": "RTS 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://webtvstream.bhtelecom.ba/rts1.m3u8"
+                "link": "https://de1.dstv.cx/RTS1HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://webtvstream.bhtelecom.ba/rts1.m3u8"
+                "link": "https://de1.dstv.cx/RTS1HD/index.m3u8"
             }
         ]
     },
@@ -9624,6 +9666,11 @@
         ]
     },
     {
+        "id": "7023",
+        "name": "RugbyTV",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "Rugrats",
         "servers": [
@@ -9746,34 +9793,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Russia RTR Asia (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Russia RTR CIS (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410"
             }
         ]
     },

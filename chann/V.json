@@ -1784,6 +1784,20 @@
     },
     {
         "id": null,
+        "name": "Viasat History (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/Viasat-History/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/Viasat-History/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Viasat History [Not 24/7]",
         "servers": [
             {
@@ -1807,6 +1821,20 @@
             {
                 "name": "URL",
                 "link": "http://176.61.157.250/TV1000/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viasat Nature (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/Viasat-Nature/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/Viasat-Nature/index.m3u8"
             }
         ]
     },
@@ -1981,15 +2009,15 @@
     },
     {
         "id": null,
-        "name": "Video Tour Channel (480p) [Not 24/7]",
+        "name": "Video Tour Channel",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+                "link": "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://k4.usastreams.com/videotour/videotour/playlist.m3u8"
+                "link": "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
             }
         ]
     },
@@ -2555,15 +2583,15 @@
     },
     {
         "id": null,
-        "name": "Visión Sur TV (1080p) [Not 24/7]",
+        "name": "Vision Sur (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
+                "link": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8"
+                "link": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8"
             }
         ]
     },
@@ -2849,20 +2877,6 @@
     },
     {
         "id": null,
-        "name": "Vmeste-RF (576p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.thestream.cyou/live/7006.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.thestream.cyou/live/7006.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VNP",
         "servers": [
             {
@@ -2919,15 +2933,15 @@
     },
     {
         "id": null,
-        "name": "Vocea Basarabiei TV (720p) [Not 24/7]",
+        "name": "Vocea Basarabiei TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8"
+                "link": "https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://storage.voceabasarabiei.md/vocea/vocea.m3u8"
+                "link": "https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8"
             }
         ]
     },

@@ -268,6 +268,20 @@
     },
     {
         "id": null,
+        "name": "Tac12",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Taevas TV7 (720p)",
         "servers": [
             {
@@ -1683,7 +1697,7 @@
     },
     {
         "id": null,
-        "name": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
+        "name": "Tegar TV Lampung (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2724,15 +2738,15 @@
     },
     {
         "id": null,
-        "name": "Teledeporte (720p) [Geo-blocked]",
+        "name": "Teledeporte",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+                "link": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
+                "link": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
             }
         ]
     },
@@ -5509,15 +5523,15 @@
     },
     {
         "id": null,
-        "name": "Thai PBS (1080p) [Not 24/7]",
+        "name": "Thai PBS",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+                "link": "https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
+                "link": "https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8"
             }
         ]
     },
@@ -5901,15 +5915,15 @@
     },
     {
         "id": null,
-        "name": "The Conners (1080p) [Geo-blocked]",
+        "name": "The Conners",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
+                "link": "https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
+                "link": "https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8"
             }
         ]
     },
@@ -6261,15 +6275,15 @@
     },
     {
         "id": null,
-        "name": "The Islamic Network (480p) [Not 24/7]",
+        "name": "The Islamic Network",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8"
+                "link": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8"
+                "link": "https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8"
             }
         ]
     },
@@ -6382,6 +6396,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "The Jungle Book (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
             }
         ]
     },
@@ -6751,20 +6779,6 @@
     },
     {
         "id": null,
-        "name": "The Pet Collective (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "The Pet Collective (720p)",
         "servers": [
             {
@@ -6783,11 +6797,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8"
+                "link": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8"
+                "link": "https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -6849,15 +6863,15 @@
     },
     {
         "id": null,
-        "name": "The Price Is Right: The Barker Era (1080p) [Geo-blocked]",
+        "name": "The Price is Right: The Barker Era (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8"
+                "link": "https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8"
+                "link": "https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8"
             }
         ]
     },
@@ -7199,15 +7213,15 @@
     },
     {
         "id": null,
-        "name": "The Young Turks (1080p) [Geo-blocked]",
+        "name": "The Young Turks (TYT) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8"
+                "link": "https://tyt-samsungus.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8"
+                "link": "https://tyt-samsungus.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -8143,15 +8157,15 @@
     },
     {
         "id": null,
-        "name": "TMZ (1080p) [Geo-blocked]",
+        "name": "TMZ (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8"
+                "link": "https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8"
+                "link": "https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8"
             }
         ]
     },
@@ -11440,15 +11454,15 @@
     },
     {
         "id": null,
-        "name": "TSi (720p) [Not 24/7]",
+        "name": "TSi",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8"
+                "link": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8"
+                "link": "http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8"
             }
         ]
     },
@@ -12351,15 +12365,15 @@
     },
     {
         "id": null,
-        "name": "TV Aparecida (1080p) [Not 24/7]",
+        "name": "TV Aparecida (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
+                "link": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
+                "link": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
             }
         ]
     },
@@ -14755,20 +14769,6 @@
     },
     {
         "id": null,
-        "name": "TV Nové Zámky (486p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TV NRSR (720p) [Not 24/7]",
         "servers": [
             {
@@ -15656,29 +15656,29 @@
     },
     {
         "id": null,
-        "name": "TV SLO 1 HD (1080p) [Not 24/7]",
+        "name": "TV SLO 1 HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://23.88.66.93/SLO1/index.m3u8"
+                "link": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://23.88.66.93/SLO1/index.m3u8"
+                "link": "https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "TV SLO 2 HD (1080p) [Not 24/7]",
+        "name": "TV SLO 2 HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://23.88.66.93/SLO2/index.m3u8"
+                "link": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://23.88.66.93/SLO2/index.m3u8"
+                "link": "https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8"
             }
         ]
     },
@@ -17087,15 +17087,15 @@
     },
     {
         "id": null,
-        "name": "TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]",
+        "name": "TV5Monde France Belgium Switzerland Monaco",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8"
+                "link": "http://5.78.65.164/TV5Monde/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8"
+                "link": "http://5.78.65.164/TV5Monde/index.m3u8"
             }
         ]
     },
@@ -17129,29 +17129,29 @@
     },
     {
         "id": null,
-        "name": "TV5Monde Pacifique (1080p) [Geo-blocked]",
+        "name": "TV5Monde Pacific",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
+                "link": "http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             },
             {
                 "name": "URL",
-                "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
+                "link": "http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             }
         ]
     },
     {
         "id": null,
-        "name": "TV5Monde Style (1080p) [Geo-blocked]",
+        "name": "TV5Monde Style",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8"
+                "link": "http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             },
             {
                 "name": "URL",
-                "link": "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8"
+                "link": "http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             }
         ]
     },
@@ -17335,15 +17335,15 @@
     },
     {
         "id": null,
-        "name": "TV9 Kannada (720p) [Not 24/7]",
+        "name": "TV9 Kannada (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8"
+                "link": "https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8"
+                "link": "https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8"
             }
         ]
     },
@@ -18870,20 +18870,6 @@
     },
     {
         "id": null,
-        "name": "TVP Sport (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVP Sport PL",
         "servers": [
             {
@@ -19081,15 +19067,15 @@
     },
     {
         "id": null,
-        "name": "TVR Iasi (1080p) [Not 24/7]",
+        "name": "TVR Iasi",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://82.208.141.70:8778/1.m3u8"
+                "link": "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://82.208.141.70:8778/1.m3u8"
+                "link": "https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8"
             }
         ]
     },
@@ -19123,7 +19109,7 @@
     },
     {
         "id": null,
-        "name": "TVR Moldova (720p) [Geo-blocked] [Not 24/7]",
+        "name": "TVR Moldova (720p)",
         "servers": [
             {
                 "name": "Main Server",

@@ -2443,20 +2443,6 @@
     },
     {
         "id": null,
-        "name": "ION (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ION (720p)",
         "servers": [
             {
@@ -2522,6 +2508,20 @@
             {
                 "name": "URL",
                 "link": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ION TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_ION/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_ION/index.m3u8"
             }
         ]
     },

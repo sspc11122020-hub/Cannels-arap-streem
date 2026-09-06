@@ -1491,15 +1491,15 @@
     },
     {
         "id": null,
-        "name": "EL TV (260p) [Not 24/7]",
+        "name": "EL TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://85.132.53.162:1935/live/eltv/playlist.m3u8"
+                "link": "https://live.eltv.az/live/eltv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://85.132.53.162:1935/live/eltv/playlist.m3u8"
+                "link": "https://live.eltv.az/live/eltv/playlist.m3u8"
             }
         ]
     },
@@ -1603,15 +1603,15 @@
     },
     {
         "id": null,
-        "name": "ElectricNOW (1080p) [Geo-blocked]",
+        "name": "Electric Now (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8"
+                "link": "https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8"
+                "link": "https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -2306,6 +2306,20 @@
     },
     {
         "id": null,
+        "name": "Enisey (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tshift-1.telecoma.tv/enisei/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tshift-1.telecoma.tv/enisei/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Enlace (720p)",
         "servers": [
             {
@@ -2460,15 +2474,15 @@
     },
     {
         "id": null,
-        "name": "Enterr 10 Bangla (720p) [Not 24/7]",
+        "name": "Enterr 10 Bangla (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+                "link": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+                "link": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8"
             }
         ]
     },

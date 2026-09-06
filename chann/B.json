@@ -1468,20 +1468,6 @@
     },
     {
         "id": null,
-        "name": "BBC News (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "BBC News Asia Pacific (576p)",
         "servers": [
             {
@@ -1498,6 +1484,20 @@
         "id": "349",
         "name": "BBC News Channel HD",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "BBC News Europe (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.32.176.50/bbcworld/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.32.176.50/bbcworld/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -4168,20 +4168,6 @@
             {
                 "name": "URL",
                 "link": "https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BelRos (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8"
             }
         ]
     },
@@ -7644,6 +7630,20 @@
     },
     {
         "id": null,
+        "name": "BRTV 北京卫视 [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bruno Masi TV (720p)",
         "servers": [
             {
@@ -8406,15 +8406,15 @@
     },
     {
         "id": null,
-        "name": "BX1 (720p) [Not 24/7]",
+        "name": "BX1 (504p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
+                "link": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
+                "link": "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8"
             }
         ]
     },

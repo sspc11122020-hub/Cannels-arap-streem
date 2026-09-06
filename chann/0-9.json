@@ -29,15 +29,15 @@
     },
     {
         "id": null,
-        "name": "¡OPA! (1080i) [Geo-blocked]",
+        "name": "¡OPA! (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
+                "link": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8"
+                "link": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
             }
         ]
     },
@@ -520,15 +520,15 @@
     },
     {
         "id": null,
-        "name": "13Rec (720p)",
+        "name": "13Rec (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8"
+                "link": "http://45.4.1.201:8000/play/a11i/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/13rec/mono.m3u8"
+                "link": "http://45.4.1.201:8000/play/a11i/index.m3u8"
             }
         ]
     },
@@ -562,15 +562,15 @@
     },
     {
         "id": null,
-        "name": "15TV (720p) [Not 24/7]",
+        "name": "15TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.fastocloud.com/leonel.m3u8"
+                "link": "https://servilive.com:3380/live/v3n6thy7glive.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.fastocloud.com/leonel.m3u8"
+                "link": "https://servilive.com:3380/live/v3n6thy7glive.m3u8"
             }
         ]
     },
@@ -1688,7 +1688,7 @@
     },
     {
         "id": null,
-        "name": "4 Fun Kids (576i) [[Not 24/7]]",
+        "name": "4 Fun Kids (576i)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2077,15 +2077,15 @@
     },
     {
         "id": null,
-        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "name": "5tv",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+                "link": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8"
+                "link": "https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8"
             }
         ]
     },
@@ -2425,6 +2425,20 @@
         "id": "868",
         "name": "8Sky Cinema Suspense Italy",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "8TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://cdn6.163189.xyz/163189/8tv"
+            },
+            {
+                "name": "URL",
+                "link": "http://cdn6.163189.xyz/163189/8tv"
+            }
+        ]
     },
     {
         "id": null,
@@ -3240,6 +3254,20 @@
     },
     {
         "id": null,
+        "name": "Вместе РФ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Волга (HD)",
         "servers": [
             {
@@ -3417,20 +3445,6 @@
             {
                 "name": "URL",
                 "link": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Енисей (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"
             }
         ]
     },
@@ -3730,6 +3744,20 @@
     },
     {
         "id": null,
+        "name": "ЛенТВ24",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657"
+            },
+            {
+                "name": "URL",
+                "link": "https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Луганск 24",
         "servers": [
             {
@@ -3978,20 +4006,6 @@
             {
                 "name": "URL",
                 "link": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Надия/Новый канал (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://nadiya.home-net.com.ua/mob/mystream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://nadiya.home-net.com.ua/mob/mystream.m3u8"
             }
         ]
     },
@@ -4305,15 +4319,15 @@
     },
     {
         "id": null,
-        "name": "Первый городской (Одесса) (1080p) [Not 24/7]",
+        "name": "Первый Городской (Одесса) (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+                "link": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
+                "link": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
             }
         ]
     },
@@ -4552,6 +4566,20 @@
             {
                 "name": "URL",
                 "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Россия-РТР",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
             }
         ]
     },
@@ -5061,15 +5089,15 @@
     },
     {
         "id": null,
-        "name": "Страна FM (720p) [Not 24/7]",
+        "name": "Страна ФМ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+                "link": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8"
+                "link": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8"
             }
         ]
     },
@@ -6041,20 +6069,6 @@
     },
     {
         "id": null,
-        "name": "北京衛視 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "北京财经 [Not 24/7]",
         "servers": [
             {
@@ -7021,15 +7035,15 @@
     },
     {
         "id": null,
-        "name": "康巴卫视 (720p) [Not 24/7]",
+        "name": "康巴卫视 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8"
+                "link": "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8"
+                "link": "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
             }
         ]
     },

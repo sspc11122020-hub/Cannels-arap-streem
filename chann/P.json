@@ -7475,20 +7475,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd"
-            }
-        ]
-    },
-    {
         "id": "stream-47",
         "name": "Polsat Sport 1 Poland",
         "servers": []
@@ -7615,15 +7601,15 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport Premium 1 (1080p) [Not 24/7]",
+        "name": "Polsat Sport Premium 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8"
+                "link": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823"
             },
             {
                 "name": "URL",
-                "link": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8"
+                "link": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823"
             }
         ]
     },
@@ -7653,15 +7639,15 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport Premium 2 (1080p) [Not 24/7]",
+        "name": "Polsat Sport Premium 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8"
+                "link": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac"
             },
             {
                 "name": "URL",
-                "link": "http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8"
+                "link": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac"
             }
         ]
     },
@@ -8177,20 +8163,6 @@
     },
     {
         "id": null,
-        "name": "Power Turk (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Power Türk Akustik (1080p)",
         "servers": [
             {
@@ -8284,6 +8256,20 @@
             {
                 "name": "URL",
                 "link": "https://streams2.sofast.tv/powertube_live/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PowerTürk TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8"
             }
         ]
     },
@@ -9374,15 +9360,15 @@
     },
     {
         "id": null,
-        "name": "PromarTV (1080p) [Not 24/7]",
+        "name": "PromarTV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8"
+                "link": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8"
+                "link": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
             }
         ]
     },
@@ -9979,15 +9965,15 @@
     },
     {
         "id": null,
-        "name": "Public Music (720p) [Not 24/7]",
+        "name": "Public Music (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-3.pishow.tv/live/441/master.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-3.pishow.tv/live/441/master.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8"
             }
         ]
     },

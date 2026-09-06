@@ -370,15 +370,15 @@
     },
     {
         "id": null,
-        "name": "Safari TV (480p) [Not 24/7]",
+        "name": "Safari TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+                "link": "https://cdn-6.pishow.tv/live/1513/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+                "link": "https://cdn-6.pishow.tv/live/1513/master.m3u8"
             }
         ]
     },
@@ -566,15 +566,15 @@
     },
     {
         "id": null,
-        "name": "Salt TV (1080p) [Not 24/7]",
+        "name": "Salt TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.salttelevision.com/app/stream/abr.m3u8"
+                "link": "https://stream.salttelevision.com/hls/stream.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.salttelevision.com/app/stream/abr.m3u8"
+                "link": "https://stream.salttelevision.com/hls/stream.m3u8"
             }
         ]
     },
@@ -1906,7 +1906,7 @@
     },
     {
         "id": null,
-        "name": "SBS TBC (540p) [Geo-blocked] [Not 24/7]",
+        "name": "SBS TBC (540p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2518,15 +2518,15 @@
     },
     {
         "id": null,
-        "name": "SCTV6 (1080p) [Geo-blocked]",
+        "name": "SCTV6 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
+                "link": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8"
+                "link": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8"
             }
         ]
     },
@@ -3299,20 +3299,6 @@
             {
                 "name": "URL",
                 "link": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "SET Televisión Canal 26.2 (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8"
             }
         ]
     },
@@ -4427,15 +4413,15 @@
     },
     {
         "id": null,
-        "name": "Shubhsandesh TV (720p) [Not 24/7]",
+        "name": "Shubhsandesh TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
+                "link": "https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8"
+                "link": "https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8"
             }
         ]
     },
@@ -7593,20 +7579,6 @@
     },
     {
         "id": null,
-        "name": "Sol TV Morazán (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://rtmp.info:1935/soltv/envivo/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Solar Television (720p)",
         "servers": [
             {
@@ -7723,11 +7695,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.solmediaeg.com/soltv/soltv.m3u8"
+                "link": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.solmediaeg.com/soltv/soltv.m3u8"
+                "link": "https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8"
             }
         ]
     },
@@ -8882,15 +8854,15 @@
     },
     {
         "id": null,
-        "name": "Soyuzny (480p)",
+        "name": "Soyuzny (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://178.124.179.122:8080/TRO/index.m3u8"
+                "link": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://178.124.179.122:8080/TRO/index.m3u8"
+                "link": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8"
             }
         ]
     },
@@ -10180,6 +10152,11 @@
         ]
     },
     {
+        "id": "3034",
+        "name": "SportsNet+",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "SporTV 3 (720p)",
         "servers": [
@@ -10882,7 +10859,7 @@
     },
     {
         "id": null,
-        "name": "STAR HD (1080p) [Non geo blocked]",
+        "name": "STAR HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -13559,6 +13536,20 @@
     },
     {
         "id": null,
+        "name": "Super TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://iptv.supertv.ro:8000/play/a001/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://iptv.supertv.ro:8000/play/a001/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Super TV (720p)",
         "servers": [
             {
@@ -14611,15 +14602,29 @@
     },
     {
         "id": null,
-        "name": "Swaraj Express SMBC (720p) [Not 24/7]",
+        "name": "Swaraj Express SMBC (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-2.pishow.tv/live/477/master.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-2.pishow.tv/live/477/master.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SWARAJEXPRESS/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Swarnavahini (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://teledrama.ebc.lk/TTT/proxy.php"
+            },
+            {
+                "name": "URL",
+                "link": "https://teledrama.ebc.lk/TTT/proxy.php"
             }
         ]
     },

@@ -1,6 +1,20 @@
 [
     {
         "id": null,
+        "name": "X 102.7 FM",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "X Level Media (1080p)",
         "servers": [
             {
@@ -239,15 +253,15 @@
     },
     {
         "id": null,
-        "name": "XITE Classic Country (1080p) [Geo-blocked]",
+        "name": "XITE Classic Country (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8"
+                "link": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8"
+                "link": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8"
             }
         ]
     },
@@ -514,6 +528,20 @@
             {
                 "name": "URL",
                 "link": "https://janus.xpbroadcasting.com:8443/hls/xptv2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "XTOTV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://www.sccbolivia.com/dash/720p.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://www.sccbolivia.com/dash/720p.mpd"
             }
         ]
     },

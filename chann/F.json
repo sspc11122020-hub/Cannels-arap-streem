@@ -253,15 +253,15 @@
     },
     {
         "id": null,
-        "name": "Fakt Marathi (720p) [Not 24/7]",
+        "name": "Fakt Marathi (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-6.pishow.tv/live/10002/master.m3u8"
+                "link": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-6.pishow.tv/live/10002/master.m3u8"
+                "link": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8"
             }
         ]
     },
@@ -693,15 +693,15 @@
     },
     {
         "id": null,
-        "name": "Farra Play (720p) [Not 24/7]",
+        "name": "Farra Play (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://159.203.148.226/live/farra.m3u8"
+                "link": "https://stream.farra.com.py/live/farra_low.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://159.203.148.226/live/farra.m3u8"
+                "link": "https://stream.farra.com.py/live/farra_low.m3u8"
             }
         ]
     },
@@ -899,15 +899,15 @@
     },
     {
         "id": null,
-        "name": "Fateh TV (1080p) [Not 24/7]",
+        "name": "Fateh TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+                "link": "http://180.188.254.253/live/FATEHTVHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+                "link": "http://180.188.254.253/live/FATEHTVHD.m3u8"
             }
         ]
     },
@@ -2513,15 +2513,15 @@
     },
     {
         "id": null,
-        "name": "Fonte TV (1080p) [Not 24/7]",
+        "name": "Fonte TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+                "link": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+                "link": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
             }
         ]
     },
@@ -2891,20 +2891,6 @@
     },
     {
         "id": null,
-        "name": "Fox (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Fox (576p)",
         "servers": [
             {
@@ -2914,6 +2900,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/182/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.cammonitorplus.net/1752/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.cammonitorplus.net/1752/index.m3u8"
             }
         ]
     },
@@ -3867,15 +3867,15 @@
     },
     {
         "id": null,
-        "name": "FOX Weather (1080p) [Geo-blocked]",
+        "name": "Fox Weather (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8"
+                "link": "https://247wlive.foxweather.com/stream/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8"
+                "link": "https://247wlive.foxweather.com/stream/index.m3u8"
             }
         ]
     },
@@ -4446,15 +4446,15 @@
     },
     {
         "id": null,
-        "name": "Freeform (1080p) [Geo-blocked]",
+        "name": "Freeform (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8"
+                "link": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8"
+                "link": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8"
             }
         ]
     },
