@@ -852,6 +852,20 @@
     },
     {
         "id": null,
+        "name": "HBO Hits (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Latino",
         "servers": [
             {
@@ -880,6 +894,20 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/hbomovies-usa"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO Movies (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8"
             }
         ]
     },
@@ -2003,20 +2031,6 @@
     },
     {
         "id": null,
-        "name": "History TV18 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1471.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1471.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "History TV18 HD (1080p)",
         "servers": [
             {
@@ -2026,6 +2040,20 @@
             {
                 "name": "URL",
                 "link": "http://103.154.3.101:5001/live/577.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "History Ukraine",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/History_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/History_HD/index.m3u8"
             }
         ]
     },
@@ -2047,6 +2075,20 @@
         "id": "322",
         "name": "History USA",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "History2 Ukraine (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/H2-HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/H2-HD/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -2227,20 +2269,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-1.pishow.tv/live/280/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HNN 24x7 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
             }
         ]
     },

@@ -8010,20 +8010,6 @@
     },
     {
         "id": null,
-        "name": "CDTV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "CEACOM TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -10590,6 +10576,34 @@
     },
     {
         "id": null,
+        "name": "Cinemax Classics (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cinemax Hits (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cinemax US",
         "servers": [
             {
@@ -12268,6 +12282,20 @@
             {
                 "name": "URL",
                 "link": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Color Vision (1280p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls.tvabierta.net/hls/009.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls.tvabierta.net/hls/009.m3u8"
             }
         ]
     },

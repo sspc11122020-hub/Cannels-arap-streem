@@ -6719,15 +6719,15 @@
     },
     {
         "id": null,
-        "name": "AMC en Español (720p) [Geo-blocked]",
+        "name": "AMC en Espanol",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8"
+                "link": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8"
+                "link": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -6943,20 +6943,6 @@
             {
                 "name": "URL",
                 "link": "https://live.gideo.video/americateve2/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "America TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8"
             }
         ]
     },
@@ -9997,6 +9983,20 @@
             {
                 "name": "URL",
                 "link": "https://asomatv.cloud-ip.cc/livestream/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Aspire TV Life (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8"
             }
         ]
     },
