@@ -7350,6 +7350,20 @@
     },
     {
         "id": null,
+        "name": "Smurf TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Smurf TV (720p)",
         "servers": [
             {
@@ -13104,11 +13118,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8"
+                "link": "http://187.102.210.46/universo/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8"
+                "link": "http://187.102.210.46/universo/index.m3u8"
             }
         ]
     },
@@ -13881,6 +13895,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Super+ (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/super_plus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/super_plus/index.m3u8"
             }
         ]
     },

@@ -10464,6 +10464,20 @@
     },
     {
         "id": null,
+        "name": "Cine+ Kids (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cine34 HD (1080p)",
         "servers": [
             {
@@ -15560,20 +15574,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/cw-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CW (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8"
             }
         ]
     },

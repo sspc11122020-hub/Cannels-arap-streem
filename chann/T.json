@@ -2841,6 +2841,34 @@
     },
     {
         "id": null,
+        "name": "Telefe Rosario (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Telefe Tucuman (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
+            },
+            {
+                "name": "URL",
+                "link": "https://g2.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Telefoggia (480p) [Not 24/7]",
         "servers": [
             {
@@ -4133,15 +4161,15 @@
     },
     {
         "id": null,
-        "name": "Telesistema 11 (1080p)",
+        "name": "Telesistema 11 (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8"
+                "link": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8"
+                "link": "https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8"
             }
         ]
     },
@@ -4380,6 +4408,20 @@
             {
                 "name": "URL",
                 "link": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Teleuniverso (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls.tvabierta.net/hls/029.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls.tvabierta.net/hls/029.m3u8"
             }
         ]
     },
@@ -10496,7 +10538,21 @@
     },
     {
         "id": null,
-        "name": "Travelxp HD (1080p)",
+        "name": "Travelxp HD (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Travelxp Russia (1080p)",
         "servers": [
             {
                 "name": "Main Server",

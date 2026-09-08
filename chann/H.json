@@ -866,6 +866,20 @@
     },
     {
         "id": null,
+        "name": "HBO Hits East HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Latino",
         "servers": [
             {
@@ -2423,6 +2437,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/MGM_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hollywood Ukraine (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
             }
         ]
     },
