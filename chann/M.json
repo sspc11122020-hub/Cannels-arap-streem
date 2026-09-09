@@ -3958,6 +3958,34 @@
     },
     {
         "id": null,
+        "name": "Mei Ah Movie Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mei Alai TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://meialai.iptelevishion.com/meialai/2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://meialai.iptelevishion.com/meialai/2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Mekameleen TV (1080p)",
         "servers": [
             {

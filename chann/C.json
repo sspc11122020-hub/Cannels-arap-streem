@@ -5516,6 +5516,20 @@
     },
     {
         "id": null,
+        "name": "Capital TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Capital TV (1080p)",
         "servers": [
             {
@@ -9969,6 +9983,20 @@
             {
                 "name": "URL",
                 "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Chuxiong News Channel [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hwapi.yntv.net/ew265l/848y54.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hwapi.yntv.net/ew265l/848y54.m3u8"
             }
         ]
     },
