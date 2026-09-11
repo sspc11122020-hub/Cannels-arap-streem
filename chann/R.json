@@ -7060,6 +7060,20 @@
     },
     {
         "id": null,
+        "name": "RTL HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RTL Radio Web TV (1080p)",
         "servers": [
             {
@@ -7111,6 +7125,20 @@
             {
                 "name": "URL",
                 "link": "https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTL Zwei (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz"
             }
         ]
     },
