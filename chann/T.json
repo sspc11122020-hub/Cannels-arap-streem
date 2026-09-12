@@ -2285,6 +2285,20 @@
     },
     {
         "id": null,
+        "name": "Telecaribe (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.15.230:9002/TELECARIBE/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.15.230:9002/TELECARIBE/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TeleCauquenes (720p)",
         "servers": [
             {
@@ -6452,11 +6466,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/CNBC/index.m3u8"
+                "link": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/CNBC/index.m3u8"
+                "link": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
             }
         ]
     },
@@ -8885,11 +8899,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8"
+                "link": "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/TRAVEL_BOX_HD/index.m3u8"
+                "link": "http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8"
             }
         ]
     },
@@ -11819,20 +11833,6 @@
     },
     {
         "id": null,
-        "name": "TV Escola (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.190.28.50/TV_ESCOLA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.190.28.50/TV_ESCOLA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TV Estrella (720p)",
         "servers": [
             {
@@ -12015,20 +12015,6 @@
             {
                 "name": "URL",
                 "link": "http://ventdelnord.tv:8080/girona/directe.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "TV Globo Rio de Janeiro (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.190.28.50/GLOBO_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.190.28.50/GLOBO_HD/index.m3u8"
             }
         ]
     },
@@ -16071,20 +16057,6 @@
             {
                 "name": "URL",
                 "link": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "TVE Cultura (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.190.28.50/TVE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.190.28.50/TVE/index.m3u8"
             }
         ]
     },

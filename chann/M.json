@@ -574,15 +574,15 @@
     },
     {
         "id": null,
-        "name": "Magna Vision (1080p)",
+        "name": "Magnavision TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8"
+                "link": "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8"
+                "link": "https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8"
             }
         ]
     },
@@ -4057,15 +4057,71 @@
     },
     {
         "id": null,
-        "name": "Mh 1 News (360p)",
+        "name": "Mh 1 Music (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://livestream.jswk.online/mhonenews/live/index.m3u8"
+                "link": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://livestream.jswk.online/mhonenews/live/index.m3u8"
+                "link": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mh 1 News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mh 1 Prime (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MH One Dil Se (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MH One Movies (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8"
             }
         ]
     },
@@ -7931,11 +7987,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8"
+                "link": "http://168.197.104.22/MUSIC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/MUSIC_BOX_HD/index.m3u8"
+                "link": "http://168.197.104.22/MUSIC/index.m3u8"
             }
         ]
     },

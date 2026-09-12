@@ -635,11 +635,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/BAND_HD/index.m3u8"
+                "link": "http://170.84.165.204/BAND_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/BAND_HD/index.m3u8"
+                "link": "http://170.84.165.204/BAND_HD/index.m3u8"
             }
         ]
     },
@@ -4206,6 +4206,20 @@
     },
     {
         "id": null,
+        "name": "Bethel Colombia (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.121.15.230:9002/BETHEL/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.121.15.230:9002/BETHEL/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bethel TV (720p)",
         "servers": [
             {
@@ -6079,11 +6093,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8"
+                "link": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8"
+                "link": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
             }
         ]
     },

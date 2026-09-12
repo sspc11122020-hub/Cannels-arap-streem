@@ -1411,6 +1411,20 @@
     },
     {
         "id": null,
+        "name": "Radio Romania 3Net (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://media.3netmedia.ro/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://media.3netmedia.ro/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
         "servers": [
             {
@@ -2346,6 +2360,20 @@
             {
                 "name": "URL",
                 "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Raj Musix Malayalam (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/1073/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/1073/master.m3u8"
             }
         ]
     },
@@ -3766,11 +3794,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/RECORD/index.m3u8"
+                "link": "http://170.84.165.204/Record_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/RECORD/index.m3u8"
+                "link": "http://170.84.165.204/Record_HD/index.m3u8"
             }
         ]
     },
@@ -4312,11 +4340,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.255.2.6:8084/GLOBOHD/index.m3u8"
+                "link": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.255.2.6:8084/GLOBOHD/index.m3u8"
+                "link": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
             }
         ]
     },
@@ -4448,15 +4476,15 @@
     },
     {
         "id": null,
-        "name": "Rede TV! (1080p)",
+        "name": "Rede TV! (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/REDE_TV_HD/index.m3u8"
+                "link": "http://45.162.64.114/REDE_TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/REDE_TV_HD/index.m3u8"
+                "link": "http://45.162.64.114/REDE_TV/index.m3u8"
             }
         ]
     },
@@ -4480,11 +4508,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8"
+                "link": "http://168.197.104.22/REDE_VIDA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.190.28.50/REDE_VIDA_HD/index.m3u8"
+                "link": "http://168.197.104.22/REDE_VIDA/index.m3u8"
             }
         ]
     },
