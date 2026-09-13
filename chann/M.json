@@ -136,6 +136,11 @@
         "servers": []
     },
     {
+        "id": "246",
+        "name": "M+ LALIGA TV 2",
+        "servers": []
+    },
+    {
         "id": "5215",
         "name": "M+ Vamos ES",
         "servers": []
@@ -2352,6 +2357,20 @@
             {
                 "name": "URL",
                 "link": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mazhavil Manorama HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8"
             }
         ]
     },
@@ -5267,20 +5286,6 @@
     },
     {
         "id": null,
-        "name": "MNX HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a05u/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a05u/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Mobile County Public Schools TV Network (MCPSS)",
         "servers": [
             {
@@ -5395,6 +5400,20 @@
         "id": "stream-3064",
         "name": "Moja TV",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Mojo TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -6094,34 +6113,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movies Now + (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a05t/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a05t/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movies Now HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.161.153.165:8000/play/mnh/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.161.153.165:8000/play/mnh/index.m3u8"
             }
         ]
     },
@@ -7936,6 +7927,20 @@
             {
                 "name": "URL",
                 "link": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Munsif TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8"
             }
         ]
     },

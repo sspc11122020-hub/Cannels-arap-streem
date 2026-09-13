@@ -52,9 +52,37 @@
         ]
     },
     {
+        "id": null,
+        "name": "Galavision (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8"
+            }
+        ]
+    },
+    {
         "id": "743",
         "name": "Galavision USA",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Galavision West (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -2151,6 +2179,20 @@
     },
     {
         "id": null,
+        "name": "Goldmines Action (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Goldmines Bollywood (576p)",
         "servers": [
             {
@@ -2477,6 +2519,20 @@
             {
                 "name": "URL",
                 "link": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Gospel TV India (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8"
             }
         ]
     },
@@ -3339,6 +3395,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn-6.pishow.tv/live/14/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Gyandarshan HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8"
             }
         ]
     },

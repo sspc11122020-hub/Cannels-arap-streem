@@ -300,6 +300,20 @@
     },
     {
         "id": null,
+        "name": "Sach Bedhadak (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Sachsen Eins (1080p)",
         "servers": [
             {
@@ -384,15 +398,15 @@
     },
     {
         "id": null,
-        "name": "Safari TV (480p) [Not 24/7]",
+        "name": "Safari TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8"
             }
         ]
     },
@@ -407,6 +421,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Sahana News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8"
             }
         ]
     },
@@ -440,15 +468,15 @@
     },
     {
         "id": null,
-        "name": "Sairam TV",
+        "name": "Sairam TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-3.pishow.tv/live/1611/master.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-3.pishow.tv/live/1611/master.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8"
             }
         ]
     },
@@ -1247,6 +1275,20 @@
             {
                 "name": "URL",
                 "link": "https://host.streamingnation.live/p/3345/hybrid/play.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Santa Fe Canal (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://canalsantaferts.argtelemax.workers.dev/"
+            },
+            {
+                "name": "URL",
+                "link": "https://canalsantaferts.argtelemax.workers.dev/"
             }
         ]
     },
@@ -3588,11 +3630,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/ChumbakTv/playlist.m3u8"
+                "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/ChumbakTv/playlist.m3u8"
+                "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
             }
         ]
     },
@@ -7290,20 +7332,6 @@
     },
     {
         "id": null,
-        "name": "Sony Max 1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.159.180.34:5001/live/3418.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.159.180.34:5001/live/3418.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sony Max 2 (1080p)",
         "servers": [
             {
@@ -10000,11 +10028,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a00g/index.m3u8"
+                "link": "http://107.167.16.138/stargold2/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a00g/index.m3u8"
+                "link": "http://107.167.16.138/stargold2/index.m3u8?token=test"
             }
         ]
     },
@@ -10019,48 +10047,6 @@
             {
                 "name": "URL",
                 "link": "http://66.102.126.10:8000/play/a077/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a00f/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a00f/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold Romance (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a00r/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a00r/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold Select HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a01d/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a01d/index.m3u8"
             }
         ]
     },
@@ -10205,20 +10191,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Star Sports 1 Hindi HD",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.253.18.58:8000/play/a00t"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.253.18.58:8000/play/a00t"
-            }
-        ]
-    },
-    {
         "id": "267",
         "name": "Star Sports 1 IN",
         "servers": []
@@ -10269,20 +10241,6 @@
         "id": "268",
         "name": "Star Sports Hindi IN",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Star Sports Select 1 HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://tvsen7.aynascope.net/sspts1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://tvsen7.aynascope.net/sspts1/index.m3u8"
-            }
-        ]
     },
     {
         "id": null,

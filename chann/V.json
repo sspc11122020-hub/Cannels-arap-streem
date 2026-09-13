@@ -1395,6 +1395,20 @@
     },
     {
         "id": null,
+        "name": "VH1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/vh1/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/vh1/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "VH1 Queens of Reality",
         "servers": [
             {
@@ -3164,6 +3178,20 @@
             {
                 "name": "URL",
                 "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VTV News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8"
             }
         ]
     },

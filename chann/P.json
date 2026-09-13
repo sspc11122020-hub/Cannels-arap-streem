@@ -384,6 +384,20 @@
     },
     {
         "id": null,
+        "name": "Panjab TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pannon RTV (648p)",
         "servers": [
             {
@@ -540,6 +554,20 @@
         "id": "334",
         "name": "Paramount Network",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Paramount Network (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/paramount/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/paramount/index.m3u8?token=test"
+            }
+        ]
     },
     {
         "id": null,
@@ -1278,6 +1306,20 @@
         "id": "210",
         "name": "PBS USA",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "PBS WNET (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test"
+            }
+        ]
     },
     {
         "id": "2020",

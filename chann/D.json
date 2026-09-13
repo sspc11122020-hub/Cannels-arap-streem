@@ -1526,6 +1526,20 @@
     },
     {
         "id": null,
+        "name": "DD National (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://107.167.16.138/ddnational/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://107.167.16.138/ddnational/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "DD National HD (1080p)",
         "servers": [
             {
@@ -1535,20 +1549,6 @@
             {
                 "name": "URL",
                 "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DD National SD (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-1.pishow.tv/live/11/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-1.pishow.tv/live/11/master.m3u8"
             }
         ]
     },
@@ -2809,6 +2809,20 @@
     },
     {
         "id": null,
+        "name": "Dhamaal (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://107.167.16.138/dhamaal/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Dhamma TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -3703,6 +3717,20 @@
     },
     {
         "id": null,
+        "name": "Disney Channel HD East (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Disney Channel Latin America (1080p)",
         "servers": [
             {
@@ -3838,11 +3866,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
+                "link": "http://190.14.10.19:16000/play/a02d/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.234.249.178:8888/DISNEY-JR/index.m3u8"
+                "link": "http://190.14.10.19:16000/play/a02d/index.m3u8"
             }
         ]
     },
@@ -4977,6 +5005,20 @@
             {
                 "name": "URL",
                 "link": "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DR1 (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"
             }
         ]
     },

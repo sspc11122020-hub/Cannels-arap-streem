@@ -8260,11 +8260,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv"
+                "link": "http://stream.mcquack.net/27/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv"
+                "link": "http://stream.mcquack.net/27/index.m3u8"
             }
         ]
     },
@@ -10194,6 +10194,20 @@
     },
     {
         "id": null,
+        "name": "Ciudad TV Resistencia (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ciudadano Radio (720p)",
         "servers": [
             {
@@ -10844,15 +10858,15 @@
     },
     {
         "id": null,
-        "name": "CNBC (720p) [Geo-blocked]",
+        "name": "CNBC (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/CNBC/index.m3u8"
+                "link": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/CNBC/index.m3u8"
+                "link": "http://4.30.180.36:8420/cnbc/index.m3u8?token=test"
             }
         ]
     },
@@ -11363,20 +11377,6 @@
     },
     {
         "id": null,
-        "name": "Colors Cineplex HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a076/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a076/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Colors Gujarati (396p)",
         "servers": [
             {
@@ -11400,20 +11400,6 @@
             {
                 "name": "URL",
                 "link": "http://66.102.126.10:8000/play/a00a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Infinity HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a014/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a014/index.m3u8"
             }
         ]
     },
@@ -11592,29 +11578,15 @@
     },
     {
         "id": null,
-        "name": "Comedy Central (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Comedy Central (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8"
+                "link": "http://4.30.180.36:8420/comedycentral/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8"
+                "link": "http://4.30.180.36:8420/comedycentral/index.m3u8?token=test"
             }
         ]
     },
@@ -12814,15 +12786,15 @@
     },
     {
         "id": null,
-        "name": "CP24 (576p)",
+        "name": "CP24 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/cp24/index.m3u8"
+                "link": "http://107.167.16.138/cp24/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen6.aynaott.com/cp24/index.m3u8"
+                "link": "http://107.167.16.138/cp24/index.m3u8?token=test"
             }
         ]
     },

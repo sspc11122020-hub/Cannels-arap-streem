@@ -4463,15 +4463,15 @@
     },
     {
         "id": null,
-        "name": "Bharat24 (576p)",
+        "name": "Bharat24 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8"
+                "link": "https://cdn.ottlive.co.in/bharat24/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8"
+                "link": "https://cdn.ottlive.co.in/bharat24/index.m3u8"
             }
         ]
     },
@@ -7239,6 +7239,20 @@
             {
                 "name": "URL",
                 "link": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BVG (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
             }
         ]
     },

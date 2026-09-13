@@ -397,6 +397,20 @@
     },
     {
         "id": null,
+        "name": "Zee Action (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://107.167.16.138/zeeaction/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://107.167.16.138/zeeaction/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Alwan (576p) [Not 24/7]",
         "servers": [
             {
@@ -462,48 +476,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Bollymovies (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Bollywood (580p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8"
             }
         ]
     },
@@ -826,6 +798,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zee Talkies (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://107.167.16.138/zeetalkies/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://107.167.16.138/zeetalkies/index.m3u8?token=test"
             }
         ]
     },

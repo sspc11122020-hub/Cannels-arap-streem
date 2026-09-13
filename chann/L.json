@@ -880,6 +880,20 @@
     },
     {
         "id": null,
+        "name": "Laff WJLP (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/laff/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/laff/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Laguna TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -2286,15 +2300,15 @@
     },
     {
         "id": null,
-        "name": "Lifetime (576p)",
+        "name": "Lifetime (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
+                "link": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen7.aynaott.com/lifetime/index.m3u8"
+                "link": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test"
             }
         ]
     },
@@ -2907,6 +2921,20 @@
     },
     {
         "id": null,
+        "name": "Litus TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://edge.enhdtv.com/litustv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://edge.enhdtv.com/litustv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Liv (720p)",
         "servers": [
             {
@@ -2956,6 +2984,20 @@
         "id": "7002",
         "name": "Live Stream",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Live Times (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.ottlive.co.in/livetimetv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.ottlive.co.in/livetimetv/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
