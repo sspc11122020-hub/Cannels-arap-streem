@@ -388,20 +388,6 @@
         "servers": []
     },
     {
-        "id": 16,
-        "name": "Kanal 1 Xtra Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/16/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/16/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Kanal 10 Asia (540p)",
         "servers": [
@@ -1626,9 +1612,18 @@
         ]
     },
     {
-        "id": "154",
+        "id": 17,
         "name": "KHL Prime",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/17/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/17/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1648,6 +1643,20 @@
         "id": "153",
         "name": "KHL Tv",
         "servers": []
+    },
+    {
+        "id": 18,
+        "name": "KHL TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/18/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/18/"
+            }
+        ]
     },
     {
         "id": null,

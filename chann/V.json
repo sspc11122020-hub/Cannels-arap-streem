@@ -104,32 +104,9 @@
         ]
     },
     {
-        "id": 21,
-        "name": "V Sport Fotball",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/21/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/21/"
-            }
-        ]
-    },
-    {
-        "id": 937,
+        "id": "937",
         "name": "V Sport Golf",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/937/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/937/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -160,18 +137,9 @@
         ]
     },
     {
-        "id": 272,
+        "id": "272",
         "name": "V Sport Motor Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/272/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/272/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 572,
@@ -207,20 +175,6 @@
         ]
     },
     {
-        "id": 3079,
-        "name": "V Sport Premium Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3079/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3079/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "V Sport Ultra SE",
         "servers": [
@@ -235,20 +189,6 @@
         ]
     },
     {
-        "id": 3076,
-        "name": "V Sport Vinter",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3076/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3076/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "V+ TVI (720p)",
         "servers": [
@@ -259,6 +199,20 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "V+ TVI Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/21/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/21/"
             }
         ]
     },
@@ -1132,15 +1086,15 @@
     },
     {
         "id": null,
-        "name": "Venevision (720p)",
+        "name": "Venevision (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.234.249.178:8888/VENEVISION/index.m3u8"
+                "link": "http://181.78.8.199:8000/play/a0if/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://177.234.249.178:8888/VENEVISION/index.m3u8"
+                "link": "http://181.78.8.199:8000/play/a0if/index.m3u8"
             }
         ]
     },
@@ -1613,20 +1567,6 @@
         "servers": []
     },
     {
-        "id": 3080,
-        "name": "Viaplay Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3080/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3080/"
-            }
-        ]
-    },
-    {
         "id": "3080",
         "name": "Viaplay Sport SE",
         "servers": []
@@ -1646,16 +1586,16 @@
         ]
     },
     {
-        "id": 8076,
+        "id": 3031,
         "name": "Viaplay Sports 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8076/"
+                "link": "https://tvnow247.top/embed/3031/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8076/"
+                "link": "https://tvnow247.top/embed/3031/"
             }
         ]
     },
@@ -1674,18 +1614,9 @@
         ]
     },
     {
-        "id": 8087,
+        "id": "550",
         "name": "Viaplay Sports 2 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8087/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/8087/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
