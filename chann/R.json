@@ -33,11 +33,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-4.pishow.tv/live/1231/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1231/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-4.pishow.tv/live/1231/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1231/master.m3u8"
             }
         ]
     },
@@ -2425,11 +2425,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-1.pishow.tv/live/1213/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1213/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-1.pishow.tv/live/1213/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1213/master.m3u8"
             }
         ]
     },
@@ -3088,11 +3088,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-7.pishow.tv/live/10016/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/10016/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-7.pishow.tv/live/10016/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/10016/master.m3u8"
             }
         ]
     },
@@ -3130,11 +3130,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-7.pishow.tv/live/10017/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/10017/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-7.pishow.tv/live/10017/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/10017/master.m3u8"
             }
         ]
     },
@@ -3592,18 +3592,9 @@
         ]
     },
     {
-        "id": 840,
+        "id": "840",
         "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 839,
@@ -4627,20 +4618,6 @@
         "id": "293",
         "name": "Reelz Channel",
         "servers": []
-    },
-    {
-        "id": 293,
-        "name": "Reelz USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/293/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/293/"
-            }
-        ]
     },
     {
         "id": null,
@@ -6213,6 +6190,20 @@
     },
     {
         "id": null,
+        "name": "ROCK Entertainment HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://58.8.186.128:10006/bysid/2612"
+            },
+            {
+                "name": "URL",
+                "link": "http://58.8.186.128:10006/bysid/2612"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rock TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -6236,6 +6227,20 @@
             {
                 "name": "URL",
                 "link": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ROCK X Stream (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://58.8.186.128:10007/bysid/2811"
+            },
+            {
+                "name": "URL",
+                "link": "http://58.8.186.128:10007/bysid/2811"
             }
         ]
     },
@@ -7036,6 +7041,20 @@
     },
     {
         "id": null,
+        "name": "RTL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RTL 102.5 Best (1080p)",
         "servers": [
             {
@@ -7138,16 +7157,16 @@
         "servers": []
     },
     {
-        "id": 740,
+        "id": null,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -7181,20 +7200,6 @@
     },
     {
         "id": null,
-        "name": "RTL HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "RTL Radio Web TV (1080p)",
         "servers": [
             {
@@ -7204,6 +7209,20 @@
             {
                 "name": "URL",
                 "link": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTL Super",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8"
             }
         ]
     },
@@ -7251,15 +7270,15 @@
     },
     {
         "id": null,
-        "name": "RTL Zwei (1080p)",
+        "name": "RTL Zwei",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz"
+                "link": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz"
+                "link": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8"
             }
         ]
     },
@@ -8447,18 +8466,9 @@
         ]
     },
     {
-        "id": 3,
+        "id": "255",
         "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8639,11 +8649,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1039/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1039/master.m3u8"
             }
         ]
     },

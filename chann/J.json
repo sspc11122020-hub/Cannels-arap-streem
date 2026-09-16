@@ -523,11 +523,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-3.pishow.tv/live/1467/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1467/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-3.pishow.tv/live/1467/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1467/master.m3u8"
             }
         ]
     },
@@ -873,11 +873,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-2.pishow.tv/live/989/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/989/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-2.pishow.tv/live/989/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/989/master.m3u8"
             }
         ]
     },
@@ -1080,6 +1080,20 @@
             {
                 "name": "URL",
                 "link": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jonack (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/10006/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/10006/master.m3u8"
             }
         ]
     },

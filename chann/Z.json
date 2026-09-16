@@ -257,15 +257,15 @@
     },
     {
         "id": null,
-        "name": "ZDF (720p) [Geo-blocked]",
+        "name": "ZDF",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
+                "link": "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8"
+                "link": "https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8"
             }
         ]
     },
@@ -1082,30 +1082,30 @@
         ]
     },
     {
-        "id": 919,
+        "id": null,
         "name": "Ziggo Sport 3 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/919/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/919/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 396,
+        "id": null,
         "name": "Ziggo Sport 4 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/396/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/396/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },

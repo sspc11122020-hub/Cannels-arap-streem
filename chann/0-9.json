@@ -1599,15 +1599,15 @@
     },
     {
         "id": null,
-        "name": "3sat (720p) [Geo-blocked]",
+        "name": "3sat",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8"
+                "link": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8"
+                "link": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8"
             }
         ]
     },
@@ -1795,11 +1795,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-4.pishow.tv/live/1007/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-4.pishow.tv/live/1007/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
             }
         ]
     },
@@ -1828,20 +1828,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 146,
-        "name": "5 Live Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/146/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/146/"
             }
         ]
     },
@@ -1935,32 +1921,9 @@
         ]
     },
     {
-        "id": 145,
-        "name": "5Plus Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/145/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/145/"
-            }
-        ]
-    },
-    {
-        "id": 144,
+        "id": "stream-144",
         "name": "5Sport Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/144/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/144/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "stream-145",
@@ -1971,20 +1934,6 @@
         "id": "stream-147",
         "name": "5Sport Star Israel",
         "servers": []
-    },
-    {
-        "id": 147,
-        "name": "5Stars Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/147/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/147/"
-            }
-        ]
     },
     {
         "id": null,
@@ -2413,11 +2362,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-1.pishow.tv/live/1211/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1211/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-1.pishow.tv/live/1211/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1211/master.m3u8"
             }
         ]
     },
@@ -2782,6 +2731,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.nmih.hu:7980/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "ŠTV 1 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
             }
         ]
     },

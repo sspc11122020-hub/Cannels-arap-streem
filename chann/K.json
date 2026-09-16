@@ -178,11 +178,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-3.pishow.tv/live/1469/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1469/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-3.pishow.tv/live/1469/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1469/master.m3u8"
             }
         ]
     },
@@ -1612,18 +1612,9 @@
         ]
     },
     {
-        "id": 17,
+        "id": "154",
         "name": "KHL Prime",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/17/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/17/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1643,20 +1634,6 @@
         "id": "153",
         "name": "KHL Tv",
         "servers": []
-    },
-    {
-        "id": 18,
-        "name": "KHL TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/18/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/18/"
-            }
-        ]
     },
     {
         "id": null,
@@ -1692,11 +1669,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1473/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1473/master.m3u8"
             }
         ]
     },
@@ -2397,6 +2374,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.streamhispanatv.net:3482/live/knal4gtlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KNino (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+            },
+            {
+                "name": "URL",
+                "link": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
             }
         ]
     },
