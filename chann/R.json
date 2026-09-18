@@ -2241,9 +2241,18 @@
         "servers": []
     },
     {
-        "id": "851",
+        "id": 851,
         "name": "Rai 2 Italy",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/851/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/851/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2329,6 +2338,20 @@
         "id": "858",
         "name": "Rai Premium Italy",
         "servers": []
+    },
+    {
+        "id": 882,
+        "name": "Rai Sport 1 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/882/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/882/"
+            }
+        ]
     },
     {
         "id": "882",
@@ -7157,16 +7180,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
@@ -7461,18 +7484,9 @@
         ]
     },
     {
-        "id": 720,
+        "id": "720",
         "name": "RTP 2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/720/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/720/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "721",

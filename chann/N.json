@@ -1135,18 +1135,9 @@
         ]
     },
     {
-        "id": 404,
+        "id": "404",
         "name": "NBA TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/404/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/404/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1504,9 +1495,18 @@
         "servers": []
     },
     {
-        "id": "755",
+        "id": 755,
         "name": "NBC Sports California",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/755/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/755/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1705,32 +1705,28 @@
         ]
     },
     {
-        "id": 755,
-        "name": "NBCS California USA",
+        "id": 754,
+        "name": "NBCS Boston USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/755/"
+                "link": "https://tvnow247.top/embed/754/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/755/"
+                "link": "https://tvnow247.top/embed/754/"
             }
         ]
     },
     {
-        "id": 777,
+        "id": "stream-755",
+        "name": "NBCS California USA",
+        "servers": []
+    },
+    {
+        "id": "stream-777",
         "name": "NBCS Philadelphia USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/777/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/777/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4379,6 +4375,20 @@
         ]
     },
     {
+        "id": 3011,
+        "name": "Nitro DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3011/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3011/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Njata TV (576p) [Not 24/7]",
         "servers": [
@@ -5069,32 +5079,14 @@
         "servers": []
     },
     {
-        "id": 1021,
+        "id": "1021",
         "name": "Nova Sport 1 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1021/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1021/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 1022,
+        "id": "1022",
         "name": "Nova Sport 2 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1022/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1022/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 1023,
@@ -5153,32 +5145,23 @@
         ]
     },
     {
-        "id": 1025,
+        "id": null,
         "name": "Nova Sport 5 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1025/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205&code=cz&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1025/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205&code=cz&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 1062,
+        "id": "1062",
         "name": "Nova Sport 5 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 1026,
@@ -5296,18 +5279,9 @@
         ]
     },
     {
-        "id": 638,
+        "id": "638",
         "name": "Nova Sports Prime Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/638/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/638/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3025",
@@ -5329,18 +5303,9 @@
         ]
     },
     {
-        "id": 637,
+        "id": "637",
         "name": "Nova Sports Start Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/637/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/637/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5390,9 +5355,18 @@
         ]
     },
     {
-        "id": "stream-638",
+        "id": 638,
         "name": "NovaSports Prime GR",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/638/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/638/"
+            }
+        ]
     },
     {
         "id": null,
