@@ -551,6 +551,20 @@
     },
     {
         "id": null,
+        "name": "Zee Cinemalu HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Classic (576p)",
         "servers": [
             {
@@ -845,6 +859,20 @@
     },
     {
         "id": null,
+        "name": "Zee Telugu HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Telugu News (720p)",
         "servers": [
             {
@@ -1054,16 +1082,16 @@
         ]
     },
     {
-        "id": 8025,
+        "id": 393,
         "name": "Ziggo Sport 1 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8025/"
+                "link": "https://tvnow247.top/embed/393/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8025/"
+                "link": "https://tvnow247.top/embed/393/"
             }
         ]
     },
@@ -1152,18 +1180,9 @@
         ]
     },
     {
-        "id": 3088,
+        "id": "393",
         "name": "Ziggo Sport NL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3088/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3088/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1563,11 +1582,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/Zvezda/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/Zvezda/index.m3u8"
             }
         ]
     },

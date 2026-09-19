@@ -28,18 +28,9 @@
         ]
     },
     {
-        "id": 645,
+        "id": "645",
         "name": "L'Equipe France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/645/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/645/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1047,6 +1038,20 @@
         ]
     },
     {
+        "id": 3026,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3026/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3026/"
+            }
+        ]
+    },
+    {
         "id": "108",
         "name": "LALIGA TV Hypermotion 2",
         "servers": []
@@ -1286,11 +1291,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.145.32.13:20440/unikum/index.m3u8?token=test"
+                "link": "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "http://45.145.32.13:20440/unikum/index.m3u8?token=test"
+                "link": "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -2723,16 +2728,16 @@
         "servers": []
     },
     {
-        "id": 960,
+        "id": 3053,
         "name": "Ligue1+ France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/960/"
+                "link": "https://tvnow247.top/embed/3053/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/960/"
+                "link": "https://tvnow247.top/embed/3053/"
             }
         ]
     },
@@ -2969,20 +2974,6 @@
         "id": "1081",
         "name": "Live Feed",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Live India (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -3696,6 +3687,20 @@
             {
                 "name": "URL",
                 "link": "https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Love Nature HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8"
             }
         ]
     },

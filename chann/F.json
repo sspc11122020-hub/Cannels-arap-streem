@@ -174,20 +174,6 @@
     },
     {
         "id": null,
-        "name": "Faith TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Faith UK (1080p)",
         "servers": [
             {
@@ -689,6 +675,20 @@
     },
     {
         "id": null,
+        "name": "FashionTV Asia (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://58.8.186.128:10006/bysid/2616"
+            },
+            {
+                "name": "URL",
+                "link": "http://58.8.186.128:10006/bysid/2616"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "FashionTV Europe (1080p)",
         "servers": [
             {
@@ -745,6 +745,20 @@
             {
                 "name": "URL",
                 "link": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fast&FunBox HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8"
             }
         ]
     },
@@ -1044,6 +1058,20 @@
             {
                 "name": "URL",
                 "link": "https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fieri Tv (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://valashop.online:8090/fieritv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://valashop.online:8090/fieritv.m3u8"
             }
         ]
     },
@@ -1433,15 +1461,15 @@
     },
     {
         "id": null,
-        "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+        "name": "FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
+                "link": "https://iptv.prosto.tv/ch064/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
+                "link": "https://iptv.prosto.tv/ch064/index.m3u8"
             }
         ]
     },
@@ -1754,16 +1782,16 @@
         ]
     },
     {
-        "id": 180,
+        "id": 176,
         "name": "FloHockey",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/180/"
+                "link": "https://tvnow247.top/embed/176/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/180/"
+                "link": "https://tvnow247.top/embed/176/"
             }
         ]
     },
@@ -2093,6 +2121,20 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/foodnetwork-usa"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Food Network (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8"
             }
         ]
     },
@@ -2864,20 +2906,6 @@
         ]
     },
     {
-        "id": 3081,
-        "name": "FOX Sports 1 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3081/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3081/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Sports 2",
         "servers": [
@@ -2939,6 +2967,20 @@
         "servers": []
     },
     {
+        "id": 788,
+        "name": "FOX Sports 2 Argentina",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/788/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/788/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Fox Sports 2 MX",
         "servers": [
@@ -2981,6 +3023,20 @@
         ]
     },
     {
+        "id": 758,
+        "name": "FOX Sports 2 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/758/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/758/"
+            }
+        ]
+    },
+    {
         "id": "3082",
         "name": "Fox Sports 2 USA 2",
         "servers": []
@@ -3003,20 +3059,6 @@
         "id": "789",
         "name": "Fox Sports 3 Argentina",
         "servers": []
-    },
-    {
-        "id": 789,
-        "name": "FOX Sports 3 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/789/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/789/"
-            }
-        ]
     },
     {
         "id": null,
@@ -3259,18 +3301,9 @@
         "servers": []
     },
     {
-        "id": 787,
+        "id": "787",
         "name": "Fox Sports Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/787/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/787/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4002,6 +4035,34 @@
     },
     {
         "id": null,
+        "name": "Friday! International Kazakhstan (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Friends TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://server.playontv.in/friendstv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://server.playontv.in/friendstv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "FrightFlix (720p)",
         "servers": [
             {
@@ -4483,6 +4544,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "FX Life (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "381",
         "name": "FX Movie Channel",
         "servers": []
@@ -4516,18 +4591,9 @@
         ]
     },
     {
-        "id": 317,
+        "id": "317",
         "name": "FX USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/317/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/317/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4558,18 +4624,9 @@
         ]
     },
     {
-        "id": 298,
+        "id": "298",
         "name": "FXX USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/298/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/298/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "665",

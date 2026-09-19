@@ -902,9 +902,18 @@
         ]
     },
     {
-        "id": "6034",
+        "id": 59,
         "name": "DAZN Belgium",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/59/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/59/"
+            }
+        ]
     },
     {
         "id": "216",
@@ -943,6 +952,34 @@
         "id": "3099",
         "name": "DAZN DE",
         "servers": []
+    },
+    {
+        "id": 455,
+        "name": "DAZN Eleven 1 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/455/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/455/"
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "name": "DAZN Eleven 4 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/458/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/458/"
+            }
+        ]
     },
     {
         "id": "5003",
@@ -1002,6 +1039,20 @@
         "servers": []
     },
     {
+        "id": 69,
+        "name": "DAZN Italia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/69/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/69/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "DAZN LaLiga",
         "servers": [
@@ -1054,9 +1105,18 @@
         "servers": []
     },
     {
-        "id": "3030",
+        "id": 918,
         "name": "DAZN MotoGP ES",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/918/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/918/"
+            }
+        ]
     },
     {
         "id": "4000",
@@ -1084,9 +1144,37 @@
         "servers": []
     },
     {
+        "id": 3049,
+        "name": "DAZN Pro League 1 Belgium",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3049/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3049/"
+            }
+        ]
+    },
+    {
         "id": "3045",
         "name": "DAZN Pro League 2",
         "servers": []
+    },
+    {
+        "id": 55,
+        "name": "DAZN Pro League 2 Belgium",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/55/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/55/"
+            }
+        ]
     },
     {
         "id": "1067",
@@ -1128,6 +1216,20 @@
         "servers": []
     },
     {
+        "id": 445,
+        "name": "DAZN1 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/445/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/445/"
+            }
+        ]
+    },
+    {
         "id": 427,
         "name": "DAZN2 DE",
         "servers": [
@@ -1145,6 +1247,20 @@
         "id": "3018",
         "name": "DAZN2 DE 2",
         "servers": []
+    },
+    {
+        "id": 446,
+        "name": "DAZN2 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/446/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/446/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1418,11 +1534,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8"
             }
         ]
     },
@@ -1456,15 +1572,15 @@
     },
     {
         "id": null,
-        "name": "DD Kisan (720p)",
+        "name": "DD Kisan (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/9/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/9/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8"
             }
         ]
     },
@@ -1474,11 +1590,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/31/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/31/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8"
             }
         ]
     },
@@ -1572,25 +1688,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "DD News (576p)",
+        "name": "DD News (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8"
             }
         ]
     },
@@ -1610,15 +1726,15 @@
     },
     {
         "id": null,
-        "name": "DD Odia (504p)",
+        "name": "DD Odia (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8"
             }
         ]
     },
@@ -1675,6 +1791,20 @@
             {
                 "name": "URL",
                 "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DD Sports (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8"
             }
         ]
     },
@@ -2799,6 +2929,34 @@
     },
     {
         "id": null,
+        "name": "Detski mir (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Detskiy (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Detvora+ (1080p)",
         "servers": [
             {
@@ -3140,9 +3298,18 @@
         ]
     },
     {
-        "id": "465",
+        "id": 3048,
         "name": "Diema Sport Bulgaria",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3048/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3048/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4616,15 +4783,15 @@
     },
     {
         "id": null,
-        "name": "DocuBox Russia",
+        "name": "DocuBox Russia (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8"
             }
         ]
     },
@@ -5437,18 +5604,9 @@
         ]
     },
     {
-        "id": 619,
+        "id": "stream-619",
         "name": "DSports 1 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/619/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/619/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

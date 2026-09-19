@@ -52,6 +52,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "V mire zhivotnykh HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Animal_Family_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Animal_Family_HD/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "3067",
         "name": "V sport 1 Norway",
         "servers": []
@@ -85,9 +99,18 @@
         ]
     },
     {
-        "id": "9",
+        "id": 46,
         "name": "V Sport Football",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/46/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/46/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1562,20 +1585,6 @@
         "servers": []
     },
     {
-        "id": 3069,
-        "name": "Viaplay Sport News Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3069/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3069/"
-            }
-        ]
-    },
-    {
         "id": "3080",
         "name": "Viaplay Sport SE",
         "servers": []
@@ -1595,16 +1604,16 @@
         ]
     },
     {
-        "id": 8034,
+        "id": 451,
         "name": "Viaplay Sports 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8034/"
+                "link": "https://tvnow247.top/embed/451/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8034/"
+                "link": "https://tvnow247.top/embed/451/"
             }
         ]
     },
@@ -1623,16 +1632,16 @@
         ]
     },
     {
-        "id": 8015,
+        "id": 550,
         "name": "Viaplay Sports 2 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8015/"
+                "link": "https://tvnow247.top/embed/550/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8015/"
+                "link": "https://tvnow247.top/embed/550/"
             }
         ]
     },
@@ -1689,6 +1698,20 @@
             {
                 "name": "URL",
                 "link": "https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viasat History (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8"
             }
         ]
     },
@@ -1810,18 +1833,9 @@
         ]
     },
     {
-        "id": 659,
+        "id": "stream-659",
         "name": "VICE TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/659/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/659/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "174",
@@ -1998,6 +2012,20 @@
     },
     {
         "id": null,
+        "name": "viju Nature HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "viju TV1000 (576p)",
         "servers": [
             {
@@ -2119,6 +2147,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/333/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "viju+ Sport HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8"
             }
         ]
     },
@@ -2651,6 +2693,20 @@
             {
                 "name": "URL",
                 "link": "https://live.obslivestream.com/vivatv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Vivacom Arena (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8"
             }
         ]
     },

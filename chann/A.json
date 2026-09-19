@@ -66,20 +66,6 @@
         ]
     },
     {
-        "id": 302,
-        "name": "A&amp;E TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/302/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/302/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "A&E (720p)",
         "servers": [
@@ -142,20 +128,6 @@
     },
     {
         "id": null,
-        "name": "A+ [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "A1 TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -179,6 +151,20 @@
             {
                 "name": "URL",
                 "link": "https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "A2 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8"
             }
         ]
     },
@@ -506,15 +492,15 @@
     },
     {
         "id": null,
-        "name": "Aastha Telugu (480p)",
+        "name": "Aastha Telugu (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8"
             }
         ]
     },
@@ -1205,18 +1191,9 @@
         ]
     },
     {
-        "id": 766,
+        "id": "766",
         "name": "ABC NY USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/766/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/766/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1373,32 +1350,9 @@
         ]
     },
     {
-        "id": 51,
+        "id": "51",
         "name": "ABC USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/51/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/51/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ABC West (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.cammonitorplus.net/1797/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.cammonitorplus.net/1797/index.m3u8"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1640,15 +1594,15 @@
     },
     {
         "id": null,
-        "name": "ABP Majha (360p)",
+        "name": "ABP Majha (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8"
             }
         ]
     },
@@ -3458,6 +3412,20 @@
             {
                 "name": "URL",
                 "link": "https://live.legitpro.co.in/cnnnews/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Akhon Kolkata (478p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8"
             }
         ]
     },
@@ -6050,18 +6018,9 @@
         ]
     },
     {
-        "id": 303,
+        "id": "303",
         "name": "AMC USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/303/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/303/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6088,20 +6047,6 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/A1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Amedia 2 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.148.48.15/A2/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.148.48.15/A2/index.m3u8"
             }
         ]
     },
@@ -6606,6 +6551,20 @@
             {
                 "name": "URL",
                 "link": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Anand Wari TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8"
             }
         ]
     },
@@ -7241,15 +7200,15 @@
     },
     {
         "id": null,
-        "name": "Antena 1 (1080p)",
+        "name": "Antena 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8"
+                "link": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8"
+                "link": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
             }
         ]
     },
@@ -7307,6 +7266,34 @@
     },
     {
         "id": null,
+        "name": "Antena International",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Antena Monden (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Antena Seis TV (720p) [Geo-blocked]",
         "servers": [
             {
@@ -7321,15 +7308,15 @@
     },
     {
         "id": null,
-        "name": "Antena Stars (720p)",
+        "name": "Antena Stars",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+                "link": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
+                "link": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8"
             }
         ]
     },
@@ -7830,11 +7817,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/961/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8"
             }
         ]
     },
@@ -8035,30 +8022,30 @@
         ]
     },
     {
-        "id": 1,
+        "id": 25,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/25/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/25/"
             }
         ]
     },
     {
-        "id": 16,
+        "id": 20,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/16/"
+                "link": "https://tvnow247.top/embed/20/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/16/"
+                "link": "https://tvnow247.top/embed/20/"
             }
         ]
     },
@@ -8104,6 +8091,20 @@
         "id": "stream-1",
         "name": "Arena Sport 1 Slovakia",
         "servers": []
+    },
+    {
+        "id": 23,
+        "name": "Arena Sport 1 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/23/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/23/"
+            }
+        ]
     },
     {
         "id": 945,
@@ -8172,30 +8173,30 @@
         ]
     },
     {
-        "id": 164,
+        "id": 19,
         "name": "Arena Sport 2 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/164/"
+                "link": "https://tvnow247.top/embed/19/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/164/"
+                "link": "https://tvnow247.top/embed/19/"
             }
         ]
     },
     {
-        "id": 8009,
+        "id": 434,
         "name": "Arena Sport 3 Croatia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8009/"
+                "link": "https://tvnow247.top/embed/434/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8009/"
+                "link": "https://tvnow247.top/embed/434/"
             }
         ]
     },
@@ -8215,6 +8216,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/431/"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Arena Sport 3 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/26/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },
@@ -8289,32 +8304,14 @@
         ]
     },
     {
-        "id": 943,
+        "id": "943",
         "name": "Arena Sport 8 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/943/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/943/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 944,
+        "id": "944",
         "name": "Arena Sport 9 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/944/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/944/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "612",
@@ -9340,18 +9337,9 @@
         ]
     },
     {
-        "id": 370,
+        "id": "370",
         "name": "Astro Cricket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/370/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/370/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9364,6 +9352,48 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Astro%20Cricket&code=us&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Astro Football",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/124/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/124/"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Astro Grandstand",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/123/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/123/"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Astro Premier League",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/125/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/125/"
             }
         ]
     },
@@ -10159,6 +10189,20 @@
             {
                 "name": "URL",
                 "link": "https://live.obslivestream.com/autenticatvmux/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Auto Plus (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8"
             }
         ]
     },

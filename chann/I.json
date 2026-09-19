@@ -851,6 +851,20 @@
     },
     {
         "id": null,
+        "name": "Illusion+ (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://176.118.197.101/Illuzion+/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://176.118.197.101/Illuzion+/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ilm va Tabiat (1080p)",
         "servers": [
             {
@@ -1443,9 +1457,18 @@
         ]
     },
     {
-        "id": "1",
+        "id": 1,
         "name": "Indosiar",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1458,6 +1481,20 @@
             {
                 "name": "URL",
                 "link": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Inedit TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8"
             }
         ]
     },
@@ -1999,9 +2036,18 @@
         ]
     },
     {
-        "id": "325",
+        "id": 325,
         "name": "ION USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/325/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/325/"
+            }
+        ]
     },
     {
         "id": null,

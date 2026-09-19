@@ -113,6 +113,20 @@
     },
     {
         "id": null,
+        "name": "Raatdin Bangla (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://server.playontv.in/raatdinbangla/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://server.playontv.in/raatdinbangla/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Raavi TV (576p) [Not 24/7]",
         "servers": [
             {
@@ -2241,18 +2255,9 @@
         "servers": []
     },
     {
-        "id": 851,
+        "id": "851",
         "name": "Rai 2 Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/851/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/851/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2338,20 +2343,6 @@
         "id": "858",
         "name": "Rai Premium Italy",
         "servers": []
-    },
-    {
-        "id": 882,
-        "name": "Rai Sport 1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/882/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/882/"
-            }
-        ]
     },
     {
         "id": "882",
@@ -4882,6 +4873,20 @@
     },
     {
         "id": null,
+        "name": "REN TV HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/REN_TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/REN_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "REN TV International (576p)",
         "servers": [
             {
@@ -5810,20 +5815,6 @@
         "servers": []
     },
     {
-        "id": 471,
-        "name": "Ring.BG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/471/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/471/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Rinjani TV",
         "servers": [
@@ -5978,9 +5969,18 @@
         ]
     },
     {
-        "id": "119",
+        "id": 119,
         "name": "RMC Sport 1 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/119/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/119/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5997,9 +5997,18 @@
         ]
     },
     {
-        "id": "120",
+        "id": 120,
         "name": "RMC Sport 2 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/120/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/120/"
+            }
+        ]
     },
     {
         "id": "3055",
@@ -6376,6 +6385,20 @@
             {
                 "name": "URL",
                 "link": "https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Romantichnoe HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Semeynoe_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Semeynoe_HD/index.m3u8"
             }
         ]
     },
@@ -7180,16 +7203,16 @@
         "servers": []
     },
     {
-        "id": 740,
+        "id": null,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -7232,20 +7255,6 @@
             {
                 "name": "URL",
                 "link": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTL Super",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8"
             }
         ]
     },
@@ -8480,9 +8489,18 @@
         ]
     },
     {
-        "id": "255",
+        "id": 4,
         "name": "RTVS Sport Slovakia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8855,6 +8873,20 @@
     },
     {
         "id": null,
+        "name": "Russian Extreme (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Russian MusicBox (576p)",
         "servers": [
             {
@@ -8952,9 +8984,18 @@
         ]
     },
     {
-        "id": "3074",
+        "id": 3079,
         "name": "Ruutu+",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3079/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3079/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9093,6 +9134,20 @@
             {
                 "name": "URL",
                 "link": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rybalka i okhota (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
             }
         ]
     },

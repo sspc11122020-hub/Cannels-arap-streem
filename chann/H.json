@@ -445,6 +445,20 @@
     },
     {
         "id": null,
+        "name": "Happy Channel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Happy Days",
         "servers": [
             {
@@ -576,15 +590,15 @@
     },
     {
         "id": null,
-        "name": "Harvest TV (720p)",
+        "name": "Harvest TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8"
             }
         ]
     },
@@ -824,18 +838,9 @@
         ]
     },
     {
-        "id": 321,
+        "id": "321",
         "name": "HBO USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/321/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/321/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "694",
@@ -935,6 +940,20 @@
         "id": "323",
         "name": "Headline News",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Headlines Tripura (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -1237,34 +1256,6 @@
     },
     {
         "id": null,
-        "name": "HGTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://i.mjh.nz/.r/sky-hgtv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://i.mjh.nz/.r/sky-hgtv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 382,
-        "name": "HGTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/382/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/382/"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hi Dost! (720p)",
         "servers": [
             {
@@ -1405,29 +1396,29 @@
     },
     {
         "id": null,
-        "name": "Hindi Khabar (576p)",
+        "name": "Hindi Khabar (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8"
+                "link": "https://stream.ottlive.co.in/hindikhabar/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8"
+                "link": "https://stream.ottlive.co.in/hindikhabar/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Hindu Dharmam (576p)",
+        "name": "Hindu Dharmam (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8"
             }
         ]
     },
@@ -1573,6 +1564,20 @@
     },
     {
         "id": null,
+        "name": "History 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "History 2 Latin America (1080p)",
         "servers": [
             {
@@ -1703,18 +1708,9 @@
         ]
     },
     {
-        "id": 322,
+        "id": "322",
         "name": "History USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/322/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/322/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2362,6 +2358,20 @@
     },
     {
         "id": null,
+        "name": "Horror Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Horror/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Horror/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Horse & Country TV (1080p)",
         "servers": [
             {
@@ -2418,15 +2428,15 @@
     },
     {
         "id": null,
-        "name": "Hosanna TV Hindi",
+        "name": "Hosanna TV Hindi (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8"
             }
         ]
     },
@@ -2459,9 +2469,79 @@
         ]
     },
     {
+        "id": null,
+        "name": "HOT Cinema 1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Gold/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Gold/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HOT Cinema 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/action/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/action/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HOT Cinema 3 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/fun/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/fun/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HOT Cinema 4 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/drama/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/drama/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "553",
         "name": "HOT3 Israel",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "HOT8 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/channel8/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/channel8/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -2917,9 +2997,18 @@
         ]
     },
     {
-        "id": "4",
+        "id": 21,
         "name": "Hub Premier",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/21/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/21/"
+            }
+        ]
     },
     {
         "id": null,

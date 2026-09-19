@@ -146,6 +146,20 @@
     },
     {
         "id": null,
+        "name": "Kadak (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kaifa TV (576p)",
         "servers": [
             {
@@ -356,6 +370,20 @@
     },
     {
         "id": null,
+        "name": "Kamedi HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kan 11 (1080p)",
         "servers": [
             {
@@ -383,9 +411,46 @@
         ]
     },
     {
-        "id": "221",
+        "id": null,
+        "name": "Kanak News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 164,
         "name": "Kanal 1 Sport Slovakia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/164/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/164/"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "name": "Kanal 1 Xtra Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/167/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/167/"
+            }
+        ]
     },
     {
         "id": null,
@@ -922,6 +987,20 @@
     },
     {
         "id": null,
+        "name": "Kapitan Fantastika HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kapos TV (1080p)",
         "servers": [
             {
@@ -1165,6 +1244,20 @@
     },
     {
         "id": null,
+        "name": "KBC News (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.ottlive.co.in/kbcnews/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.ottlive.co.in/kbcnews/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",
         "servers": [
             {
@@ -1174,6 +1267,20 @@
             {
                 "name": "URL",
                 "link": "https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KBP Times (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8"
             }
         ]
     },
@@ -1398,6 +1505,20 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kerala Vision (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8"
             }
         ]
     },
@@ -1884,6 +2005,20 @@
             {
                 "name": "URL",
                 "link": "http://176.118.197.101/KinoTvHD/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KinoBoevik (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -2388,6 +2523,20 @@
             {
                 "name": "URL",
                 "link": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Knock Bhakti (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8"
             }
         ]
     },
@@ -3135,6 +3284,20 @@
             {
                 "name": "URL",
                 "link": "http://145.239.5.177/354/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kto est kto (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8"
             }
         ]
     },

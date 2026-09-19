@@ -53,15 +53,15 @@
     },
     {
         "id": null,
-        "name": "Galavision (1080p) [Geo-blocked]",
+        "name": "Galavision (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8"
+                "link": "http://200.115.120.1:8000/play/ca128/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8"
+                "link": "http://200.115.120.1:8000/play/ca128/index.m3u8"
             }
         ]
     },
@@ -197,18 +197,9 @@
         ]
     },
     {
-        "id": 319,
+        "id": "319",
         "name": "Game Show Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/319/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/319/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1346,15 +1337,15 @@
     },
     {
         "id": null,
-        "name": "Glazami Turista (576i)",
+        "name": "Glazami Turista (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8"
             }
         ]
     },
@@ -2188,6 +2179,20 @@
     },
     {
         "id": null,
+        "name": "Goldmines 2 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Goldmines Action (576p)",
         "servers": [
             {
@@ -2425,6 +2430,20 @@
             {
                 "name": "URL",
                 "link": "https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Goodness TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8"
             }
         ]
     },
@@ -2923,6 +2942,20 @@
             {
                 "name": "URL",
                 "link": "https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "GS TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8"
             }
         ]
     },

@@ -379,6 +379,20 @@
     },
     {
         "id": null,
+        "name": "Jaya Plus (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Jaya TV (1080p)",
         "servers": [
             {
@@ -724,6 +738,20 @@
             {
                 "name": "URL",
                 "link": "https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jibek Joly (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv"
+            },
+            {
+                "name": "URL",
+                "link": "https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -1238,16 +1266,16 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Jordan TV Sport",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
