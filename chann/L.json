@@ -62,7 +62,7 @@
     },
     {
         "id": null,
-        "name": "L1mburg TV (720p) [Not 24/7]",
+        "name": "L1 TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -300,7 +300,7 @@
     },
     {
         "id": null,
-        "name": "La Fabulosa Radio y TV (720p)",
+        "name": "La Fabulosa TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -758,6 +758,20 @@
     },
     {
         "id": null,
+        "name": "LA36 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "La5 [Geo-blocked]",
         "servers": [
             {
@@ -796,7 +810,7 @@
     },
     {
         "id": null,
-        "name": "Labbayk TV",
+        "name": "LabbaykTV",
         "servers": [
             {
                 "name": "Main Server",
@@ -936,29 +950,43 @@
     },
     {
         "id": null,
-        "name": "Lakewood Channel 8 (Lakewood CO) (720p)",
+        "name": "Lake Havasu City 4",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
+                "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
+                "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Lakewood CityTV (720p)",
+        "name": "LakeFront TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8"
+                "link": "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8"
+                "link": "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Lakewood Channel 8 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
             }
         ]
     },
@@ -1052,9 +1080,18 @@
         ]
     },
     {
-        "id": "108",
+        "id": 3027,
         "name": "LALIGA TV Hypermotion 2",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3027/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3027/"
+            }
+        ]
     },
     {
         "id": "276",
@@ -1063,7 +1100,7 @@
     },
     {
         "id": null,
-        "name": "Lâm Đồng TV (480p)",
+        "name": "Lam Dong TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1133,7 +1170,7 @@
     },
     {
         "id": null,
-        "name": "Ländle TV (1080p) [Not 24/7]",
+        "name": "Landle TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1226,20 +1263,6 @@
             {
                 "name": "URL",
                 "link": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lào Cai TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.baolaocai.vn/channel2/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.baolaocai.vn/channel2/stream.m3u8"
             }
         ]
     },
@@ -1394,7 +1417,21 @@
     },
     {
         "id": null,
-        "name": "Las Tortugas Ninja (720p)",
+        "name": "Las Tortugas Ninja (Germany) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Las Tortugas Ninja (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1422,7 +1459,7 @@
     },
     {
         "id": null,
-        "name": "Latacunga TV (360p)",
+        "name": "LatacungaTV (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1609,7 +1646,7 @@
     },
     {
         "id": null,
-        "name": "LaXitosa Panamá (360p) [Not 24/7]",
+        "name": "LaXitosa Panama (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1726,6 +1763,20 @@
     },
     {
         "id": null,
+        "name": "LDPR TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Le Cronache TV (720p)",
         "servers": [
             {
@@ -1740,7 +1791,7 @@
     },
     {
         "id": null,
-        "name": "Le Figaro IDF (1080p)",
+        "name": "Le Figaro TV Ile-de-France (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1810,15 +1861,15 @@
     },
     {
         "id": null,
-        "name": "Leesburg Lakefront TV (Leesburg FL) (720p)",
+        "name": "Legendarnyy 24",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8"
+                "link": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8"
+                "link": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
             }
         ]
     },
@@ -1894,6 +1945,20 @@
     },
     {
         "id": null,
+        "name": "Lego Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dltiqboxjw21d.cloudfront.net/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dltiqboxjw21d.cloudfront.net/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "LEGO Kids TV",
         "servers": [
             {
@@ -1908,21 +1973,7 @@
     },
     {
         "id": null,
-        "name": "Leipzig Fernsehen (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Léman Bleu (1080p)",
+        "name": "Leman Bleu (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1964,7 +2015,7 @@
     },
     {
         "id": null,
-        "name": "Lenca Television Canal 40 (720p) [Not 24/7]",
+        "name": "Lenca TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1978,7 +2029,21 @@
     },
     {
         "id": null,
-        "name": "LEO Middelsé TV (480p)",
+        "name": "LenTV24",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657"
+            },
+            {
+                "name": "URL",
+                "link": "https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LEO Middelse TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2062,7 +2127,7 @@
     },
     {
         "id": null,
-        "name": "Les Années fac",
+        "name": "Les Annees fac",
         "servers": [
             {
                 "name": "Main Server",
@@ -2076,7 +2141,7 @@
     },
     {
         "id": null,
-        "name": "Les filles d'à côté",
+        "name": "Les filles d'a cote",
         "servers": [
             {
                 "name": "Main Server",
@@ -2117,6 +2182,20 @@
         ]
     },
     {
+        "id": 826,
+        "name": "LFC TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/826/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/826/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "LGD Television (720p)",
         "servers": [
@@ -2146,20 +2225,6 @@
     },
     {
         "id": null,
-        "name": "LHCAZTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Liangshan TV [Not 24/7]",
         "servers": [
             {
@@ -2169,6 +2234,20 @@
             {
                 "name": "URL",
                 "link": "http://118.122.2.29:9999/hls/47/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Liaoning TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8"
             }
         ]
     },
@@ -2216,7 +2295,21 @@
     },
     {
         "id": null,
-        "name": "Lider TV (720p)",
+        "name": "Lider TV (Brazil) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Lider TV (Peru) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2244,7 +2337,7 @@
     },
     {
         "id": null,
-        "name": "Life TV (432p) [Not 24/7]",
+        "name": "Life TV (Estonia) (432p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2258,7 +2351,7 @@
     },
     {
         "id": null,
-        "name": "Life TV (720p)",
+        "name": "Life TV (India) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2272,7 +2365,7 @@
     },
     {
         "id": null,
-        "name": "Life TV (720p) [Not 24/7]",
+        "name": "Life TV (Turkiye) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2281,34 +2374,6 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Life! Christian Broadcasting Network (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LIFE! End Times TV (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
             }
         ]
     },
@@ -2473,21 +2538,21 @@
     },
     {
         "id": null,
-        "name": "Light Channel (480p) [Not 24/7]",
+        "name": "Light Channel (Bulgaria) (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8"
+                "link": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8"
+                "link": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Light Channel (576p) [Not 24/7]",
+        "name": "Light Channel (Germany) (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2501,127 +2566,15 @@
     },
     {
         "id": null,
-        "name": "Lighting Lives Blessing Nations His Light (LLBN) (720p)",
+        "name": "Light Channel (Romania) (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8"
+                "link": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations His Word (LLBN) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations Smart Life Style TV (LLBN) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations TV Arabic (LLBN) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations TV Chinese (LLBN) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations TV Korean (LLBN) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations TV Latino (LLBN) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations TV Romanian (LLBN) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lighting Lives Blessing Nations TV South Asia (LLBN) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8"
+                "link": "http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8"
             }
         ]
     },
@@ -2703,33 +2656,27 @@
         "servers": []
     },
     {
+        "id": 237,
+        "name": "Ligue1+ 10 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/237/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/237/"
+            }
+        ]
+    },
+    {
         "id": "3053",
         "name": "Ligue1+ 2 France",
         "servers": []
     },
     {
-        "id": "222",
-        "name": "Ligue1+ 3 France",
-        "servers": []
-    },
-    {
-        "id": "3054",
-        "name": "Ligue1+ 4 France",
-        "servers": []
-    },
-    {
-        "id": "3056",
-        "name": "Ligue1+ 6 France",
-        "servers": []
-    },
-    {
-        "id": "3052",
-        "name": "Ligue1+ 7 France",
-        "servers": []
-    },
-    {
         "id": 3053,
-        "name": "Ligue1+ France",
+        "name": "Ligue1+ 3 France",
         "servers": [
             {
                 "name": "Main Server",
@@ -2738,6 +2685,104 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/3053/"
+            }
+        ]
+    },
+    {
+        "id": 3052,
+        "name": "Ligue1+ 4 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3052/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3052/"
+            }
+        ]
+    },
+    {
+        "id": 3054,
+        "name": "Ligue1+ 5 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3054/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3054/"
+            }
+        ]
+    },
+    {
+        "id": 3055,
+        "name": "Ligue1+ 6 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3055/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3055/"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "name": "Ligue1+ 7 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/225/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/225/"
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "name": "Ligue1+ 8 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/239/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/239/"
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "name": "Ligue1+ 9 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/229/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/229/"
+            }
+        ]
+    },
+    {
+        "id": 3051,
+        "name": "Ligue1+ France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3051/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3051/"
             }
         ]
     },
@@ -2757,7 +2802,7 @@
     },
     {
         "id": null,
-        "name": "Limón TV (1080p) [Not 24/7]",
+        "name": "Limon TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2874,7 +2919,7 @@
     },
     {
         "id": null,
-        "name": "Litoral Atlántico HD (720p)",
+        "name": "Litoral Atlantico HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2916,7 +2961,7 @@
     },
     {
         "id": null,
-        "name": "Littleton 8 TV (Littleton CO) (1080p)",
+        "name": "Littleton 8 TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2930,7 +2975,7 @@
     },
     {
         "id": null,
-        "name": "Littoral FM (720p)",
+        "name": "Littoral FM TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3043,7 +3088,7 @@
     },
     {
         "id": null,
-        "name": "LiveXLive (1080p)",
+        "name": "LIVExLIVE (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3099,7 +3144,119 @@
     },
     {
         "id": null,
-        "name": "LMTV French (720p) [Not 24/7]",
+        "name": "LLBN His Light (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN His Word (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN TV Arabic (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN TV Chinese (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN TV Korean (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN TV Latino (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN TV Romanian (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LLBN TV South Asia (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LM TV French (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3216,7 +3373,21 @@
     },
     {
         "id": null,
-        "name": "Logos TV (1080p) [Not 24/7]",
+        "name": "Logos TV (Spain) (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Logos TV (United States) (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3286,6 +3457,20 @@
     },
     {
         "id": null,
+        "name": "Lokale Omroep Zeewolde (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Lokshahi News (1080p)",
         "servers": [
             {
@@ -3295,20 +3480,6 @@
             {
                 "name": "URL",
                 "link": "https://see.lokshahi.live/live/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LOL! Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
             }
         ]
     },
@@ -3356,48 +3527,6 @@
     },
     {
         "id": null,
-        "name": "Lompoc TAP TV Channel 23 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lompoc TAP TV Channel 24 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lompoc TAP TV Channel 25 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "LON TV (720p)",
         "servers": [
             {
@@ -3416,17 +3545,17 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8"
+                "link": "https://lonestar-rakuten.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8"
+                "link": "https://lonestar-rakuten.amagi.tv/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Lone Star (720p)",
+        "name": "Lone Star Poland (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3496,20 +3625,6 @@
     },
     {
         "id": null,
-        "name": "Los Angeles Local Television Channel 36 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Los Angeles TV Radio",
         "servers": [
             {
@@ -3547,20 +3662,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Los nuevos detectives",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
             }
         ]
     },
@@ -3720,7 +3821,7 @@
     },
     {
         "id": null,
-        "name": "Love the Planet (1080p)",
+        "name": "Love The Planet (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3790,21 +3891,7 @@
     },
     {
         "id": null,
-        "name": "Loveland TV (Loveland CO) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lóverseny közvetítés (420p)",
+        "name": "Loverseny kozvetites (420p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3846,7 +3933,7 @@
     },
     {
         "id": null,
-        "name": "Loveworld UK (1080p) [Not 24/7]",
+        "name": "LoveWorld UK (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3883,20 +3970,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LOZ (Lokale Omroep Zeewolde) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8"
             }
         ]
     },
@@ -3986,7 +4059,7 @@
     },
     {
         "id": null,
-        "name": "LTN Family (576p)",
+        "name": "LTN Family SD (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4000,7 +4073,7 @@
     },
     {
         "id": null,
-        "name": "LTV (2160p) [Not 24/7]",
+        "name": "LTV (Chile) (2160p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4014,7 +4087,7 @@
     },
     {
         "id": null,
-        "name": "LTV (720p) [Not 24/7]",
+        "name": "LTV (Honduras) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4023,34 +4096,6 @@
             {
                 "name": "URL",
                 "link": "https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LTV1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv06_ltv1_g_x44_43186_default_1326_hls.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LTV7 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ltvlive3167.bstrm.net/ltvlive/_definst_/ltvlive_ltv07_ltv7_g_eb0_43187_default_1327_hls.smil/chunklist.m3u8"
             }
         ]
     },
@@ -4070,7 +4115,21 @@
     },
     {
         "id": null,
-        "name": "Luksusfælden",
+        "name": "Lugansk 24",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Luksusfaelden",
         "servers": [
             {
                 "name": "Main Server",
@@ -4196,7 +4255,7 @@
     },
     {
         "id": null,
-        "name": "Lyxfällan",
+        "name": "Lyxfallan",
         "servers": [
             {
                 "name": "Main Server",
@@ -4210,7 +4269,7 @@
     },
     {
         "id": null,
-        "name": "Lyxfällan Danmark",
+        "name": "Lyxfallan Danmark",
         "servers": [
             {
                 "name": "Main Server",
@@ -4224,7 +4283,7 @@
     },
     {
         "id": null,
-        "name": "Lyxfällan Norge",
+        "name": "Lyxfallan Norge",
         "servers": [
             {
                 "name": "Main Server",

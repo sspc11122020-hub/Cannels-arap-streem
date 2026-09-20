@@ -169,7 +169,7 @@
     },
     {
         "id": null,
-        "name": "E! (1080p)",
+        "name": "E! East (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -229,6 +229,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "e.tv News & Sport (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"
+            }
+        ]
+    },
+    {
         "id": "363",
         "name": "E4 Channel",
         "servers": []
@@ -268,7 +282,7 @@
     },
     {
         "id": null,
-        "name": "EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]",
+        "name": "EBC Financial News (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -296,7 +310,7 @@
     },
     {
         "id": null,
-        "name": "EBC News (東森新聞台) (1080p) [Not 24/7]",
+        "name": "EBC News (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -352,7 +366,7 @@
     },
     {
         "id": null,
-        "name": "EBS (1080p)",
+        "name": "EbS (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -366,7 +380,7 @@
     },
     {
         "id": null,
-        "name": "EBS 1 (400p) [Not 24/7]",
+        "name": "EBS 1TV (400p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -380,7 +394,7 @@
     },
     {
         "id": null,
-        "name": "EBS 2 (400p) [Not 24/7]",
+        "name": "EBS 2TV (400p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -408,7 +422,7 @@
     },
     {
         "id": null,
-        "name": "EBS E (400p) [Not 24/7]",
+        "name": "EBS English (400p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -436,7 +450,7 @@
     },
     {
         "id": null,
-        "name": "EBS kids (400p) [Not 24/7]",
+        "name": "EBS Kids (400p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -464,21 +478,7 @@
     },
     {
         "id": null,
-        "name": "EBS Plus (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EBS+ 1 (400p)",
+        "name": "EBS Plus 1 (400p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -492,7 +492,7 @@
     },
     {
         "id": null,
-        "name": "EBS+ 2 (400p)",
+        "name": "EBS Plus 2 (400p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -506,21 +506,21 @@
     },
     {
         "id": null,
-        "name": "Ecclesia TV",
+        "name": "EbS+ (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"
+                "link": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"
+                "link": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Ecclesia TV (1080p)",
+        "name": "Ecclesia TV (Greece) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -529,6 +529,20 @@
             {
                 "name": "URL",
                 "link": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ecclesia TV (Ivory Coast)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8"
             }
         ]
     },
@@ -637,7 +651,7 @@
     },
     {
         "id": null,
-        "name": "Ecovisión (720p)",
+        "name": "Ecovision (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -833,6 +847,20 @@
     },
     {
         "id": null,
+        "name": "Egyker TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ekamra Bharat Odia (400p)",
         "servers": [
             {
@@ -912,6 +940,20 @@
             {
                 "name": "URL",
                 "link": "https://ekusheyserver.com/etvlivesn.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "El 15 TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.grupocsanetwork.com:19360/canal15/canal15.m3u8"
             }
         ]
     },
@@ -1155,7 +1197,7 @@
     },
     {
         "id": null,
-        "name": "El PuertoTV (720p)",
+        "name": "El Puerto TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1192,20 +1234,6 @@
             {
                 "name": "URL",
                 "link": "https://9090video.mobtada.com/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "El Reino Infantil",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
             }
         ]
     },
@@ -1491,7 +1519,7 @@
     },
     {
         "id": null,
-        "name": "Elevation Church (1080p)",
+        "name": "Elevation Church Network (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1579,16 +1607,16 @@
         ]
     },
     {
-        "id": 702,
+        "id": 72,
         "name": "Eleven Sports 2 Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/702/"
+                "link": "https://tvnow247.top/embed/72/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/702/"
+                "link": "https://tvnow247.top/embed/72/"
             }
         ]
     },
@@ -1673,9 +1701,18 @@
         ]
     },
     {
-        "id": "999",
+        "id": 999,
         "name": "Eleven Sports 4 Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/999/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/999/"
+            }
+        ]
     },
     {
         "id": "458",
@@ -1773,15 +1810,15 @@
     },
     {
         "id": null,
-        "name": "Elsö Kerület TV (1080p)",
+        "name": "ElTR (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+                "link": "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8"
+                "link": "http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8"
             }
         ]
     },
@@ -1885,7 +1922,21 @@
     },
     {
         "id": null,
-        "name": "Empeños a lo bestia",
+        "name": "Emotion L (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Empenos a lo bestia",
         "servers": [
             {
                 "name": "Main Server",
@@ -1899,7 +1950,7 @@
     },
     {
         "id": null,
-        "name": "Empordà TV (1080p)",
+        "name": "Emporda TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1955,21 +2006,7 @@
     },
     {
         "id": null,
-        "name": "EnerGeek (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
-            },
-            {
-                "name": "URL",
-                "link": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EnerGeek Fan (1080p)",
+        "name": "EnerGeek FAN (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2039,7 +2076,7 @@
     },
     {
         "id": null,
-        "name": "English Class HD (1080p)",
+        "name": "English Class (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2477,20 +2514,6 @@
     },
     {
         "id": null,
-        "name": "Er TV (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Erbol (720p)",
         "servers": [
             {
@@ -2537,16 +2560,16 @@
         "servers": []
     },
     {
-        "id": 165,
+        "id": 204,
         "name": "ERT 2 Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/165/"
+                "link": "https://tvnow247.top/embed/204/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/165/"
+                "link": "https://tvnow247.top/embed/204/"
             }
         ]
     },
@@ -2645,6 +2668,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.sstv.ge/live/sstv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ERTV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
             }
         ]
     },
@@ -3048,7 +3085,7 @@
     },
     {
         "id": null,
-        "name": "Escambia County TV ECTV (Escambia County FL) (720p)",
+        "name": "Escambia County TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3062,7 +3099,7 @@
     },
     {
         "id": null,
-        "name": "Escúchame Radio TV (720p) [Not 24/7]",
+        "name": "Escuchame Radio TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3076,7 +3113,7 @@
     },
     {
         "id": null,
-        "name": "Eshragh",
+        "name": "Eshragh Network",
         "servers": [
             {
                 "name": "Main Server",
@@ -3146,7 +3183,7 @@
     },
     {
         "id": null,
-        "name": "Espíritu Santo Y Fuego TV (480p)",
+        "name": "Espiritu Santo Y Fuego TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3267,16 +3304,16 @@
         ]
     },
     {
-        "id": 3088,
+        "id": 3089,
         "name": "ESPN 2 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3088/"
+                "link": "https://tvnow247.top/embed/3089/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3088/"
+                "link": "https://tvnow247.top/embed/3089/"
             }
         ]
     },
@@ -3337,16 +3374,16 @@
         ]
     },
     {
-        "id": 888,
+        "id": 3088,
         "name": "ESPN 3 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/888/"
+                "link": "https://tvnow247.top/embed/3088/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/888/"
+                "link": "https://tvnow247.top/embed/3088/"
             }
         ]
     },
@@ -3407,16 +3444,16 @@
         ]
     },
     {
-        "id": 14,
+        "id": 30,
         "name": "ESPN 4 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/14/"
+                "link": "https://tvnow247.top/embed/30/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/14/"
+                "link": "https://tvnow247.top/embed/30/"
             }
         ]
     },
@@ -3720,16 +3757,16 @@
         "servers": []
     },
     {
-        "id": 175,
+        "id": 221,
         "name": "ESPN+ USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/175/"
+                "link": "https://tvnow247.top/embed/221/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/175/"
+                "link": "https://tvnow247.top/embed/221/"
             }
         ]
     },
@@ -4051,7 +4088,7 @@
     },
     {
         "id": null,
-        "name": "ESPN8 The Ocho (1080p)",
+        "name": "ESPN8: The Ocho (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4139,9 +4176,32 @@
         ]
     },
     {
-        "id": "316",
+        "id": 316,
         "name": "ESPNU USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/316/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/316/"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "name": "Esport 3 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/220/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/220/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4159,7 +4219,7 @@
     },
     {
         "id": null,
-        "name": "Esport3 (1080p) [Not 24/7]",
+        "name": "Esport3 Originals (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4248,7 +4308,7 @@
     },
     {
         "id": null,
-        "name": "Estepona Televisión (720p)",
+        "name": "Estepona Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4304,15 +4364,15 @@
     },
     {
         "id": null,
-        "name": "Estrellas de Acción",
+        "name": "Estrella TV WMBC-TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8"
+                "link": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8"
+                "link": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8"
             }
         ]
     },
@@ -4444,7 +4504,35 @@
     },
     {
         "id": null,
-        "name": "ETV (1080p)",
+        "name": "ETV (Estonia) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sb.err.ee/live/etv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sb.err.ee/live/etv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ETV (Guadeloupe) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ETV (Thailand) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4458,15 +4546,15 @@
     },
     {
         "id": null,
-        "name": "ETV (720p)",
+        "name": "ETV 2 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://sb.err.ee/live/etv.m3u8"
+                "link": "https://sb.err.ee/live/etv2.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://sb.err.ee/live/etv.m3u8"
+                "link": "https://sb.err.ee/live/etv2.m3u8"
             }
         ]
     },
@@ -4617,6 +4705,20 @@
     },
     {
         "id": null,
+        "name": "eTv Marche (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ETV Music (1080p)",
         "servers": [
             {
@@ -4673,6 +4775,20 @@
     },
     {
         "id": null,
+        "name": "eTv Rete 7 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ETV Telangana (1080p)",
         "servers": [
             {
@@ -4715,34 +4831,6 @@
     },
     {
         "id": null,
-        "name": "ETV2 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sb.err.ee/live/etv2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sb.err.ee/live/etv2.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ETVN (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "EU Music (1080p)",
         "servers": [
             {
@@ -4752,6 +4840,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/261/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eurasia (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
             }
         ]
     },
@@ -4869,7 +4971,7 @@
     },
     {
         "id": null,
-        "name": "Euro TV (432p)",
+        "name": "Euro TV (Greece) (432p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4883,7 +4985,7 @@
     },
     {
         "id": null,
-        "name": "Euro TV (720p) [Not 24/7]",
+        "name": "Euro TV (Italy) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4911,15 +5013,29 @@
     },
     {
         "id": null,
+        "name": "Eurocom (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.ecomservice.bg/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.ecomservice.bg/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Euronews (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8"
+                "link": "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8"
+                "link": "https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8"
             }
         ]
     },
@@ -4976,6 +5092,20 @@
             {
                 "name": "URL",
                 "link": "http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Euronews German (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8"
             }
         ]
     },
@@ -5249,7 +5379,7 @@
     },
     {
         "id": 58,
-        "name": "Eurosport 2 Poland",
+        "name": "EuroSport 2 Poland",
         "servers": [
             {
                 "name": "Main Server",
@@ -5260,11 +5390,6 @@
                 "link": "https://tvnow247.top/embed/58/"
             }
         ]
-    },
-    {
-        "id": "58",
-        "name": "EuroSport 2 Poland",
-        "servers": []
     },
     {
         "id": 232,
@@ -5421,8 +5546,18 @@
         "servers": []
     },
     {
+        "id": "1216",
+        "name": "Event SD Sream",
+        "servers": []
+    },
+    {
         "id": "1092",
         "name": "Event SD Stream",
+        "servers": []
+    },
+    {
+        "id": "1206",
+        "name": "Event SD Stream Stream",
         "servers": []
     },
     {
@@ -5431,16 +5566,16 @@
         "servers": []
     },
     {
-        "id": 5170,
+        "id": 5177,
         "name": "Event Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5170/"
+                "link": "https://tvnow247.top/embed/5177/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/5170/"
+                "link": "https://tvnow247.top/embed/5177/"
             }
         ]
     },
@@ -5488,6 +5623,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Everybody Hates Chris DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Everybody Hates Chris NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-697b5a6c9567bf7b5f71a350.m3u8"
             }
         ]
     },
@@ -5549,21 +5712,21 @@
     },
     {
         "id": null,
-        "name": "Evrokom (360p)",
+        "name": "EWTN (Germany) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.ecomservice.bg/hls/stream.m3u8"
+                "link": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.ecomservice.bg/hls/stream.m3u8"
+                "link": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "EWTN (720p) [Geo-blocked]",
+        "name": "EWTN (United States) (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -5577,7 +5740,7 @@
     },
     {
         "id": null,
-        "name": "EWTN Africa-Asia (720p)",
+        "name": "EWTN (United States) Africa-Asia (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5591,7 +5754,7 @@
     },
     {
         "id": null,
-        "name": "EWTN Asia-Pacific (720p)",
+        "name": "EWTN (United States) Asia-Pacific (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5605,7 +5768,7 @@
     },
     {
         "id": null,
-        "name": "EWTN Canada (720p)",
+        "name": "EWTN (United States) Canada (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5614,6 +5777,48 @@
             {
                 "name": "URL",
                 "link": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "EWTN (United States) Europe (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "EWTN (United States) Spain & Latin America (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "EWTN (United States) Spanish (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8"
             }
         ]
     },
@@ -5633,34 +5838,6 @@
     },
     {
         "id": null,
-        "name": "EWTN Europe (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EWTN Germany (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "EWTN Poland (1080p)",
         "servers": [
             {
@@ -5670,34 +5847,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EWTN Spain & Latin America (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "EWTN Spanish (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8"
             }
         ]
     },
@@ -5731,20 +5880,6 @@
     },
     {
         "id": null,
-        "name": "Ex On The Beach",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Exa TV",
         "servers": [
             {
@@ -5754,6 +5889,20 @@
             {
                 "name": "URL",
                 "link": "http://190.61.90.17:40000/play/a0hk/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "EXC TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
             }
         ]
     },
@@ -5801,34 +5950,6 @@
     },
     {
         "id": null,
-        "name": "Exploris (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://89.38.8.130:39419"
-            },
-            {
-                "name": "URL",
-                "link": "http://89.38.8.130:39419"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Explosión Creativa (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Expo Channel (360p)",
         "servers": [
             {
@@ -5857,7 +5978,7 @@
     },
     {
         "id": null,
-        "name": "Expresión TV (1080p)",
+        "name": "Expresion TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6729,7 +6850,21 @@
     },
     {
         "id": null,
-        "name": "Extrema TV (720p)",
+        "name": "Extrema TV (Costa Rica) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Extrema TV (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",

@@ -15,7 +15,7 @@
     },
     {
         "id": null,
-        "name": "O Encantador de Cães",
+        "name": "O Encantador de Caes",
         "servers": [
             {
                 "name": "Main Server",
@@ -113,6 +113,20 @@
     },
     {
         "id": null,
+        "name": "o2tv (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/O2_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/O2_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Oakland Athletics US",
         "servers": [
             {
@@ -122,6 +136,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Oakland%20Athletics&code=us&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OAN Plus (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://oan-plus-tcl.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://oan-plus-tcl.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -141,21 +169,7 @@
     },
     {
         "id": null,
-        "name": "OANPlus (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://oan-plus-tcl.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://oan-plus-tcl.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Oasis Televisión (720p) [Not 24/7]",
+        "name": "Oasis Television (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -169,29 +183,29 @@
     },
     {
         "id": null,
-        "name": "Oasis TV (720p)",
+        "name": "Oasis TV (Colombia) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
+                "link": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
+                "link": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Oasis TV (720p) [Not 24/7]",
+        "name": "Oasis TV (Paraguay) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
+                "link": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8"
+                "link": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8"
             }
         ]
     },
@@ -225,20 +239,6 @@
     },
     {
         "id": null,
-        "name": "OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Observator News (360p)",
         "servers": [
             {
@@ -248,6 +248,20 @@
             {
                 "name": "URL",
                 "link": "https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Obshchestvennoe Nezavisimoe Televidenie (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
             }
         ]
     },
@@ -281,29 +295,15 @@
     },
     {
         "id": null,
-        "name": "Oceanside Community Television (KOCT) Community Channel 18 (720p)",
+        "name": "Ocko (540p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8"
+                "link": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Oceanside Community Television (KOCT) Education and Government Channel 19 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
+                "link": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8"
             }
         ]
     },
@@ -318,6 +318,34 @@
             {
                 "name": "URL",
                 "link": "https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ocko Expres (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ocko Gold (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8"
             }
         ]
     },
@@ -407,7 +435,7 @@
     },
     {
         "id": null,
-        "name": "Ofogh",
+        "name": "Ofogh TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -547,7 +575,7 @@
     },
     {
         "id": null,
-        "name": "Oireachtas TV Dáil Éireann (720p)",
+        "name": "Oireachtas TV Dail Eireann (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -561,7 +589,7 @@
     },
     {
         "id": null,
-        "name": "Oireachtas TV Seanad Éireann (720p)",
+        "name": "Oireachtas TV Seanad Eireann (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -729,7 +757,7 @@
     },
     {
         "id": null,
-        "name": "OK Weinstraße (Neustadt) (432p) [Geo-blocked]",
+        "name": "OK Weinstrasse Neustadt (432p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -855,7 +883,7 @@
     },
     {
         "id": null,
-        "name": "Okto TV (1080p)",
+        "name": "Okto (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -883,7 +911,7 @@
     },
     {
         "id": null,
-        "name": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
+        "name": "OlayTurk TV (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -897,7 +925,7 @@
     },
     {
         "id": null,
-        "name": "Olelo Community Media Channel 49 (720p)",
+        "name": "Olelo 49 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -911,7 +939,7 @@
     },
     {
         "id": null,
-        "name": "Olelo Community Media Channel 53 (720p)",
+        "name": "Olelo 53 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -925,7 +953,7 @@
     },
     {
         "id": null,
-        "name": "Olelo Community Media Channel 54 (720p)",
+        "name": "Olelo 54 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -939,7 +967,7 @@
     },
     {
         "id": null,
-        "name": "Olelo Community Media Channel 55 (720p)",
+        "name": "Olelo 55 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -953,7 +981,21 @@
     },
     {
         "id": null,
-        "name": "Oli TV (1080p)",
+        "name": "Oli TV (Chile) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://v4.tustreaming.cl/retroplaytv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://v4.tustreaming.cl/retroplaytv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Oli TV (India) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -967,7 +1009,7 @@
     },
     {
         "id": null,
-        "name": "Olympics Channel (1080p) [Geo-blocked]",
+        "name": "Olympic Channel (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -990,34 +1032,6 @@
             {
                 "name": "URL",
                 "link": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Oman Althakafia (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Oman Mubashir (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
             }
         ]
     },
@@ -1051,6 +1065,34 @@
     },
     {
         "id": null,
+        "name": "Oman TV Cultural (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Oman TV Mubashir (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Omega (720p)",
         "servers": [
             {
@@ -1065,35 +1107,7 @@
     },
     {
         "id": null,
-        "name": "Omega TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Omid",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Omide Iran",
+        "name": "Omid e Iran TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1205,7 +1219,7 @@
     },
     {
         "id": null,
-        "name": "Omroep Hulst TV (720p) [Not 24/7]",
+        "name": "Omroep Hulst (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1289,7 +1303,7 @@
     },
     {
         "id": null,
-        "name": "Omroep Súdwest (720p)",
+        "name": "Omroep Sudwest (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1303,7 +1317,7 @@
     },
     {
         "id": null,
-        "name": "Omroep Tilburg TV (480p)",
+        "name": "Omroep Tilburg (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1345,7 +1359,7 @@
     },
     {
         "id": null,
-        "name": "Omroep West (1080p) [Not 24/7]",
+        "name": "Omroep West HD (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1373,7 +1387,7 @@
     },
     {
         "id": null,
-        "name": "Omrop Fryslân (1080p) [Not 24/7]",
+        "name": "Omrop Fryslan (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1457,7 +1471,7 @@
     },
     {
         "id": null,
-        "name": "On the Case",
+        "name": "On The Case",
         "servers": [
             {
                 "name": "Main Server",
@@ -1513,7 +1527,7 @@
     },
     {
         "id": null,
-        "name": "Onda Algeciras TV (576p)",
+        "name": "Onda Algeciras (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1527,7 +1541,7 @@
     },
     {
         "id": null,
-        "name": "Onda Cádiz 24h (720p)",
+        "name": "Onda Cadiz (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1569,7 +1583,21 @@
     },
     {
         "id": null,
-        "name": "Onda TV (568p)",
+        "name": "Onda TV (Dominican Republic) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cnn.hostlagarto.com/ondatv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cnn.hostlagarto.com/ondatv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Onda TV (Italy) (568p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1583,7 +1611,7 @@
     },
     {
         "id": null,
-        "name": "Onda TV (720p)",
+        "name": "Onda TV (Peru) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1597,7 +1625,7 @@
     },
     {
         "id": null,
-        "name": "Onda Valencia (720p)",
+        "name": "Onda Valencia TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1625,7 +1653,7 @@
     },
     {
         "id": null,
-        "name": "Ondas Quevedeñas TV (720p) [Not 24/7]",
+        "name": "Ondas Quevedenas TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1691,6 +1719,20 @@
     },
     {
         "id": null,
+        "name": "One 31 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "One Adria",
         "servers": [
             {
@@ -1747,20 +1789,6 @@
     },
     {
         "id": null,
-        "name": "ONE HD 31 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "One Music Television",
         "servers": [
             {
@@ -1812,6 +1840,76 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "One Piece BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "One Piece CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "One Piece FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "One Piece LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "One Piece Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8"
             }
         ]
     },
@@ -1892,21 +1990,16 @@
         "servers": []
     },
     {
-        "id": "1027",
+        "id": 3043,
         "name": "Oneplay Sport 1 CZ",
-        "servers": []
-    },
-    {
-        "id": 1027,
-        "name": "Oneplay Sport 1 Czechia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1027/"
+                "link": "https://tvnow247.top/embed/3043/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1027/"
+                "link": "https://tvnow247.top/embed/3043/"
             }
         ]
     },
@@ -1926,18 +2019,9 @@
         "servers": []
     },
     {
-        "id": 3045,
+        "id": "3043",
         "name": "Oneplay Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3045/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3045/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2035,7 +2119,7 @@
     },
     {
         "id": null,
-        "name": "Ontústik (360p)",
+        "name": "Ontustik (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2091,7 +2175,7 @@
     },
     {
         "id": null,
-        "name": "Open Rotterdam (480p) [Not 24/7]",
+        "name": "OPEN Rotterdam TV (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2152,7 +2236,7 @@
     },
     {
         "id": null,
-        "name": "Orange Government Access TV (Orange CT) (720p)",
+        "name": "Orange Government Access TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2209,6 +2293,20 @@
             {
                 "name": "URL",
                 "link": "https://orbitachiletv.org/hls/0/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Orbita TV (360p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
             }
         ]
     },
@@ -2308,7 +2406,7 @@
     },
     {
         "id": null,
-        "name": "Oroszlányi Városi Televízió (720p)",
+        "name": "Oroszlanyi Varosi Televizio (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2322,7 +2420,7 @@
     },
     {
         "id": null,
-        "name": "Országgyűlés (Plenáris) (720p) [Not 24/7]",
+        "name": "Orszaggyules: OGY plenaris (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2336,7 +2434,7 @@
     },
     {
         "id": null,
-        "name": "Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]",
+        "name": "Orszaggyules: OGY TAB (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2364,7 +2462,7 @@
     },
     {
         "id": null,
-        "name": "ORTS (480p) [Not 24/7]",
+        "name": "ORTS TV (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2401,6 +2499,48 @@
             {
                 "name": "URL",
                 "link": "https://cdn.pishow.tv/ott/live/233/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Osetiya-Iryston (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Osh Pirim (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OSN",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
             }
         ]
     },
@@ -2453,6 +2593,20 @@
     },
     {
         "id": null,
+        "name": "Otkritiy mir. Zdorove (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://v4.proofix.ru/0mir/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://v4.proofix.ru/0mir/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "OTR (576p)",
         "servers": [
             {
@@ -2481,49 +2635,7 @@
     },
     {
         "id": null,
-        "name": "OTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "OTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "OTV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "OTV (720p) [Not 24/7]",
+        "name": "OTV (Croatia) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2537,15 +2649,57 @@
     },
     {
         "id": null,
-        "name": "Ou-Mun Macau Satellite Ch. 96 (720p)",
+        "name": "OTV (Ghana) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8"
+                "link": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8"
+                "link": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OTV (Lebanon) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OTV (Ukraine)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OTV-Prim",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8"
             }
         ]
     },
@@ -2621,6 +2775,20 @@
             {
                 "name": "URL",
                 "link": "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Outlaw WGGS-TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8"
             }
         ]
     },
@@ -2768,6 +2936,20 @@
         "id": "332",
         "name": "Oxygen True Crime",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Ozdi Varosi TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.nmih.hu:7980/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.nmih.hu:7980/live.m3u8"
+            }
+        ]
     },
     {
         "id": null,

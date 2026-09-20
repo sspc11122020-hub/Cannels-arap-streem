@@ -136,18 +136,41 @@
         "servers": []
     },
     {
+        "id": 84,
+        "name": "M+ LALIGA TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/84/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/84/"
+            }
+        ]
+    },
+    {
         "id": "246",
         "name": "M+ LALIGA TV 2",
         "servers": []
     },
     {
-        "id": "5215",
+        "id": 521,
         "name": "M+ Vamos ES",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/521/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/521/"
+            }
+        ]
     },
     {
         "id": null,
-        "name": "M2 (1080p)",
+        "name": "M2 (Hungary) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -245,7 +268,7 @@
     },
     {
         "id": null,
-        "name": "M95 Televisión Marbella (1080p) [Not 24/7]",
+        "name": "M95 Television Marbella (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -301,7 +324,91 @@
     },
     {
         "id": null,
-        "name": "MacGyver",
+        "name": "MacGyver (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MacGyver (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MacGyver (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MacGyver (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MacGyver (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654a59d483595c0008187514.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654a59d483595c0008187514.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MacGyver (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MacGyver (United States) LatAm",
         "servers": [
             {
                 "name": "Main Server",
@@ -399,7 +506,7 @@
     },
     {
         "id": null,
-        "name": "Made in Hollywood",
+        "name": "Made In Hollywood",
         "servers": [
             {
                 "name": "Main Server",
@@ -510,184 +617,124 @@
         ]
     },
     {
-        "id": null,
-        "name": "Magenta Musik 360 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 3097,
-        "name": "Magenta Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3097/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3097/"
-            }
-        ]
-    },
-    {
-        "id": 10,
+        "id": 4000,
         "name": "Magenta Sport 301",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
+                "link": "https://tvnow247.top/embed/4000/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "name": "Magenta Sport 302",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/28/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/28/"
-            }
-        ]
-    },
-    {
-        "id": 151,
-        "name": "Magenta Sport 303",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/151/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/151/"
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "name": "Magenta Sport 304",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/30/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/30/"
-            }
-        ]
-    },
-    {
-        "id": 153,
-        "name": "Magenta Sport 305",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/153/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/153/"
+                "link": "https://tvnow247.top/embed/4000/"
             }
         ]
     },
     {
         "id": 3099,
+        "name": "Magenta Sport 302",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3099/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3099/"
+            }
+        ]
+    },
+    {
+        "id": 3097,
+        "name": "Magenta Sport 303",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3097/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3097/"
+            }
+        ]
+    },
+    {
+        "id": "164",
+        "name": "Magenta Sport 304",
+        "servers": []
+    },
+    {
+        "id": 15,
+        "name": "Magenta Sport 305",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/15/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/15/"
+            }
+        ]
+    },
+    {
+        "id": 3096,
         "name": "Magenta Sport 306",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3099/"
+                "link": "https://tvnow247.top/embed/3096/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3099/"
+                "link": "https://tvnow247.top/embed/3096/"
             }
         ]
     },
     {
-        "id": 29,
+        "id": "69",
         "name": "Magenta Sport 307",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/29/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/29/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 3095,
+        "id": 18,
         "name": "Magenta Sport 308",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3095/"
+                "link": "https://tvnow247.top/embed/18/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3095/"
+                "link": "https://tvnow247.top/embed/18/"
             }
         ]
     },
     {
-        "id": 7,
-        "name": "Magenta Sport 309",
+        "id": null,
+        "name": "MagentaMusik 360 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
+                "link": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
+                "link": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8"
             }
         ]
     },
     {
-        "id": 6,
-        "name": "Magenta Sport 310",
+        "id": 622,
+        "name": "MagentaSport 1 Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/6/"
+                "link": "https://tvnow247.top/embed/622/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/6/"
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "name": "Magenta Sport 318",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/27/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/27/"
+                "link": "https://tvnow247.top/embed/622/"
             }
         ]
     },
@@ -716,6 +763,48 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/624/"
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "name": "MagentaSport 3 League Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/224/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/224/"
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "name": "MagentaSport 4 League Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/219/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/219/"
+            }
+        ]
+    },
+    {
+        "id": 627,
+        "name": "MagentaSport 6 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/627/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/627/"
             }
         ]
     },
@@ -749,7 +838,21 @@
     },
     {
         "id": null,
-        "name": "Magic TV (720p)",
+        "name": "Magic TV (Bulgaria) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bss1.neterra.tv/magictv/magictv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bss1.neterra.tv/magictv/magictv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Magic TV (Romania) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -772,6 +875,20 @@
             {
                 "name": "URL",
                 "link": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Magnat (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
             }
         ]
     },
@@ -894,7 +1011,7 @@
     },
     {
         "id": null,
-        "name": "Mahabad",
+        "name": "Mahabad TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -992,29 +1109,29 @@
     },
     {
         "id": null,
-        "name": "Majestad Televisión (480p) [Not 24/7]",
+        "name": "Majestad Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
+                "link": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
+                "link": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Majestad Televisión (720p)",
+        "name": "Majestad TV (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
+                "link": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
+                "link": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
             }
         ]
     },
@@ -1104,7 +1221,7 @@
     },
     {
         "id": null,
-        "name": "Makói Városi (576p)",
+        "name": "Makoi Varosi Televizio (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1174,6 +1291,20 @@
     },
     {
         "id": null,
+        "name": "MaLive (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.salto.nl/hls/malive_high.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.salto.nl/hls/malive_high.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Mama (576p)",
         "servers": [
             {
@@ -1202,7 +1333,35 @@
     },
     {
         "id": null,
-        "name": "Maná Church Online (1080p) [Not 24/7]",
+        "name": "Man with a Plan DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Man with a Plan NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6825eeeeb19ce6d4a34ebb2a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mana Church Online (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1216,7 +1375,7 @@
     },
     {
         "id": null,
-        "name": "Maná Cirkev Online (1080p) [Not 24/7]",
+        "name": "Mana Cirkev Online (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1230,7 +1389,7 @@
     },
     {
         "id": null,
-        "name": "Maná Église Online (1080p) [Not 24/7]",
+        "name": "Mana Eglise Online (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1244,7 +1403,7 @@
     },
     {
         "id": null,
-        "name": "Maná Iglesia Online (1080p) [Not 24/7]",
+        "name": "Mana Iglesia Online (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1258,7 +1417,7 @@
     },
     {
         "id": null,
-        "name": "Maná Igreja Online (1080p) [Not 24/7]",
+        "name": "Mana Igreja Online (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1272,7 +1431,7 @@
     },
     {
         "id": null,
-        "name": "Maná Tserkov' Onlayn (1080p) [Not 24/7]",
+        "name": "Mana Tserkov' Onlayn (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1314,21 +1473,7 @@
     },
     {
         "id": null,
-        "name": "Manatee Schools Television MSTV (Manatee County FL) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Manavisión (480p)",
+        "name": "Manavision (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1337,20 +1482,6 @@
             {
                 "name": "URL",
                 "link": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mango (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8"
             }
         ]
     },
@@ -1398,7 +1529,7 @@
     },
     {
         "id": null,
-        "name": "Mańǵystaý (540p) [Not 24/7]",
+        "name": "Mangystay (540p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1496,7 +1627,7 @@
     },
     {
         "id": null,
-        "name": "Manoto TV",
+        "name": "Manoto",
         "servers": [
             {
                 "name": "Main Server",
@@ -1608,29 +1739,29 @@
     },
     {
         "id": null,
-        "name": "Maria Vision (1080p)",
+        "name": "Maria Vision (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
+                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
+                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "María Visión Mexico (360p) [Not 24/7]",
+        "name": "Maria Vision Italia (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
             }
         ]
     },
@@ -1650,7 +1781,7 @@
     },
     {
         "id": null,
-        "name": "María+Visión Medjugorje (720p)",
+        "name": "Maria+Vision Medjugorje (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1761,9 +1892,18 @@
         ]
     },
     {
-        "id": "770",
+        "id": 770,
         "name": "Marquee Sports Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/770/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/770/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1780,22 +1920,8 @@
         ]
     },
     {
-        "id": 770,
-        "name": "Marquee Sports Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/770/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/770/"
-            }
-        ]
-    },
-    {
         "id": null,
-        "name": "Married... with Children",
+        "name": "Married with Children",
         "servers": [
             {
                 "name": "Main Server",
@@ -1823,21 +1949,7 @@
     },
     {
         "id": null,
-        "name": "Marsh TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Martin County MCTV (Martin County FL) (720p)",
+        "name": "Martin County TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1851,7 +1963,21 @@
     },
     {
         "id": null,
-        "name": "Más adrenalina",
+        "name": "Marutam TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mas adrenalina",
         "servers": [
             {
                 "name": "Main Server",
@@ -1865,7 +1991,7 @@
     },
     {
         "id": null,
-        "name": "Más FM 95.9 (720p)",
+        "name": "Mas FM (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1893,7 +2019,7 @@
     },
     {
         "id": null,
-        "name": "Más Noticias Televisión (720p)",
+        "name": "Mas Noticias Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1907,7 +2033,7 @@
     },
     {
         "id": null,
-        "name": "Más Talk (1080p)",
+        "name": "Mas Talk (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2089,7 +2215,7 @@
     },
     {
         "id": null,
-        "name": "MasterChef Danmarks største madtalenter",
+        "name": "MasterChef Danmarks storste madtalenter",
         "servers": [
             {
                 "name": "Main Server",
@@ -2235,6 +2361,20 @@
     },
     {
         "id": null,
+        "name": "Match! Arena (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Match_Arena_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Match_Arena_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Match! Boets (576p)",
         "servers": [
             {
@@ -2286,6 +2426,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/138/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Match! Igra (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Match_Igra_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Match_Igra_HD/index.m3u8"
             }
         ]
     },
@@ -2347,7 +2501,7 @@
     },
     {
         "id": null,
-        "name": "MaTele (1080p) [Not 24/7]",
+        "name": "Matele (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2375,7 +2529,63 @@
     },
     {
         "id": null,
-        "name": "Matlock",
+        "name": "Matlock (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Matlock (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Matlock (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Matlock (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Matlock (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2384,6 +2594,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Matlock (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8"
             }
         ]
     },
@@ -2403,7 +2627,7 @@
     },
     {
         "id": null,
-        "name": "MaviKaradeniz (1080p) [Not 24/7]",
+        "name": "MaviKaradeniz TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2657,6 +2881,20 @@
     },
     {
         "id": null,
+        "name": "Max TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "MAX US",
         "servers": [
             {
@@ -2685,7 +2923,7 @@
     },
     {
         "id": null,
-        "name": "Maxivisión TV (720p)",
+        "name": "Maxivision TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2708,20 +2946,6 @@
             {
                 "name": "URL",
                 "link": "https://inliveserver.com:1936/8078/8078/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MaxTV/Dieu TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
             }
         ]
     },
@@ -2923,20 +3147,6 @@
     },
     {
         "id": null,
-        "name": "MBC Andong (안동 MBC) (360p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC Bollywood (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -2965,91 +3175,7 @@
     },
     {
         "id": null,
-        "name": "MBC Busan (부산MBC) (360p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Chungbuk (MBC 충북) (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Daegu (대구 MBC) (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Daejeon (대전 MBC) (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Drama (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Drama (480p) [Geo-blocked]",
+        "name": "MBC Drama (South Korea) (480p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3058,6 +3184,20 @@
             {
                 "name": "URL",
                 "link": "http://mytv.dothome.co.kr/ch/catv/26.php"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MBC Drama (United Arab Emirates) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8"
             }
         ]
     },
@@ -3091,35 +3231,7 @@
     },
     {
         "id": null,
-        "name": "MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Gwangju (광주 MBC) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Gyeongnam (경남 MBC) (1080p) [Not 24/7]",
+        "name": "MBC Gyeongnam TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3142,34 +3254,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Jeju (제주 MBC) (352p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC Jeonju (450p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8"
             }
         ]
     },
@@ -3245,29 +3329,15 @@
     },
     {
         "id": null,
-        "name": "MBC Mokpo (목포 MBC) (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC Mood (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8"
             }
         ]
     },
@@ -3315,20 +3385,6 @@
     },
     {
         "id": null,
-        "name": "MBC Yeosu (여수 MBC) (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MBC+ Drama (1080p)",
         "servers": [
             {
@@ -3357,6 +3413,20 @@
     },
     {
         "id": null,
+        "name": "MBTV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "MC TV (720p)",
         "servers": [
             {
@@ -3371,7 +3441,7 @@
     },
     {
         "id": null,
-        "name": "MCI Televisión (1080p)",
+        "name": "MCI Television (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3385,7 +3455,7 @@
     },
     {
         "id": null,
-        "name": "Mcleod's Daughters (1080p)",
+        "name": "McLeod's Daughters (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3399,7 +3469,7 @@
     },
     {
         "id": null,
-        "name": "McLeods Töchter",
+        "name": "McLeods Tochter",
         "servers": [
             {
                 "name": "Main Server",
@@ -3413,7 +3483,7 @@
     },
     {
         "id": null,
-        "name": "MCM Top (1080p)",
+        "name": "MCM Top (France) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3427,7 +3497,7 @@
     },
     {
         "id": null,
-        "name": "MCM Top (576p)",
+        "name": "MCM Top (Russia) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3455,20 +3525,6 @@
     },
     {
         "id": null,
-        "name": "MCN6 (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MCN6 Arts Channel (1080p) [Not 24/7]",
         "servers": [
             {
@@ -3478,6 +3534,20 @@
             {
                 "name": "URL",
                 "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MCN6 Main Channel (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8"
             }
         ]
     },
@@ -3506,6 +3576,20 @@
             {
                 "name": "URL",
                 "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MCPSS TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
             }
         ]
     },
@@ -3544,7 +3628,7 @@
     },
     {
         "id": null,
-        "name": "MDR Fernsehen Sachsen (1080p) [Geo-blocked]",
+        "name": "MDR Fernsehen (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3558,7 +3642,7 @@
     },
     {
         "id": null,
-        "name": "MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]",
+        "name": "MDR Fernsehen Sachsen Anhalt (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3642,34 +3726,6 @@
     },
     {
         "id": null,
-        "name": "Medi 1 TV Arabic (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Medi 1 TV Maghreb (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Medi1TV Afrique (1080p)",
         "servers": [
             {
@@ -3679,6 +3735,34 @@
             {
                 "name": "URL",
                 "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Medi1TV Arabic (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Medi1TV Maghreb (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8"
             }
         ]
     },
@@ -3754,7 +3838,21 @@
     },
     {
         "id": null,
-        "name": "Medium",
+        "name": "Medium (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Medium (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3763,6 +3861,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Medium (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Medium (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8"
             }
         ]
     },
@@ -3796,7 +3922,21 @@
     },
     {
         "id": null,
-        "name": "Mega (1080p)",
+        "name": "Mega (Chile) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.246.24:8080/MEGAHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.246.24:8080/MEGAHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mega (Ukraine) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3852,7 +3992,7 @@
     },
     {
         "id": null,
-        "name": "Mega TV (1080p)",
+        "name": "Mega TV (Paraguay) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3861,6 +4001,20 @@
             {
                 "name": "URL",
                 "link": "https://www.desde-paraguay.com/mega.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mega TV (United States) WSBS-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8"
             }
         ]
     },
@@ -3950,7 +4104,7 @@
     },
     {
         "id": null,
-        "name": "Megavisión Canal 19 (720p)",
+        "name": "Megavision Canal 19 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3964,7 +4118,7 @@
     },
     {
         "id": null,
-        "name": "Megavisión Canal 21 (720p)",
+        "name": "Megavision Canal 21 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3978,7 +4132,7 @@
     },
     {
         "id": null,
-        "name": "Megavisión TV (480p)",
+        "name": "MegaVision TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4067,7 +4221,7 @@
     },
     {
         "id": null,
-        "name": "Melody FM Jordan (720p) [Not 24/7]",
+        "name": "Melody FM (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4076,20 +4230,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Melrose Place",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
             }
         ]
     },
@@ -4137,21 +4277,21 @@
     },
     {
         "id": null,
-        "name": "Mercy TV",
+        "name": "Mercy and Truth Ministries Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8"
+                "link": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8"
+                "link": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Mercy TV (1080p)",
+        "name": "Mercy TV (India) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4160,6 +4300,20 @@
             {
                 "name": "URL",
                 "link": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mercy TV (Sierra Leone)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8"
             }
         ]
     },
@@ -4193,6 +4347,20 @@
     },
     {
         "id": null,
+        "name": "Merit Street (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Merry Christmas from Viafree",
         "servers": [
             {
@@ -4202,6 +4370,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Merry Christmas from Viafree DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Merry Christmas from Viafree NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8"
             }
         ]
     },
@@ -4221,7 +4417,7 @@
     },
     {
         "id": null,
-        "name": "Merwe TV (720p)",
+        "name": "MerweTV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4305,21 +4501,35 @@
     },
     {
         "id": null,
-        "name": "Metro TV",
+        "name": "Metro TV (Argentina) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+                "link": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+                "link": "https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Metro TV (1080p)",
+        "name": "Metro TV (Honduras) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Metro TV (India) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4333,15 +4543,15 @@
     },
     {
         "id": null,
-        "name": "Metro TV (720p)",
+        "name": "Metro TV (Indonesia)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+                "link": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://s.emisoras.tv:8081/metrotv/index.m3u8"
+                "link": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
             }
         ]
     },
@@ -4416,6 +4626,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "MeTV Toons KMBY-LD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+            }
+        ]
+    },
+    {
         "id": "662",
         "name": "METV USA",
         "servers": []
@@ -4450,7 +4674,7 @@
     },
     {
         "id": null,
-        "name": "Mezőkövesdi Televízió (360p)",
+        "name": "Mezokovesdi Televizio (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4623,7 +4847,7 @@
     },
     {
         "id": null,
-        "name": "Mi Extraña Obsesión",
+        "name": "Mi Extrana Obsesion",
         "servers": [
             {
                 "name": "Main Server",
@@ -4660,20 +4884,6 @@
             {
                 "name": "URL",
                 "link": "https://video.udwn.net:19360/miturnotv/miturnotv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Miami Beach Tv (MBTV) (Miami Beach FL) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8"
             }
         ]
     },
@@ -4721,20 +4931,6 @@
     },
     {
         "id": null,
-        "name": "Micto (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://93.78.206.172:8080/stream3/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://93.78.206.172:8080/stream3/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Middle East TV (1080p)",
         "servers": [
             {
@@ -4763,35 +4959,7 @@
     },
     {
         "id": null,
-        "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Midpen Media Center Diversity and Culture Channel 75 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Midpen Media Center Government etc Channel 26 (720p)",
+        "name": "Midpen Media Center Channel 26 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4805,7 +4973,21 @@
     },
     {
         "id": null,
-        "name": "Midpen Media Center Government etc Channel 29 (720p)",
+        "name": "Midpen Media Center Channel 28 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Midpen Media Center Channel 29 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4819,15 +5001,29 @@
     },
     {
         "id": null,
-        "name": "Midpen Media Center Youth Education and Sports Channel 28 (720p)",
+        "name": "Midpen Media Center Channel 30 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+                "link": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+                "link": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Midpen Media Center Channel 75 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
             }
         ]
     },
@@ -4936,7 +5132,7 @@
     },
     {
         "id": null,
-        "name": "Milenio Televisión (720p)",
+        "name": "Milenio Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4959,6 +5155,20 @@
             {
                 "name": "URL",
                 "link": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Millet (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live1.1tvcrimea.ru/milletlive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live1.1tvcrimea.ru/milletlive.m3u8"
             }
         ]
     },
@@ -5062,7 +5272,7 @@
     },
     {
         "id": null,
-        "name": "Minimax (360p)",
+        "name": "Minimax (Pakistan) (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5076,7 +5286,7 @@
     },
     {
         "id": null,
-        "name": "Minimax (576p) (576p)",
+        "name": "Minimax CEE (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5118,15 +5328,71 @@
     },
     {
         "id": null,
-        "name": "Minuto Para Ganar",
+        "name": "Mir +2 (540p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8"
+                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8"
+                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mir +4 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Mir/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Mir/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mir +7 (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mir 24 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mir Belogorya (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
             }
         ]
     },
@@ -5174,7 +5440,7 @@
     },
     {
         "id": null,
-        "name": "Miracle TV (1080p)",
+        "name": "Miracle Channel (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5216,7 +5482,7 @@
     },
     {
         "id": null,
-        "name": "Mírame TV (360p) [Not 24/7]",
+        "name": "Mirame TV (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -5342,7 +5608,105 @@
     },
     {
         "id": null,
-        "name": "Mission Impossible",
+        "name": "Mission Impossible (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (Germany) FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (Germany) IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5351,6 +5715,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mission Impossible (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8"
             }
         ]
     },
@@ -5370,29 +5748,29 @@
     },
     {
         "id": null,
-        "name": "Misterios Medicos",
+        "name": "Misterios sin resolver",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8"
+                "link": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8"
+                "link": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Misterios sin Resolver",
+        "name": "Misto+ (360p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8"
+                "link": "http://93.78.206.172:8080/stream3/stream.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8"
+                "link": "http://93.78.206.172:8080/stream3/stream.m3u8"
             }
         ]
     },
@@ -5537,18 +5915,9 @@
         ]
     },
     {
-        "id": 16,
+        "id": "stream-7",
         "name": "MLB League Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/16/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/16/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5579,18 +5948,9 @@
         ]
     },
     {
-        "id": 399,
+        "id": "399",
         "name": "MLB Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/399/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/399/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5613,29 +5973,29 @@
     },
     {
         "id": null,
-        "name": "MMA TV.com (1080p)",
+        "name": "MMA TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+                "link": "http://31.148.48.15/M1_Global/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+                "link": "http://31.148.48.15/M1_Global/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "MMA-TV (576p)",
+        "name": "MMA-TV.com (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/M1_Global/index.m3u8"
+                "link": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/M1_Global/index.m3u8"
+                "link": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
             }
         ]
     },
@@ -5655,7 +6015,7 @@
     },
     {
         "id": null,
-        "name": "Mňau TV (1080p)",
+        "name": "Mnau TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5711,6 +6071,48 @@
     },
     {
         "id": null,
+        "name": "MNT WCIV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MNT WFLD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MNT WWOR-TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
+            },
+            {
+                "name": "URL",
+                "link": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "MNTV",
         "servers": [
             {
@@ -5725,20 +6127,6 @@
     },
     {
         "id": null,
-        "name": "MNTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mntv.livebox.co.in/mntvhls/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MNX (576p)",
         "servers": [
             {
@@ -5748,20 +6136,6 @@
             {
                 "name": "URL",
                 "link": "http://59.103.38.46:8000/play/a052/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mobile County Public Schools TV Network (MCPSS)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
             }
         ]
     },
@@ -5823,21 +6197,21 @@
     },
     {
         "id": null,
-        "name": "Mohabat TV",
+        "name": "Mohabat TV (Iran) (540p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mohabathls.wns.live/hls/stream.m3u8"
+                "link": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mohabathls.wns.live/hls/stream.m3u8"
+                "link": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Mohabat TV (540p)",
+        "name": "Mohabat TV (United States) (540p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5982,7 +6356,7 @@
     },
     {
         "id": null,
-        "name": "Monagas Visión (720p) [Not 24/7]",
+        "name": "Monagas Vision (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -6052,7 +6426,7 @@
     },
     {
         "id": null,
-        "name": "Monroe County Television MCTV (Monroe County FL) (1080p)",
+        "name": "Monroe County TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6267,7 +6641,7 @@
     },
     {
         "id": null,
-        "name": "Móra-Net TV (576p)",
+        "name": "Mora-Net TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6454,6 +6828,20 @@
     },
     {
         "id": null,
+        "name": "Moselle TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Mosfilm Gold Collection (576p)",
         "servers": [
             {
@@ -6510,20 +6898,6 @@
     },
     {
         "id": null,
-        "name": "Mostanad",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Motherless",
         "servers": [
             {
@@ -6547,20 +6921,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/motpgp-tv"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MotorTrend FAST TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8"
             }
         ]
     },
@@ -6599,7 +6959,21 @@
     },
     {
         "id": null,
-        "name": "MOVIEDOME (720p)",
+        "name": "Movie Music by Stingray (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Moviedome (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6697,20 +7071,6 @@
     },
     {
         "id": null,
-        "name": "Moviesphere (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MovieSphere AU (1080p)",
         "servers": [
             {
@@ -6725,7 +7085,7 @@
     },
     {
         "id": null,
-        "name": "MovieSphere by Lionsgate",
+        "name": "MovieSphere CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -6734,6 +7094,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MovieSphere Gold WFXT (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8"
             }
         ]
     },
@@ -6850,9 +7224,18 @@
         ]
     },
     {
-        "id": "526",
+        "id": 526,
         "name": "Movistar Deportes 3 Spain",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/526/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/526/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6869,9 +7252,18 @@
         ]
     },
     {
-        "id": "527",
+        "id": 527,
         "name": "Movistar Deportes 4 Spain",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/527/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/527/"
+            }
+        ]
     },
     {
         "id": "184",
@@ -6879,9 +7271,18 @@
         "servers": []
     },
     {
-        "id": "436",
+        "id": 436,
         "name": "Movistar Deportes Spain",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/436/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/436/"
+            }
+        ]
     },
     {
         "id": 528,
@@ -6922,9 +7323,18 @@
         "servers": []
     },
     {
-        "id": "435",
+        "id": 435,
         "name": "Movistar Liga de Campeones",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/435/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/435/"
+            }
+        ]
     },
     {
         "id": "172",
@@ -6970,9 +7380,18 @@
         ]
     },
     {
-        "id": "stream-437",
+        "id": 437,
         "name": "Movistar Plus+",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/437/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/437/"
+            }
+        ]
     },
     {
         "id": "437",
@@ -7042,6 +7461,62 @@
     },
     {
         "id": null,
+        "name": "Mr Bean Animated (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mr Bean Animated ES (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mr Bean Animated FR (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mr Bean Animated IT (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Mr Bean Live Action (1080p)",
         "servers": [
             {
@@ -7051,48 +7526,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mr. Bean Animated (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mr. Bean Anime Italy (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mr. Bean Anime Spain (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
             }
         ]
     },
@@ -7135,20 +7568,6 @@
             {
                 "name": "URL",
                 "link": "https://mrtvott.com/cache/MRTV-HD/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MRTV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://asia.sipradius.net/cache/SEAGames4/master.m3u8"
             }
         ]
     },
@@ -7293,9 +7712,18 @@
         ]
     },
     {
-        "id": "765",
+        "id": 765,
         "name": "MSG USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/765/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/765/"
+            }
+        ]
     },
     {
         "id": "327",
@@ -7313,6 +7741,20 @@
             {
                 "name": "URL",
                 "link": "https://mst3k-roku.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MSTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
             }
         ]
     },
@@ -7444,7 +7886,7 @@
     },
     {
         "id": null,
-        "name": "MTC TV",
+        "name": "MTC",
         "servers": [
             {
                 "name": "Main Server",
@@ -7458,7 +7900,7 @@
     },
     {
         "id": null,
-        "name": "MTM 1 [Geo-blocked]",
+        "name": "MTM [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7467,20 +7909,6 @@
             {
                 "name": "URL",
                 "link": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTM TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://angel.btbn.tv:5443/mtmtv/streams/live.m3u8"
             }
         ]
     },
@@ -7542,7 +7970,7 @@
     },
     {
         "id": null,
-        "name": "MTürk TV (1080p)",
+        "name": "MTurk TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7560,6 +7988,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://epiembeds.online/embed/mtv-usa"
+            },
+            {
+                "name": "URL",
+                "link": "https://epiembeds.online/embed/mtv-usa"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://ma.anixa.tv/clips/stream/mtv/playlist.php"
             },
             {
@@ -7570,7 +8012,7 @@
     },
     {
         "id": null,
-        "name": "MTV (1080p)",
+        "name": "MTV (United States) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7598,20 +8040,6 @@
     },
     {
         "id": null,
-        "name": "MTV Ava (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/ava/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live-fi.tvkaista.net/ava/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MTV Biggest Pop (1080p)",
         "servers": [
             {
@@ -7626,7 +8054,77 @@
     },
     {
         "id": null,
-        "name": "MTV Catfish",
+        "name": "MTV Biggest Pop BR (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Biggest Pop CA (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Biggest Pop LatAm (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish (Sweden) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish (Sweden) DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish (Sweden) NO",
         "servers": [
             {
                 "name": "Main Server",
@@ -7640,7 +8138,35 @@
     },
     {
         "id": null,
-        "name": "MTV Catfish (720p)",
+        "name": "MTV Catfish (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish (United States) BR (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish (United States) LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7654,7 +8180,35 @@
     },
     {
         "id": null,
-        "name": "MTV Catfish TV Show (720p)",
+        "name": "MTV Catfish TV Show",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish TV Show DACH (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish TV Show ES (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7663,6 +8217,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish TV Show FR (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Catfish TV Show GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8"
             }
         ]
     },
@@ -7677,6 +8259,48 @@
             {
                 "name": "URL",
                 "link": "https://altair.hostingnica.net/hls/mtv_stream/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Classic BR (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Classic CA (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Classic LatAm (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
             }
         ]
     },
@@ -7724,7 +8348,91 @@
     },
     {
         "id": null,
-        "name": "MTV Dating",
+        "name": "MTV Dating (Germany) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Dating (Germany) ES (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Dating (Sweden) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Dating (Sweden) DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Dating (Sweden) NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Dating (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Dating (United States) CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -7738,7 +8446,7 @@
     },
     {
         "id": null,
-        "name": "MTV Dating (720p)",
+        "name": "MTV Dating (United States) LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7757,6 +8465,34 @@
     },
     {
         "id": null,
+        "name": "MTV Drag",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Drag LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "MTV Embarazada a los 16",
         "servers": [
             {
@@ -7771,7 +8507,7 @@
     },
     {
         "id": null,
-        "name": "MTV en español",
+        "name": "MTV en Espanol",
         "servers": [
             {
                 "name": "Main Server",
@@ -7780,6 +8516,48 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ex On The Beach",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ex On The Beach DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c0909b872c650008ed42e4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ex On The Beach NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8"
             }
         ]
     },
@@ -7794,6 +8572,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Flow Latino LatAm (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8"
             }
         ]
     },
@@ -7869,7 +8661,7 @@
     },
     {
         "id": null,
-        "name": "MTV Jovens e Mães (720p)",
+        "name": "MTV Jovens e Maes (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7939,7 +8731,21 @@
     },
     {
         "id": null,
-        "name": "MTV Pluto TV",
+        "name": "MTV Pluto TV (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Pluto TV (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7953,7 +8759,21 @@
     },
     {
         "id": null,
-        "name": "MTV Pluto TV LatAm (720p)",
+        "name": "MTV Pluto TV (United States) BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Pluto TV (United States) LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7972,7 +8792,91 @@
     },
     {
         "id": null,
-        "name": "MTV Reality",
+        "name": "MTV Reality (Germany) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Reality (Germany) ES (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Reality (Sweden) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Reality (Sweden) DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Reality (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Reality (United States) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Reality (United States) CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -7986,7 +8890,7 @@
     },
     {
         "id": null,
-        "name": "MTV Reality (720p)",
+        "name": "MTV Reality (United States) LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8000,7 +8904,63 @@
     },
     {
         "id": null,
-        "name": "MTV Ridiculousness",
+        "name": "MTV Ridiculousness (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ridiculousness (Sweden) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ridiculousness (Sweden) DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ridiculousness (Sweden) NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Ridiculousness (United States) CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -8014,7 +8974,7 @@
     },
     {
         "id": null,
-        "name": "MTV Ridiculousness (720p)",
+        "name": "MTV Ridiculousness (United States) LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8032,39 +8992,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8"
+                "link": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8"
+                "link": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "MTV Rupaul's Drag Race",
+        "name": "MTV Rocks LatAm",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
+                "link": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV Rupaul's Drag Race Untucked",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8"
+                "link": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8"
             }
         ]
     },
@@ -8098,7 +9044,7 @@
     },
     {
         "id": null,
-        "name": "MTV Spankin’ New (1080p)",
+        "name": "MTV Spankin' New CA (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8112,21 +9058,77 @@
     },
     {
         "id": null,
-        "name": "MTV Sub (720p)",
+        "name": "MTV Teen Mom (Germany) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/sub/live.m3u8"
+                "link": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-fi.tvkaista.net/sub/live.m3u8"
+                "link": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "MTV Teen Mom (720p)",
+        "name": "MTV Teen Mom (Germany) ES (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Teen Mom (Sweden) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Teen Mom (Sweden) DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Teen Mom (Sweden) NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Teen Mom (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8135,6 +9137,48 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV The Hills",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV The Hills DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09039ebd75200072587f9.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV The Hills NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8"
             }
         ]
     },
@@ -8174,7 +9218,7 @@
     },
     {
         "id": null,
-        "name": "MTV Vergüenza ajena (720p)",
+        "name": "MTV Verguenza ajena (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8183,6 +9227,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV Volgograd (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
             }
         ]
     },
@@ -8207,15 +9265,15 @@
     },
     {
         "id": null,
-        "name": "MTV3 (720p)",
+        "name": "Mult (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+                "link": "http://31.148.48.15/Mult_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-fi.tvkaista.net/mtv3/live.m3u8"
+                "link": "http://31.148.48.15/Mult_HD/index.m3u8"
             }
         ]
     },
@@ -8277,7 +9335,21 @@
     },
     {
         "id": null,
-        "name": "Multimedios Bajío (720p) [Not 24/7]",
+        "name": "Multimania (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Multimedios Bajio (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8305,7 +9377,7 @@
     },
     {
         "id": null,
-        "name": "Multimedios Ciudad Juárez (720p) [Not 24/7]",
+        "name": "Multimedios Ciudad Juarez (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8389,7 +9461,7 @@
     },
     {
         "id": null,
-        "name": "Multivisión Canal 3 (720p) [Not 24/7]",
+        "name": "Multivision Canal 3 (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8403,7 +9475,7 @@
     },
     {
         "id": null,
-        "name": "Multivisión Sports (720p) [Not 24/7]",
+        "name": "Multivision Sports (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8417,7 +9489,7 @@
     },
     {
         "id": null,
-        "name": "München TV (1080p) [Not 24/7]",
+        "name": "Munchen TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8506,7 +9578,7 @@
     },
     {
         "id": null,
-        "name": "Museum TV [Geo-blocked]",
+        "name": "Museum TV French [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8515,6 +9587,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Music (480p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8"
             }
         ]
     },
@@ -8702,6 +9788,20 @@
     },
     {
         "id": null,
+        "name": "Muz Soyuz (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Muz TV Uzbekistan",
         "servers": [
             {
@@ -8786,6 +9886,34 @@
     },
     {
         "id": null,
+        "name": "Muzyka 1 [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://kino-1.catcast.tv/content/37745/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://kino-1.catcast.tv/content/37745/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Muzyka Kino [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://kino-1.catcast.tv/content/37739/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://kino-1.catcast.tv/content/37739/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Muzyka Live (576p)",
         "servers": [
             {
@@ -8809,20 +9937,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/153/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MV Mall DD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
             }
         ]
     },
@@ -8968,7 +10082,7 @@
     },
     {
         "id": null,
-        "name": "My TV",
+        "name": "My TV (Bangladesh)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8982,7 +10096,7 @@
     },
     {
         "id": null,
-        "name": "My TV (576p)",
+        "name": "My TV (Cambodia) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9085,21 +10199,7 @@
     },
     {
         "id": null,
-        "name": "MyTime Movie Network (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MyTime Movie Network Brazil (720p)",
+        "name": "MyTime Movie Network (Brazil) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9113,7 +10213,7 @@
     },
     {
         "id": null,
-        "name": "MyTime Movie Network Mexico (720p)",
+        "name": "MyTime Movie Network (Mexico) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9127,7 +10227,7 @@
     },
     {
         "id": null,
-        "name": "MyTime movie network Spain (1080p)",
+        "name": "MyTime Movie Network (Spain) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9141,15 +10241,29 @@
     },
     {
         "id": null,
-        "name": "myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]",
+        "name": "MyTime Movie Network (United Kingdom) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
+                "link": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
+                "link": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MyTime Movie Network East (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8"
             }
         ]
     },

@@ -15,6 +15,34 @@
     },
     {
         "id": null,
+        "name": "I Love Lucy CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "I News (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.i-news.tv/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.i-news.tv/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "I-UA.tv (1080p)",
         "servers": [
             {
@@ -24,20 +52,6 @@
             {
                 "name": "URL",
                 "link": "https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "I24 News Hebrew (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
             }
         ]
     },
@@ -80,6 +94,20 @@
             {
                 "name": "URL",
                 "link": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "i24NEWS Hebrew (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
             }
         ]
     },
@@ -169,7 +197,49 @@
     },
     {
         "id": null,
-        "name": "iCarly",
+        "name": "iCarly (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (Germany) ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (Germany) FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -183,7 +253,63 @@
     },
     {
         "id": null,
-        "name": "iCarly TV",
+        "name": "iCarly (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (United States) LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "iCarly (United States) SD",
         "servers": [
             {
                 "name": "Main Server",
@@ -211,7 +337,7 @@
     },
     {
         "id": null,
-        "name": "ICC Plus (1080p)",
+        "name": "ICC plus (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -253,189 +379,7 @@
     },
     {
         "id": null,
-        "name": "ICI Montreal (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]",
+        "name": "Ici Radio-Canada Tele CBAFT-DT [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -449,7 +393,189 @@
     },
     {
         "id": null,
-        "name": "ICI RDI (720p)",
+        "name": "Ici Radio-Canada Tele CBFT-DT (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBKFT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBLFT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBOFT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBUFT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBVT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBWFT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CBXFT-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CFHD-DT (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CJBR-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CKSH-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CKTM-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici Radio-Canada Tele CKTV-DT [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ici RDI (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -477,7 +603,7 @@
     },
     {
         "id": null,
-        "name": "icnet 1",
+        "name": "ICnet 1",
         "servers": [
             {
                 "name": "Main Server",
@@ -491,7 +617,7 @@
     },
     {
         "id": null,
-        "name": "icnet 2",
+        "name": "ICnet 2",
         "servers": [
             {
                 "name": "Main Server",
@@ -533,7 +659,7 @@
     },
     {
         "id": null,
-        "name": "ICRTV Colima (1080p)",
+        "name": "Icrtv Colima (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -566,7 +692,7 @@
     },
     {
         "id": null,
-        "name": "ICTV (480p) [Not 24/7]",
+        "name": "ICTV (Kenya) (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -608,7 +734,7 @@
     },
     {
         "id": null,
-        "name": "Identité Télé Caraïbes (548p)",
+        "name": "Identite Tele Caraibes (548p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -650,21 +776,7 @@
     },
     {
         "id": null,
-        "name": "IERTBCS Canal 8 La Paz (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IERTBCS Canal 8.2 La Paz (1080p) [Not 24/7]",
+        "name": "IERTBCS Canal 8.2 (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -781,6 +893,20 @@
     },
     {
         "id": null,
+        "name": "iHolyfield TV WHPS-CD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "IIPC TV (720p)",
         "servers": [
             {
@@ -823,7 +949,7 @@
     },
     {
         "id": null,
-        "name": "Ilam",
+        "name": "Ilam TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -832,6 +958,20 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/ilam/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ILCE Canal 15 Summa Saberes (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8"
             }
         ]
     },
@@ -888,6 +1028,20 @@
             {
                 "name": "URL",
                 "link": "https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Imagen FM 105.1 (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
             }
         ]
     },
@@ -1033,7 +1187,7 @@
     },
     {
         "id": null,
-        "name": "Imás TV (1080p) [Not 24/7]",
+        "name": "Imas TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1108,7 +1262,7 @@
     },
     {
         "id": null,
-        "name": "Impact TV",
+        "name": "Impact TV (Burkina Faso)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1150,7 +1304,7 @@
     },
     {
         "id": null,
-        "name": "Impacto Televisión (360p) [Not 24/7]",
+        "name": "Impacto Television (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1220,7 +1374,7 @@
     },
     {
         "id": null,
-        "name": "In the kitchen (720p)",
+        "name": "In the Kitchen (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1229,20 +1383,6 @@
             {
                 "name": "URL",
                 "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "In Touch+ (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1457,16 +1597,16 @@
         ]
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Indosiar",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
@@ -1528,20 +1668,6 @@
     },
     {
         "id": null,
-        "name": "iNEWS TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.i-news.tv/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.i-news.tv/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "INFAST (1080p)",
         "servers": [
             {
@@ -1598,7 +1724,7 @@
     },
     {
         "id": null,
-        "name": "InfoWars Network (1080p)",
+        "name": "InfoWars (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1621,6 +1747,20 @@
             {
                 "name": "URL",
                 "link": "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ingushetia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8"
             }
         ]
     },
@@ -1649,6 +1789,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ink Master CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8"
             }
         ]
     },
@@ -1738,7 +1892,7 @@
     },
     {
         "id": null,
-        "name": "Inter TV (1080p)",
+        "name": "Inter TV (Italy) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1747,6 +1901,20 @@
             {
                 "name": "URL",
                 "link": "https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Inter TV (Venezuela) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
             }
         ]
     },
@@ -1836,20 +2004,6 @@
     },
     {
         "id": null,
-        "name": "interTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Inti TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -1864,7 +2018,21 @@
     },
     {
         "id": null,
-        "name": "InTravel (1080p)",
+        "name": "Into Crime (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "INTRAVEL (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1878,7 +2046,7 @@
     },
     {
         "id": null,
-        "name": "INTROUBLE (1080p)",
+        "name": "InTrouble (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1935,6 +2103,20 @@
     {
         "id": null,
         "name": "Investiga",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Investiga US",
         "servers": [
             {
                 "name": "Main Server",
@@ -2009,7 +2191,7 @@
     },
     {
         "id": null,
-        "name": "iON TV (576p)",
+        "name": "Ion TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2051,7 +2233,7 @@
     },
     {
         "id": null,
-        "name": "Ionian Channel (1080p) [Not 24/7]",
+        "name": "Ionian TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2275,6 +2457,90 @@
     },
     {
         "id": null,
+        "name": "IRIB 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "IRIB 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "IRIB 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "IRIB 4",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "IRIB Mostanad",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "IRIB Omid",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/omid/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "IRIB UHD (2160p)",
         "servers": [
             {
@@ -2284,62 +2550,6 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IRIB1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/tv1/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IRIB2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/tv2/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IRIB3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/tv3/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IRIB4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8"
             }
         ]
     },
@@ -2359,7 +2569,7 @@
     },
     {
         "id": null,
-        "name": "IRINN2 Live Farsi News",
+        "name": "IRINN 2",
         "servers": [
             {
                 "name": "Main Server",
@@ -2485,7 +2695,7 @@
     },
     {
         "id": null,
-        "name": "Isfahan",
+        "name": "Isfahan TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -2499,7 +2709,7 @@
     },
     {
         "id": null,
-        "name": "Ishtar TV (1080p)",
+        "name": "Ishtar TV SD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2653,29 +2863,29 @@
     },
     {
         "id": null,
-        "name": "ISTV (480p)",
+        "name": "ISTV (Brazil) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
+                "link": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
+                "link": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "ISTV (720p) [Not 24/7]",
+        "name": "ISTV (Laos) (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+                "link": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
+                "link": "https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8"
             }
         ]
     },
@@ -2824,20 +3034,6 @@
     },
     {
         "id": null,
-        "name": "Italia 2 TV (480p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Italia 7 (576p)",
         "servers": [
             {
@@ -2847,6 +3043,20 @@
             {
                 "name": "URL",
                 "link": "http://151.0.207.99:1935/italia7/italia7/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Italia2TV (480p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
             }
         ]
     },
@@ -2921,9 +3131,18 @@
         ]
     },
     {
-        "id": "350",
+        "id": 3006,
         "name": "ITV 1 UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3006/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3006/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3096,6 +3315,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Izvestia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8"
             }
         ]
     }

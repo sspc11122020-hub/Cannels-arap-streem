@@ -29,7 +29,7 @@
     },
     {
         "id": null,
-        "name": "Pac 12 Insider (1080p)",
+        "name": "Pac-12 Insider (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -57,34 +57,6 @@
             {
                 "name": "URL",
                 "link": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pacific Coast TV HMB Coastside Channel 27 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pacific Coast TV MWSD Channel 26 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
             }
         ]
     },
@@ -160,20 +132,6 @@
     },
     {
         "id": null,
-        "name": "Palestine",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Palestine Al Yawm (720p)",
         "servers": [
             {
@@ -216,6 +174,20 @@
     },
     {
         "id": null,
+        "name": "Palestinetv",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ncdn.telewebion.ir/palestine/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Palitra News (480p) [Not 24/7]",
         "servers": [
             {
@@ -225,20 +197,6 @@
             {
                 "name": "URL",
                 "link": "https://live.palitranews.ge/hls/palitratv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Palm Beach County TV Channel 20 (Palm Beach County FL) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
             }
         ]
     },
@@ -384,7 +342,7 @@
     },
     {
         "id": null,
-        "name": "Pannon RTV (648p)",
+        "name": "Pannon TV (648p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -426,7 +384,7 @@
     },
     {
         "id": null,
-        "name": "Pantalla Clásica EC (512p) [Not 24/7]",
+        "name": "Pantalla Clasica EC (512p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -454,6 +412,20 @@
     },
     {
         "id": null,
+        "name": "Paradise DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-629e095e511d4b00070c9f44.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Paradise Hotel",
         "servers": [
             {
@@ -463,6 +435,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Paradise Hotel DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Paradise Hotel NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8"
             }
         ]
     },
@@ -510,7 +510,7 @@
     },
     {
         "id": null,
-        "name": "Paraíso TV (720p)",
+        "name": "Paraiso TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -570,9 +570,18 @@
         ]
     },
     {
-        "id": "190",
+        "id": 3082,
         "name": "Paramount+",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3082/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3082/"
+            }
+        ]
     },
     {
         "id": null,
@@ -585,20 +594,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 77,
-        "name": "Paramount+ USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/77/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/77/"
             }
         ]
     },
@@ -660,7 +655,7 @@
     },
     {
         "id": null,
-        "name": "Parlamento de Andalucía (576p) [Not 24/7]",
+        "name": "Parlamento de Andalucia (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -758,7 +753,7 @@
     },
     {
         "id": null,
-        "name": "Parliament TV (1080p)",
+        "name": "Parliament TV (New Zealand) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -814,7 +809,7 @@
     },
     {
         "id": null,
-        "name": "Pasco TV (Pasco County FL) (480p)",
+        "name": "Pasco TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -865,20 +860,6 @@
             {
                 "name": "URL",
                 "link": "http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PAT La Paz (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://15.204.246.24:8080/PATSD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://15.204.246.24:8080/PATSD/index.m3u8"
             }
         ]
     },
@@ -982,29 +963,29 @@
     },
     {
         "id": null,
-        "name": "Payvand TV (720p)",
+        "name": "Payvand TV (Iran) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
+                "link": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
+                "link": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Payvand TV (720p) [Not 24/7]",
+        "name": "Payvand TV (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
+                "link": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
+                "link": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8"
             }
         ]
     },
@@ -1019,6 +1000,20 @@
             {
                 "name": "URL",
                 "link": "https://iptv.tapesh.tv/tapesh/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBC TV Channel 20 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
             }
         ]
     },
@@ -1052,21 +1047,49 @@
     },
     {
         "id": null,
-        "name": "PBS Antiques Road Trip (1080p)",
+        "name": "PBS (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8"
+                "link": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8"
+                "link": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "PBS Honolulu HI (KHET) (1080p) [Not 24/7]",
+        "name": "PBS Antiques Roadshow (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBS KETS [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBS KHET (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1075,48 +1098,6 @@
             {
                 "name": "URL",
                 "link": "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS KET KY (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS KET World (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS KET2 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8"
             }
         ]
     },
@@ -1206,7 +1187,35 @@
     },
     {
         "id": null,
-        "name": "PBS Lincoln NE (KUON) (1080p) [Geo-blocked]",
+        "name": "PBS KMOS-TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBS KQED (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBS KUON-TV (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1220,29 +1229,15 @@
     },
     {
         "id": null,
-        "name": "PBS MPT Baltimore MD (WMPB) (1080p)",
+        "name": "PBS KVIE (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"
+                "link": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS National East (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
+                "link": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8"
             }
         ]
     },
@@ -1257,34 +1252,6 @@
             {
                 "name": "URL",
                 "link": "https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
             }
         ]
     },
@@ -1309,6 +1276,34 @@
     },
     {
         "id": null,
+        "name": "PBS WEDQ (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBS WJXT (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "PBS WNET (720p)",
         "servers": [
             {
@@ -1318,6 +1313,76 @@
             {
                 "name": "URL",
                 "link": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PBS WNJT (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PCT Channel 26 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PCT Channel 27 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PCTV 26 (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PCTV 28 (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
             }
         ]
     },
@@ -1441,7 +1506,7 @@
     },
     {
         "id": null,
-        "name": "Peer TV Südtirol (1080p)",
+        "name": "Peer TV Sudtirol (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1469,7 +1534,7 @@
     },
     {
         "id": null,
-        "name": "Peniel Kids & Young (480p)",
+        "name": "Peniel K&Y (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1539,7 +1604,7 @@
     },
     {
         "id": null,
-        "name": "People Are Awesome (720p)",
+        "name": "People Are Awesome Poland (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1637,7 +1702,21 @@
     },
     {
         "id": null,
-        "name": "Perry Mason",
+        "name": "Perry Mason (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Perry Mason (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1646,6 +1725,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Perry Mason (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8"
             }
         ]
     },
@@ -1833,20 +1926,6 @@
     },
     {
         "id": null,
-        "name": "Persiana Music",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://musichls.persiana.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://musichls.persiana.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Persiana Nostalgia",
         "servers": [
             {
@@ -1973,6 +2052,20 @@
     },
     {
         "id": null,
+        "name": "Perviy Krymskiy (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Perviy otdel (1080p)",
         "servers": [
             {
@@ -1987,6 +2080,20 @@
     },
     {
         "id": null,
+        "name": "Pervyy gorodskoy. Odessa (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.194.79.46:8081/stream2/channel2/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pervyy Kosmicheskiy HD (1080p)",
         "servers": [
             {
@@ -1996,6 +2103,20 @@
             {
                 "name": "URL",
                 "link": "http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pervyy Respublikanskiy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
             }
         ]
     },
@@ -2127,7 +2248,7 @@
     },
     {
         "id": null,
-        "name": "Phoenix (720p) [Geo-blocked]",
+        "name": "phoenix (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2136,6 +2257,34 @@
             {
                 "name": "URL",
                 "link": "https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Phoenix Chinese Channel (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Phoenix InfoNews Channel (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
             }
         ]
     },
@@ -2225,6 +2374,34 @@
     },
     {
         "id": null,
+        "name": "Pimp My Ride DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pimp My Ride NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pindin TV",
         "servers": [
             {
@@ -2239,6 +2416,34 @@
     },
     {
         "id": null,
+        "name": "Pingviins (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pingxiang TV News Channel (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pink (720p)",
         "servers": [
             {
@@ -2248,34 +2453,6 @@
             {
                 "name": "URL",
                 "link": "https://edge8.pink.rs/pinktv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pinole Community Television (PCTV) Channel 26 (Pinole CA) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pinole Community Television (PCTV) Channel 28 (Pinole CA) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
             }
         ]
     },
@@ -2337,29 +2514,29 @@
     },
     {
         "id": null,
-        "name": "Pixel TV (1080p)",
+        "name": "Pixel TV (Poland) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/323/index.m3u8"
+                "link": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/323/index.m3u8"
+                "link": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pixel.tv (720p)",
+        "name": "Pixel TV (Ukraine) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
+                "link": "http://stream.mcquack.net/323/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
+                "link": "http://stream.mcquack.net/323/index.m3u8"
             }
         ]
     },
@@ -2505,21 +2682,7 @@
     },
     {
         "id": null,
-        "name": "Play TV (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Play TV (720p)",
+        "name": "Play TV (Brazil) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2533,7 +2696,7 @@
     },
     {
         "id": null,
-        "name": "Play TV (720p) [Not 24/7]",
+        "name": "Play TV (Cameroon) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2542,6 +2705,20 @@
             {
                 "name": "URL",
                 "link": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Play TV (Greece) (480p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
             }
         ]
     },
@@ -2617,7 +2794,7 @@
     },
     {
         "id": null,
-        "name": "Plovdivska Pravoslavna TV (1080p)",
+        "name": "Plovdiv Orthodox TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2659,7 +2836,21 @@
     },
     {
         "id": null,
-        "name": "Plus TV (720p) [Not 24/7]",
+        "name": "Plus TV (Ecuador) (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Plus TV (Panama) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2757,7 +2948,77 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Action",
+        "name": "Pluto TV Action (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65004605110545000842035d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65004605110545000842035d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Action (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Action (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Action (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Action (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Action (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2813,6 +3074,20 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Adventure CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Alberto Sordi",
         "servers": [
             {
@@ -2827,7 +3102,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Alien Invasion",
+        "name": "Pluto TV Alien Invasion (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Alien Invasion (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2915,6 +3204,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Animals GB",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8"
             },
             {
@@ -2953,7 +3256,49 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Anime",
+        "name": "Pluto TV Anime (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Anime (Germany) ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Anime (Germany) IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Anime (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2967,7 +3312,49 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Anime Ação",
+        "name": "Pluto TV Anime (United States) BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Anime (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Anime (United States) LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Anime Acao",
         "servers": [
             {
                 "name": "Main Server",
@@ -3107,21 +3494,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV British Comedy",
+        "name": "Pluto TV Bud & Terence (Germany)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
+                "link": "https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8"
+                "link": "https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Bud & Terence",
+        "name": "Pluto TV Bud & Terence (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3130,6 +3517,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Bud & Terence (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Bud & Terence (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65b916ec3af63d00084c5841.m3u8"
             }
         ]
     },
@@ -3177,7 +3592,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Catástrofes",
+        "name": "Pluto TV Cars CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Catastrofes",
         "servers": [
             {
                 "name": "Main Server",
@@ -3205,7 +3634,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Acción",
+        "name": "Pluto TV Cine Accion (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Accion (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3219,7 +3662,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Clásico",
+        "name": "Pluto TV Cine Clasico (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Clasico (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3233,7 +3690,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Clássicos",
+        "name": "Pluto TV Cine Classicos",
         "servers": [
             {
                 "name": "Main Server",
@@ -3247,21 +3704,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Comedia",
+        "name": "Pluto TV Cine Comedia (Germany)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8"
+                "link": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8"
+                "link": "https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Comédia",
+        "name": "Pluto TV Cine Comedia (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Comedia (United States) BR",
         "servers": [
             {
                 "name": "Main Server",
@@ -3275,7 +3746,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Comédia Romântica",
+        "name": "Pluto TV Cine Comedia (United States) LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Comedia Romantica",
         "servers": [
             {
                 "name": "Main Server",
@@ -3331,7 +3816,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Drama",
+        "name": "Pluto TV Cine Drama (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Drama (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Drama (United States) LatAm",
         "servers": [
             {
                 "name": "Main Server",
@@ -3345,7 +3858,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Estelar",
+        "name": "Pluto TV Cine Estelar (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Estelar (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3363,31 +3890,31 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8"
+                "link": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8"
+                "link": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Família",
+        "name": "Pluto TV Cine Familia LatAm",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
+                "link": "https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
+                "link": "https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Inspiração",
+        "name": "Pluto TV Cine Inspiracao",
         "servers": [
             {
                 "name": "Main Server",
@@ -3419,6 +3946,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cine Romance LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8"
             },
             {
@@ -3429,7 +3970,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cine Romántico",
+        "name": "Pluto TV Cine Romantico",
         "servers": [
             {
                 "name": "Main Server",
@@ -3466,20 +4007,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pluto TV Cine Terror",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8"
             }
         ]
     },
@@ -3527,20 +4054,6 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Classic TV Families",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pluto TV Classic TV Variety",
         "servers": [
             {
@@ -3583,7 +4096,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Comedias Románticas",
+        "name": "Pluto TV Comedias Romanticas",
         "servers": [
             {
                 "name": "Main Server",
@@ -3597,7 +4110,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Comédie",
+        "name": "Pluto TV Comedie",
         "servers": [
             {
                 "name": "Main Server",
@@ -3611,7 +4124,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Comédies Cultes",
+        "name": "Pluto TV Comedies Cultes",
         "servers": [
             {
                 "name": "Main Server",
@@ -3639,7 +4152,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Comedy Movies",
+        "name": "Pluto TV Comedy CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Comedy Movies (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Comedy Movies (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3727,17 +4268,31 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
+                "link": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
+                "link": "https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Crime Drama",
+        "name": "Pluto TV Crime Drama (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Crime Drama (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3746,6 +4301,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Crime Drama (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Crime GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d767790d0438aceb41d03ae.m3u8"
             }
         ]
     },
@@ -3793,7 +4376,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Cult Films",
+        "name": "Pluto TV Cult Films (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Cult Films (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3849,7 +4446,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Desenhos Clássicos",
+        "name": "Pluto TV Desenhos Classicos",
         "servers": [
             {
                 "name": "Main Server",
@@ -3877,7 +4474,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Diseño",
+        "name": "Pluto TV Diseno",
         "servers": [
             {
                 "name": "Main Server",
@@ -3919,35 +4516,63 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Dog el cazarrecompensas",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Dokumentar",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
+                "link": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
+                "link": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Dokumentär",
+        "name": "Pluto TV Dokumentar DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
+                "link": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8"
+                "link": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Drama",
+        "name": "Pluto TV Drama (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Drama (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4017,6 +4642,20 @@
     },
     {
         "id": null,
+        "name": "Pluto TV El Reino Infantil",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Esportes",
         "servers": [
             {
@@ -4040,6 +4679,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Estrellas de Accion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8"
             }
         ]
     },
@@ -4129,7 +4782,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Ficção Científica",
+        "name": "Pluto TV Ficcao Cientifica",
         "servers": [
             {
                 "name": "Main Server",
@@ -4143,7 +4796,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Film",
+        "name": "Pluto TV Film (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Film (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4157,7 +4824,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Film Ancora Più Romantici",
+        "name": "Pluto TV Film (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Film (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Film Ancora Piu Romantici",
         "servers": [
             {
                 "name": "Main Server",
@@ -4241,7 +4936,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Filmes Ação",
+        "name": "Pluto TV Filmes Acao",
         "servers": [
             {
                 "name": "Main Server",
@@ -4312,6 +5007,20 @@
     {
         "id": null,
         "name": "Pluto TV Food",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Food GB",
         "servers": [
             {
                 "name": "Main Server",
@@ -4423,7 +5132,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Håndbold Highlights",
+        "name": "Pluto TV Handbold Highlights",
         "servers": [
             {
                 "name": "Main Server",
@@ -4437,7 +5146,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Håndbold Live",
+        "name": "Pluto TV Handbold Live",
         "servers": [
             {
                 "name": "Main Server",
@@ -4493,6 +5202,34 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Harlequin DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Harlequin NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Histoire (720p)",
         "servers": [
             {
@@ -4507,21 +5244,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Historia",
+        "name": "Pluto TV Historia (Germany) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8"
+                "link": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8"
+                "link": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV História",
+        "name": "Pluto TV Historia (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4535,15 +5272,29 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Historia (720p)",
+        "name": "Pluto TV Historia (United States) LatAm",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
+                "link": "https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8"
+                "link": "https://jmp2.uk/plu-5de5758e1a30dc00094fcd6c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Historias de Ultratumba",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8"
             }
         ]
     },
@@ -4563,7 +5314,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV History",
+        "name": "Pluto TV History (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV History (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV History (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4591,7 +5370,105 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Horror",
+        "name": "Pluto TV Horror (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (Germany) ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (Germany) IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4600,6 +5477,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Horror (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8"
             }
         ]
     },
@@ -4619,7 +5510,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Humor",
+        "name": "Pluto TV Humor (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Humor (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4675,7 +5580,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Invasión Alien",
+        "name": "Pluto TV Invasion Alien",
         "servers": [
             {
                 "name": "Main Server",
@@ -4689,21 +5594,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Investiga",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pluto TV Investigação",
+        "name": "Pluto TV Investigacao",
         "servers": [
             {
                 "name": "Main Server",
@@ -4745,21 +5636,49 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Junior",
+        "name": "Pluto TV John Wayne DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8"
+                "link": "https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8"
+                "link": "https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Junior (720p)",
+        "name": "Pluto TV John Wayne NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-655ca99dfbc15b00081f209c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Junior (Germany) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Junior (Germany) FR (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4768,6 +5687,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Junior (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Junior (United States) LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8"
             }
         ]
     },
@@ -4787,6 +5734,34 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Juniorklubben DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Juniorklubben NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV K-Drama",
         "servers": [
             {
@@ -4801,7 +5776,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Karaokê por Stingray (720p)",
+        "name": "Pluto TV Karaoke por Stingray (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4810,6 +5785,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Karaoke por Stingray LatAm (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8"
             }
         ]
     },
@@ -4829,7 +5818,49 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Kids",
+        "name": "Pluto TV Kids (Germany) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Kids (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Kids (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Kids (United States) LatAm",
         "servers": [
             {
                 "name": "Main Server",
@@ -4847,6 +5878,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Kids Classics FR (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8"
             },
             {
@@ -4857,29 +5902,29 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Kids Club",
+        "name": "Pluto TV Kids Club (Germany)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
+                "link": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
+                "link": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Kids Spain (720p)",
+        "name": "Pluto TV Kids Club (United States)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
+                "link": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8"
+                "link": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
             }
         ]
     },
@@ -4997,6 +6042,20 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Kultfilmer NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Laughs in Spanish",
         "servers": [
             {
@@ -5039,7 +6098,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Mi Obsesión Favorita",
+        "name": "Pluto TV Los nuevos detectives",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Melrose Place",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64be745340962900080b55e7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Mi Obsesion Favorita",
         "servers": [
             {
                 "name": "Main Server",
@@ -5067,7 +6154,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Minha Obsessão Favorita",
+        "name": "Pluto TV Minha Obsessao Favorita",
         "servers": [
             {
                 "name": "Main Server",
@@ -5076,6 +6163,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Minuto Para Ganar",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8"
             }
         ]
     },
@@ -5085,20 +6186,6 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pluto TV Mistérios",
-        "servers": [
-            {
-                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8"
             },
             {
@@ -5109,7 +6196,49 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Motor",
+        "name": "Pluto TV Misterios LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Misterios Medicos",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Motor (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Motor (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5118,6 +6247,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Motor (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Motor (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8"
             }
         ]
     },
@@ -5127,25 +6284,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
+                "link": "https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
+                "link": "https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV MTV Classic (720p)",
+        "name": "Pluto TV Movies GB",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
+                "link": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8"
+                "link": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
             }
         ]
     },
@@ -5221,7 +6378,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Negócio Fechado",
+        "name": "Pluto TV Negocio Fechado",
         "servers": [
             {
                 "name": "Main Server",
@@ -5319,7 +6476,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Novelas de México",
+        "name": "Pluto TV Novelas BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Novelas de Mexico",
         "servers": [
             {
                 "name": "Main Server",
@@ -5356,6 +6527,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Novelas LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8"
             }
         ]
     },
@@ -5403,7 +6588,105 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Paranormal",
+        "name": "Pluto TV Paranormal (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (Germany) ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (Germany) FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (Germany) IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5412,6 +6695,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Paranormal (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8"
             }
         ]
     },
@@ -5440,6 +6737,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Pokemon",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Pokemon UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8"
             }
         ]
     },
@@ -5487,20 +6812,6 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Pride",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pluto TV Psycho",
         "servers": [
             {
@@ -5543,7 +6854,63 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Reality",
+        "name": "Pluto TV Reality (Germany) FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Reality (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Reality (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Reality (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-67922858b83355184c699699.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-67922858b83355184c699699.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Reality (United States) LatAm",
         "servers": [
             {
                 "name": "Main Server",
@@ -5585,7 +6952,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Retrô",
+        "name": "Pluto TV Retro",
         "servers": [
             {
                 "name": "Main Server",
@@ -5659,6 +7026,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Retro Toons GB",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8"
             },
             {
@@ -5669,7 +7050,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Romance",
+        "name": "Pluto TV Romance (Germany) DACH",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Romance (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5697,6 +7092,20 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Romantik DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Romantikk",
         "servers": [
             {
@@ -5706,6 +7115,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sanctuary",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8"
             }
         ]
     },
@@ -5725,7 +7148,119 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Sci-fi",
+        "name": "Pluto TV Sci-Fi (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (Germany) ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (Germany) IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sci-Fi (United States) CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -5739,15 +7274,15 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Sci-Fi",
+        "name": "Pluto TV Sci-Fi (United States) LatAm",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8"
+                "link": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8"
+                "link": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8"
             }
         ]
     },
@@ -5767,7 +7302,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Science",
+        "name": "Pluto TV Science (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Science (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Science (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5785,11 +7348,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8"
+                "link": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8"
+                "link": "https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8"
             }
         ]
     },
@@ -5809,6 +7372,20 @@
     },
     {
         "id": null,
+        "name": "Pluto TV Serie IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pluto TV Serie Sci-Fi",
         "servers": [
             {
@@ -5823,7 +7400,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Series",
+        "name": "Pluto TV Series (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Series (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5837,7 +7428,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Ação",
+        "name": "Pluto TV Series Acao",
         "servers": [
             {
                 "name": "Main Server",
@@ -5851,7 +7442,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Comédia",
+        "name": "Pluto TV Series Comedia",
         "servers": [
             {
                 "name": "Main Server",
@@ -5865,7 +7456,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Criminais",
+        "name": "Pluto TV Series Criminais",
         "servers": [
             {
                 "name": "Main Server",
@@ -5893,7 +7484,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Series de Acción",
+        "name": "Pluto TV Series de Accion",
         "servers": [
             {
                 "name": "Main Server",
@@ -5977,7 +7568,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Drama",
+        "name": "Pluto TV Series Drama",
         "servers": [
             {
                 "name": "Main Server",
@@ -5991,7 +7582,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Fantastiques",
+        "name": "Pluto TV Series Fantastiques",
         "servers": [
             {
                 "name": "Main Server",
@@ -6019,7 +7610,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Novelescas",
+        "name": "Pluto TV Series Novelescas",
         "servers": [
             {
                 "name": "Main Server",
@@ -6047,7 +7638,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Series Sci-Fi",
+        "name": "Pluto TV Series Sci-Fi (Germany)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6061,7 +7652,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Séries Sci-Fi",
+        "name": "Pluto TV Series Sci-Fi (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6121,31 +7712,101 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
+                "link": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
+                "link": "https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Snooker 900",
+        "name": "Pluto TV Sitcoms GB",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
+                "link": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
+                "link": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pluto TV Snooker 900 (720p)",
+        "name": "Pluto TV Snooker 900 (Germany) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (Germany) ES (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (Germany) FR (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (Germany) GB (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (Germany) IT (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (Sweden) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6159,7 +7820,77 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Space",
+        "name": "Pluto TV Snooker 900 (Sweden) DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (Sweden) NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Snooker 900 (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Space (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Space (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Space (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6173,7 +7904,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Sport",
+        "name": "Pluto TV Sport (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sport (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6182,6 +7927,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sport (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Sport (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8"
             }
         ]
     },
@@ -6215,15 +7988,29 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Star Trek",
+        "name": "Pluto TV Star Trek (Germany)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8"
+                "link": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8"
+                "link": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Star Trek (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8"
             }
         ]
     },
@@ -6238,6 +8025,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Storage Wars (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8"
             }
         ]
     },
@@ -6303,6 +8104,34 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Teen FR (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Teen IT (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8"
             },
             {
@@ -6317,6 +8146,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Tegnefilm NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8"
             },
             {
@@ -6327,7 +8170,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Telenovelas Clásicas",
+        "name": "Pluto TV Telenovelas Clasicas",
         "servers": [
             {
                 "name": "Main Server",
@@ -6341,7 +8184,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Téléréalité France",
+        "name": "Pluto TV Telerealite France",
         "servers": [
             {
                 "name": "Main Server",
@@ -6383,7 +8226,49 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Thrillers",
+        "name": "Pluto TV The Twilight Zone",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Thrillers (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Thrillers (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Thrillers (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6397,7 +8282,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Toons (720p)",
+        "name": "Pluto TV Toons FR (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6411,7 +8296,7 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Totò",
+        "name": "Pluto TV Toto",
         "servers": [
             {
                 "name": "Main Server",
@@ -6453,7 +8338,91 @@
     },
     {
         "id": null,
-        "name": "Pluto TV True Crime",
+        "name": "Pluto TV True Crime (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (Germany) ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (Germany) IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6462,6 +8431,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV True Crime (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8"
             }
         ]
     },
@@ -6495,7 +8478,35 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Världskrigen",
+        "name": "Pluto TV Ungdomsserier DK (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Ungdomsserier NO (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Varldskrigen",
         "servers": [
             {
                 "name": "Main Server",
@@ -6524,6 +8535,20 @@
     {
         "id": null,
         "name": "Pluto TV Verdenskrigene",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Verdenskrigene NO",
         "servers": [
             {
                 "name": "Main Server",
@@ -6569,6 +8594,20 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Vida Real LatAm",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8"
             },
             {
@@ -6597,6 +8636,34 @@
         "servers": [
             {
                 "name": "Main Server",
+                "link": "https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Western ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Western IT",
+        "servers": [
+            {
+                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8"
             },
             {
@@ -6621,7 +8688,21 @@
     },
     {
         "id": null,
-        "name": "Pluto TV Westerns",
+        "name": "Pluto TV Westerns (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Westerns (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6630,6 +8711,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Westerns (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8"
             }
         ]
     },
@@ -6644,6 +8739,48 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Wild West DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Wild West NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pluto TV Wipeout",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8"
             }
         ]
     },
@@ -6677,7 +8814,7 @@
     },
     {
         "id": null,
-        "name": "Plzeň TV (1080p)",
+        "name": "Plzen TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6775,7 +8912,7 @@
     },
     {
         "id": null,
-        "name": "pocket.watch Game On (1080p)",
+        "name": "pocket.watch (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6859,7 +8996,7 @@
     },
     {
         "id": null,
-        "name": "PodRadio på Pluto TV",
+        "name": "PodRadio pa Pluto TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -6868,6 +9005,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Poehali! (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Poehali/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Poehali/index.m3u8"
             }
         ]
     },
@@ -6887,21 +9038,7 @@
     },
     {
         "id": null,
-        "name": "Pokémon",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PokerGO",
+        "name": "PokerGo",
         "servers": [
             {
                 "name": "Main Server",
@@ -6915,7 +9052,7 @@
     },
     {
         "id": null,
-        "name": "Polar TV",
+        "name": "Polar TV (Chile)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6929,7 +9066,7 @@
     },
     {
         "id": null,
-        "name": "Polar TV (1080p)",
+        "name": "Polar TV (Czech Republic) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6984,34 +9121,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Polsat (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Polsat 1 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8"
-            }
-        ]
-    },
-    {
         "id": "564",
         "name": "Polsat Film Poland",
         "servers": []
@@ -7027,34 +9136,6 @@
             {
                 "name": "URL",
                 "link": "http://185.227.34.179:8080/jimjam/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Polsat News (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Polsat News 2 (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd"
             }
         ]
     },
@@ -7076,20 +9157,6 @@
         "id": "443",
         "name": "Polsat News Poland",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Polsat News Polityka (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -7228,14 +9295,56 @@
         "servers": []
     },
     {
+        "id": 993,
+        "name": "Polsat Sport Extra 1 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/993/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/993/"
+            }
+        ]
+    },
+    {
         "id": "994",
         "name": "Polsat Sport Extra 2 HD Poland",
         "servers": []
     },
     {
+        "id": 994,
+        "name": "Polsat Sport Extra 2 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/994/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/994/"
+            }
+        ]
+    },
+    {
         "id": "995",
         "name": "Polsat Sport Extra 3 HD Poland",
         "servers": []
+    },
+    {
+        "id": 995,
+        "name": "Polsat Sport Extra 3 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/995/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/995/"
+            }
+        ]
     },
     {
         "id": "996",
@@ -7292,20 +9401,6 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport Premium 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823"
-            },
-            {
-                "name": "URL",
-                "link": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Polsat Sport Premium 1 PL",
         "servers": [
             {
@@ -7319,28 +9414,23 @@
         ]
     },
     {
-        "id": "stream-991",
+        "id": 991,
         "name": "Polsat Sport Premium 1 Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/991/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/991/"
+            }
+        ]
     },
     {
         "id": "991",
         "name": "Polsat Sport Premium 1 Super HD PL",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Polsat Sport Premium 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac"
-            },
-            {
-                "name": "URL",
-                "link": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac"
-            }
-        ]
     },
     {
         "id": null,
@@ -7391,7 +9481,7 @@
     },
     {
         "id": null,
-        "name": "Pomona Internet Streaming Channel (Pomona CA) (720p)",
+        "name": "Pomona Internet Streaming Channel (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7400,20 +9490,6 @@
             {
                 "name": "URL",
                 "link": "https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pompano Beach Web Streaming (Pompano Beach FL) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
             }
         ]
     },
@@ -7433,7 +9509,7 @@
     },
     {
         "id": null,
-        "name": "Pooya & Nahal",
+        "name": "Pooya TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -7606,20 +9682,6 @@
     },
     {
         "id": null,
-        "name": "Port St Lucie PSL TV (Port St Lucie FL) (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Portal Digital TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -7661,9 +9723,18 @@
         ]
     },
     {
-        "id": "718",
+        "id": 718,
         "name": "Porto Canal Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7681,7 +9752,7 @@
     },
     {
         "id": null,
-        "name": "PortuTV (480p) [Not 24/7]",
+        "name": "Portuguesa Television (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7718,20 +9789,6 @@
             {
                 "name": "URL",
                 "link": "https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Poudre School District TV (PSD TV) (Fort Collins CO) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
             }
         ]
     },
@@ -7807,49 +9864,7 @@
     },
     {
         "id": null,
-        "name": "Power Türk Akustik (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Power Türk Slow (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Power Türk Taptaze (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Power TV (1080p)",
+        "name": "Power TV (Turkiye) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7877,7 +9892,7 @@
     },
     {
         "id": null,
-        "name": "PowerNation (1080p)",
+        "name": "PowerNation TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7891,7 +9906,49 @@
     },
     {
         "id": null,
-        "name": "PowerTürk TV (720p)",
+        "name": "PowerTurk Akustik (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PowerTurk Slow (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PowerTurk Taptaze (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PowerTurk TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7938,18 +9995,9 @@
         "servers": []
     },
     {
-        "id": 105,
+        "id": "1161",
         "name": "PPV Feed",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/105/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/105/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8197,7 +10245,7 @@
     },
     {
         "id": null,
-        "name": "Premier Sports 2 (1080p)",
+        "name": "Premier Sports 2 (Philippines) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8374,9 +10422,18 @@
         ]
     },
     {
-        "id": "stream-88",
+        "id": 88,
         "name": "Premiere BR",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/88/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/88/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8394,7 +10451,7 @@
     },
     {
         "id": null,
-        "name": "Presencia TV (720p) [Not 24/7]",
+        "name": "Presencia Television (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8422,7 +10479,7 @@
     },
     {
         "id": null,
-        "name": "Presumiendo México (720p)",
+        "name": "Presumiendo Mexico (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8478,7 +10535,7 @@
     },
     {
         "id": null,
-        "name": "Prima (1080p)",
+        "name": "Prima (Czech Republic) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8487,6 +10544,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.19/live/prima_avc_25p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Prima (Russia) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8"
             }
         ]
     },
@@ -8515,6 +10586,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.19/live/prima_cool_avc_25p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Prima Free",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
             }
         ]
     },
@@ -8599,16 +10684,16 @@
         "servers": []
     },
     {
-        "id": 584,
+        "id": 684,
         "name": "Prima Sport 2 Romania",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/584/"
+                "link": "https://tvnow247.top/embed/684/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/584/"
+                "link": "https://tvnow247.top/embed/684/"
             }
         ]
     },
@@ -8616,6 +10701,20 @@
         "id": "585",
         "name": "Prima Sport 3",
         "servers": []
+    },
+    {
+        "id": 585,
+        "name": "Prima Sport 3 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/585/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/585/"
+            }
+        ]
     },
     {
         "id": "586",
@@ -8666,7 +10765,21 @@
     },
     {
         "id": null,
-        "name": "Prima TV HD",
+        "name": "Prima TV (Italy) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Prima TV (Romania) HD",
         "servers": [
             {
                 "name": "Main Server",
@@ -8685,20 +10798,6 @@
     },
     {
         "id": null,
-        "name": "Prima TV Sicilia (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Prima Zoom (1080p)",
         "servers": [
             {
@@ -8708,20 +10807,6 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PrimaFree",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
             }
         ]
     },
@@ -8755,7 +10840,7 @@
     },
     {
         "id": null,
-        "name": "Prime (1080p)",
+        "name": "Prime (Syria) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9003,20 +11088,6 @@
     },
     {
         "id": null,
-        "name": "Pro TV News (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
-            },
-            {
-                "name": "URL",
-                "link": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pro100TV (576p)",
         "servers": [
             {
@@ -9045,7 +11116,7 @@
     },
     {
         "id": null,
-        "name": "Proclamación TV [Not 24/7]",
+        "name": "Proclamacion TV [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -9157,7 +11228,7 @@
     },
     {
         "id": null,
-        "name": "Pronto-socorro: Histórias De Emergência",
+        "name": "Pronto-socorro: Historias De Emergencia",
         "servers": [
             {
                 "name": "Main Server",
@@ -9204,6 +11275,20 @@
             {
                 "name": "URL",
                 "link": "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PROTV News (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
+            },
+            {
+                "name": "URL",
+                "link": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
             }
         ]
     },
@@ -9316,6 +11401,34 @@
             {
                 "name": "URL",
                 "link": "https://de1.dstv.cx/PrvaWorld/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PSD TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PSL TV (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
             }
         ]
     },
@@ -9533,7 +11646,7 @@
     },
     {
         "id": null,
-        "name": "PTL Television Network (1080p)",
+        "name": "PTL TV Network (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9547,7 +11660,21 @@
     },
     {
         "id": null,
-        "name": "PTV (720p)",
+        "name": "PTV (Bolivia) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PTV (Ukraine) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9561,7 +11688,7 @@
     },
     {
         "id": null,
-        "name": "PTV Córdoba (1080p)",
+        "name": "PTV Cordoba (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9603,7 +11730,7 @@
     },
     {
         "id": null,
-        "name": "PTV Málaga (1080p)",
+        "name": "PTV Malaga (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9664,7 +11791,7 @@
     },
     {
         "id": null,
-        "name": "Public 4K TV",
+        "name": "Public 4K TV HD",
         "servers": [
             {
                 "name": "Main Server",
@@ -9874,7 +12001,7 @@
     },
     {
         "id": null,
-        "name": "Punjabi Zindabad (360p) [Not 24/7]",
+        "name": "Punjabi Zindabad TV (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -9902,7 +12029,7 @@
     },
     {
         "id": null,
-        "name": "Punt 3 Vall Uixó (1080p)",
+        "name": "Punt 3 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10028,7 +12155,7 @@
     },
     {
         "id": null,
-        "name": "Pursuit UP (1080p)",
+        "name": "PursuitUP (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10084,20 +12211,6 @@
     },
     {
         "id": null,
-        "name": "Putnok Városi TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
-            },
-            {
-                "name": "URL",
-                "link": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Puto TV Classic TV Crime Drama",
         "servers": [
             {
@@ -10107,6 +12220,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PVTV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
+            },
+            {
+                "name": "URL",
+                "link": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
             }
         ]
     }

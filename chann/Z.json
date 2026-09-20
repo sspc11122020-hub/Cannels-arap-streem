@@ -1,7 +1,7 @@
 [
     {
         "id": null,
-        "name": "Z (Запорожье) (1080p)",
+        "name": "Z (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -24,6 +24,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Za! TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
             }
         ]
     },
@@ -57,7 +71,7 @@
     },
     {
         "id": null,
-        "name": "Zagros",
+        "name": "Zagros TV (Iran)",
         "servers": [
             {
                 "name": "Main Server",
@@ -71,7 +85,7 @@
     },
     {
         "id": null,
-        "name": "Zagros TV (1080p)",
+        "name": "Zagros TV (Iraq) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -108,6 +122,20 @@
             {
                 "name": "URL",
                 "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zapad 24 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8"
             }
         ]
     },
@@ -336,20 +364,6 @@
             {
                 "name": "URL",
                 "link": "https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zed TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://zedhls.wns.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://zedhls.wns.live/hls/stream.m3u8"
             }
         ]
     },
@@ -747,7 +761,7 @@
     },
     {
         "id": null,
-        "name": "Zee One Français (720p)",
+        "name": "Zee One French (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -985,7 +999,21 @@
     },
     {
         "id": null,
-        "name": "ZFM Zoetermeer (720p)",
+        "name": "ZenLIFE by Stingray (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ZFM Zoetermeer TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -999,29 +1027,29 @@
     },
     {
         "id": null,
-        "name": "Zhara (576p)",
+        "name": "Zhejiang International Channel",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Zhara/video.m3u8"
+                "link": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Zhara/video.m3u8"
+                "link": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Zhejiang TV International",
+        "name": "Zhejiang Satellite TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+                "link": "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+                "link": "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8"
             }
         ]
     },
@@ -1064,6 +1092,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/225/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zhivi! (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Zhivi/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Zhivi/index.m3u8"
             }
         ]
     },
@@ -1339,6 +1381,20 @@
         ]
     },
     {
+        "id": 208,
+        "name": "ZONA DAZN Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/208/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/208/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Zona Latina (720p)",
         "servers": [
@@ -1410,21 +1466,21 @@
     },
     {
         "id": null,
-        "name": "Zoo Moo (Australia) (1080p)",
+        "name": "Zoo TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+                "link": "http://31.148.48.15/Zoo_TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+                "link": "http://31.148.48.15/Zoo_TV/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Zoom (1080p)",
+        "name": "Zoom (Colombia) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1438,7 +1494,7 @@
     },
     {
         "id": null,
-        "name": "Zoom (720p)",
+        "name": "Zoom (India) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1452,7 +1508,7 @@
     },
     {
         "id": null,
-        "name": "Zoom Global (720p)",
+        "name": "Zoom (India) Global (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1480,6 +1536,20 @@
     },
     {
         "id": null,
+        "name": "ZooMoo (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zoopark (576i)",
         "servers": [
             {
@@ -1489,20 +1559,6 @@
             {
                 "name": "URL",
                 "link": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zougla TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8"
             }
         ]
     },
@@ -1550,7 +1606,7 @@
     },
     {
         "id": null,
-        "name": "Zurquí TV (720p)",
+        "name": "Zurqui TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1629,132 +1685,6 @@
             {
                 "name": "URL",
                 "link": "https://zweiapp.b-cdn.net/1080p/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Cine Friki (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Ciné Nanar (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Cine Western (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Ciné Western (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Emotion' L (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Fréquence Novelas (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Into Crime (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo ScreamIN (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zylo Todo Novelas (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
             }
         ]
     }

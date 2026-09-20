@@ -29,20 +29,6 @@
     },
     {
         "id": null,
-        "name": "Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jade (1080p)",
         "servers": [
             {
@@ -57,7 +43,77 @@
     },
     {
         "id": null,
-        "name": "JAG",
+        "name": "JAG (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65ccd26060eb870008db95fc.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "JAG (Germany) GB",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "JAG (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "JAG (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "JAG (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "JAG (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -71,7 +127,7 @@
     },
     {
         "id": null,
-        "name": "Jahanbin",
+        "name": "Jahanbin TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -122,20 +178,6 @@
             {
                 "name": "URL",
                 "link": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jail",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8"
             }
         ]
     },
@@ -295,7 +337,7 @@
     },
     {
         "id": null,
-        "name": "Japanim TV (1080p)",
+        "name": "JapanimTV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -323,7 +365,7 @@
     },
     {
         "id": null,
-        "name": "Jászsági Térségi TV (440p)",
+        "name": "Jaszsagi Tersegi TV (440p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -393,7 +435,7 @@
     },
     {
         "id": null,
-        "name": "Jaya TV (1080p)",
+        "name": "Jaya TV (India) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -407,7 +449,7 @@
     },
     {
         "id": null,
-        "name": "Jaya TV (480p)",
+        "name": "Jaya TV (Sri Lanka) (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -435,7 +477,7 @@
     },
     {
         "id": null,
-        "name": "JBN Canal 39 (720p) [Not 24/7]",
+        "name": "JBN (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -477,7 +519,7 @@
     },
     {
         "id": null,
-        "name": "JČ1 (1080p)",
+        "name": "JC1 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -547,7 +589,7 @@
     },
     {
         "id": null,
-        "name": "Jehová Nissi (720p)",
+        "name": "Jehova Nissi (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -589,7 +631,49 @@
     },
     {
         "id": null,
-        "name": "Jersey Shore",
+        "name": "Jersey Shore (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jersey Shore (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jersey Shore (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jersey Shore (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -617,7 +701,35 @@
     },
     {
         "id": null,
-        "name": "Jewelry Television (720p)",
+        "name": "Jersey Shore Family Vacation DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6728c831c7626f0008b28127.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jersey Shore Family Vacation NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jewelry TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -668,6 +780,104 @@
             {
                 "name": "URL",
                 "link": "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu City Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS"
+            },
+            {
+                "name": "URL",
+                "link": "http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu Educational Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu Movie Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu Public & News Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG"
+            },
+            {
+                "name": "URL",
+                "link": "http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu Satellite TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu Sports & Leisure Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY"
+            },
+            {
+                "name": "URL",
+                "link": "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jiangsu Variety Channel (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY"
+            },
+            {
+                "name": "URL",
+                "link": "http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY"
             }
         ]
     },
@@ -743,6 +953,20 @@
     },
     {
         "id": null,
+        "name": "Jiangxi TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Jibek Joly (576p)",
         "servers": [
             {
@@ -771,7 +995,7 @@
     },
     {
         "id": null,
-        "name": "Jihočeská televize (1080p)",
+        "name": "Jihoceska televize (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -911,6 +1135,20 @@
     },
     {
         "id": null,
+        "name": "Jiuquan TV News Comprehensive Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://117.156.28.119/270000001111/1110000001/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://117.156.28.119/270000001111/1110000001/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "JK 24x7 News (720p) [Not 24/7]",
         "servers": [
             {
@@ -967,20 +1205,6 @@
     },
     {
         "id": null,
-        "name": "JOAX-DTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ntv5.mov3.co/hls/ntv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ntv5.mov3.co/hls/ntv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "JOB TV (1080p)",
         "servers": [
             {
@@ -990,20 +1214,6 @@
             {
                 "name": "URL",
                 "link": "https://jobtvserver.eu/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JOCX-DTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fujitv4.mov3.co/hls/fujitv.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fujitv4.mov3.co/hls/fujitv.m3u8"
             }
         ]
     },
@@ -1037,20 +1247,6 @@
     },
     {
         "id": null,
-        "name": "JOEX-DTV (540p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvasahi.mov3.co/hls/tvasahi.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvasahi.mov3.co/hls/tvasahi.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jogja Istimewa TV (720p)",
         "servers": [
             {
@@ -1078,6 +1274,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Johnny Carson TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
+            }
+        ]
+    },
+    {
         "id": "1050",
         "name": "JOJ SK",
         "servers": []
@@ -1096,20 +1306,6 @@
         "id": "24",
         "name": "JOJ Sport Slovakia",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "JOJG-DTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -1211,20 +1407,6 @@
     },
     {
         "id": null,
-        "name": "Jordan Satellite Channel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jordan Songs (1080p)",
         "servers": [
             {
@@ -1266,22 +1448,22 @@
         ]
     },
     {
-        "id": 3,
-        "name": "Jordan TV Sport",
+        "id": null,
+        "name": "Jordan TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Jornada nas Estrelas A Nova Geração",
+        "name": "Jornada nas Estrelas: A Nova Geracao",
         "servers": [
             {
                 "name": "Main Server",
@@ -1295,7 +1477,7 @@
     },
     {
         "id": null,
-        "name": "Jornada nas Estrelas Deep Space Nine",
+        "name": "Jornada nas Estrelas: Deep Space Nine",
         "servers": [
             {
                 "name": "Main Server",
@@ -1309,7 +1491,7 @@
     },
     {
         "id": null,
-        "name": "Jornada nas Estrelas Voyager",
+        "name": "Jornada nas Estrelas: Voyager",
         "servers": [
             {
                 "name": "Main Server",
@@ -1318,20 +1500,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JORX-DTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tbs5.mov3.co/hls/tbs.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tbs5.mov3.co/hls/tbs.m3u8"
             }
         ]
     },
@@ -1351,7 +1519,7 @@
     },
     {
         "id": null,
-        "name": "Josué TV (1080p)",
+        "name": "Josue TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1379,21 +1547,7 @@
     },
     {
         "id": null,
-        "name": "JOTX-DTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "JOURNY TV (720p)",
+        "name": "Journy (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1449,7 +1603,7 @@
     },
     {
         "id": null,
-        "name": "JRTV Järviradio (720p)",
+        "name": "JRTV Jarviradio (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1547,7 +1701,7 @@
     },
     {
         "id": null,
-        "name": "Júbilo TV (720p)",
+        "name": "Jubilo TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1561,7 +1715,21 @@
     },
     {
         "id": null,
-        "name": "Judge Judy",
+        "name": "Judge Judy (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Judge Judy (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1570,6 +1738,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Judge Judy (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Judge Judy (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8"
             }
         ]
     },
@@ -1617,7 +1813,7 @@
     },
     {
         "id": null,
-        "name": "Juntos TV (720p)",
+        "name": "Juntos TV (Chile) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1687,21 +1883,7 @@
     },
     {
         "id": null,
-        "name": "Justicia TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Justicia TV (720p)",
+        "name": "Justicia TV (Mexico) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1715,7 +1897,21 @@
     },
     {
         "id": null,
-        "name": "Juwelo (720p)",
+        "name": "Justicia TV (Peru) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.93.224.42/JUSTICIA-TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Juwelo (Germany) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1729,7 +1925,7 @@
     },
     {
         "id": null,
-        "name": "Juwelo Italia (480p)",
+        "name": "Juwelo (Italy) (480p)",
         "servers": [
             {
                 "name": "Main Server",

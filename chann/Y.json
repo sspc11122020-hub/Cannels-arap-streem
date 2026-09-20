@@ -1,7 +1,7 @@
 [
     {
         "id": null,
-        "name": "Y'a que la vérité qui compte",
+        "name": "Y'a que la verite qui compte",
         "servers": [
             {
                 "name": "Main Server",
@@ -85,7 +85,49 @@
     },
     {
         "id": null,
-        "name": "Yazd",
+        "name": "Yanbian Satellite TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "YaPervyy (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Yaslyk (406p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://alpha.tv.online.tm/hls/ch002.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://alpha.tv.online.tm/hls/ch002.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Yazd TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -222,35 +264,7 @@
     },
     {
         "id": null,
-        "name": "YLE TV 1 (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "YLE TV 2 (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "YLE TV Teema & Fem (1080p) [Not 24/7]",
+        "name": "Yle Teema & Fem (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -264,7 +278,35 @@
     },
     {
         "id": null,
-        "name": "YleX Studio Live (720p)",
+        "name": "Yle TV1 (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Yle TV2 (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "YleX (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -287,6 +329,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Yo! MTV CA (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8"
             }
         ]
     },
@@ -329,6 +385,20 @@
             {
                 "name": "URL",
                 "link": "https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "You Man Cartoon Channel (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8"
             }
         ]
     },
@@ -399,6 +469,20 @@
             {
                 "name": "URL",
                 "link": "https://hls.yourtime.live/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Youtoo America KVVB-LD (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
             }
         ]
     },
@@ -493,7 +577,7 @@
     },
     {
         "id": null,
-        "name": "Yuma AZ CH 72 (1080p)",
+        "name": "Yuma Channel 72 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -507,7 +591,7 @@
     },
     {
         "id": null,
-        "name": "Yuma AZ CH 73 (1080p)",
+        "name": "Yuma Channel 73 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -549,6 +633,20 @@
     },
     {
         "id": null,
+        "name": "Yunnan Satellite TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Yurimaguas TV (720p)",
         "servers": [
             {
@@ -572,6 +670,20 @@
             {
                 "name": "URL",
                 "link": "https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Yuvelirochka (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
             }
         ]
     }

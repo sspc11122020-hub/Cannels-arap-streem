@@ -1,20 +1,6 @@
 [
     {
         "id": null,
-        "name": "K Content by CJ ENM (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "K News India (720p)",
         "servers": [
             {
@@ -24,6 +10,34 @@
             {
                 "name": "URL",
                 "link": "https://legitpro.co.in/knews/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "K Shopping (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "K-Content by CJ ENM (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8"
             }
         ]
     },
@@ -113,7 +127,7 @@
     },
     {
         "id": null,
-        "name": "Kabbalah for the People (Israel) (504p) [Not 24/7]",
+        "name": "Kabbalah for the People Israel (504p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -412,6 +426,20 @@
     },
     {
         "id": null,
+        "name": "Kanaal Z (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kanak News (576p)",
         "servers": [
             {
@@ -425,32 +453,9 @@
         ]
     },
     {
-        "id": 164,
+        "id": "221",
         "name": "Kanal 1 Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/164/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/164/"
-            }
-        ]
-    },
-    {
-        "id": 167,
-        "name": "Kanal 1 Xtra Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/167/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/167/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -618,7 +623,7 @@
     },
     {
         "id": null,
-        "name": "KANAL 58 (720p) [Not 24/7]",
+        "name": "Kanal 58 (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -688,29 +693,29 @@
     },
     {
         "id": null,
-        "name": "Kanal D (1080p)",
+        "name": "Kanal D (Romania) (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
+                "link": "https://stream1.kanald.ro/iphone/knd-live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
+                "link": "https://stream1.kanald.ro/iphone/knd-live.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Kanal D (480p)",
+        "name": "Kanal D (Turkiye) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream1.kanald.ro/iphone/knd-live.m3u8"
+                "link": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
             },
             {
                 "name": "URL",
-                "link": "https://stream1.kanald.ro/iphone/knd-live.m3u8"
+                "link": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
             }
         ]
     },
@@ -945,7 +950,7 @@
     },
     {
         "id": null,
-        "name": "Kantipur TV (1080p)",
+        "name": "Kantipur TV SD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1029,20 +1034,6 @@
     },
     {
         "id": null,
-        "name": "Karaoke por Stingray (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Karbala Documentary",
         "servers": [
             {
@@ -1085,7 +1076,7 @@
     },
     {
         "id": null,
-        "name": "Kartoon Channel (1080p)",
+        "name": "Kartoon Channel! (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1141,20 +1132,6 @@
     },
     {
         "id": null,
-        "name": "KATC 3.1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.cammonitorplus.net/1753/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.cammonitorplus.net/1753/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "KaufBei TV (576p)",
         "servers": [
             {
@@ -1178,6 +1155,20 @@
             {
                 "name": "URL",
                 "link": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kavkaz 24 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8"
             }
         ]
     },
@@ -1258,7 +1249,7 @@
     },
     {
         "id": null,
-        "name": "KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",
+        "name": "KBEV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1286,7 +1277,7 @@
     },
     {
         "id": null,
-        "name": "KBRI Brighton Channel 8 (Brighton CO) (720p)",
+        "name": "KBRI-8 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1314,6 +1305,20 @@
     },
     {
         "id": null,
+        "name": "KBSV 23.1 (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://66.242.170.53/hls/live/temp/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://66.242.170.53/hls/live/temp/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KC2 (720p) [Not 24/7]",
         "servers": [
             {
@@ -1328,7 +1333,7 @@
     },
     {
         "id": null,
-        "name": "KCAT Public Media TV (1080p)",
+        "name": "KCAT (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1356,20 +1361,6 @@
     },
     {
         "id": null,
-        "name": "KCKS-LD 25.3 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "KCL TV (720p)",
         "servers": [
             {
@@ -1384,7 +1375,7 @@
     },
     {
         "id": null,
-        "name": "KCM (1080p) [Geo-blocked]",
+        "name": "KCM India (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1398,7 +1389,7 @@
     },
     {
         "id": null,
-        "name": "KCTV 광주 CH05 (720p) [Not 24/7]",
+        "name": "KCTV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1407,20 +1398,6 @@
             {
                 "name": "URL",
                 "link": "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KDFW-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8"
             }
         ]
     },
@@ -1472,20 +1449,6 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kenan y Kel",
-        "servers": [
-            {
-                "name": "Main Server",
                 "link": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8"
             },
             {
@@ -1496,7 +1459,21 @@
     },
     {
         "id": null,
-        "name": "Kent Türk TV (1080p) [Not 24/7]",
+        "name": "Kenan & Kel BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kent Turk (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1505,6 +1482,34 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kentucky Educational Television WKMJ-TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kentucky Educational Television WKPC-TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
             }
         ]
     },
@@ -1524,7 +1529,7 @@
     },
     {
         "id": null,
-        "name": "Kerman",
+        "name": "Kerman TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1538,7 +1543,7 @@
     },
     {
         "id": null,
-        "name": "Kern County Television",
+        "name": "Kern County TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1580,6 +1585,20 @@
     },
     {
         "id": null,
+        "name": "Kevin Hart's LOL! Network (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Key & Peele",
         "servers": [
             {
@@ -1594,15 +1613,43 @@
     },
     {
         "id": null,
-        "name": "KFTR-DT1 [Geo-blocked]",
+        "name": "Key & Peele DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
+                "link": "https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8"
+                "link": "https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Key & Peele NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65cba7573ba51e00084d76e1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KFON TV (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8"
             }
         ]
     },
@@ -1650,21 +1697,7 @@
     },
     {
         "id": null,
-        "name": "Khalij TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://khalijhls.wns.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://khalijhls.wns.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Khalij-e Fars",
+        "name": "Khalij-e Fars TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1706,7 +1739,7 @@
     },
     {
         "id": null,
-        "name": "Khavaran",
+        "name": "Khavaran TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1743,11 +1776,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/178/index.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/178/index.m3u8"
+                "link": "http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8"
             }
         ]
     },
@@ -1758,7 +1791,7 @@
     },
     {
         "id": null,
-        "name": "Khorasan Razavi",
+        "name": "Khorasan Razavi TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1772,7 +1805,7 @@
     },
     {
         "id": null,
-        "name": "Khozestan",
+        "name": "Khozestan TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -1898,6 +1931,20 @@
     },
     {
         "id": null,
+        "name": "KIIO-LD 10.4 (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KiKA (1080p) [Not 24/7]",
         "servers": [
             {
@@ -1954,6 +2001,20 @@
     },
     {
         "id": null,
+        "name": "Kineko (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Kineko_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Kineko_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "King TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -1982,6 +2043,20 @@
     },
     {
         "id": null,
+        "name": "Kino 1 (Russia) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://kino-1.catcast.tv/content/38617/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://kino-1.catcast.tv/content/38617/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kino 24 (720p)",
         "servers": [
             {
@@ -1991,6 +2066,20 @@
             {
                 "name": "URL",
                 "link": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kino TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Kino_TV_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Kino_TV_HD/index.m3u8"
             }
         ]
     },
@@ -2122,6 +2211,20 @@
     },
     {
         "id": null,
+        "name": "KinoSat (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Kineko/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Kineko/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kinosemja (576p)",
         "servers": [
             {
@@ -2192,21 +2295,7 @@
     },
     {
         "id": null,
-        "name": "KIRO-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kish",
+        "name": "Kish TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -2220,7 +2309,7 @@
     },
     {
         "id": null,
-        "name": "Kiskőrös TV (720p)",
+        "name": "Kiskoros TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2290,7 +2379,7 @@
     },
     {
         "id": null,
-        "name": "KITE Victers (Kerala) (720p) [Not 24/7]",
+        "name": "Kite Victers (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2299,20 +2388,6 @@
             {
                 "name": "URL",
                 "link": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KITV 4 Island News (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8"
             }
         ]
     },
@@ -2332,7 +2407,7 @@
     },
     {
         "id": null,
-        "name": "KK TV Angola (1080p)",
+        "name": "KK TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2402,7 +2477,7 @@
     },
     {
         "id": null,
-        "name": "Klasik TV (576p) [Not 24/7]",
+        "name": "Klasik (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2458,34 +2533,6 @@
     },
     {
         "id": null,
-        "name": "KMEX-DT1 [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KMSP-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "KN Music TV",
         "servers": [
             {
@@ -2500,7 +2547,7 @@
     },
     {
         "id": null,
-        "name": "Knal 4 Quiché (720p) [Not 24/7]",
+        "name": "Knal 4 Quiche (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2542,6 +2589,20 @@
     },
     {
         "id": null,
+        "name": "KNOV-CD 41.1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Knowledge Network (720p) [Geo-blocked]",
         "servers": [
             {
@@ -2556,15 +2617,15 @@
     },
     {
         "id": null,
-        "name": "KNTV-DT1 (1080p)",
+        "name": "KNXV-TV 61.1 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
+                "link": "https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
+                "link": "https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8"
             }
         ]
     },
@@ -2584,7 +2645,7 @@
     },
     {
         "id": null,
-        "name": "Koch'en på toppen",
+        "name": "Koch'en pa toppen",
         "servers": [
             {
                 "name": "Main Server",
@@ -2593,6 +2654,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KOCT Channel 18 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KOCT Channel 19 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8"
             }
         ]
     },
@@ -2626,21 +2715,7 @@
     },
     {
         "id": null,
-        "name": "KOKI-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kókshe (720p) [Not 24/7]",
+        "name": "Kokshe (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2696,7 +2771,7 @@
     },
     {
         "id": null,
-        "name": "Komáromi Televízió (400p)",
+        "name": "Komaromi Televizio (400p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2738,7 +2813,7 @@
     },
     {
         "id": null,
-        "name": "Komlós TV (1080p) [Not 24/7]",
+        "name": "Komlos TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2850,7 +2925,7 @@
     },
     {
         "id": null,
-        "name": "Kordestan",
+        "name": "Kordestan TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -2873,20 +2948,6 @@
             {
                 "name": "URL",
                 "link": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Korea TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
             }
         ]
     },
@@ -2962,35 +3023,7 @@
     },
     {
         "id": null,
-        "name": "KPVM AWE Plus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KPVM Newsmax 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KPVM Prime TV25",
+        "name": "KPVM-LD 25.1",
         "servers": [
             {
                 "name": "Main Server",
@@ -3004,35 +3037,7 @@
     },
     {
         "id": null,
-        "name": "KQED-DT2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KQSL Channel 8 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KRAL Pop TV (720p)",
+        "name": "Kral Pop TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3060,21 +3065,7 @@
     },
     {
         "id": null,
-        "name": "KRCA-TV Estrella Los Angeles (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KRGV-DT2 [Geo-blocked]",
+        "name": "KRGV-TV 5.2 [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3088,15 +3079,15 @@
     },
     {
         "id": null,
-        "name": "KRIS-DT1 (1080p)",
+        "name": "Krik-TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8"
+                "link": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8"
+                "link": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8"
             }
         ]
     },
@@ -3116,20 +3107,6 @@
     },
     {
         "id": null,
-        "name": "KRIV-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Kronehit (1080p)",
         "servers": [
             {
@@ -3144,57 +3121,29 @@
     },
     {
         "id": null,
-        "name": "KSAZ-DT1 (1080p)",
+        "name": "KSCE 38.1 (360p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
+                "link": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8"
+                "link": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "KSCE Vida Cristiana (360p)",
+        "name": "KSCE 38.3 (360p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
+                "link": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KSHB 41 (Kansas City MO) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KShopping (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8"
+                "link": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
             }
         ]
     },
@@ -3216,20 +3165,6 @@
         "id": "5004",
         "name": "KSWTV",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "KTBC-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -3303,7 +3238,7 @@
     },
     {
         "id": null,
-        "name": "KTOO 360TV 3 (FNX)",
+        "name": "KTOO 360TV KTOO-TV",
         "servers": [
             {
                 "name": "Main Server",
@@ -3317,15 +3252,15 @@
     },
     {
         "id": null,
-        "name": "KTTV-DT1 (1080p)",
+        "name": "KTV (South Korea) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+                "link": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8"
+                "link": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
             }
         ]
     },
@@ -3499,7 +3434,7 @@
     },
     {
         "id": null,
-        "name": "Kunskapskanalen (1080p) [Geo-blocked]",
+        "name": "Kunskapskanalen HD (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3508,6 +3443,20 @@
             {
                 "name": "URL",
                 "link": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kuraj-TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
             }
         ]
     },
@@ -3653,48 +3602,6 @@
     },
     {
         "id": null,
-        "name": "KUVN-DT1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KVF (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://w-live-edge1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KVIE-DT2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "KVN TV (576p)",
         "servers": [
             {
@@ -3709,29 +3616,15 @@
     },
     {
         "id": null,
-        "name": "KVVB-TV 33 Victor Valley (1080p) [Not 24/7]",
+        "name": "KVTN-DT 25.1 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
+                "link": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KXAS-DT1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL"
-            },
-            {
-                "name": "URL",
-                "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL"
+                "link": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8"
             }
         ]
     },
@@ -3746,20 +3639,6 @@
             {
                 "name": "URL",
                 "link": "https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KZTV-DT1 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8"
             }
         ]
     }

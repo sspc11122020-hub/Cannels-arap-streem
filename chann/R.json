@@ -277,7 +277,7 @@
     },
     {
         "id": null,
-        "name": "Radio 1 (720p)",
+        "name": "Radio 1 (Belgium) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -291,7 +291,7 @@
     },
     {
         "id": null,
-        "name": "Radio 1 (720p) [Geo-blocked]",
+        "name": "Radio 1 (Russia) (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -473,7 +473,7 @@
     },
     {
         "id": null,
-        "name": "Radio Ancón (720p)",
+        "name": "Radio Ancon (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -515,7 +515,7 @@
     },
     {
         "id": null,
-        "name": "Ràdio Bocairent TV (1080p) [Not 24/7]",
+        "name": "Radio Bocairent TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -711,7 +711,7 @@
     },
     {
         "id": null,
-        "name": "Radio Cuenca Estéreo (720p)",
+        "name": "Radio Cuenca Estereo (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -720,20 +720,6 @@
             {
                 "name": "URL",
                 "link": "https://eu1.servers10.com:8081/8074/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Radio Czwórka (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
             }
         ]
     },
@@ -823,7 +809,7 @@
     },
     {
         "id": null,
-        "name": "Radio Fantástica 98.9 FM (1080p)",
+        "name": "Radio Fantastica 98.9 FM (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -860,20 +846,6 @@
             {
                 "name": "URL",
                 "link": "https://tv.webmedialive.com/fiestatv/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Radio Freccia TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
             }
         ]
     },
@@ -963,7 +935,7 @@
     },
     {
         "id": null,
-        "name": "Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]",
+        "name": "Radio Ideal (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1005,20 +977,6 @@
     },
     {
         "id": null,
-        "name": "Radio Imagen 105.1 FM (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.imagenfm105-1.com/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Radio Impacto 2 (288p) [Not 24/7]",
         "servers": [
             {
@@ -1042,34 +1000,6 @@
             {
                 "name": "URL",
                 "link": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Radio Italia Trend (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Radio Javan TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rjtvhls.wns.live/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rjtvhls.wns.live/hls/stream.m3u8"
             }
         ]
     },
@@ -1145,7 +1075,7 @@
     },
     {
         "id": null,
-        "name": "Radio Lola (720p) [Not 24/7]",
+        "name": "Radio Lola TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1313,6 +1243,20 @@
     },
     {
         "id": null,
+        "name": "Radio Omega TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Onda Digital (1080p)",
         "servers": [
             {
@@ -1425,7 +1369,7 @@
     },
     {
         "id": null,
-        "name": "Radio Ritmo (1080p) [Not 24/7]",
+        "name": "Radio Ritmo FM (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1537,7 +1481,21 @@
     },
     {
         "id": null,
-        "name": "Rádio Sines (720p) [Geo-blocked]",
+        "name": "Radio Shanson (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radio Sines (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1635,7 +1593,7 @@
     },
     {
         "id": null,
-        "name": "Radio Télé 4VEH (720p)",
+        "name": "Radio Tele 4VEH (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1649,7 +1607,7 @@
     },
     {
         "id": null,
-        "name": "Radio Télé Amen FM (360p) [Not 24/7]",
+        "name": "Radio Tele Amen FM (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1705,7 +1663,7 @@
     },
     {
         "id": null,
-        "name": "Radio Télé Hit (480p)",
+        "name": "Radio Tele Hit (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1719,7 +1677,7 @@
     },
     {
         "id": null,
-        "name": "Radio Télé Kajou (480p) [Not 24/7]",
+        "name": "Radio Tele Kajou (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1775,7 +1733,7 @@
     },
     {
         "id": null,
-        "name": "Radio Télé Wisdom (360p) [Not 24/7]",
+        "name": "Radio Tele Wisdom (360p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1789,7 +1747,21 @@
     },
     {
         "id": null,
-        "name": "Radio Télévision Shilo (720p) [Not 24/7]",
+        "name": "Radio Television Marbella (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radio Television Shilo (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1817,7 +1789,7 @@
     },
     {
         "id": null,
-        "name": "Radio televizija Rožaje (614p) [Not 24/7]",
+        "name": "Radio televizija Rozaje (614p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1831,7 +1803,7 @@
     },
     {
         "id": null,
-        "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+        "name": "Radio Tropical (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1873,7 +1845,7 @@
     },
     {
         "id": null,
-        "name": "Radio TV Neuquén (720p) [Not 24/7]",
+        "name": "Radio TV Neuquen (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2013,7 +1985,7 @@
     },
     {
         "id": null,
-        "name": "Radio Visión de Dios Stereo (720p) [Not 24/7]",
+        "name": "Radio Vision de Dios Stereo (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2041,7 +2013,7 @@
     },
     {
         "id": null,
-        "name": "Radio y Televisión Crisol de la Alegría (1080p) [Not 24/7]",
+        "name": "Radio y Television Crisol de la Alegria (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2055,7 +2027,7 @@
     },
     {
         "id": null,
-        "name": "Radio y Televisión Martí (720p)",
+        "name": "Radio y Television Marti (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2083,7 +2055,7 @@
     },
     {
         "id": null,
-        "name": "Radio Yguazú TV (480p)",
+        "name": "Radio Yguazu TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2097,7 +2069,7 @@
     },
     {
         "id": null,
-        "name": "Radio Zeta TV (1080p)",
+        "name": "Radio Zeta (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2125,7 +2097,7 @@
     },
     {
         "id": null,
-        "name": "Radiocanal San Francisco (1080p)",
+        "name": "Radiocanal (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2134,6 +2106,20 @@
             {
                 "name": "URL",
                 "link": "http://204.199.3.2/.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radiofreccia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
             }
         ]
     },
@@ -2167,7 +2153,7 @@
     },
     {
         "id": null,
-        "name": "Radiotele Morelia (352p)",
+        "name": "Radiotele (352p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2204,6 +2190,20 @@
             {
                 "name": "URL",
                 "link": "https://live.obslivestream.com/tvoriente/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radiowa Czworka (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
             }
         ]
     },
@@ -2343,6 +2343,20 @@
         "id": "858",
         "name": "Rai Premium Italy",
         "servers": []
+    },
+    {
+        "id": 882,
+        "name": "RAI Sport 1 Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/882/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/882/"
+            }
+        ]
     },
     {
         "id": "882",
@@ -2533,21 +2547,7 @@
     },
     {
         "id": null,
-        "name": "Raj TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rajdhani TV (1080p)",
+        "name": "Rajdhani TV SD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2575,7 +2575,7 @@
     },
     {
         "id": null,
-        "name": "Rákosmente TV (720p)",
+        "name": "Rakosmente TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2589,15 +2589,15 @@
     },
     {
         "id": null,
-        "name": "Rakuten Top Movies UK (1080p)",
+        "name": "Rakuten TV Action Movies (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+                "link": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+                "link": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
             }
         ]
     },
@@ -2659,20 +2659,6 @@
     },
     {
         "id": null,
-        "name": "Rakuten TV Action Movies Spain (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rakuten TV Action Movies UK (1080p)",
         "servers": [
             {
@@ -2682,6 +2668,20 @@
             {
                 "name": "URL",
                 "link": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rakuten TV Comedy Movies (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
             }
         ]
     },
@@ -2743,20 +2743,6 @@
     },
     {
         "id": null,
-        "name": "Rakuten TV Comedy Movies Spain (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rakuten TV Comedy Movies UK (1080p)",
         "servers": [
             {
@@ -2766,6 +2752,20 @@
             {
                 "name": "URL",
                 "link": "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rakuten TV Drama Movies (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
             }
         ]
     },
@@ -2827,20 +2827,6 @@
     },
     {
         "id": null,
-        "name": "Rakuten TV Drama Movies Spain (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rakuten TV Drama Movies UK (1080p)",
         "servers": [
             {
@@ -2850,6 +2836,20 @@
             {
                 "name": "URL",
                 "link": "https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rakuten TV Family Movies (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
             }
         ]
     },
@@ -2911,15 +2911,15 @@
     },
     {
         "id": null,
-        "name": "Rakuten TV Family Movies Spain (1080p)",
+        "name": "Rakuten TV Family Movies Switzerland (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+                "link": "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8"
+                "link": "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
             }
         ]
     },
@@ -2939,20 +2939,6 @@
     },
     {
         "id": null,
-        "name": "Rakuten TV Family Switzerland (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rakuten TV Nordic Films (1080p)",
         "servers": [
             {
@@ -2962,6 +2948,20 @@
             {
                 "name": "URL",
                 "link": "https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rakuten TV Top Movies (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
             }
         ]
     },
@@ -3009,29 +3009,15 @@
     },
     {
         "id": null,
-        "name": "Rakuten TV Top Movies Spain (1080p)",
+        "name": "Rakuten TV Top Movies UK (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
+                "link": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rakuten VIKI",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+                "link": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
             }
         ]
     },
@@ -3046,6 +3032,20 @@
             {
                 "name": "URL",
                 "link": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rakuten Viki Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
             }
         ]
     },
@@ -3121,20 +3121,6 @@
             {
                 "name": "URL",
                 "link": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8"
             }
         ]
     },
@@ -3252,7 +3238,49 @@
     },
     {
         "id": null,
-        "name": "Rawhide",
+        "name": "Rawhide (Sweden)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rawhide (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rawhide (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rawhide (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3261,6 +3289,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rawhide (United States) CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8"
             }
         ]
     },
@@ -3280,7 +3322,7 @@
     },
     {
         "id": null,
-        "name": "Ray TV HD (576p)",
+        "name": "Ray TV HD SD (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3378,34 +3420,6 @@
     },
     {
         "id": null,
-        "name": "RBB Berlin (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RBB Brandenburg (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "rbb Fernsehen",
         "servers": [
             {
@@ -3420,7 +3434,35 @@
     },
     {
         "id": null,
-        "name": "RBK-TV SD (576p)",
+        "name": "rbb Fernsehen Berlin (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "rbb Fernsehen Brandenburg (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RBK-TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3504,7 +3546,7 @@
     },
     {
         "id": null,
-        "name": "RCN Más (1080p)",
+        "name": "RCN Mas (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3513,20 +3555,6 @@
             {
                 "name": "URL",
                 "link": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RCN Noticias (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8"
             }
         ]
     },
@@ -3565,6 +3593,20 @@
     },
     {
         "id": null,
+        "name": "RCTV (United States) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RCTV Brasil",
         "servers": [
             {
@@ -3574,6 +3616,20 @@
             {
                 "name": "URL",
                 "link": "https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RCTV3 (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8"
             }
         ]
     },
@@ -3606,9 +3662,18 @@
         ]
     },
     {
-        "id": "840",
+        "id": 840,
         "name": "RDS 2 CA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
     },
     {
         "id": 839,
@@ -3846,6 +3911,34 @@
     },
     {
         "id": null,
+        "name": "Realitatea TV (406p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://realitatealive.md/tv/rlive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://realitatealive.md/tv/rlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Reality Channel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RealityKings",
         "servers": [
             {
@@ -3888,77 +3981,7 @@
     },
     {
         "id": null,
-        "name": "Record TV Belem (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Record TV Brasilia (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Record TV Goias (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Record TV Itapoan (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Record TV Rio (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Record TV RS (720p) [Geo-blocked]",
+        "name": "Record RS (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3972,15 +3995,43 @@
     },
     {
         "id": null,
-        "name": "Record TV SP (720p) [Geo-blocked]",
+        "name": "RecordTV Belem (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8"
+                "link": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8"
+                "link": "https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RecordTV Brasilia (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RecordTV Goias (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8"
             }
         ]
     },
@@ -4000,15 +4051,43 @@
     },
     {
         "id": null,
-        "name": "Red ADvenir TV (360p) [Not 24/7]",
+        "name": "RecordTV Itapoan (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8"
+                "link": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8"
+                "link": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RecordTV Rio (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RecordTV Sao Paulo (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8"
             }
         ]
     },
@@ -4028,7 +4107,7 @@
     },
     {
         "id": null,
-        "name": "Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]",
+        "name": "Red Apple 21 (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4046,11 +4125,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+                "link": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+                "link": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
             }
         ]
     },
@@ -4107,6 +4186,20 @@
             {
                 "name": "URL",
                 "link": "https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Red Bull TV SD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
             }
         ]
     },
@@ -4224,6 +4317,20 @@
     },
     {
         "id": null,
+        "name": "Red Line (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Red Rubi (720p)",
         "servers": [
             {
@@ -4308,20 +4415,6 @@
     },
     {
         "id": null,
-        "name": "Red Uno (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.181.18.82:4111/play/a005/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.181.18.82:4111/play/a005/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Red Uno La Paz (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4336,20 +4429,6 @@
     },
     {
         "id": null,
-        "name": "Red Uno Santa Cruz (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.181.18.82:4111/play/a006/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.181.18.82:4111/play/a006/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Red+ (1080p)",
         "servers": [
             {
@@ -4359,6 +4438,34 @@
             {
                 "name": "URL",
                 "link": "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RedADvenir TV (360p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RedADvenir TV KSCE (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
             }
         ]
     },
@@ -4635,7 +4742,7 @@
     },
     {
         "id": null,
-        "name": "REFLET TV (1080p)",
+        "name": "Reflet TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4677,7 +4784,7 @@
     },
     {
         "id": null,
-        "name": "Régió TV (406p)",
+        "name": "Regio TV (406p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4789,7 +4896,7 @@
     },
     {
         "id": null,
-        "name": "RégióPlusz TV (1080p) [Geo-blocked]",
+        "name": "RegioPlusz TV (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4812,20 +4919,6 @@
             {
                 "name": "URL",
                 "link": "https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Relevant TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8"
             }
         ]
     },
@@ -4929,7 +5022,35 @@
     },
     {
         "id": null,
-        "name": "Renome (576p)",
+        "name": "Reno 911 DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Reno 911 NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Renome TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4952,6 +5073,20 @@
             {
                 "name": "URL",
                 "link": "https://deb10stream.duckdns.org/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Reporter (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8"
             }
         ]
     },
@@ -5041,7 +5176,7 @@
     },
     {
         "id": null,
-        "name": "República TV (720p)",
+        "name": "Republica TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5195,7 +5330,7 @@
     },
     {
         "id": null,
-        "name": "Retro Music Television (360p)",
+        "name": "Retro Music TV (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5265,7 +5400,7 @@
     },
     {
         "id": null,
-        "name": "Reuters (1080p)",
+        "name": "Reuters TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5293,7 +5428,7 @@
     },
     {
         "id": null,
-        "name": "Rev'n Action (720p)",
+        "name": "REV'N Action (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5330,20 +5465,6 @@
             {
                 "name": "URL",
                 "link": "https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Revry (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
             }
         ]
     },
@@ -5503,7 +5624,7 @@
     },
     {
         "id": null,
-        "name": "Rhône TV (1080p) [Geo-blocked]",
+        "name": "Rhone TV (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -5601,21 +5722,7 @@
     },
     {
         "id": null,
-        "name": "Ridiculousness",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ridiculousness (720p)",
+        "name": "Ridiculousness (Germany) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5629,7 +5736,21 @@
     },
     {
         "id": null,
-        "name": "Ridiculousness Nya avsnitt",
+        "name": "Ridiculousness (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ridiculousness: Nya avsnitt",
         "servers": [
             {
                 "name": "Main Server",
@@ -5643,7 +5764,7 @@
     },
     {
         "id": null,
-        "name": "Ridiculousness Nye afsnit",
+        "name": "Ridiculousness: Nye afsnit",
         "servers": [
             {
                 "name": "Main Server",
@@ -5657,7 +5778,7 @@
     },
     {
         "id": null,
-        "name": "Ridiculousness Nye episoder",
+        "name": "Ridiculousness: Nye episoder",
         "servers": [
             {
                 "name": "Main Server",
@@ -5685,21 +5806,7 @@
     },
     {
         "id": null,
-        "name": "Rifle Community TV RCTV (Rifle CO) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RightNow TV (720p)",
+        "name": "Right Now TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5769,6 +5876,20 @@
     },
     {
         "id": null,
+        "name": "RIK Sat (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rika TV (480p)",
         "servers": [
             {
@@ -5830,20 +5951,6 @@
     },
     {
         "id": null,
-        "name": "Rioja Televisión (360p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rioni TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -5900,6 +6007,34 @@
     },
     {
         "id": null,
+        "name": "Rivne 1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RJTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rjtvhls.wns.live/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rjtvhls.wns.live/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RL PRO TV",
         "servers": [
             {
@@ -5909,20 +6044,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rlive TV (406p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://realitatealive.md/tv/rlive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://realitatealive.md/tv/rlive.m3u8"
             }
         ]
     },
@@ -6068,7 +6189,7 @@
     },
     {
         "id": null,
-        "name": "RN Televisión (720p) [Not 24/7]",
+        "name": "RN Television (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -6082,7 +6203,7 @@
     },
     {
         "id": null,
-        "name": "RN7 TV (1080p)",
+        "name": "RN7 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6147,6 +6268,62 @@
             {
                 "name": "URL",
                 "link": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Roar KCWX (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Roar KOKI-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Roar WKEF (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Roar WSBT-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -6236,7 +6413,7 @@
     },
     {
         "id": null,
-        "name": "Rock TV (1080p) [Not 24/7]",
+        "name": "Rock TV (North Macedonia) (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -6250,7 +6427,7 @@
     },
     {
         "id": null,
-        "name": "Rock TV (720p)",
+        "name": "Rock TV (Romania) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6292,7 +6469,7 @@
     },
     {
         "id": null,
-        "name": "Rocky Hill Government Access Channel 16 (480p)",
+        "name": "Rocky Hill Channel 16 (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6521,7 +6698,7 @@
     },
     {
         "id": null,
-        "name": "Roya TV",
+        "name": "Roya TV (Iran)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6530,6 +6707,20 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/iribu/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Roya TV (Jordan) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8"
             }
         ]
     },
@@ -6577,7 +6768,7 @@
     },
     {
         "id": null,
-        "name": "RPL TV Woerden (720p)",
+        "name": "RPL Woerden (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6713,7 +6904,7 @@
     },
     {
         "id": null,
-        "name": "RT Documentary English (1080p) [Geo-blocked]",
+        "name": "RT Documentary (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -6975,7 +7166,7 @@
     },
     {
         "id": null,
-        "name": "RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]",
+        "name": "RTHK TV 31 (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -6989,7 +7180,7 @@
     },
     {
         "id": null,
-        "name": "RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]",
+        "name": "RTHK TV 32 (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7003,7 +7194,7 @@
     },
     {
         "id": null,
-        "name": "RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]",
+        "name": "RTHK TV 33 (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7017,7 +7208,7 @@
     },
     {
         "id": null,
-        "name": "RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]",
+        "name": "RTHK TV 34 (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7031,7 +7222,7 @@
     },
     {
         "id": null,
-        "name": "RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]",
+        "name": "RTHK TV 35 (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7087,7 +7278,7 @@
     },
     {
         "id": null,
-        "name": "RTL",
+        "name": "RTL (Germany)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7157,7 +7348,7 @@
     },
     {
         "id": null,
-        "name": "RTL 102.5 Napulè (1080p)",
+        "name": "RTL 102.5 Napule (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7203,22 +7394,22 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
     {
         "id": null,
-        "name": "RTL Gold",
+        "name": "RTL Gold (Hungary)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7232,7 +7423,7 @@
     },
     {
         "id": null,
-        "name": "RTL Gold (1080p)",
+        "name": "RTL Gold (Luxembourg) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7246,21 +7437,7 @@
     },
     {
         "id": null,
-        "name": "RTL Radio Web TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTL Télé Lëtzebuerg (1080p)",
+        "name": "RTL Tele Letzebuerg (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7274,15 +7451,15 @@
     },
     {
         "id": null,
-        "name": "RTL Today Radio (720p)",
+        "name": "RTL Web Radio TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+                "link": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8"
+                "link": "https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
             }
         ]
     },
@@ -7363,20 +7540,6 @@
     },
     {
         "id": null,
-        "name": "RTM Plus (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://www.rtmplus.cz/live/1-playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://www.rtmplus.cz/live/1-playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "RTM TV (1080p)",
         "servers": [
             {
@@ -7391,21 +7554,21 @@
     },
     {
         "id": null,
-        "name": "RTN",
+        "name": "RTM+ (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
+                "link": "https://www.rtmplus.cz/live/1-playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
+                "link": "https://www.rtmplus.cz/live/1-playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "RTN (Neuquén) (720p) [Not 24/7]",
+        "name": "RTN (Argentina) (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7414,6 +7577,20 @@
             {
                 "name": "URL",
                 "link": "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTN (United States)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.59.210.197:8815/udp/127.0.0.1:6002"
             }
         ]
     },
@@ -7433,21 +7610,7 @@
     },
     {
         "id": null,
-        "name": "RTP (404p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTP (576p)",
+        "name": "RTP (Bolivia) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7461,7 +7624,21 @@
     },
     {
         "id": null,
-        "name": "RTP (720p)",
+        "name": "RTP (Italy) (404p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTP (Peru) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7504,7 +7681,7 @@
     },
     {
         "id": null,
-        "name": "RTQ Querétaro (1080p)",
+        "name": "RTQ Queretaro (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7513,34 +7690,6 @@
             {
                 "name": "URL",
                 "link": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTR Planeta Europe (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTR Planeta USA (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8"
             }
         ]
     },
@@ -7559,13 +7708,55 @@
         ]
     },
     {
+        "id": null,
+        "name": "RTR-Planeta Asia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTR-Planeta Europe (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTR-Planeta US (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8"
+            }
+        ]
+    },
+    {
         "id": "3098",
         "name": "RTRS Moldova",
         "servers": []
     },
     {
         "id": null,
-        "name": "RTRS Plus (576p) [Not 24/7]",
+        "name": "RTRS plus (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7659,7 +7850,7 @@
     },
     {
         "id": null,
-        "name": "RTS 3 (720p)",
+        "name": "RTS 3 (Senegal) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7668,6 +7859,20 @@
             {
                 "name": "URL",
                 "link": "http://145.239.5.177/224/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTS 3 (Serbia) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://185.81.240.65:15000/udp/233.233.233.36:12000"
+            },
+            {
+                "name": "URL",
+                "link": "http://185.81.240.65:15000/udp/233.233.233.36:12000"
             }
         ]
     },
@@ -7854,9 +8059,18 @@
         ]
     },
     {
-        "id": "192",
+        "id": 28,
         "name": "RTSH Sport Albania",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/28/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/28/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7902,7 +8116,7 @@
     },
     {
         "id": null,
-        "name": "RTV (1080p) [Not 24/7]",
+        "name": "RTV (Austria) (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -7916,7 +8130,35 @@
     },
     {
         "id": null,
-        "name": "RTV (720p)",
+        "name": "RTV (Bangladesh) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTV (Ecuador) (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTV (South Korea) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7930,7 +8172,7 @@
     },
     {
         "id": null,
-        "name": "RTV 1 (720p)",
+        "name": "RTV 1 (Netherlands) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7944,7 +8186,7 @@
     },
     {
         "id": null,
-        "name": "RTV Arnhem (480p) [Not 24/7]",
+        "name": "RTV Arnhem TV (480p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8028,7 +8270,7 @@
     },
     {
         "id": null,
-        "name": "RTV Herceg-Bosne (576p) [Not 24/7]",
+        "name": "RTV HB (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -8093,20 +8335,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTV Marbella (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
             }
         ]
     },
@@ -8308,34 +8536,6 @@
     },
     {
         "id": null,
-        "name": "RTV Riobamba (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RTV Rwanda (480p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "RTV SLOS (720p)",
         "servers": [
             {
@@ -8364,7 +8564,7 @@
     },
     {
         "id": null,
-        "name": "RTV Veluwezoom (720p)",
+        "name": "RTV Veluwezoom TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8489,18 +8689,9 @@
         ]
     },
     {
-        "id": 4,
+        "id": "255",
         "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8560,7 +8751,7 @@
     },
     {
         "id": null,
-        "name": "Rugby Pass TV (720p)",
+        "name": "RugbyPass TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8579,7 +8770,21 @@
     },
     {
         "id": null,
-        "name": "Rugrats",
+        "name": "Rugrats (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rugrats (United States)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8695,11 +8900,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8"
+                "link": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8"
+                "link": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8"
             }
         ]
     },
@@ -8775,6 +8980,20 @@
     },
     {
         "id": null,
+        "name": "Russia-1 +9 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Russia-1 HD (1080p)",
         "servers": [
             {
@@ -8784,6 +9003,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Russia-24 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8"
             }
         ]
     },
@@ -8943,6 +9176,20 @@
     },
     {
         "id": null,
+        "name": "Russkiy roman (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rustavi 2",
         "servers": [
             {
@@ -8984,22 +9231,22 @@
         ]
     },
     {
-        "id": 3079,
+        "id": 3080,
         "name": "Ruutu+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3079/"
+                "link": "https://tvnow247.top/embed/3080/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3079/"
+                "link": "https://tvnow247.top/embed/3080/"
             }
         ]
     },
     {
         "id": null,
-        "name": "RÚV (720p)",
+        "name": "RUV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9013,7 +9260,7 @@
     },
     {
         "id": null,
-        "name": "RÚV 2 (1080p)",
+        "name": "RUV 2 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9092,6 +9339,20 @@
             {
                 "name": "URL",
                 "link": "https://livestream.telvue.com/roguevalleycmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rwanda TV (480p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8"
             }
         ]
     },
@@ -9195,15 +9456,15 @@
     },
     {
         "id": null,
-        "name": "RΙΚ Sat (CYBC S) (720p) [Not 24/7]",
+        "name": "RZD TV (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+                "link": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+                "link": "http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8"
             }
         ]
     }
