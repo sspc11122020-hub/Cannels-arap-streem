@@ -197,15 +197,15 @@
     },
     {
         "id": null,
-        "name": "Nambikkai TV (576p)",
+        "name": "Nambikkai TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1389/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt02.tangotv.in/NAMBIKKAITV/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1389/master.m3u8"
             }
         ]
     },
@@ -1289,9 +1289,18 @@
         ]
     },
     {
-        "id": "404",
+        "id": 404,
         "name": "NBA TV USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/404/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/404/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1490,9 +1499,18 @@
         ]
     },
     {
-        "id": "754",
+        "id": 754,
         "name": "NBC Sports Boston",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/754/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/754/"
+            }
+        ]
     },
     {
         "id": "755",
@@ -2322,11 +2340,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/StarUtsavMovies/playlist.m3u8"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8"
             }
         ]
     },
@@ -3854,9 +3872,18 @@
         ]
     },
     {
-        "id": "3002",
+        "id": 5183,
         "name": "NFL Game Pass",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5183/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5183/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3901,14 +3928,74 @@
         ]
     },
     {
-        "id": "667",
-        "name": "NFL RedZone",
-        "servers": []
+        "id": 4044,
+        "name": "NFL Redzone",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4044/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4044/"
+            }
+        ]
     },
     {
-        "id": "8056",
+        "id": 3040,
+        "name": "NFL RedZone",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3040/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3040/"
+            }
+        ]
+    },
+    {
+        "id": 2001,
+        "name": "NFL Redzone Feed",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/2001/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/2001/"
+            }
+        ]
+    },
+    {
+        "id": 5101,
+        "name": "NFL Redzone Stream",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5101/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5101/"
+            }
+        ]
+    },
+    {
+        "id": 3038,
         "name": "NFL Sunday Ticket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3038/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3038/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4070,16 +4157,16 @@
         "servers": []
     },
     {
-        "id": 3004,
+        "id": 3005,
         "name": "NHL Gamecenter",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3004/"
+                "link": "https://tvnow247.top/embed/3005/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3004/"
+                "link": "https://tvnow247.top/embed/3005/"
             }
         ]
     },
@@ -5844,6 +5931,20 @@
         "servers": []
     },
     {
+        "id": 1021,
+        "name": "Nova SPORT 1 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1021/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1021/"
+            }
+        ]
+    },
+    {
         "id": "1022",
         "name": "Nova Sport 2 CZ",
         "servers": []
@@ -5919,18 +6020,9 @@
         ]
     },
     {
-        "id": 1062,
+        "id": "1062",
         "name": "Nova Sport 5 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 1026,
@@ -5961,9 +6053,18 @@
         ]
     },
     {
-        "id": "468",
+        "id": 468,
         "name": "Nova Sport Bulgaria",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/468/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/468/"
+            }
+        ]
     },
     {
         "id": "582",
@@ -5985,16 +6086,16 @@
         ]
     },
     {
-        "id": 3024,
+        "id": 3025,
         "name": "Nova Sports 2 Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3024/"
+                "link": "https://tvnow247.top/embed/3025/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3024/"
+                "link": "https://tvnow247.top/embed/3025/"
             }
         ]
     },
@@ -6060,18 +6161,9 @@
         ]
     },
     {
-        "id": 639,
+        "id": "639",
         "name": "Nova Sports News Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/639/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/639/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 599,
@@ -6102,16 +6194,16 @@
         ]
     },
     {
-        "id": 3023,
+        "id": 638,
         "name": "Nova Sports Prime Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3023/"
+                "link": "https://tvnow247.top/embed/638/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3023/"
+                "link": "https://tvnow247.top/embed/638/"
             }
         ]
     },

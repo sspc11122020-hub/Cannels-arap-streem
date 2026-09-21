@@ -1545,15 +1545,15 @@
     },
     {
         "id": null,
-        "name": "FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]",
+        "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://iptv.prosto.tv/ch064/index.m3u8"
+                "link": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://iptv.prosto.tv/ch064/index.m3u8"
+                "link": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8"
             }
         ]
     },
@@ -1894,9 +1894,18 @@
         ]
     },
     {
-        "id": "175",
+        "id": 218,
         "name": "FloHockey",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/218/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/218/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1909,6 +1918,20 @@
             {
                 "name": "URL",
                 "link": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Floracing",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/109/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/109/"
             }
         ]
     },
@@ -2915,20 +2938,6 @@
         "servers": []
     },
     {
-        "id": 820,
-        "name": "Fox League",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/820/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/820/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Life (576p)",
         "servers": [
@@ -3135,20 +3144,6 @@
         ]
     },
     {
-        "id": 39,
-        "name": "FOX Sports 1 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/39/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/39/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Sports 2",
         "servers": [
@@ -3238,6 +3233,20 @@
         ]
     },
     {
+        "id": 758,
+        "name": "FOX Sports 2 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/758/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/758/"
+            }
+        ]
+    },
+    {
         "id": "3082",
         "name": "Fox Sports 2 USA 2",
         "servers": []
@@ -3257,9 +3266,18 @@
         ]
     },
     {
-        "id": "789",
+        "id": 789,
         "name": "Fox Sports 3 Argentina",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/789/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/789/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3732,18 +3750,9 @@
         ]
     },
     {
-        "id": 950,
+        "id": "950",
         "name": "France 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/950/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/950/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4722,6 +4731,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_FX/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FX (United States) East HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://4.30.180.36:8420/fx/index.m3u8?token=test"
+            },
+            {
+                "name": "URL",
+                "link": "http://4.30.180.36:8420/fx/index.m3u8?token=test"
             }
         ]
     },

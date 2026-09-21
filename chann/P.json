@@ -809,6 +809,20 @@
     },
     {
         "id": null,
+        "name": "Pasand TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pasco TV (480p)",
         "servers": [
             {
@@ -1467,14 +1481,37 @@
         ]
     },
     {
-        "id": "193",
+        "id": 3006,
         "name": "Peacock",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3006/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3006/"
+            }
+        ]
     },
     {
         "id": "109",
         "name": "Peacock Feed",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Pear TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -2873,20 +2910,6 @@
             {
                 "name": "URL",
                 "link": "https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PLUSPLUS HD (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://iptv.prosto.tv/ch066/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://iptv.prosto.tv/ch066/index.m3u8"
             }
         ]
     },
@@ -9723,18 +9746,9 @@
         ]
     },
     {
-        "id": 718,
+        "id": "718",
         "name": "Porto Canal Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/718/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/718/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9990,9 +10004,18 @@
         "servers": []
     },
     {
-        "id": "5000",
+        "id": 5027,
         "name": "PPV Events",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5027/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5027/"
+            }
+        ]
     },
     {
         "id": "1161",
@@ -10108,20 +10131,6 @@
             {
                 "name": "URL",
                 "link": "https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pravah Picture HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://149.71.34.166:8000/play/a06f/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://149.71.34.166:8000/play/a06f/index.m3u8"
             }
         ]
     },
@@ -10684,16 +10693,16 @@
         "servers": []
     },
     {
-        "id": 684,
+        "id": 584,
         "name": "Prima Sport 2 Romania",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/684/"
+                "link": "https://tvnow247.top/embed/584/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/684/"
+                "link": "https://tvnow247.top/embed/584/"
             }
         ]
     },
@@ -11590,15 +11599,29 @@
     },
     {
         "id": null,
-        "name": "PTC Punjabi (720p)",
+        "name": "PTC News (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/ActionCinema/playlist.m3u8"
+                "link": "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/ActionCinema/playlist.m3u8"
+                "link": "https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PTC Punjabi (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8"
             }
         ]
     },
@@ -11641,6 +11664,20 @@
             {
                 "name": "URL",
                 "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PTC Simran (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8"
             }
         ]
     },
@@ -11800,6 +11837,20 @@
             {
                 "name": "URL",
                 "link": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Public First (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt06.tangotv.in/qYyB8fXVPUBLICFIRST/index.m3u8"
             }
         ]
     },
@@ -11996,20 +12047,6 @@
             {
                 "name": "URL",
                 "link": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Punjabi Zindabad TV (360p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.pztv.online/pztv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.pztv.online/pztv/playlist.m3u8"
             }
         ]
     },

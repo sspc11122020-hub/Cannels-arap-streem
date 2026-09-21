@@ -286,15 +286,15 @@
     },
     {
         "id": null,
-        "name": "Kalaignar TV (576p)",
+        "name": "Kalaignar TV (396p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1209.m3u8"
+                "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1209.m3u8"
+                "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
             }
         ]
     },
@@ -453,9 +453,18 @@
         ]
     },
     {
-        "id": "221",
+        "id": 13,
         "name": "Kanal 1 Sport Slovakia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/13/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/13/"
+            }
+        ]
     },
     {
         "id": null,

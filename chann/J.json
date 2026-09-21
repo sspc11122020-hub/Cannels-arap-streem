@@ -295,20 +295,6 @@
     },
     {
         "id": null,
-        "name": "Janapriyam TV (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1455.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1455.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Janta TV (1080p)",
         "servers": [
             {
@@ -407,20 +393,6 @@
     },
     {
         "id": null,
-        "name": "Jaya Max (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/420.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/420.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jaya Plus (576p)",
         "servers": [
             {
@@ -435,21 +407,7 @@
     },
     {
         "id": null,
-        "name": "Jaya TV (India) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/419.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/419.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jaya TV (Sri Lanka) (480p)",
+        "name": "Jaya TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1149,20 +1107,6 @@
     },
     {
         "id": null,
-        "name": "JK 24x7 News (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.gulistannews.in/hls/jk.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.gulistannews.in/hls/jk.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "JKN 18 (1080p)",
         "servers": [
             {
@@ -1421,15 +1365,15 @@
     },
     {
         "id": null,
-        "name": "Jordan Sport (1080p)",
+        "name": "Jordan Sport (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://93.184.10.248/JordanSport/index.m3u8"
+                "link": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://93.184.10.248/JordanSport/index.m3u8"
+                "link": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8"
             }
         ]
     },
@@ -1528,20 +1472,6 @@
             {
                 "name": "URL",
                 "link": "https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Jothi TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.154.3.101:5001/live/2768.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.154.3.101:5001/live/2768.m3u8"
             }
         ]
     },

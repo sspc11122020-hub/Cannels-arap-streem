@@ -1990,16 +1990,16 @@
         "servers": []
     },
     {
-        "id": 3043,
+        "id": 3041,
         "name": "Oneplay Sport 1 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3043/"
+                "link": "https://tvnow247.top/embed/3041/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3043/"
+                "link": "https://tvnow247.top/embed/3041/"
             }
         ]
     },
@@ -2009,33 +2009,37 @@
         "servers": []
     },
     {
-        "id": "1029",
+        "id": 1029,
         "name": "Oneplay Sport 3 CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1029/"
+            }
+        ]
     },
     {
-        "id": "1038",
+        "id": 3042,
         "name": "Oneplay Sport 4 CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3042/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3042/"
+            }
+        ]
     },
     {
         "id": "3043",
         "name": "Oneplay Sport CZ",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Onkar Only Truth TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -2644,6 +2648,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.agatin.hr:3559/live/otvlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OTV (Estonia)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.19/live/otv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.19/live/otv/playlist.m3u8"
             }
         ]
     },

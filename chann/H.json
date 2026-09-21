@@ -1793,15 +1793,15 @@
     },
     {
         "id": null,
-        "name": "History TV18 HD (1080p)",
+        "name": "History TV18 HD (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.154.3.101:5001/live/577.m3u8"
+                "link": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.154.3.101:5001/live/577.m3u8"
+                "link": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
             }
         ]
     },
@@ -3492,58 +3492,72 @@
         "servers": []
     },
     {
-        "id": 3007,
+        "id": 3009,
+        "name": "HUB Premier",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3009/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3009/"
+            }
+        ]
+    },
+    {
+        "id": 17,
         "name": "Hub Premier 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3007/"
+                "link": "https://tvnow247.top/embed/17/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3007/"
+                "link": "https://tvnow247.top/embed/17/"
             }
         ]
     },
     {
-        "id": 27,
+        "id": 20,
         "name": "Hub Premier 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/27/"
+                "link": "https://tvnow247.top/embed/20/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/27/"
+                "link": "https://tvnow247.top/embed/20/"
             }
         ]
     },
     {
-        "id": 26,
+        "id": 19,
         "name": "Hub Premier 3",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/26/"
+                "link": "https://tvnow247.top/embed/19/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/26/"
+                "link": "https://tvnow247.top/embed/19/"
             }
         ]
     },
     {
-        "id": 25,
+        "id": 18,
         "name": "Hub Premier 4",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/25/"
+                "link": "https://tvnow247.top/embed/18/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/25/"
+                "link": "https://tvnow247.top/embed/18/"
             }
         ]
     },

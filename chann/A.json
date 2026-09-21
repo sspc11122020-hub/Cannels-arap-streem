@@ -5096,79 +5096,9 @@
         "servers": []
     },
     {
-        "id": null,
-        "name": "Alkass Four (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8"
-            }
-        ]
-    },
-    {
         "id": "781",
         "name": "Alkass One",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Alkass One (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Alkass SHOOF (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Alkass SHOOF 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Alkass Six (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8"
-            }
-        ]
     },
     {
         "id": "783",
@@ -5177,15 +5107,15 @@
     },
     {
         "id": null,
-        "name": "Alkass Three (1080p)",
+        "name": "Alkass Three (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8"
+                "link": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8"
+                "link": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8"
             }
         ]
     },
@@ -5193,20 +5123,6 @@
         "id": "782",
         "name": "Alkass Two",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Alkass Two (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -7820,18 +7736,9 @@
         ]
     },
     {
-        "id": 3040,
+        "id": "2028",
         "name": "Apple TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3040/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3040/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "2070",
@@ -8203,30 +8110,44 @@
         ]
     },
     {
-        "id": 29,
+        "id": 8,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/29/"
+                "link": "https://tvnow247.top/embed/8/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/29/"
+                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },
     {
-        "id": 156,
+        "id": 5,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/156/"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/156/"
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
+    },
+    {
+        "id": 260,
+        "name": "Arena Adrenalin",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/260/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/260/"
             }
         ]
     },
@@ -8274,20 +8195,6 @@
         "servers": []
     },
     {
-        "id": 55,
-        "name": "Arena Sport 1 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/55/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/55/"
-            }
-        ]
-    },
-    {
         "id": 945,
         "name": "Arena Sport 10 Serbia",
         "servers": [
@@ -8302,18 +8209,9 @@
         ]
     },
     {
-        "id": 24,
+        "id": "stream-3",
         "name": "Arena Sport 1P",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/24/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/24/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 612,
@@ -8363,16 +8261,16 @@
         ]
     },
     {
-        "id": 152,
+        "id": 4,
         "name": "Arena Sport 2 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/152/"
+                "link": "https://tvnow247.top/embed/4/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/152/"
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },
