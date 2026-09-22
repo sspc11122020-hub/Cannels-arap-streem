@@ -1601,34 +1601,6 @@
     },
     {
         "id": null,
-        "name": "FilmRise Anime (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FilmRise Classic TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "FilmRise Forensic Files (720p) [Geo-blocked]",
         "servers": [
             {
@@ -1638,20 +1610,6 @@
             {
                 "name": "URL",
                 "link": "https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FilmRise Western (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dz05z8iljgvbe.cloudfront.net/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dz05z8iljgvbe.cloudfront.net/master.m3u8"
             }
         ]
     },
@@ -1918,20 +1876,6 @@
             {
                 "name": "URL",
                 "link": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 109,
-        "name": "Floracing",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/109/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/109/"
             }
         ]
     },
@@ -2233,20 +2177,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/foodnetwork-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Food Network (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8"
             }
         ]
     },
@@ -3144,6 +3074,20 @@
         ]
     },
     {
+        "id": 39,
+        "name": "FOX Sports 1 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/39/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/39/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Fox Sports 2",
         "servers": [
@@ -3266,18 +3210,9 @@
         ]
     },
     {
-        "id": 789,
+        "id": "789",
         "name": "Fox Sports 3 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/789/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/789/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4824,9 +4759,18 @@
         "servers": []
     },
     {
-        "id": "317",
+        "id": 317,
         "name": "FX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/317/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/317/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4857,9 +4801,18 @@
         ]
     },
     {
-        "id": "298",
+        "id": 298,
         "name": "FXX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/298/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/298/"
+            }
+        ]
     },
     {
         "id": "665",

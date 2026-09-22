@@ -211,9 +211,18 @@
         ]
     },
     {
-        "id": "319",
+        "id": 319,
         "name": "Game Show Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/319/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/319/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2047,20 +2056,6 @@
             {
                 "name": "URL",
                 "link": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 530,
-        "name": "GOL Play Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/530/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/530/"
             }
         ]
     },

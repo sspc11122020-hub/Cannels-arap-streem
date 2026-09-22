@@ -1,6 +1,20 @@
 [
     {
         "id": null,
+        "name": "S Corby TV (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "S Free! (360p)",
         "servers": [
             {
@@ -10,6 +24,34 @@
             {
                 "name": "URL",
                 "link": "https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "S KPop! (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "S Metro TV (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8"
             }
         ]
     },
@@ -1168,15 +1210,15 @@
     },
     {
         "id": null,
-        "name": "Sangeet Bhojpuri (1080p)",
+        "name": "Sangeet Bhojpuri (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/SangeetBhojpuri/playlist.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8"
             }
         ]
     },
@@ -2564,18 +2606,9 @@
         ]
     },
     {
-        "id": 385,
+        "id": "385",
         "name": "SEC Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/385/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/385/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "183",
@@ -2591,20 +2624,6 @@
         "id": "1166",
         "name": "SECNX USA",
         "servers": []
-    },
-    {
-        "id": 811,
-        "name": "See Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/811/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/811/"
-            }
-        ]
     },
     {
         "id": "811",
@@ -3821,25 +3840,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
+                "link": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8"
+                "link": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Shemaroo Josh (720p)",
+        "name": "Shemaroo Josh (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8"
+                "link": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8"
             }
         ]
     },
@@ -3849,11 +3868,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]"
+                "link": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]"
+                "link": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8"
             }
         ]
     },
@@ -4753,11 +4772,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
+                "link": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8"
+                "link": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
             }
         ]
     },
@@ -5562,9 +5581,32 @@
         "servers": []
     },
     {
-        "id": "189",
+        "id": 6,
+        "name": "Sky Sport 251 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/6/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/6/"
+            }
+        ]
+    },
+    {
+        "id": 8,
         "name": "Sky Sport 252 IT",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/8/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/8/"
+            }
+        ]
     },
     {
         "id": "1078",
@@ -5572,9 +5614,18 @@
         "servers": []
     },
     {
-        "id": "187",
+        "id": 7,
         "name": "Sky Sport 253 IT",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/7/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/7/"
+            }
+        ]
     },
     {
         "id": "159",
@@ -5582,9 +5633,18 @@
         "servers": []
     },
     {
-        "id": "186",
+        "id": 5,
         "name": "Sky Sport 254 IT",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
     },
     {
         "id": "160",
@@ -5592,14 +5652,37 @@
         "servers": []
     },
     {
-        "id": "188",
+        "id": 4,
         "name": "Sky Sport 255 IT",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
     },
     {
         "id": "157",
         "name": "Sky Sport 255 Italia",
         "servers": []
+    },
+    {
+        "id": 3,
+        "name": "Sky Sport 256 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3/"
+            }
+        ]
     },
     {
         "id": "156",
@@ -5617,32 +5700,9 @@
         "servers": []
     },
     {
-        "id": 25,
+        "id": "1073",
         "name": "Sky Sport 258 Italia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/25/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/25/"
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "name": "Sky Sport 259 Italia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/26/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/26/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "251",
@@ -5818,20 +5878,6 @@
         ]
     },
     {
-        "id": 105,
-        "name": "Sky Sport 7 DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/105/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/105/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Sky Sport 7 NZ",
         "servers": [
@@ -5912,18 +5958,9 @@
         "servers": []
     },
     {
-        "id": 4000,
+        "id": "8000",
         "name": "Sky Sport Austria 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4000/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4000/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "559",
@@ -5931,32 +5968,9 @@
         "servers": []
     },
     {
-        "id": 3099,
+        "id": "8005",
         "name": "Sky Sport Austria 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3099/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3099/"
-            }
-        ]
-    },
-    {
-        "id": 3098,
-        "name": "Sky Sport Austria 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3098/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3098/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "211",
@@ -5977,20 +5991,6 @@
         "id": "875",
         "name": "Sky Sport Basket Italy",
         "servers": []
-    },
-    {
-        "id": 3011,
-        "name": "Sky Sport Bundesliga 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3011/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3011/"
-            }
-        ]
     },
     {
         "id": null,
@@ -6026,18 +6026,9 @@
         ]
     },
     {
-        "id": 3012,
+        "id": "946",
         "name": "Sky Sport Bundesliga 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3012/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3012/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6054,18 +6045,9 @@
         ]
     },
     {
-        "id": 3013,
+        "id": "947",
         "name": "Sky Sport Bundesliga 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3013/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3013/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6082,18 +6064,9 @@
         ]
     },
     {
-        "id": 3014,
+        "id": "948",
         "name": "Sky Sport Bundesliga 4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3014/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3014/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6110,18 +6083,9 @@
         ]
     },
     {
-        "id": 949,
+        "id": "949",
         "name": "Sky Sport Bundesliga 5",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/949/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/949/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6298,16 +6262,30 @@
         ]
     },
     {
-        "id": 3016,
+        "id": 15,
+        "name": "Sky Sport NFL DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/15/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/15/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Sky Sport Premier League DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3016/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3016/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Premier%20League&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6340,9 +6318,18 @@
         ]
     },
     {
-        "id": "576",
+        "id": 576,
         "name": "Sky Sport Tennis Italy",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/576/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/576/"
+            }
+        ]
     },
     {
         "id": 556,
@@ -6355,20 +6342,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/556/"
-            }
-        ]
-    },
-    {
-        "id": 461,
-        "name": "Sky Sport Uno Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/461/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/461/"
             }
         ]
     },
@@ -6482,18 +6455,9 @@
         ]
     },
     {
-        "id": 65,
+        "id": "stream-65",
         "name": "Sky Sports Cricket UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/65/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/65/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6604,18 +6568,9 @@
         ]
     },
     {
-        "id": 35,
+        "id": "35",
         "name": "Sky Sports Football UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/35/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/35/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6712,20 +6667,6 @@
         ]
     },
     {
-        "id": 38,
-        "name": "Sky Sports Main Event UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/38/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/38/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Sky Sports Mix",
         "servers": [
@@ -6798,7 +6739,7 @@
     },
     {
         "id": 37,
-        "name": "Sky Sports NFL",
+        "name": "Sky Sports NFL UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -6840,20 +6781,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Premier%20League&code=gb&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 130,
-        "name": "Sky Sports Premier League UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/130/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/130/"
             }
         ]
     },
@@ -6947,20 +6874,6 @@
         ]
     },
     {
-        "id": 576,
-        "name": "Sky Sports Tennis IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/576/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/576/"
-            }
-        ]
-    },
-    {
         "id": 46,
         "name": "Sky Sports Tennis UK",
         "servers": [
@@ -6992,20 +6905,6 @@
         "id": "36",
         "name": "Sky Sports+ Plus",
         "servers": []
-    },
-    {
-        "id": 36,
-        "name": "Sky Sports+ UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/36/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/36/"
-            }
-        ]
     },
     {
         "id": null,
@@ -7214,9 +7113,18 @@
         ]
     },
     {
-        "id": "603",
+        "id": 603,
         "name": "Smithsonian Channel",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/603/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/603/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7799,15 +7707,15 @@
     },
     {
         "id": null,
-        "name": "Songdew TV (576p)",
+        "name": "Songdew TV (396p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1411.m3u8"
+                "link": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1411.m3u8"
+                "link": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
             }
         ]
     },
@@ -9409,18 +9317,9 @@
         ]
     },
     {
-        "id": 921,
+        "id": "921",
         "name": "Space City Home Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/921/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/921/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9526,32 +9425,9 @@
         "servers": []
     },
     {
-        "id": 764,
-        "name": "Spectrum SportsNet LA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/764/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/764/"
-            }
-        ]
-    },
-    {
-        "id": 982,
+        "id": "982",
         "name": "Spectrum SportsNet USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/982/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/982/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9624,18 +9500,9 @@
         ]
     },
     {
-        "id": 203,
+        "id": "158",
         "name": "SPFL Feed",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/203/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/203/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9788,18 +9655,9 @@
         ]
     },
     {
-        "id": 140,
+        "id": "140",
         "name": "Sport 1 Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/140/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/140/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "219",
@@ -9817,6 +9675,20 @@
         "servers": []
     },
     {
+        "id": 194,
+        "name": "Sport 2 Hungary",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/194/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/194/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Sport 2 IL",
         "servers": [
@@ -9831,18 +9703,9 @@
         ]
     },
     {
-        "id": 141,
+        "id": "141",
         "name": "Sport 2 Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/141/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/141/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9859,18 +9722,9 @@
         ]
     },
     {
-        "id": 142,
+        "id": "142",
         "name": "Sport 3 Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/142/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/142/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9887,18 +9741,9 @@
         ]
     },
     {
-        "id": 143,
+        "id": "143",
         "name": "Sport 4 Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/143/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/143/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9929,9 +9774,18 @@
         ]
     },
     {
-        "id": "144",
+        "id": 144,
         "name": "Sport 5 Israel",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/144/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/144/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9963,20 +9817,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Plus&code=il&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 145,
-        "name": "Sport 5 Plus Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/145/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/145/"
             }
         ]
     },
@@ -10015,18 +9855,9 @@
         "servers": []
     },
     {
-        "id": 965,
+        "id": "965",
         "name": "Sport en France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/965/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/965/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "101",
@@ -10260,18 +10091,9 @@
         ]
     },
     {
-        "id": 3021,
+        "id": "49",
         "name": "Sport TV1 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3021/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3021/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3021",
@@ -10293,18 +10115,9 @@
         ]
     },
     {
-        "id": 4120,
+        "id": "74",
         "name": "Sport TV2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4120/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4120/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10321,18 +10134,9 @@
         ]
     },
     {
-        "id": 3022,
+        "id": "454",
         "name": "Sport TV3 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3022/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3022/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10377,18 +10181,9 @@
         ]
     },
     {
-        "id": 290,
+        "id": "290",
         "name": "Sport TV5 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/290/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/290/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "2906",
@@ -10396,18 +10191,9 @@
         "servers": []
     },
     {
-        "id": 291,
+        "id": "291",
         "name": "Sport TV6 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/291/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/291/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "17",
@@ -10473,20 +10259,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/sportdigitalfussball-de"
-            }
-        ]
-    },
-    {
-        "id": 571,
-        "name": "Sportdigital FUSSBALL DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/571/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/571/"
             }
         ]
     },
@@ -10599,23 +10371,18 @@
         ]
     },
     {
-        "id": 22,
-        "name": "SportKlub 1 Slovenia",
+        "id": 186,
+        "name": "Sportklub 10 Croatia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/22/"
+                "link": "https://tvnow247.top/embed/186/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/22/"
+                "link": "https://tvnow247.top/embed/186/"
             }
         ]
-    },
-    {
-        "id": "199",
-        "name": "Sportklub 10 Croatia",
-        "servers": []
     },
     {
         "id": 102,
@@ -10660,14 +10427,51 @@
         ]
     },
     {
+        "id": 181,
+        "name": "Sportklub 5 Croatia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/181/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/181/"
+            }
+        ]
+    },
+    {
         "id": "169",
         "name": "SportKlub 5 Croatia",
         "servers": []
     },
     {
-        "id": "967",
+        "id": 19,
         "name": "Sportklub 7 Croatia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/19/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/19/"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Sportklub 8 Croatia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/20/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/20/"
+            }
+        ]
     },
     {
         "id": "165",
@@ -10675,9 +10479,18 @@
         "servers": []
     },
     {
-        "id": "258",
+        "id": 185,
         "name": "Sportklub 9 Croatia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/185/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/185/"
+            }
+        ]
     },
     {
         "id": "6007",
@@ -10732,18 +10545,9 @@
         ]
     },
     {
-        "id": 409,
+        "id": "409",
         "name": "Sportsnet 360",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/409/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/409/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10760,18 +10564,9 @@
         ]
     },
     {
-        "id": 408,
+        "id": "408",
         "name": "Sportsnet East",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/408/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/408/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10840,18 +10635,9 @@
         ]
     },
     {
-        "id": 406,
+        "id": "406",
         "name": "Sportsnet Ontario",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/406/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/406/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10882,18 +10668,9 @@
         ]
     },
     {
-        "id": 407,
+        "id": "407",
         "name": "Sportsnet West",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/407/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/407/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10910,18 +10687,9 @@
         ]
     },
     {
-        "id": 410,
+        "id": "410",
         "name": "Sportsnet World",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/410/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/410/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10957,16 +10725,16 @@
         ]
     },
     {
-        "id": 788,
+        "id": 78,
         "name": "SporTV BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/788/"
+                "link": "https://tvnow247.top/embed/78/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/788/"
+                "link": "https://tvnow247.top/embed/78/"
             }
         ]
     },
@@ -14144,20 +13912,6 @@
         "servers": []
     },
     {
-        "id": 56,
-        "name": "SuperSport Football",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/56/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/56/"
-            }
-        ]
-    },
-    {
         "id": 422,
         "name": "SuperSport Golf",
         "servers": [
@@ -14173,7 +13927,7 @@
     },
     {
         "id": 412,
-        "name": "Supersport Grandstand",
+        "name": "SuperSport Grandstand",
         "servers": [
             {
                 "name": "Main Server",
@@ -14184,30 +13938,11 @@
                 "link": "https://tvnow247.top/embed/412/"
             }
         ]
-    },
-    {
-        "id": "412",
-        "name": "SuperSport Grandstand",
-        "servers": []
     },
     {
         "id": "stream-415",
         "name": "SuperSport La Liga",
         "servers": []
-    },
-    {
-        "id": 415,
-        "name": "SuperSport Laliga",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/415/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/415/"
-            }
-        ]
     },
     {
         "id": "415",
@@ -14230,32 +13965,9 @@
         "servers": []
     },
     {
-        "id": 414,
-        "name": "SuperSport Premier League",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/414/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/414/"
-            }
-        ]
-    },
-    {
-        "id": 413,
+        "id": "413",
         "name": "SuperSport PSL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/413/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/413/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 421,
@@ -14292,9 +14004,18 @@
         "servers": []
     },
     {
-        "id": "419",
+        "id": 419,
         "name": "SuperSport Variety 4",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/419/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/419/"
+            }
+        ]
     },
     {
         "id": "6002",
@@ -14816,6 +14537,20 @@
             {
                 "name": "URL",
                 "link": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "svt 1 Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/24/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/24/"
             }
         ]
     },
