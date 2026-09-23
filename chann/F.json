@@ -820,15 +820,15 @@
     },
     {
         "id": null,
-        "name": "Fateh TV (576p)",
+        "name": "Fateh TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://180.188.254.253/live/FATEHTVHD.m3u8"
+                "link": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://180.188.254.253/live/FATEHTVHD.m3u8"
+                "link": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
             }
         ]
     },
@@ -1852,18 +1852,9 @@
         ]
     },
     {
-        "id": 218,
+        "id": "175",
         "name": "FloHockey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/218/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/218/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3074,20 +3065,6 @@
         ]
     },
     {
-        "id": 39,
-        "name": "FOX Sports 1 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/39/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/39/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Sports 2",
         "servers": [
@@ -3177,20 +3154,6 @@
         ]
     },
     {
-        "id": 758,
-        "name": "FOX Sports 2 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/758/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/758/"
-            }
-        ]
-    },
-    {
         "id": "3082",
         "name": "Fox Sports 2 USA 2",
         "servers": []
@@ -3210,9 +3173,18 @@
         ]
     },
     {
-        "id": "789",
+        "id": 789,
         "name": "Fox Sports 3 Argentina",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/789/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/789/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4801,18 +4773,9 @@
         ]
     },
     {
-        "id": 298,
+        "id": "298",
         "name": "FXX USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/298/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/298/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "665",

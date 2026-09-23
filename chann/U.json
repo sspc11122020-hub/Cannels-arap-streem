@@ -262,18 +262,9 @@
         "servers": []
     },
     {
-        "id": 59,
+        "id": "250",
         "name": "UFC Fight Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/59/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/59/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "5009",
@@ -1016,6 +1007,20 @@
     },
     {
         "id": null,
+        "name": "Unique TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Uniquely Thai (720p)",
         "servers": [
             {
@@ -1329,20 +1334,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 132,
-        "name": "Univision USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/132/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/132/"
             }
         ]
     },

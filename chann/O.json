@@ -1107,7 +1107,7 @@
     },
     {
         "id": null,
-        "name": "Omega Channel (576i) [Geo-blocked]",
+        "name": "Omega Channel (576i)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2024,9 +2024,18 @@
         "servers": []
     },
     {
-        "id": "3043",
+        "id": 3042,
         "name": "Oneplay Sport CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3042/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3042/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2189,6 +2198,20 @@
             {
                 "name": "URL",
                 "link": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Oplot TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.131.139.253:9002/oplot_hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.131.139.253:9002/oplot_hd/index.m3u8"
             }
         ]
     },
@@ -2938,18 +2961,9 @@
         ]
     },
     {
-        "id": 332,
+        "id": "332",
         "name": "Oxygen True Crime",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/332/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/332/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

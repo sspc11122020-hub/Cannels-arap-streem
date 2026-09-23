@@ -444,20 +444,6 @@
     },
     {
         "id": null,
-        "name": "Wayanad Vision (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cloudsavre.in.net/hls/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cloudsavre.in.net/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Waypoint TV (1080p)",
         "servers": [
             {
@@ -738,20 +724,6 @@
             {
                 "name": "URL",
                 "link": "https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "We One Kerala (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8"
             }
         ]
     },
@@ -1499,9 +1471,18 @@
         ]
     },
     {
-        "id": "stream-392",
+        "id": 392,
         "name": "Win+ Futbol Colombia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/392/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/392/"
+            }
+        ]
     },
     {
         "id": null,

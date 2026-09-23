@@ -359,11 +359,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
+                "link": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.148.145.57/IN_Zee24Ghanta/index.m3u8"
+                "link": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8"
             }
         ]
     },
@@ -406,20 +406,6 @@
             {
                 "name": "URL",
                 "link": "http://107.167.16.138/zeeaction/index.m3u8?token=test"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Alwan (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8"
             }
         ]
     },
@@ -537,20 +523,6 @@
     },
     {
         "id": null,
-        "name": "Zee Cinema ME (432p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd"
-            },
-            {
-                "name": "URL",
-                "link": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Cinemalu HD (720p)",
         "servers": [
             {
@@ -569,11 +541,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/1691.m3u8"
+                "link": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/1691.m3u8"
+                "link": "http://107.167.16.138/zeeclassic/index.m3u8?token=test"
             }
         ]
     },
@@ -672,20 +644,6 @@
             {
                 "name": "URL",
                 "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Malayalam News (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8"
             }
         ]
     },
@@ -929,20 +887,6 @@
     },
     {
         "id": null,
-        "name": "Zee Yuva (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/414.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.72.101.252:8080/live/414.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Zest HD (1080p)",
         "servers": [
             {
@@ -1124,30 +1068,30 @@
         ]
     },
     {
-        "id": null,
+        "id": 398,
         "name": "Ziggo Sport 2 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/398/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/398/"
             }
         ]
     },
     {
-        "id": 919,
+        "id": null,
         "name": "Ziggo Sport 3 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/919/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/919/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1180,30 +1124,30 @@
         ]
     },
     {
-        "id": 383,
+        "id": null,
         "name": "Ziggo Sport 5 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/383/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/383/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 901,
+        "id": null,
         "name": "Ziggo Sport 6 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/901/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/901/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1260,11 +1204,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.72.101.252:8080/live/585.m3u8"
+                "link": "http://107.167.16.138/zing/index.m3u8?token=test"
             },
             {
                 "name": "URL",
-                "link": "http://103.72.101.252:8080/live/585.m3u8"
+                "link": "http://107.167.16.138/zing/index.m3u8?token=test"
             }
         ]
     },
@@ -1475,20 +1419,6 @@
             {
                 "name": "URL",
                 "link": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zoom (India) Global (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8"
             }
         ]
     },

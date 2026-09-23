@@ -2021,6 +2021,20 @@
     },
     {
         "id": null,
+        "name": "6 TV Gorlovka (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.214.48.158:4022/udp/224.2.2.4:10000"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.214.48.158:4022/udp/224.2.2.4:10000"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "6 TV Telugu (576p)",
         "servers": [
             {
@@ -2577,6 +2591,20 @@
             {
                 "name": "URL",
                 "link": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1033,
+        "name": "ČT Sport CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1033/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1033/"
             }
         ]
     },

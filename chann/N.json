@@ -719,20 +719,6 @@
         ]
     },
     {
-        "id": 328,
-        "name": "National Geographic",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/328/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/328/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "National Geographic (Bulgaria) (1080p)",
         "servers": [
@@ -1504,18 +1490,9 @@
         ]
     },
     {
-        "id": 754,
+        "id": "754",
         "name": "NBC Sports Boston",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "755",
@@ -1971,9 +1948,32 @@
         ]
     },
     {
-        "id": "stream-755",
+        "id": 754,
+        "name": "NBCS Boston USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/754/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/754/"
+            }
+        ]
+    },
+    {
+        "id": 755,
         "name": "NBCS California USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/755/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/755/"
+            }
+        ]
     },
     {
         "id": 777,
@@ -2583,9 +2583,18 @@
         ]
     },
     {
-        "id": "762",
+        "id": 762,
         "name": "NESN USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/762/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/762/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3798,18 +3807,9 @@
         ]
     },
     {
-        "id": 189,
+        "id": "178",
         "name": "Next Level Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/189/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/189/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3925,9 +3925,18 @@
         "servers": []
     },
     {
-        "id": "8056",
+        "id": 2,
         "name": "NFL Sunday Ticket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/2/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/2/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4089,16 +4098,16 @@
         "servers": []
     },
     {
-        "id": 13,
+        "id": 25,
         "name": "NHL Gamecenter",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/13/"
+                "link": "https://tvnow247.top/embed/25/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/13/"
+                "link": "https://tvnow247.top/embed/25/"
             }
         ]
     },
@@ -4145,9 +4154,18 @@
         ]
     },
     {
-        "id": "663",
+        "id": 663,
         "name": "NHL Network USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/663/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/663/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6146,6 +6164,20 @@
             {
                 "name": "URL",
                 "link": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Novorossiya TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.131.139.253:9002/novoros/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.131.139.253:9002/novoros/index.m3u8"
             }
         ]
     },

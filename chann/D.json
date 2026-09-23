@@ -1208,18 +1208,9 @@
         "servers": []
     },
     {
-        "id": 3030,
+        "id": "3030",
         "name": "DAZN MotoGP ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3030/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3030/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "4000",
@@ -1267,37 +1258,14 @@
         "servers": []
     },
     {
-        "id": 426,
+        "id": "4267",
         "name": "DAZN1 DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/426/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/426/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3017",
         "name": "DAZN1 DE 2",
         "servers": []
-    },
-    {
-        "id": 445,
-        "name": "DAZN1 ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/445/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/445/"
-            }
-        ]
     },
     {
         "id": "8016",
@@ -3130,11 +3098,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8"
             }
         ]
     },
@@ -3355,18 +3323,9 @@
         "servers": []
     },
     {
-        "id": 3048,
+        "id": "465",
         "name": "Diema Sport Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3048/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3048/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3808,6 +3767,20 @@
     },
     {
         "id": null,
+        "name": "Disco Polo Music (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://185.227.34.179:8080/disco-polo-music/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://185.227.34.179:8080/disco-polo-music/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Discover Pakistan (1080p)",
         "servers": [
             {
@@ -3897,20 +3870,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/discoveryturbo-usa"
-            }
-        ]
-    },
-    {
-        "id": 313,
-        "name": "Discovery USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/313/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/313/"
             }
         ]
     },
