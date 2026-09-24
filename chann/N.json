@@ -3925,18 +3925,9 @@
         "servers": []
     },
     {
-        "id": 2,
+        "id": "8056",
         "name": "NFL Sunday Ticket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4093,9 +4084,18 @@
         ]
     },
     {
-        "id": "4096",
+        "id": 4069,
         "name": "NHL Game Pass",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4069/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4069/"
+            }
+        ]
     },
     {
         "id": 25,
@@ -4674,21 +4674,7 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon Teen (Germany) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nickelodeon Teen (United States) (720p)",
+        "name": "Nickelodeon Teen (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4702,7 +4688,7 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon Teen (United States) LatAm (720p)",
+        "name": "Nickelodeon Teen LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4716,21 +4702,7 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon Toons (Germany) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nickelodeon Toons (United States) (720p)",
+        "name": "Nickelodeon Toons (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4744,7 +4716,7 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon Toons (United States) LatAm (720p)",
+        "name": "Nickelodeon Toons LatAm (720p)",
         "servers": [
             {
                 "name": "Main Server",
