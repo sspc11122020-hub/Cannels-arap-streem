@@ -3620,9 +3620,18 @@
         ]
     },
     {
-        "id": "840",
+        "id": 840,
         "name": "RDS 2 CA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
     },
     {
         "id": 839,
@@ -7049,6 +7058,20 @@
         "servers": []
     },
     {
+        "id": 365,
+        "name": "RTE 2 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/365/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/365/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7217,6 +7240,20 @@
         ]
     },
     {
+        "id": 59,
+        "name": "RTK1 Kosovo",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/59/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/59/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTL (Germany)",
         "servers": [
@@ -7334,16 +7371,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
@@ -7591,9 +7628,18 @@
         ]
     },
     {
-        "id": "719",
+        "id": 719,
         "name": "RTP 1 Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/719/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/719/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7610,18 +7656,9 @@
         ]
     },
     {
-        "id": 720,
+        "id": "720",
         "name": "RTP 2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/720/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/720/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "721",
@@ -7770,6 +7807,20 @@
             {
                 "name": "URL",
                 "link": "https://de1.dstv.cx/RTS1HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "RTS 1 Serbia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },

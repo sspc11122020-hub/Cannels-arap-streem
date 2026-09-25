@@ -19,6 +19,11 @@
         "servers": []
     },
     {
+        "id": "1201",
+        "name": "F1 SD Stream",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "F10 HD (720p)",
         "servers": [
@@ -1314,9 +1319,18 @@
         ]
     },
     {
-        "id": "757",
+        "id": 757,
         "name": "Fight Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/757/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/757/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1871,9 +1885,18 @@
         ]
     },
     {
-        "id": "252",
+        "id": 26,
         "name": "FloRacing",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/26/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/26/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2140,6 +2163,20 @@
             {
                 "name": "URL",
                 "link": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Food Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8"
             }
         ]
     },
@@ -2765,9 +2802,18 @@
         ]
     },
     {
-        "id": "369",
+        "id": 369,
         "name": "Fox Cricket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/369/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/369/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3389,9 +3435,18 @@
         ]
     },
     {
-        "id": "824",
+        "id": 824,
         "name": "FOX Sports 506 AU",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/824/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/824/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3427,9 +3482,18 @@
         "servers": []
     },
     {
-        "id": "787",
+        "id": 787,
         "name": "Fox Sports Argentina",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/787/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/787/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3478,9 +3542,18 @@
         ]
     },
     {
-        "id": "830",
+        "id": 830,
         "name": "Fox Sports Premium MX",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/830/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/830/"
+            }
+        ]
     },
     {
         "id": "3037",
@@ -4198,6 +4271,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "FS1 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/39/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/39/"
             }
         ]
     },

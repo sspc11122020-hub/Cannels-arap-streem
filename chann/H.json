@@ -1022,6 +1022,20 @@
     },
     {
         "id": null,
+        "name": "Health Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://89.33.29.115:8080/Health/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://89.33.29.115:8080/Health/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Heart Radio Aruba",
         "servers": [
             {
@@ -2544,6 +2558,20 @@
     },
     {
         "id": null,
+        "name": "Home + (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/home_plus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/home_plus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Home.Made.Nation (720p)",
         "servers": [
             {
@@ -3029,6 +3057,34 @@
             {
                 "name": "URL",
                 "link": "http://str2.iptvhd.ru:8080/drama/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HOT Comedy (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HOT Senior (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8"
             }
         ]
     },

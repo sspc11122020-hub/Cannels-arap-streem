@@ -1860,20 +1860,6 @@
         ]
     },
     {
-        "id": 146,
-        "name": "5 Live Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/146/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/146/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "5 minut tishiny (1080p)",
         "servers": [
@@ -1977,9 +1963,88 @@
         ]
     },
     {
-        "id": "stream-144",
+        "id": null,
+        "name": "5Gold (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/sport5gold/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/sport5gold/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "5Live (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/5live/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/5live/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "5Plus (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://89.33.29.115:8080/sportplus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://89.33.29.115:8080/sportplus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "5Sport (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/5sport/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/5sport/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "5Sport 4K (2160p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 144,
         "name": "5Sport Israel",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/144/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/144/"
+            }
+        ]
     },
     {
         "id": "stream-145",
@@ -1990,20 +2055,6 @@
         "id": "stream-147",
         "name": "5Sport Star Israel",
         "servers": []
-    },
-    {
-        "id": 147,
-        "name": "5Stars Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/147/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/147/"
-            }
-        ]
     },
     {
         "id": null,
@@ -2591,20 +2642,6 @@
             {
                 "name": "URL",
                 "link": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 1033,
-        "name": "ČT Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1033/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1033/"
             }
         ]
     },

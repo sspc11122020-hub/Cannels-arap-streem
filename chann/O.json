@@ -1008,6 +1008,20 @@
         ]
     },
     {
+        "id": 5000,
+        "name": "OlympiaTV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5000/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5000/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Olympic Channel (1080p) [Geo-blocked]",
         "servers": [
@@ -1713,6 +1727,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "One 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/One/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/One/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "542",
         "name": "ONE 2 HD Israel",
         "servers": []
@@ -2004,9 +2032,18 @@
         "servers": []
     },
     {
-        "id": "1027",
+        "id": 1027,
         "name": "Oneplay Sport 1 CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1027/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1027/"
+            }
+        ]
     },
     {
         "id": "1028",
@@ -2014,9 +2051,18 @@
         "servers": []
     },
     {
-        "id": "1029",
+        "id": 1029,
         "name": "Oneplay Sport 3 CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1029/"
+            }
+        ]
     },
     {
         "id": "1038",
@@ -2024,18 +2070,9 @@
         "servers": []
     },
     {
-        "id": 3042,
+        "id": "3043",
         "name": "Oneplay Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3042/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3042/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2347,6 +2384,20 @@
         "id": "3011",
         "name": "ORF eins",
         "servers": []
+    },
+    {
+        "id": 6,
+        "name": "ORF eins Austria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/6/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/6/"
+            }
+        ]
     },
     {
         "id": null,

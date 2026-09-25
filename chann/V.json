@@ -118,9 +118,18 @@
         ]
     },
     {
-        "id": "937",
+        "id": 937,
         "name": "V Sport Golf",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/937/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/937/"
+            }
+        ]
     },
     {
         "id": null,
@@ -151,14 +160,32 @@
         ]
     },
     {
-        "id": "272",
+        "id": 272,
         "name": "V Sport Motor Sweden",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/272/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/272/"
+            }
+        ]
     },
     {
-        "id": "6",
+        "id": 572,
         "name": "V Sport Premium",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/572/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/572/"
+            }
+        ]
     },
     {
         "id": "3079",
@@ -1381,18 +1408,9 @@
         ]
     },
     {
-        "id": 451,
+        "id": "451",
         "name": "Viaplay Sports 1 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/451/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/451/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1409,18 +1427,9 @@
         ]
     },
     {
-        "id": 550,
+        "id": "550",
         "name": "Viaplay Sports 2 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/550/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/550/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1624,18 +1633,9 @@
         ]
     },
     {
-        "id": 659,
+        "id": "stream-659",
         "name": "VICE TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/659/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/659/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "174",
@@ -2414,6 +2414,20 @@
     },
     {
         "id": null,
+        "name": "Viva Istanbul (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/viva_plus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/viva_plus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Viva Nicaragua Canal 13 (720p)",
         "servers": [
             {
@@ -2437,6 +2451,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/43/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viva Telenovelas (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://str2.iptvhd.ru:8080/VIVA/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://str2.iptvhd.ru:8080/VIVA/index.m3u8"
             }
         ]
     },

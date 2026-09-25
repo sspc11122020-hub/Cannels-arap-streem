@@ -743,15 +743,15 @@
     },
     {
         "id": null,
-        "name": "We TV (720p)",
+        "name": "We TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://170.254.17.2/WE_TV/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://170.254.17.2/WE_TV/index.m3u8"
+                "link": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8"
             }
         ]
     },
@@ -1349,9 +1349,18 @@
         ]
     },
     {
-        "id": "598",
+        "id": 598,
         "name": "Willow 2 Cricket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/598/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/598/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1690,18 +1699,9 @@
         ]
     },
     {
-        "id": 4074,
+        "id": "5041",
         "name": "WNBA League Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4074/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4074/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "5034",
