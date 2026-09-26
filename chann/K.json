@@ -160,6 +160,20 @@
     },
     {
         "id": null,
+        "name": "kabel eins Doku",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kadak (1080p)",
         "servers": [
             {
@@ -456,6 +470,20 @@
         "id": "221",
         "name": "Kanal 1 Sport Slovakia",
         "servers": []
+    },
+    {
+        "id": 152,
+        "name": "Kanal 1 Xtra Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/152/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/152/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1766,18 +1794,9 @@
         ]
     },
     {
-        "id": 110,
+        "id": "154",
         "name": "KHL Prime",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/110/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/110/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1797,20 +1816,6 @@
         "id": "153",
         "name": "KHL Tv",
         "servers": []
-    },
-    {
-        "id": 109,
-        "name": "KHL TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/109/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/109/"
-            }
-        ]
     },
     {
         "id": null,

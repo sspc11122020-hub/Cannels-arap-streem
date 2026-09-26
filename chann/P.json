@@ -1397,18 +1397,9 @@
         "servers": []
     },
     {
-        "id": 43,
+        "id": "43",
         "name": "PDC TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/43/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/43/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2794,15 +2785,15 @@
     },
     {
         "id": null,
-        "name": "Plim Plim",
+        "name": "Plim Plim (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE"
+                "link": "http://200.115.120.1:8000/play/ca091/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE"
+                "link": "http://200.115.120.1:8000/play/ca091/index.m3u8"
             }
         ]
     },
@@ -9119,9 +9110,18 @@
         "servers": []
     },
     {
-        "id": "209",
+        "id": 997,
         "name": "Polsat Sport Fight Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/997/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/997/"
+            }
+        ]
     },
     {
         "id": "998",
@@ -9457,9 +9457,18 @@
         ]
     },
     {
-        "id": "718",
+        "id": 718,
         "name": "Porto Canal Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9720,9 +9729,18 @@
         "servers": []
     },
     {
-        "id": "1161",
+        "id": 110,
         "name": "PPV Feed",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/110/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/110/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9897,6 +9915,20 @@
         "id": "1032",
         "name": "Premier Sport 3 CZ",
         "servers": []
+    },
+    {
+        "id": 161,
+        "name": "Premier Sport Rugby",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/161/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/161/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10363,6 +10395,20 @@
         "servers": []
     },
     {
+        "id": 584,
+        "name": "Prima Sport 2 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/584/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/584/"
+            }
+        ]
+    },
+    {
         "id": "585",
         "name": "Prima Sport 3",
         "servers": []
@@ -10663,6 +10709,20 @@
         ]
     },
     {
+        "id": 2,
+        "name": "Pro Arena Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/2/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/2/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Pro Business (720p)",
         "servers": [
@@ -10923,6 +10983,20 @@
         "id": "730",
         "name": "ProSieben (PRO7) DE",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "ProSieben Maxx",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass"
+            }
+        ]
     },
     {
         "id": "3012",

@@ -1024,39 +1024,11 @@
         "servers": [
             {
                 "name": "URL1",
-                "link": "https://streamtp-golden1.click/global1.php?stream=hypermotion1"
+                "link": "https://streamtp-golden1.click/global1.php?stream=laligahypermotion"
             },
             {
                 "name": "URL2",
-                "link": "https://streamtp-golden1.click/global2.php?stream=hypermotion1"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LaLiga Hypermotion2",
-        "servers": [
-            {
-                "name": "URL1",
-                "link": "https://streamtp-golden1.click/global1.php?stream=hypermotion2"
-            },
-            {
-                "name": "URL2",
-                "link": "https://streamtp-golden1.click/global2.php?stream=hypermotion2"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LaLiga Hypermotion3",
-        "servers": [
-            {
-                "name": "URL1",
-                "link": "https://streamtp-golden1.click/global1.php?stream=hypermotion3"
-            },
-            {
-                "name": "URL2",
-                "link": "https://streamtp-golden1.click/global2.php?stream=hypermotion3"
+                "link": "https://streamtp-golden1.click/global2.php?stream=laligahypermotion"
             }
         ]
     },
@@ -1076,6 +1048,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 539,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/539/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/539/"
             }
         ]
     },
@@ -2644,18 +2630,9 @@
         "servers": []
     },
     {
-        "id": 960,
+        "id": "stream-3050",
         "name": "Ligue1+ France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/960/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/960/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3897,20 +3874,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/353/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "LRT Plius Lithuania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },

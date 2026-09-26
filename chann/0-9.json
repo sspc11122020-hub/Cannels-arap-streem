@@ -603,6 +603,20 @@
         ]
     },
     {
+        "id": 4,
+        "name": "1TV Georgia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
+    },
+    {
         "id": "3059",
         "name": "1TV Ukraine",
         "servers": []
@@ -1860,6 +1874,20 @@
         ]
     },
     {
+        "id": 146,
+        "name": "5 Live Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/146/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/146/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "5 minut tishiny (1080p)",
         "servers": [
@@ -2047,6 +2075,11 @@
         ]
     },
     {
+        "id": "4105",
+        "name": "5Sport Israel (CH-144) Event Stream",
+        "servers": []
+    },
+    {
         "id": "stream-145",
         "name": "5Sport Plus Israel",
         "servers": []
@@ -2055,6 +2088,34 @@
         "id": "stream-147",
         "name": "5Sport Star Israel",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "5Stars (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://89.33.29.115:8080/IL_5Stars/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://89.33.29.115:8080/IL_5Stars/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "5Stars Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/147/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/147/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2646,14 +2707,37 @@
         ]
     },
     {
+        "id": 1,
+        "name": "ČT2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
+    },
+    {
         "id": "213",
         "name": "МАТЧ! Igra Russia",
         "servers": []
     },
     {
-        "id": "395",
+        "id": 395,
         "name": "МАТЧ! БОЕЦ Russia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/395/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/395/"
+            }
+        ]
     },
     {
         "id": "167",

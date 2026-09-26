@@ -2480,20 +2480,6 @@
         ]
     },
     {
-        "id": 3,
-        "name": "IRIB Varzesh",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "IRINN (576p)",
         "servers": [
@@ -3071,9 +3057,18 @@
         ]
     },
     {
-        "id": "350",
+        "id": 350,
         "name": "ITV 1 UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/350/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/350/"
+            }
+        ]
     },
     {
         "id": null,

@@ -327,15 +327,15 @@
     },
     {
         "id": null,
-        "name": "ZDFneo (720p) [Geo-blocked]",
+        "name": "ZDFneo",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
+                "link": "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass"
             },
             {
                 "name": "URL",
-                "link": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8"
+                "link": "http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass"
             }
         ]
     },
@@ -1096,16 +1096,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 396,
         "name": "Ziggo Sport 4 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/396/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/396/"
             }
         ]
     },

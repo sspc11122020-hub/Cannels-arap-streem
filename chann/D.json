@@ -1033,16 +1033,16 @@
         "servers": []
     },
     {
-        "id": 159,
+        "id": 109,
         "name": "DAZN CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/159/"
+                "link": "https://tvnow247.top/embed/109/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/159/"
+                "link": "https://tvnow247.top/embed/109/"
             }
         ]
     },
@@ -1239,14 +1239,37 @@
         "servers": []
     },
     {
-        "id": "4267",
+        "id": 426,
         "name": "DAZN1 DE",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/426/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/426/"
+            }
+        ]
     },
     {
         "id": "3017",
         "name": "DAZN1 DE 2",
         "servers": []
+    },
+    {
+        "id": 445,
+        "name": "DAZN1 ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/445/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/445/"
+            }
+        ]
     },
     {
         "id": "8016",
@@ -3546,9 +3569,18 @@
         ]
     },
     {
-        "id": "403",
+        "id": 403,
         "name": "Digi Sport 4 Romania",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/403/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/403/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3934,6 +3966,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.19/live/test_disney/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Disney Channel (Germany)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass"
             }
         ]
     },
@@ -5690,15 +5736,15 @@
     },
     {
         "id": null,
-        "name": "DSports",
+        "name": "DSports (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+                "link": "http://15.204.146.163:8002/play/a00g/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.121.113.175:8000/play/a0cj/index.m3u8"
+                "link": "http://15.204.146.163:8002/play/a00g/index.m3u8"
             }
         ]
     },
@@ -6359,16 +6405,16 @@
         ]
     },
     {
-        "id": 108,
+        "id": 155,
         "name": "DYN DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/108/"
+                "link": "https://tvnow247.top/embed/155/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/108/"
+                "link": "https://tvnow247.top/embed/155/"
             }
         ]
     },

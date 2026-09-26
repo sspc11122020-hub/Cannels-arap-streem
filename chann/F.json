@@ -1319,18 +1319,9 @@
         ]
     },
     {
-        "id": 757,
+        "id": "757",
         "name": "Fight Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/757/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/757/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1866,9 +1857,18 @@
         ]
     },
     {
-        "id": "175",
+        "id": 169,
         "name": "FloHockey",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/169/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/169/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1885,16 +1885,16 @@
         ]
     },
     {
-        "id": 26,
+        "id": 76,
         "name": "FloRacing",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/26/"
+                "link": "https://tvnow247.top/embed/76/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/26/"
+                "link": "https://tvnow247.top/embed/76/"
             }
         ]
     },
@@ -2802,18 +2802,9 @@
         ]
     },
     {
-        "id": 369,
+        "id": "369",
         "name": "Fox Cricket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/369/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/369/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2962,6 +2953,48 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20News&code=us&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox ONE 1 MX",
+        "servers": [
+            {
+                "name": "URL1",
+                "link": "https://streamtp-golden1.click/global1.php?stream=foxone1"
+            },
+            {
+                "name": "URL2",
+                "link": "https://streamtp-golden1.click/global2.php?stream=foxone1"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox ONE 2 MX",
+        "servers": [
+            {
+                "name": "URL1",
+                "link": "https://streamtp-golden1.click/global1.php?stream=foxone2"
+            },
+            {
+                "name": "URL2",
+                "link": "https://streamtp-golden1.click/global2.php?stream=foxone2"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox ONE 3 MX",
+        "servers": [
+            {
+                "name": "URL1",
+                "link": "https://streamtp-golden1.click/global1.php?stream=foxone3"
+            },
+            {
+                "name": "URL2",
+                "link": "https://streamtp-golden1.click/global2.php?stream=foxone3"
             }
         ]
     },
@@ -3542,18 +3575,9 @@
         ]
     },
     {
-        "id": 830,
+        "id": "830",
         "name": "Fox Sports Premium MX",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/830/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/830/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3037",
@@ -4271,20 +4295,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 39,
-        "name": "FS1 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/39/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/39/"
             }
         ]
     },
