@@ -776,23 +776,23 @@
         ]
     },
     {
-        "id": "691",
-        "name": "HBO Family USA",
-        "servers": []
-    },
-    {
         "id": null,
-        "name": "HBO Hits (720p)",
+        "name": "HBO Drama (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+                "link": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://tvsen7.aynascope.net/hbo2/index.m3u8"
+                "link": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8"
             }
         ]
+    },
+    {
+        "id": "691",
+        "name": "HBO Family USA",
+        "servers": []
     },
     {
         "id": null,
@@ -880,18 +880,9 @@
         ]
     },
     {
-        "id": 321,
+        "id": "321",
         "name": "HBO USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/321/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/321/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "694",
@@ -1390,20 +1381,6 @@
         ]
     },
     {
-        "id": 382,
-        "name": "HGTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/382/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/382/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Hi Dost! (720p)",
         "servers": [
@@ -1871,18 +1848,9 @@
         ]
     },
     {
-        "id": 322,
+        "id": "322",
         "name": "History USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/322/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/322/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

@@ -687,6 +687,20 @@
     },
     {
         "id": null,
+        "name": "Bandamax (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.78.106.127:5000/play/ca064/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.78.106.127:5000/play/ca064/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BandNews (1080p)",
         "servers": [
             {
@@ -7031,18 +7045,9 @@
         ]
     },
     {
-        "id": 307,
+        "id": "307",
         "name": "Bravo USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/307/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/307/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

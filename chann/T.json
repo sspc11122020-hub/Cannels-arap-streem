@@ -3446,20 +3446,6 @@
         ]
     },
     {
-        "id": 131,
-        "name": "Telemundo USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/131/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/131/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Telemundo WCAU (1080p)",
         "servers": [
@@ -7548,18 +7534,9 @@
         ]
     },
     {
-        "id": 337,
+        "id": "stream-337",
         "name": "TLC USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/337/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/337/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8352,20 +8329,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/642/"
-            }
-        ]
-    },
-    {
-        "id": 204,
-        "name": "TNT Sports UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/204/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/204/"
             }
         ]
     },
@@ -10235,9 +10198,18 @@
         ]
     },
     {
-        "id": "238",
+        "id": 171,
         "name": "Triller TV",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/171/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/171/"
+            }
+        ]
     },
     {
         "id": null,

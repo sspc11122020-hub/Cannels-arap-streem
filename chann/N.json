@@ -1289,18 +1289,9 @@
         ]
     },
     {
-        "id": 404,
+        "id": "404",
         "name": "NBA TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/404/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/404/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1953,20 +1944,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/753/"
-            }
-        ]
-    },
-    {
-        "id": 754,
-        "name": "NBCS Boston USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
             }
         ]
     },
@@ -4301,6 +4278,20 @@
     },
     {
         "id": null,
+        "name": "Nick Jr. (United States) East HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sra72yz.s.gy/NICK_JR_HD.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sra72yz.s.gy/NICK_JR_HD.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nick Jr. Asia (720p)",
         "servers": [
             {
@@ -4782,15 +4773,15 @@
     },
     {
         "id": null,
-        "name": "Nicktoons (United States) (720p)",
+        "name": "Nicktoons (United States) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/NICKTOONS/index.m3u8"
+                "link": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/NICKTOONS/index.m3u8"
+                "link": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8"
             }
         ]
     },
@@ -6788,15 +6779,15 @@
     },
     {
         "id": null,
-        "name": "NTN24 (576p)",
+        "name": "NTN24 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://181.78.8.199:8000/play/a0a6/index.m3u8"
+                "link": "http://181.78.12.119:16123/play/ch80/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://181.78.8.199:8000/play/a0a6/index.m3u8"
+                "link": "http://181.78.12.119:16123/play/ch80/index.m3u8"
             }
         ]
     },
