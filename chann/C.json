@@ -4275,6 +4275,20 @@
     },
     {
         "id": null,
+        "name": "Canal Sur",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Canal Sur 2 (720p)",
         "servers": [
             {
@@ -4640,18 +4654,9 @@
         "servers": []
     },
     {
-        "id": 273,
+        "id": "273",
         "name": "Canal+ Formula 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/273/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/273/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 121,
@@ -4751,41 +4756,18 @@
         ]
     },
     {
-        "id": 486,
+        "id": "486",
         "name": "Canal+ Sport 1 Afrique",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/486/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/486/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 487,
+        "id": "487",
         "name": "Canal+ Sport 2 Afrique",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/487/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/487/"
-            }
-        ]
-    },
-    {
-        "id": "1043",
-        "name": "Canal+ Sport 2 CZ",
         "servers": []
     },
     {
         "id": 1043,
-        "name": "Canal+ Sport 2 Czechia",
+        "name": "Canal+ Sport 2 CZ",
         "servers": [
             {
                 "name": "Main Server",
@@ -4796,6 +4778,11 @@
                 "link": "https://tvnow247.top/embed/1043/"
             }
         ]
+    },
+    {
+        "id": "stream-1043",
+        "name": "Canal+ Sport 2 Czechia",
+        "servers": []
     },
     {
         "id": null,
@@ -4826,23 +4813,23 @@
         ]
     },
     {
-        "id": "1064",
+        "id": 1064,
         "name": "Canal+ Sport 2 SK",
-        "servers": []
-    },
-    {
-        "id": 488,
-        "name": "Canal+ Sport 3 Afrique",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/488/"
+                "link": "https://tvnow247.top/embed/1064/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/488/"
+                "link": "https://tvnow247.top/embed/1064/"
             }
         ]
+    },
+    {
+        "id": "488",
+        "name": "Canal+ Sport 3 Afrique",
+        "servers": []
     },
     {
         "id": "1044",
@@ -4872,20 +4859,6 @@
         "id": "1065",
         "name": "Canal+ Sport 3 SK",
         "servers": []
-    },
-    {
-        "id": 464,
-        "name": "Canal+ Sport 360 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/464/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/464/"
-            }
-        ]
     },
     {
         "id": "489",
@@ -4941,9 +4914,18 @@
         ]
     },
     {
-        "id": "75",
+        "id": 75,
         "name": "Canal+ Sport 5 Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/75/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/75/"
+            }
+        ]
     },
     {
         "id": "1047",
@@ -6064,20 +6046,6 @@
     },
     {
         "id": null,
-        "name": "CazeTV (1080i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "CB TV Michoacan",
         "servers": [
             {
@@ -6138,16 +6106,16 @@
         ]
     },
     {
-        "id": 5,
+        "id": 3,
         "name": "CBC Sport Azerbaijan",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
@@ -6810,9 +6778,18 @@
         ]
     },
     {
-        "id": "910",
+        "id": 910,
         "name": "CBS Sports Golazo",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/910/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/910/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6839,20 +6816,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20Sports%20Golazo&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 910,
-        "name": "CBS Sports Golazo USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/910/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/910/"
             }
         ]
     },
@@ -6890,20 +6853,6 @@
         "servers": []
     },
     {
-        "id": 308,
-        "name": "CBS Sports Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/308/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/308/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "CBS US",
         "servers": [
@@ -6918,9 +6867,18 @@
         ]
     },
     {
-        "id": "52",
+        "id": 52,
         "name": "CBS USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/52/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/52/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7035,9 +6993,18 @@
         ]
     },
     {
-        "id": "767",
+        "id": 767,
         "name": "CBSNY USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/767/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/767/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8415,9 +8382,18 @@
         ]
     },
     {
-        "id": "355",
+        "id": 355,
         "name": "Channel 5 UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/355/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/355/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8673,6 +8649,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/Pervii_kanal_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Channel One (Russia) Europa (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8"
             }
         ]
     },
@@ -10190,6 +10180,20 @@
     },
     {
         "id": null,
+        "name": "Cinemaraton Plus (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CinemaWorld (720p)",
         "servers": [
             {
@@ -11157,15 +11161,15 @@
     },
     {
         "id": null,
-        "name": "Class CNBC (1080p) [Geo-blocked]",
+        "name": "Class CNBC (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
+                "link": "https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg"
             },
             {
                 "name": "URL",
-                "link": "https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8"
+                "link": "https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg"
             }
         ]
     },
@@ -11913,9 +11917,18 @@
         ]
     },
     {
-        "id": "309",
+        "id": 309,
         "name": "CNBC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/309/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/309/"
+            }
+        ]
     },
     {
         "id": null,
@@ -13433,6 +13446,20 @@
         ]
     },
     {
+        "id": 625,
+        "name": "Cosmote Sport 4 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/625/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/625/"
+            }
+        ]
+    },
+    {
         "id": "625",
         "name": "Cosmote Sport 4 HD",
         "servers": []
@@ -13452,6 +13479,20 @@
         ]
     },
     {
+        "id": 626,
+        "name": "Cosmote Sport 5 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/626/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/626/"
+            }
+        ]
+    },
+    {
         "id": "626",
         "name": "Cosmote Sport 5 HD",
         "servers": []
@@ -13467,6 +13508,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%206&code=gr&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 627,
+        "name": "Cosmote Sport 6 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/627/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/627/"
             }
         ]
     },
@@ -15216,18 +15271,9 @@
         "servers": []
     },
     {
-        "id": 300,
+        "id": "300",
         "name": "CW USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/300/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/300/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

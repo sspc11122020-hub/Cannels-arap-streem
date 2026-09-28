@@ -262,18 +262,9 @@
         "servers": []
     },
     {
-        "id": 172,
+        "id": "250",
         "name": "UFC Fight Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/172/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/172/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "5009",
@@ -898,18 +889,9 @@
         "servers": []
     },
     {
-        "id": 133,
+        "id": "stream-133",
         "name": "UniMás",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/133/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/133/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1207,6 +1189,20 @@
     },
     {
         "id": null,
+        "name": "Universal Cinema (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.167.1.138:8000/play/a06m"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.167.1.138:8000/play/a06m"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Universal Kids US",
         "servers": [
             {
@@ -1267,9 +1263,18 @@
         ]
     },
     {
-        "id": "132",
+        "id": 132,
         "name": "Univision",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/132/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/132/"
+            }
+        ]
     },
     {
         "id": null,

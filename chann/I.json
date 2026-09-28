@@ -1234,6 +1234,20 @@
     },
     {
         "id": null,
+        "name": "Impact TV 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://online.tvimpact.live/hls/impact_tv2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://online.tvimpact.live/hls/impact_tv2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Impact TV Dance (1080p)",
         "servers": [
             {
@@ -1808,6 +1822,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Insula non stop (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8"
             }
         ]
     },
@@ -3128,9 +3156,18 @@
         ]
     },
     {
-        "id": "353",
+        "id": 353,
         "name": "ITV 4 UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/353/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/353/"
+            }
+        ]
     },
     {
         "id": null,

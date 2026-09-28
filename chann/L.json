@@ -28,13 +28,8 @@
         ]
     },
     {
-        "id": "645",
-        "name": "L'Equipe France",
-        "servers": []
-    },
-    {
         "id": 645,
-        "name": "L'Équipe France",
+        "name": "L'Equipe France",
         "servers": [
             {
                 "name": "Main Server",
@@ -85,6 +80,20 @@
             {
                 "name": "URL",
                 "link": "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "La 1 (1086p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd"
             }
         ]
     },
@@ -1066,9 +1075,18 @@
         ]
     },
     {
-        "id": "108",
+        "id": 10,
         "name": "LALIGA TV Hypermotion 2",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/10/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/10/"
+            }
+        ]
     },
     {
         "id": "276",

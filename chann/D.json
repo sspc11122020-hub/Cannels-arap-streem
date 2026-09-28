@@ -258,20 +258,6 @@
     },
     {
         "id": null,
-        "name": "Damascus Radio (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dance FM (720p)",
         "servers": [
             {
@@ -964,9 +950,18 @@
         ]
     },
     {
-        "id": "226",
+        "id": 152,
         "name": "DAZN Baloncesto",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/152/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/152/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1005,9 +1000,18 @@
         ]
     },
     {
-        "id": "227",
+        "id": 153,
         "name": "DAZN Baloncesto 2",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/153/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/153/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1028,21 +1032,35 @@
         ]
     },
     {
+        "id": 154,
+        "name": "DAZN Baloncesto 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/154/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/154/"
+            }
+        ]
+    },
+    {
         "id": "6034",
         "name": "DAZN Belgium",
         "servers": []
     },
     {
-        "id": 109,
+        "id": 185,
         "name": "DAZN CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/109/"
+                "link": "https://tvnow247.top/embed/185/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/109/"
+                "link": "https://tvnow247.top/embed/185/"
             }
         ]
     },
@@ -1080,6 +1098,20 @@
         "servers": []
     },
     {
+        "id": 455,
+        "name": "DAZN Eleven 1 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/455/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/455/"
+            }
+        ]
+    },
+    {
         "id": "5003",
         "name": "DAZN ES",
         "servers": []
@@ -1099,16 +1131,16 @@
         ]
     },
     {
-        "id": 537,
+        "id": null,
         "name": "DAZN F1 ES",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/537/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/537/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1258,8 +1290,13 @@
         "servers": []
     },
     {
+        "id": "8016",
+        "name": "DAZN1 IT",
+        "servers": []
+    },
+    {
         "id": 445,
-        "name": "DAZN1 ES",
+        "name": "DAZN1 Spain",
         "servers": [
             {
                 "name": "Main Server",
@@ -1272,14 +1309,37 @@
         ]
     },
     {
-        "id": "8016",
-        "name": "DAZN1 IT",
-        "servers": []
+        "id": 427,
+        "name": "DAZN2 DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/427/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/427/"
+            }
+        ]
     },
     {
         "id": "3018",
         "name": "DAZN2 DE 2",
         "servers": []
+    },
+    {
+        "id": 446,
+        "name": "DAZN2 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/446/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/446/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5624,6 +5684,20 @@
     },
     {
         "id": null,
+        "name": "DreamWorks Channel Latin America",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://xyktmobile00.s.gy/PPV913_DREAMWO"
+            },
+            {
+                "name": "URL",
+                "link": "https://xyktmobile00.s.gy/PPV913_DREAMWO"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Dreiko TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -6391,16 +6465,16 @@
         ]
     },
     {
-        "id": 155,
+        "id": 169,
         "name": "DYN DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/155/"
+                "link": "https://tvnow247.top/embed/169/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/155/"
+                "link": "https://tvnow247.top/embed/169/"
             }
         ]
     },
