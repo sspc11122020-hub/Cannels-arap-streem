@@ -1351,6 +1351,20 @@
     },
     {
         "id": null,
+        "name": "El Trece Internacional Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://200.7.99.59:8000/play/a0gm/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://200.7.99.59:8000/play/a0gm/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "EL TV",
         "servers": [
             {
@@ -2054,6 +2068,20 @@
     },
     {
         "id": null,
+        "name": "English Club Global",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://racitonsen.s.gy/ECG_SD"
+            },
+            {
+                "name": "URL",
+                "link": "https://racitonsen.s.gy/ECG_SD"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "English Club TV (576i)",
         "servers": [
             {
@@ -2524,9 +2552,18 @@
         "servers": []
     },
     {
-        "id": "12",
+        "id": 10,
         "name": "ERT 2 Greece",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/10/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/10/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3082,6 +3119,34 @@
     },
     {
         "id": null,
+        "name": "Eska TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eska TV Extra (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Eslah TV (720p)",
         "servers": [
             {
@@ -3259,16 +3324,16 @@
         ]
     },
     {
-        "id": 386,
+        "id": null,
         "name": "ESPN 2 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/386/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/386/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3329,16 +3394,16 @@
         ]
     },
     {
-        "id": 888,
+        "id": null,
         "name": "ESPN 3 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/888/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203&code=nl&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/888/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203&code=nl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3562,18 +3627,9 @@
         ]
     },
     {
-        "id": 925,
+        "id": "stream-925",
         "name": "ESPN Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/925/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/925/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3707,18 +3763,9 @@
         "servers": []
     },
     {
-        "id": 162,
+        "id": "191",
         "name": "ESPN+ USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/162/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/162/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3868,18 +3915,9 @@
         ]
     },
     {
-        "id": 798,
+        "id": "798",
         "name": "ESPN3 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/798/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/798/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "83",
@@ -4117,18 +4155,9 @@
         ]
     },
     {
-        "id": 316,
+        "id": "316",
         "name": "ESPNU USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/316/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/316/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5503,18 +5532,9 @@
         "servers": []
     },
     {
-        "id": 5182,
+        "id": "7001",
         "name": "Event Stream",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5182/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5182/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "1133",

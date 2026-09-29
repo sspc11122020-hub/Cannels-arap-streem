@@ -1808,9 +1808,18 @@
         ]
     },
     {
-        "id": "154",
+        "id": 24,
         "name": "KHL Prime",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/24/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/24/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1830,6 +1839,20 @@
         "id": "153",
         "name": "KHL Tv",
         "servers": []
+    },
+    {
+        "id": 23,
+        "name": "KHL TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/23/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/23/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3429,6 +3452,20 @@
             {
                 "name": "URL",
                 "link": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kuban 24 (480p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8"
             }
         ]
     },

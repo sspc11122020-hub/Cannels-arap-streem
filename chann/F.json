@@ -240,6 +240,20 @@
     },
     {
         "id": null,
+        "name": "Falak TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://falak.rst.ae/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://falak.rst.ae/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Falastini TV (1080p)",
         "servers": [
             {
@@ -1400,6 +1414,20 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/FilmArtsHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Film Now HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8"
             }
         ]
     },
@@ -3484,18 +3512,9 @@
         "servers": []
     },
     {
-        "id": 787,
+        "id": "787",
         "name": "Fox Sports Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/787/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/787/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3544,18 +3563,9 @@
         ]
     },
     {
-        "id": 830,
+        "id": "830",
         "name": "Fox Sports Premium MX",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/830/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/830/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3037",
@@ -4138,20 +4148,6 @@
     },
     {
         "id": null,
-        "name": "Freeform (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Frequence Novelas (1080p)",
         "servers": [
             {
@@ -4662,7 +4658,7 @@
     },
     {
         "id": null,
-        "name": "FX (Russia) (1080p)",
+        "name": "FX (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4671,34 +4667,6 @@
             {
                 "name": "URL",
                 "link": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FX (United States) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_FX/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_FX/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FX (United States) East HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://4.30.180.36:8420/fx/index.m3u8?token=test"
-            },
-            {
-                "name": "URL",
-                "link": "http://4.30.180.36:8420/fx/index.m3u8?token=test"
             }
         ]
     },
@@ -4778,9 +4746,18 @@
         "servers": []
     },
     {
-        "id": "317",
+        "id": 317,
         "name": "FX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/317/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/317/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4811,9 +4788,18 @@
         ]
     },
     {
-        "id": "298",
+        "id": 298,
         "name": "FXX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/298/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/298/"
+            }
+        ]
     },
     {
         "id": "665",

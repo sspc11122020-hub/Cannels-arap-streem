@@ -215,13 +215,8 @@
         "servers": []
     },
     {
-        "id": "555",
-        "name": "Racing Tv UK",
-        "servers": []
-    },
-    {
         "id": 555,
-        "name": "Racing TV UK",
+        "name": "Racing Tv UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -2250,6 +2245,20 @@
         ]
     },
     {
+        "id": 850,
+        "name": "RAI 1 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/850/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/850/"
+            }
+        ]
+    },
+    {
         "id": "850",
         "name": "Rai 1 Italy",
         "servers": []
@@ -2343,20 +2352,6 @@
         "id": "858",
         "name": "Rai Premium Italy",
         "servers": []
-    },
-    {
-        "id": 882,
-        "name": "RAI Sport 1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/882/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/882/"
-            }
-        ]
     },
     {
         "id": "882",
@@ -3634,18 +3629,9 @@
         ]
     },
     {
-        "id": 840,
+        "id": "840",
         "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 839,
@@ -3658,20 +3644,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/839/"
-            }
-        ]
-    },
-    {
-        "id": 841,
-        "name": "RDS Info",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/841/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/841/"
             }
         ]
     },
@@ -4499,15 +4471,15 @@
     },
     {
         "id": null,
-        "name": "Rede Globo (720p)",
+        "name": "Rede Globo (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
+                "link": "https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
             },
             {
                 "name": "URL",
-                "link": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
+                "link": "https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
             }
         ]
     },
@@ -7063,20 +7035,6 @@
         "servers": []
     },
     {
-        "id": 365,
-        "name": "RTE 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/365/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/365/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7624,18 +7582,9 @@
         ]
     },
     {
-        "id": 719,
+        "id": "719",
         "name": "RTP 1 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/719/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/719/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -7652,18 +7601,9 @@
         ]
     },
     {
-        "id": 720,
+        "id": "720",
         "name": "RTP 2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/720/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/720/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "721",
@@ -7812,20 +7752,6 @@
             {
                 "name": "URL",
                 "link": "https://de1.dstv.cx/RTS1HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "RTS 1 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },

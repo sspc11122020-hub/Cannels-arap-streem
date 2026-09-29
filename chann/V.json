@@ -99,9 +99,18 @@
         ]
     },
     {
-        "id": "9",
+        "id": 5,
         "name": "V Sport Football",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
     },
     {
         "id": null,
@@ -118,18 +127,9 @@
         ]
     },
     {
-        "id": 937,
+        "id": "937",
         "name": "V Sport Golf",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/937/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/937/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -600,6 +600,20 @@
             {
                 "name": "URL",
                 "link": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ve Plus Panregional (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.61.114.186:8000/play/a03i/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.61.114.186:8000/play/a03i/index.m3u8"
             }
         ]
     },
@@ -1399,18 +1413,9 @@
         ]
     },
     {
-        "id": 451,
+        "id": "451",
         "name": "Viaplay Sports 1 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/451/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/451/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1427,18 +1432,9 @@
         ]
     },
     {
-        "id": 550,
+        "id": "550",
         "name": "Viaplay Sports 2 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/550/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/550/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

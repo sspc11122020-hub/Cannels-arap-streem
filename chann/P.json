@@ -8791,15 +8791,15 @@
     },
     {
         "id": null,
-        "name": "Polsat 1 (1080p) [Geo-blocked]",
+        "name": "Polsat Cafe (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8"
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-s-lb2.pluscdn.pl/lv/1517829/348/hls/816eca15/masterlist.m3u8"
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatCafe.stream/playlist.m3u8"
             }
         ]
     },
@@ -8908,6 +8908,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat&code=pl&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat Play (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatPlay.stream/playlist.m3u8"
             }
         ]
     },
@@ -9048,20 +9062,6 @@
         "servers": []
     },
     {
-        "id": 993,
-        "name": "Polsat Sport Extra 1 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/993/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/993/"
-            }
-        ]
-    },
-    {
         "id": "994",
         "name": "Polsat Sport Extra 2 HD Poland",
         "servers": []
@@ -9072,37 +9072,9 @@
         "servers": []
     },
     {
-        "id": 995,
-        "name": "Polsat Sport Extra 3 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/995/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/995/"
-            }
-        ]
-    },
-    {
         "id": "996",
         "name": "Polsat Sport Extra 4 HD Poland",
         "servers": []
-    },
-    {
-        "id": 996,
-        "name": "Polsat Sport Extra 4 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/996/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/996/"
-            }
-        ]
     },
     {
         "id": null,
@@ -9124,18 +9096,9 @@
         "servers": []
     },
     {
-        "id": 997,
+        "id": "209",
         "name": "Polsat Sport Fight Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/997/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/997/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "998",
@@ -9471,18 +9434,9 @@
         ]
     },
     {
-        "id": 718,
+        "id": "718",
         "name": "Porto Canal Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/718/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/718/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9719,6 +9673,20 @@
             {
                 "name": "URL",
                 "link": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Poyo TV [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://xyktmobile00.s.gy/PPV936_PORORO_HD"
+            },
+            {
+                "name": "URL",
+                "link": "https://xyktmobile00.s.gy/PPV936_PORORO_HD"
             }
         ]
     },
@@ -10020,18 +9988,9 @@
         ]
     },
     {
-        "id": 799,
+        "id": "stream-799",
         "name": "Premier Sports 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/799/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/799/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10724,20 +10683,6 @@
     },
     {
         "id": null,
-        "name": "Pro Arena HD",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pro Business (720p)",
         "servers": [
             {
@@ -10747,20 +10692,6 @@
             {
                 "name": "URL",
                 "link": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pro Cinema",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8"
             }
         ]
     },

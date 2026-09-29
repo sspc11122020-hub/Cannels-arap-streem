@@ -1008,20 +1008,6 @@
         ]
     },
     {
-        "id": 5000,
-        "name": "OlympiaTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5000/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5000/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Olympic Channel (1080p) [Geo-blocked]",
         "servers": [
@@ -1102,6 +1088,20 @@
             {
                 "name": "URL",
                 "link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Oman TV Sport",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },
@@ -2363,18 +2363,9 @@
         ]
     },
     {
-        "id": 8,
+        "id": "3011",
         "name": "ORF eins",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/8/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

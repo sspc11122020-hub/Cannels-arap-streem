@@ -183,15 +183,15 @@
     },
     {
         "id": null,
-        "name": "BabyFirst Spanish (720p)",
+        "name": "BabyFirst Spanish (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://168.228.44.241:9997/play/a07u/index.m3u8"
+                "link": "http://168.196.127.137:6001/play/a06j/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://168.228.44.241:9997/play/a07u/index.m3u8"
+                "link": "http://168.196.127.137:6001/play/a06j/index.m3u8"
             }
         ]
     },
@@ -206,20 +206,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BabyTV Spain (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://181.78.12.119:16123/play/ch01/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://181.78.12.119:16123/play/ch01/index.m3u8"
             }
         ]
     },
@@ -350,16 +336,16 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Bahrain Sport 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/2/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/2/"
             }
         ]
     },
@@ -1186,30 +1172,16 @@
         ]
     },
     {
-        "id": 4,
+        "id": null,
         "name": "BBC Alba",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BBC Alba [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd"
-            },
-            {
-                "name": "URL",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -1332,15 +1304,15 @@
     },
     {
         "id": null,
-        "name": "BBC Four (720p) [Geo-blocked]",
+        "name": "BBC Four",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -1551,21 +1523,16 @@
         ]
     },
     {
-        "id": "3001",
-        "name": "BBC One",
-        "servers": []
-    },
-    {
         "id": null,
-        "name": "BBC One (720p) [Geo-blocked]",
+        "name": "BBC One",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -1822,18 +1789,9 @@
         ]
     },
     {
-        "id": 356,
+        "id": "356",
         "name": "BBC One UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/356/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/356/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1907,15 +1865,15 @@
     },
     {
         "id": null,
-        "name": "BBC Parliament (720p) [Geo-blocked]",
+        "name": "BBC Parliament",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -2271,15 +2229,15 @@
     },
     {
         "id": null,
-        "name": "BBC Scotland (720p) [Geo-blocked]",
+        "name": "BBC Scotland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -2312,9 +2270,32 @@
         ]
     },
     {
-        "id": "358",
+        "id": null,
+        "name": "BBC Three HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd"
+            }
+        ]
+    },
+    {
+        "id": 358,
         "name": "BBC Three UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/358/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/358/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3201,20 +3182,6 @@
         ]
     },
     {
-        "id": 117,
-        "name": "beIN Sports 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/117/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/117/"
-            }
-        ]
-    },
-    {
         "id": "117",
         "name": "beIN SPORTS 2 France",
         "servers": []
@@ -3576,9 +3543,18 @@
         "servers": []
     },
     {
-        "id": "stream-372",
+        "id": 372,
         "name": "beIN SPORTS en Español",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/372/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/372/"
+            }
+        ]
     },
     {
         "id": "3033",
@@ -3714,18 +3690,9 @@
         ]
     },
     {
-        "id": 495,
+        "id": "495",
         "name": "beIN Sports MAX 5 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/495/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/495/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3879,9 +3846,18 @@
         ]
     },
     {
-        "id": "stream-96",
+        "id": 96,
         "name": "beIN Sports MENA 6",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/96/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/96/"
+            }
+        ]
     },
     {
         "id": 97,
@@ -3968,9 +3944,37 @@
         ]
     },
     {
+        "id": 425,
+        "name": "beIN SPORTS USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/425/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/425/"
+            }
+        ]
+    },
+    {
         "id": "425",
         "name": "BeIN SPORTS USA",
         "servers": []
+    },
+    {
+        "id": 100,
+        "name": "beIN SPORTS Xtra",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/100/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/100/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4096,6 +4100,20 @@
             {
                 "name": "URL",
                 "link": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Belarus 5",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },
@@ -4850,9 +4868,18 @@
         ]
     },
     {
-        "id": "306",
+        "id": 306,
         "name": "BET USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/306/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/306/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5150,6 +5177,20 @@
             {
                 "name": "URL",
                 "link": "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "BHT 1 Bosnia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/7/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },
@@ -6389,15 +6430,15 @@
     },
     {
         "id": null,
-        "name": "Bolivia TV (1080p)",
+        "name": "Bolivia TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8"
+                "link": "https://hls.tvabierta.net/hls/boliviatv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8"
+                "link": "https://hls.tvabierta.net/hls/boliviatv.m3u8"
             }
         ]
     },
@@ -7023,9 +7064,18 @@
         ]
     },
     {
-        "id": "307",
+        "id": 307,
         "name": "Bravo USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/307/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/307/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7561,6 +7611,20 @@
             {
                 "name": "URL",
                 "link": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BTB (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
             }
         ]
     },

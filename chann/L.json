@@ -1075,18 +1075,9 @@
         ]
     },
     {
-        "id": 10,
+        "id": "108",
         "name": "LALIGA TV Hypermotion 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "276",
@@ -2341,20 +2332,6 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Lifetime (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test"
-            },
-            {
-                "name": "URL",
-                "link": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test"
             }
         ]
     },
