@@ -1499,9 +1499,18 @@
         ]
     },
     {
-        "id": "stream-392",
+        "id": 392,
         "name": "Win+ Futbol Colombia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/392/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/392/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1668,15 +1677,15 @@
     },
     {
         "id": null,
-        "name": "WKAQ-TV 2.2 (720p)",
+        "name": "WKAQ-TV 2.2 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8"
+                "link": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8"
             }
         ]
     },

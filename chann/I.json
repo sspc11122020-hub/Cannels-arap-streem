@@ -677,20 +677,6 @@
         ]
     },
     {
-        "id": 324,
-        "name": "ID USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/324/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/324/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Ideaal TV (480p) [Not 24/7]",
         "servers": [
@@ -1569,18 +1555,9 @@
         ]
     },
     {
-        "id": 3,
+        "id": "1",
         "name": "Indosiar",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2129,9 +2106,18 @@
         ]
     },
     {
-        "id": "324",
+        "id": 324,
         "name": "Investigation Discovery (ID USA)",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/324/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/324/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2527,6 +2513,20 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "IRIB Varzesh Iran",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },
@@ -3108,9 +3108,18 @@
         ]
     },
     {
-        "id": "350",
+        "id": 350,
         "name": "ITV 1 UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/350/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/350/"
+            }
+        ]
     },
     {
         "id": null,

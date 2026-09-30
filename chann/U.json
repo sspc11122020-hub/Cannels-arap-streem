@@ -1263,9 +1263,18 @@
         ]
     },
     {
-        "id": "132",
+        "id": 132,
         "name": "Univision",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/132/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/132/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1348,20 +1357,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 132,
-        "name": "Univision USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/132/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/132/"
             }
         ]
     },
@@ -1647,20 +1642,6 @@
             {
                 "name": "URL",
                 "link": "https://epiembeds.online/embed/usanetwork-usa"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "USA Network (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.11.225.124:5000/live/usa_hd/playlist.m3u8"
             }
         ]
     },

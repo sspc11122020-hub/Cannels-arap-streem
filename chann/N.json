@@ -719,20 +719,6 @@
         ]
     },
     {
-        "id": 328,
-        "name": "National Geographic",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/328/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/328/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "National Geographic (Bulgaria) (1080p)",
         "servers": [
@@ -1504,18 +1490,9 @@
         ]
     },
     {
-        "id": 754,
+        "id": "754",
         "name": "NBC Sports Boston",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "755",
@@ -2612,9 +2589,18 @@
         ]
     },
     {
-        "id": "5025",
+        "id": 5000,
         "name": "Netflix",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5000/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5000/"
+            }
+        ]
     },
     {
         "id": "229",
@@ -3861,20 +3847,6 @@
     },
     {
         "id": null,
-        "name": "NFL Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NFL Network US",
         "servers": [
             {
@@ -4044,15 +4016,15 @@
     },
     {
         "id": null,
-        "name": "NHK World-Japan HD (1080p)",
+        "name": "NHK World-Japan HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8"
+                "link": "http://170.83.16.50/NHK_WORLD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8"
+                "link": "http://170.83.16.50/NHK_WORLD/index.m3u8"
             }
         ]
     },
@@ -5809,32 +5781,23 @@
         "servers": []
     },
     {
-        "id": 1023,
+        "id": null,
         "name": "Nova Sport 3 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1023/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1023/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 1060,
+        "id": "1060",
         "name": "Nova Sport 3 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1060/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1060/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "1024",
@@ -5960,23 +5923,32 @@
         ]
     },
     {
-        "id": 635,
+        "id": 3025,
         "name": "Nova Sports 5 Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/635/"
+                "link": "https://tvnow247.top/embed/3025/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/635/"
+                "link": "https://tvnow247.top/embed/3025/"
             }
         ]
     },
     {
-        "id": "636",
+        "id": 3026,
         "name": "Nova Sports 6 Greece",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3026/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3026/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5993,14 +5965,32 @@
         ]
     },
     {
-        "id": "639",
+        "id": 639,
         "name": "Nova Sports News Greece",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/639/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/639/"
+            }
+        ]
     },
     {
-        "id": "599",
+        "id": 599,
         "name": "Nova Sports Premier League Greece",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/599/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/599/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6017,16 +6007,16 @@
         ]
     },
     {
-        "id": 638,
+        "id": 3023,
         "name": "Nova Sports Prime Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/3023/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/3023/"
             }
         ]
     },
@@ -6097,6 +6087,20 @@
         "servers": []
     },
     {
+        "id": 11,
+        "name": "Nova TV Croatia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/11/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/11/"
+            }
+        ]
+    },
+    {
         "id": 636,
         "name": "NovaSports 6 GR",
         "servers": [
@@ -6111,9 +6115,18 @@
         ]
     },
     {
-        "id": "stream-638",
+        "id": 638,
         "name": "NovaSports Prime GR",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/638/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/638/"
+            }
+        ]
     },
     {
         "id": null,

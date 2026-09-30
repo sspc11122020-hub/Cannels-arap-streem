@@ -215,8 +215,13 @@
         "servers": []
     },
     {
-        "id": 555,
+        "id": "555",
         "name": "Racing Tv UK",
+        "servers": []
+    },
+    {
+        "id": 555,
+        "name": "Racing TV UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -2245,20 +2250,6 @@
         ]
     },
     {
-        "id": 850,
-        "name": "RAI 1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/850/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/850/"
-            }
-        ]
-    },
-    {
         "id": "850",
         "name": "Rai 1 Italy",
         "servers": []
@@ -3629,21 +3620,30 @@
         ]
     },
     {
-        "id": "840",
+        "id": 840,
         "name": "RDS 2 CA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
     },
     {
-        "id": 839,
+        "id": null,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS&code=ca&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS&code=ca&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5978,6 +5978,20 @@
         ]
     },
     {
+        "id": 152,
+        "name": "Riyadiya TV 1 (KSA)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/152/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/152/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RJTV (1080p)",
         "servers": [
@@ -6048,9 +6062,18 @@
         ]
     },
     {
-        "id": "119",
+        "id": 119,
         "name": "RMC Sport 1 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/119/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/119/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7035,6 +7058,20 @@
         "servers": []
     },
     {
+        "id": 365,
+        "name": "RTE 2 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/365/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/365/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7315,21 +7352,35 @@
         ]
     },
     {
+        "id": 10,
+        "name": "RTL 2 Luxembourg",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/10/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/10/"
+            }
+        ]
+    },
+    {
         "id": "stream-6",
         "name": "RTL Club Belgium",
         "servers": []
     },
     {
-        "id": 740,
+        "id": null,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
