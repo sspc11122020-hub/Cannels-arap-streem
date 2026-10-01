@@ -169,7 +169,21 @@
     },
     {
         "id": null,
-        "name": "E! East (1080p)",
+        "name": "E! (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/273/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/273/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "E! (United States) East (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -182,18 +196,9 @@
         ]
     },
     {
-        "id": 315,
+        "id": "315",
         "name": "E! Entertainment Television",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/315/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/315/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1993,6 +1998,20 @@
     },
     {
         "id": null,
+        "name": "Encuentro (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.59.227.20:8000/play/a05s/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.59.227.20:8000/play/a05s/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "EnerGeek FAN (1080p)",
         "servers": [
             {
@@ -2561,18 +2580,9 @@
         "servers": []
     },
     {
-        "id": 160,
+        "id": "12",
         "name": "ERT 2 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/160/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/160/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3534,18 +3544,9 @@
         ]
     },
     {
-        "id": 149,
+        "id": "149",
         "name": "ESPN Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/149/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/149/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3777,16 +3778,16 @@
         "servers": []
     },
     {
-        "id": 171,
+        "id": 59,
         "name": "ESPN+ USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/171/"
+                "link": "https://tvnow247.top/embed/59/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/171/"
+                "link": "https://tvnow247.top/embed/59/"
             }
         ]
     },
@@ -4192,6 +4193,20 @@
         "servers": []
     },
     {
+        "id": 21,
+        "name": "Esport 3 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/21/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/21/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Esport3 (1080p) [Geo-blocked]",
         "servers": [
@@ -4547,18 +4562,9 @@
         ]
     },
     {
-        "id": 14,
+        "id": "3065",
         "name": "ETV 2 Estonia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/14/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/14/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

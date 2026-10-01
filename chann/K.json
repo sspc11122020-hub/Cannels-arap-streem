@@ -1808,9 +1808,18 @@
         ]
     },
     {
-        "id": "154",
+        "id": 29,
         "name": "KHL Prime",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/29/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/29/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1832,16 +1841,16 @@
         "servers": []
     },
     {
-        "id": 159,
+        "id": 28,
         "name": "KHL TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/159/"
+                "link": "https://tvnow247.top/embed/28/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/159/"
+                "link": "https://tvnow247.top/embed/28/"
             }
         ]
     },
@@ -2122,6 +2131,34 @@
             {
                 "name": "URL",
                 "link": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kino Polska (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/238/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/238/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kino Polska Muzyka (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/237/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/237/index.m3u8"
             }
         ]
     },
@@ -3429,20 +3466,6 @@
             {
                 "name": "URL",
                 "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "KTV Sport Kuwait",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },

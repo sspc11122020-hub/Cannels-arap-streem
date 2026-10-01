@@ -1411,6 +1411,34 @@
     },
     {
         "id": null,
+        "name": "Radio Romania Oltenia-Craiova (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radio Romania Targu Mures (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Rossii (720p)",
         "servers": [
             {
@@ -3620,30 +3648,21 @@
         ]
     },
     {
-        "id": 840,
+        "id": "840",
         "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": null,
+        "id": 839,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/839/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/839/"
             }
         ]
     },
@@ -5978,20 +5997,6 @@
         ]
     },
     {
-        "id": 152,
-        "name": "Riyadiya TV 1 (KSA)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/152/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/152/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RJTV (1080p)",
         "servers": [
@@ -7058,20 +7063,6 @@
         "servers": []
     },
     {
-        "id": 365,
-        "name": "RTE 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/365/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/365/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7348,20 +7339,6 @@
             {
                 "name": "URL",
                 "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "name": "RTL 2 Luxembourg",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
             }
         ]
     },
@@ -7660,6 +7637,20 @@
         "id": "721",
         "name": "RTP 3 Portugal",
         "servers": []
+    },
+    {
+        "id": 720,
+        "name": "RTP2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
+            }
+        ]
     },
     {
         "id": null,

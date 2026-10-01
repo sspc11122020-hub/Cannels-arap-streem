@@ -118,15 +118,15 @@
     },
     {
         "id": null,
-        "name": "Pakapaka",
+        "name": "Pakapaka (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG"
+                "link": "http://181.209.105.115:2525/play/pakapaka/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG"
+                "link": "http://181.209.105.115:2525/play/pakapaka/index.m3u8"
             }
         ]
     },
@@ -556,16 +556,16 @@
         "servers": []
     },
     {
-        "id": 3009,
+        "id": 86,
         "name": "Paramount+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3009/"
+                "link": "https://tvnow247.top/embed/86/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3009/"
+                "link": "https://tvnow247.top/embed/86/"
             }
         ]
     },
@@ -1270,9 +1270,18 @@
         ]
     },
     {
-        "id": "210",
+        "id": 210,
         "name": "PBS USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/210/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/210/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8814,6 +8823,20 @@
     },
     {
         "id": null,
+        "name": "Polsat Comedy Central Extra (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/290/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/290/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Polsat Film 2 (720p)",
         "servers": [
             {
@@ -9038,18 +9061,9 @@
         ]
     },
     {
-        "id": 50,
+        "id": "50",
         "name": "Polsat Sport 2 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/50/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/50/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9109,23 +9123,23 @@
         "servers": []
     },
     {
-        "id": 995,
-        "name": "Polsat Sport Extra 3 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/995/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/995/"
-            }
-        ]
-    },
-    {
         "id": "996",
         "name": "Polsat Sport Extra 4 HD Poland",
         "servers": []
+    },
+    {
+        "id": 996,
+        "name": "Polsat Sport Extra 4 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/996/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/996/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9490,9 +9504,18 @@
         ]
     },
     {
-        "id": "718",
+        "id": 718,
         "name": "Porto Canal Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10687,6 +10710,20 @@
         ]
     },
     {
+        "id": 1,
+        "name": "Pro Arena Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Pro Business (720p)",
         "servers": [
@@ -10945,6 +10982,20 @@
             {
                 "name": "URL",
                 "link": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "ProSieben Maxx DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/2/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/2/"
             }
         ]
     },
@@ -11488,9 +11539,18 @@
         ]
     },
     {
-        "id": "450",
+        "id": 450,
         "name": "PTV Sports",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/450/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/450/"
+            }
+        ]
     },
     {
         "id": null,
@@ -11503,20 +11563,6 @@
             {
                 "name": "URL",
                 "link": "http://103.250.28.74:8000/play/a019/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 450,
-        "name": "PTV Sports Pakistan",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/450/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/450/"
             }
         ]
     },

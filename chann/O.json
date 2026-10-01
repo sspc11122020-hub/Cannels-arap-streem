@@ -1092,20 +1092,6 @@
         ]
     },
     {
-        "id": 6,
-        "name": "Oman TV Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/6/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/6/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Omega (720p)",
         "servers": [
@@ -2061,18 +2047,9 @@
         "servers": []
     },
     {
-        "id": 3046,
+        "id": "3043",
         "name": "Oneplay Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3046/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3046/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2438,6 +2415,20 @@
             {
                 "name": "URL",
                 "link": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ORF Sport Plus",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },

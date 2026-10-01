@@ -336,6 +336,20 @@
         ]
     },
     {
+        "id": 5,
+        "name": "Bahrain Sport 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Bahrain Sports 1 (720p) [Not 24/7]",
         "servers": [
@@ -714,18 +728,9 @@
         ]
     },
     {
-        "id": 275,
+        "id": "275",
         "name": "Bandsports Brasil",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/275/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/275/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1229,6 +1234,20 @@
     },
     {
         "id": null,
+        "name": "BBC Brit (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/309/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/309/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BBC Drama (1080p)",
         "servers": [
             {
@@ -1238,6 +1257,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BBC Earth (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/307/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/307/index.m3u8"
             }
         ]
     },
@@ -1383,6 +1416,20 @@
             {
                 "name": "URL",
                 "link": "http://58.8.186.128:10003/bysid/2333"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BBC Lifestyle Poland (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/305/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/305/index.m3u8"
             }
         ]
     },
@@ -2382,30 +2429,21 @@
         ]
     },
     {
-        "id": 357,
+        "id": "357",
         "name": "BBC Two UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/357/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/357/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
-        "name": "BBC Two Wales (720p) [Geo-blocked]",
+        "name": "BBC Two Wales",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -3096,16 +3134,16 @@
         ]
     },
     {
-        "id": 116,
+        "id": 3051,
         "name": "beIN Sports 1 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/116/"
+                "link": "https://tvnow247.top/embed/3051/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/116/"
+                "link": "https://tvnow247.top/embed/3051/"
             }
         ]
     },
@@ -3443,6 +3481,20 @@
         "servers": []
     },
     {
+        "id": 497,
+        "name": "beIN Sports 7 Max France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/497/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/497/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 7 SA",
         "servers": [
@@ -3666,18 +3718,9 @@
         ]
     },
     {
-        "id": 494,
+        "id": "494",
         "name": "beIN Sports MAX 4 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/494/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/494/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3780,23 +3823,23 @@
         "servers": []
     },
     {
-        "id": "stream-95",
-        "name": "beIN Sports MENA 5",
-        "servers": []
-    },
-    {
-        "id": 95,
-        "name": "beIN SPORTS MENA 5",
+        "id": 92,
+        "name": "beIN Sports MENA 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/95/"
+                "link": "https://tvnow247.top/embed/92/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/95/"
+                "link": "https://tvnow247.top/embed/92/"
             }
         ]
+    },
+    {
+        "id": "stream-95",
+        "name": "beIN Sports MENA 5",
+        "servers": []
     },
     {
         "id": "stream-96",
@@ -3804,37 +3847,50 @@
         "servers": []
     },
     {
-        "id": "stream-97",
+        "id": 97,
         "name": "beIN Sports MENA 7",
-        "servers": []
-    },
-    {
-        "id": 98,
-        "name": "beIN SPORTS MENA 8",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/98/"
+                "link": "https://tvnow247.top/embed/97/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/98/"
+                "link": "https://tvnow247.top/embed/97/"
             }
         ]
     },
     {
-        "id": "61",
-        "name": "beIN Sports MENA English 1",
-        "servers": []
+        "id": 99,
+        "name": "beIN Sports MENA 9",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/99/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/99/"
+            }
+        ]
     },
     {
-        "id": "90",
-        "name": "beIN Sports MENA English 2",
-        "servers": []
+        "id": 61,
+        "name": "beIN Sports MENA English 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/61/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/61/"
+            }
+        ]
     },
     {
         "id": 90,
-        "name": "beIN SPORTS MENA English 2",
+        "name": "beIN Sports MENA English 2",
         "servers": [
             {
                 "name": "Main Server",
@@ -3892,20 +3948,6 @@
         "id": "425",
         "name": "BeIN SPORTS USA",
         "servers": []
-    },
-    {
-        "id": 100,
-        "name": "beIN SPORTS XTRA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/100/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/100/"
-            }
-        ]
     },
     {
         "id": null,
@@ -4646,7 +4688,21 @@
     },
     {
         "id": null,
-        "name": "BET",
+        "name": "BET (Canada) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://sra72yz.s.gy/BET_CANADA_HD.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://sra72yz.s.gy/BET_CANADA_HD.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET (Sweden)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4655,6 +4711,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET (Sweden) DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET (Sweden) NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
             }
         ]
     },
@@ -4697,34 +4781,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET DK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET NO",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
             }
         ]
     },
@@ -6079,18 +6135,9 @@
         ]
     },
     {
-        "id": 476,
+        "id": "476",
         "name": "BNT 1 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/476/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/476/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6126,18 +6173,9 @@
         ]
     },
     {
-        "id": 478,
+        "id": "478",
         "name": "BNT 3 Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/478/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/478/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6150,6 +6188,34 @@
             {
                 "name": "URL",
                 "link": "https://shift03.isp.bg/BNT4_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "name": "Board 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/211/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/211/"
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "name": "Board 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/212/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/212/"
             }
         ]
     },

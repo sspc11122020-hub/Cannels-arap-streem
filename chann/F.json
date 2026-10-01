@@ -2477,6 +2477,20 @@
     },
     {
         "id": null,
+        "name": "Fox (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/249/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/249/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fox (Russia) (576p)",
         "servers": [
             {
@@ -3563,9 +3577,18 @@
         ]
     },
     {
-        "id": "830",
+        "id": 830,
         "name": "Fox Sports Premium MX",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/830/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/830/"
+            }
+        ]
     },
     {
         "id": "3037",
@@ -4746,18 +4769,9 @@
         "servers": []
     },
     {
-        "id": 317,
+        "id": "317",
         "name": "FX USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/317/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/317/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
