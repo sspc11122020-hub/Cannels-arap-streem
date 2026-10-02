@@ -57,6 +57,20 @@
     },
     {
         "id": null,
+        "name": "B4U Bhojpuri Plus (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/b4ubhojpuri/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/b4ubhojpuri/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "B4U Kadak (576p)",
         "servers": [
             {
@@ -85,15 +99,15 @@
     },
     {
         "id": null,
-        "name": "B4U Music (576p)",
+        "name": "B4U Music (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/415/master.m3u8"
+                "link": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/415/master.m3u8"
+                "link": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8"
             }
         ]
     },
@@ -332,20 +346,6 @@
             {
                 "name": "URL",
                 "link": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Bahrain Sport 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
@@ -1496,6 +1496,20 @@
     },
     {
         "id": null,
+        "name": "BBC News Hindi (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/bbcnewshindi/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/bbcnewshindi/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BBC News Latin America (720p)",
         "servers": [
             {
@@ -2429,9 +2443,18 @@
         ]
     },
     {
-        "id": "357",
+        "id": 3001,
         "name": "BBC Two UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3001/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3001/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3134,16 +3157,16 @@
         ]
     },
     {
-        "id": 3051,
+        "id": 116,
         "name": "beIN Sports 1 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3051/"
+                "link": "https://tvnow247.top/embed/116/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3051/"
+                "link": "https://tvnow247.top/embed/116/"
             }
         ]
     },
@@ -3211,20 +3234,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%202&code=fr&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 117,
-        "name": "beIN Sports 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/117/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/117/"
             }
         ]
     },
@@ -3381,6 +3390,20 @@
         "servers": []
     },
     {
+        "id": 494,
+        "name": "beIN Sports 4 Max France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/494/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/494/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "beIN SPORTS 4 SA",
         "servers": [
@@ -3419,9 +3442,18 @@
         "servers": []
     },
     {
-        "id": "stream-495",
+        "id": 495,
         "name": "beIN Sports 5 Max France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/495/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/495/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3479,20 +3511,6 @@
         "id": "97",
         "name": "beIN Sports 7 Arabic",
         "servers": []
-    },
-    {
-        "id": 497,
-        "name": "beIN Sports 7 Max France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/497/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/497/"
-            }
-        ]
     },
     {
         "id": null,
@@ -3823,6 +3841,20 @@
         "servers": []
     },
     {
+        "id": 91,
+        "name": "beIN Sports MENA 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/91/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/91/"
+            }
+        ]
+    },
+    {
         "id": 92,
         "name": "beIN Sports MENA 2",
         "servers": [
@@ -3837,14 +3869,60 @@
         ]
     },
     {
-        "id": "stream-95",
-        "name": "beIN Sports MENA 5",
-        "servers": []
+        "id": 93,
+        "name": "beIN Sports MENA 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/93/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/93/"
+            }
+        ]
     },
     {
-        "id": "stream-96",
+        "id": 94,
+        "name": "beIN Sports MENA 4",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/94/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/94/"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "beIN Sports MENA 5",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/95/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/95/"
+            }
+        ]
+    },
+    {
+        "id": 96,
         "name": "beIN Sports MENA 6",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/96/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/96/"
+            }
+        ]
     },
     {
         "id": 97,
@@ -3857,6 +3935,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/97/"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "beIN Sports MENA 8",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/98/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/98/"
             }
         ]
     },
@@ -3899,6 +3991,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/90/"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "beIN Sports MENA Xtra 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/100/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/100/"
             }
         ]
     },
@@ -4688,21 +4794,7 @@
     },
     {
         "id": null,
-        "name": "BET (Canada) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sra72yz.s.gy/BET_CANADA_HD.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sra72yz.s.gy/BET_CANADA_HD.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET (Sweden)",
+        "name": "BET",
         "servers": [
             {
                 "name": "Main Server",
@@ -4711,34 +4803,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET (Sweden) DK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BET (Sweden) NO",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
             }
         ]
     },
@@ -4781,6 +4845,34 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BET NO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8"
             }
         ]
     },
@@ -4841,18 +4933,9 @@
         ]
     },
     {
-        "id": 306,
+        "id": "306",
         "name": "BET USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/306/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/306/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5099,6 +5182,20 @@
     },
     {
         "id": null,
+        "name": "Bharat News TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/bharatnewstv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/bharatnewstv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bharat Samachar (576p)",
         "servers": [
             {
@@ -5108,6 +5205,20 @@
             {
                 "name": "URL",
                 "link": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Bharat Update (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/339/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/339/master.m3u8"
             }
         ]
     },
@@ -5304,6 +5415,20 @@
             {
                 "name": "URL",
                 "link": "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Big Magic (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/bigmagic/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/bigmagic/index.m3u8"
             }
         ]
     },
@@ -7079,18 +7204,9 @@
         ]
     },
     {
-        "id": 307,
+        "id": "307",
         "name": "Bravo USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/307/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/307/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -7561,6 +7677,20 @@
     },
     {
         "id": null,
+        "name": "BS9 News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/bs9news/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/bs9news/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BST (576p)",
         "servers": [
             {
@@ -7742,9 +7872,18 @@
         ]
     },
     {
-        "id": "3978",
+        "id": 397,
         "name": "BTN USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/397/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/397/"
+            }
+        ]
     },
     {
         "id": "207",
@@ -7964,6 +8103,20 @@
     },
     {
         "id": null,
+        "name": "Buletin India (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/buletinindia/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/buletinindia/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Bull",
         "servers": [
             {
@@ -8155,6 +8308,20 @@
             {
                 "name": "URL",
                 "link": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BVTV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/bvtv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/bvtv/index.m3u8"
             }
         ]
     },

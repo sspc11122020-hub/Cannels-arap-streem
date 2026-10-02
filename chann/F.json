@@ -665,6 +665,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Fashion India (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/fashionindia/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/fashionindia/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "744",
         "name": "Fashion TV",
         "servers": []
@@ -713,7 +727,21 @@
     },
     {
         "id": null,
-        "name": "FashionTV (1080p)",
+        "name": "FashionTV (India) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/ftvhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/ftvhd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FashionTV (Russia) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -844,15 +872,15 @@
     },
     {
         "id": null,
-        "name": "Fateh TV (1080p) [Not 24/7]",
+        "name": "Fateh TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+                "link": "http://51.75.127.199:3141/fatehtv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8"
+                "link": "http://51.75.127.199:3141/fatehtv/index.m3u8"
             }
         ]
     },
@@ -1555,6 +1583,20 @@
     },
     {
         "id": null,
+        "name": "FILMBOX+ One (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/236/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/236/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "FILMBOX+ One Bulgaria (576p)",
         "servers": [
             {
@@ -1996,6 +2038,20 @@
             {
                 "name": "URL",
                 "link": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FM News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/fmnews/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/fmnews/index.m3u8"
             }
         ]
     },
@@ -2752,6 +2808,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox (United States) WSVN (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.197.41.183/Fox/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.197.41.183/Fox/index.m3u8"
             }
         ]
     },
@@ -3577,18 +3647,9 @@
         ]
     },
     {
-        "id": 830,
+        "id": "830",
         "name": "Fox Sports Premium MX",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/830/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/830/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3037",
@@ -4170,6 +4231,20 @@
         ]
     },
     {
+        "id": 301,
+        "name": "Freeform USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/301/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/301/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Frequence Novelas (1080p)",
         "servers": [
@@ -4383,6 +4458,20 @@
         "id": "185",
         "name": "FUBO Sports",
         "servers": []
+    },
+    {
+        "id": 3004,
+        "name": "Fubo Sports Network",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3004/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3004/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4769,9 +4858,18 @@
         "servers": []
     },
     {
-        "id": "317",
+        "id": 317,
         "name": "FX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/317/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/317/"
+            }
+        ]
     },
     {
         "id": null,

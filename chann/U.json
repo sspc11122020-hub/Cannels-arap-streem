@@ -889,9 +889,18 @@
         "servers": []
     },
     {
-        "id": "stream-133",
+        "id": 133,
         "name": "UniMás",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/133/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/133/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1100,6 +1109,34 @@
             {
                 "name": "URL",
                 "link": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Unite8 Sports 1 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/zeecafehd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/zeecafehd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Unite8 Sports 2 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/andflixhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/andflixhd/index.m3u8"
             }
         ]
     },

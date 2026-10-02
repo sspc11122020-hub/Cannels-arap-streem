@@ -677,20 +677,6 @@
         ]
     },
     {
-        "id": 324,
-        "name": "ID USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/324/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/324/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Ideaal TV (480p) [Not 24/7]",
         "servers": [
@@ -1360,6 +1346,20 @@
     },
     {
         "id": null,
+        "name": "IN 24 News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/in24news/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/in24news/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "In the Kitchen (720p)",
         "servers": [
             {
@@ -1425,6 +1425,20 @@
             {
                 "name": "URL",
                 "link": "https://fs.uplink.kz/india/mono.m3u8?token=onlinetv"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "India 24x7 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/india24x7/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/india24x7/index.m3u8"
             }
         ]
     },
@@ -1569,9 +1583,18 @@
         ]
     },
     {
-        "id": "1",
+        "id": 1,
         "name": "Indosiar",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1729,15 +1752,15 @@
     },
     {
         "id": null,
-        "name": "INH 24x7 (396p)",
+        "name": "INH 24x7 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/inh24x7/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/inh24x7/index.m3u8"
             }
         ]
     },

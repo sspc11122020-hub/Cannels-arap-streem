@@ -220,20 +220,6 @@
         "servers": []
     },
     {
-        "id": 555,
-        "name": "Racing TV UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/555/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/555/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Racing.com (720p)",
         "servers": [
@@ -2265,6 +2251,20 @@
     },
     {
         "id": null,
+        "name": "Raftaar Samay (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/raftaarsamay/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/raftaarsamay/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rai 1 (720p)",
         "servers": [
             {
@@ -2281,6 +2281,20 @@
         "id": "850",
         "name": "Rai 1 Italy",
         "servers": []
+    },
+    {
+        "id": 851,
+        "name": "Rai 2 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/851/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/851/"
+            }
+        ]
     },
     {
         "id": "851",
@@ -3036,9 +3050,18 @@
         ]
     },
     {
-        "id": "607",
+        "id": 607,
         "name": "Rally Tv",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/607/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/607/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3648,9 +3671,18 @@
         ]
     },
     {
-        "id": "840",
+        "id": 840,
         "name": "RDS 2 CA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
     },
     {
         "id": 839,
@@ -3804,15 +3836,15 @@
     },
     {
         "id": null,
-        "name": "Real News Kerala (1080p) [Not 24/7]",
+        "name": "Real News Kerala (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/realnewskerala/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/realnewskerala/index.m3u8"
             }
         ]
     },
@@ -6067,18 +6099,9 @@
         ]
     },
     {
-        "id": 119,
+        "id": "119",
         "name": "RMC Sport 1 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/119/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/119/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6549,6 +6572,20 @@
     },
     {
         "id": null,
+        "name": "Romedy Now (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/romedynow/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/romedynow/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ronahi TV (1080p)",
         "servers": [
             {
@@ -6759,6 +6796,20 @@
             {
                 "name": "URL",
                 "link": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RS Bharat (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/rsbharat/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/rsbharat/index.m3u8"
             }
         ]
     },
@@ -7053,6 +7104,20 @@
         ]
     },
     {
+        "id": 5,
+        "name": "RTCG 2 Montenegro",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
+    },
+    {
         "id": "364",
         "name": "RTE 1",
         "servers": []
@@ -7061,6 +7126,20 @@
         "id": "365",
         "name": "RTE 2",
         "servers": []
+    },
+    {
+        "id": 365,
+        "name": "RTE 2 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/365/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/365/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7348,16 +7427,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
@@ -7610,9 +7689,18 @@
         ]
     },
     {
-        "id": "719",
+        "id": 719,
         "name": "RTP 1 Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/719/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/719/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7637,20 +7725,6 @@
         "id": "721",
         "name": "RTP 3 Portugal",
         "servers": []
-    },
-    {
-        "id": 720,
-        "name": "RTP2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/720/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/720/"
-            }
-        ]
     },
     {
         "id": null,
@@ -7794,6 +7868,20 @@
             {
                 "name": "URL",
                 "link": "https://de1.dstv.cx/RTS1HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "RTS 1 Serbia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/7/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },
@@ -8860,6 +8948,20 @@
     },
     {
         "id": null,
+        "name": "Rus (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://31.148.5.241/kanal_21/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://31.148.5.241/kanal_21/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Russia-1 (1080p)",
         "servers": [
             {
@@ -9383,15 +9485,15 @@
     },
     {
         "id": null,
-        "name": "Ryongnamsan Television SD [Not 24/7]",
+        "name": "Ryongnamsan Television (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8"
+                "link": "https://live.koryocdn.org/ryongnamsan/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8"
+                "link": "https://live.koryocdn.org/ryongnamsan/index.m3u8"
             }
         ]
     },

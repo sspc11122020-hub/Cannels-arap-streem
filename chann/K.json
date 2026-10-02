@@ -300,15 +300,29 @@
     },
     {
         "id": null,
-        "name": "Kalaignar TV (396p)",
+        "name": "Kalaignar Seithigal (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/kalaignarseithigal/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/kalaignarseithigal/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kalaignar TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/kalaignartv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/kalaignartv/index.m3u8"
             }
         ]
     },
@@ -903,6 +917,20 @@
             {
                 "name": "URL",
                 "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kannur One (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/kannurone/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/kannurone/index.m3u8"
             }
         ]
     },
@@ -1808,18 +1836,9 @@
         ]
     },
     {
-        "id": 29,
+        "id": "154",
         "name": "KHL Prime",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/29/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/29/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1841,16 +1860,16 @@
         "servers": []
     },
     {
-        "id": 28,
+        "id": 30,
         "name": "KHL TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/28/"
+                "link": "https://tvnow247.top/embed/30/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/28/"
+                "link": "https://tvnow247.top/embed/30/"
             }
         ]
     },
@@ -2472,15 +2491,15 @@
     },
     {
         "id": null,
-        "name": "Kite Victers (720p) [Not 24/7]",
+        "name": "Kite Victers (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/kitevicters/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/kitevicters/index.m3u8"
             }
         ]
     },
@@ -2514,6 +2533,20 @@
     },
     {
         "id": null,
+        "name": "KKD News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/kkdnews/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/kkdnews/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KKRtv (720p) [Not 24/7]",
         "servers": [
             {
@@ -2523,6 +2556,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.kkr.dk/live/kkr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Klan Kosova",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/11/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/11/"
             }
         ]
     },
@@ -3046,15 +3093,15 @@
     },
     {
         "id": null,
-        "name": "Korean Central Television (1080p)",
+        "name": "Korean Central Television (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://kctv.koryofront.org/stream/index.m3u8"
+                "link": "https://live.koryocdn.org/kctv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://kctv.koryofront.org/stream/index.m3u8"
+                "link": "https://live.koryocdn.org/kctv/index.m3u8"
             }
         ]
     },

@@ -284,16 +284,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 3011,
         "name": "ZDF DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3011/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3011/"
             }
         ]
     },
@@ -308,20 +308,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info&code=de&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 727,
-        "name": "ZDF Sport DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/727/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/727/"
             }
         ]
     },
@@ -425,15 +411,15 @@
     },
     {
         "id": null,
-        "name": "Zee Bangla HD (720p)",
+        "name": "Zee Bangla HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+                "link": "http://51.75.127.199:3141/zeebanglahd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+                "link": "http://51.75.127.199:3141/zeebanglahd/index.m3u8"
             }
         ]
     },
@@ -537,15 +523,15 @@
     },
     {
         "id": null,
-        "name": "Zee Cinemalu HD (720p)",
+        "name": "Zee Cinemalu HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
+                "link": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
+                "link": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
             }
         ]
     },
@@ -649,6 +635,20 @@
     },
     {
         "id": null,
+        "name": "Zee Keralam HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/zeekeralamhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/zeekeralamhd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Madhya Pradesh Chhattisgarh (720p)",
         "servers": [
             {
@@ -663,15 +663,15 @@
     },
     {
         "id": null,
-        "name": "Zee Marathi HD (720p)",
+        "name": "Zee Marathi HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8"
+                "link": "http://51.75.127.199:3141/zeemarathihd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8"
+                "link": "http://51.75.127.199:3141/zeemarathihd/index.m3u8"
             }
         ]
     },
@@ -747,6 +747,20 @@
     },
     {
         "id": null,
+        "name": "Zee Power HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/zeepowerhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/zeepowerhd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Punjab Haryana Himachal (720p)",
         "servers": [
             {
@@ -756,6 +770,20 @@
             {
                 "name": "URL",
                 "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zee Punjabi (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/zeepunjabi/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/zeepunjabi/index.m3u8"
             }
         ]
     },
@@ -803,6 +831,20 @@
     },
     {
         "id": null,
+        "name": "Zee Talkies HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/zeetalkieshd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/zeetalkieshd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Tamil HD (720p)",
         "servers": [
             {
@@ -831,15 +873,15 @@
     },
     {
         "id": null,
-        "name": "Zee Telugu HD (720p)",
+        "name": "Zee Telugu HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
+                "link": "http://51.75.127.199:3141/zeeteluguhd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
+                "link": "http://51.75.127.199:3141/zeeteluguhd/index.m3u8"
             }
         ]
     },
@@ -854,6 +896,20 @@
             {
                 "name": "URL",
                 "link": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zee TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/zeetv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/zeetv/index.m3u8"
             }
         ]
     },
@@ -1082,16 +1138,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 398,
         "name": "Ziggo Sport 2 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/398/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/398/"
             }
         ]
     },
@@ -1152,16 +1208,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 901,
         "name": "Ziggo Sport 6 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/901/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/901/"
             }
         ]
     },

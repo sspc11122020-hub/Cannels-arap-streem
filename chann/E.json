@@ -2250,15 +2250,15 @@
     },
     {
         "id": null,
-        "name": "Enterr 10 Bangla (576p)",
+        "name": "Enterr 10 Bangla (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8"
+                "link": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8"
+                "link": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8"
             }
         ]
     },
@@ -2580,9 +2580,18 @@
         "servers": []
     },
     {
-        "id": "12",
+        "id": 3,
         "name": "ERT 2 Greece",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3418,16 +3427,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 888,
         "name": "ESPN 3 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/888/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/888/"
             }
         ]
     },
@@ -3544,9 +3553,18 @@
         ]
     },
     {
-        "id": "149",
+        "id": 149,
         "name": "ESPN Argentina",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/149/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/149/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3778,18 +3796,9 @@
         "servers": []
     },
     {
-        "id": 59,
+        "id": "191",
         "name": "ESPN+ USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/59/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/59/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3939,18 +3948,9 @@
         ]
     },
     {
-        "id": 798,
+        "id": "798",
         "name": "ESPN3 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/798/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/798/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "83",
@@ -4191,20 +4191,6 @@
         "id": "316",
         "name": "ESPNU USA",
         "servers": []
-    },
-    {
-        "id": 21,
-        "name": "Esport 3 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/21/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/21/"
-            }
-        ]
     },
     {
         "id": null,
@@ -5339,46 +5325,14 @@
         "servers": []
     },
     {
-        "id": 773,
-        "name": "EuroSport 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/773/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/773/"
-            }
-        ]
-    },
-    {
-        "id": 42,
+        "id": "42",
         "name": "EuroSport 2 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/42/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/42/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 879,
+        "id": "879",
         "name": "EuroSport 2 Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/879/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/879/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "234",
@@ -5387,45 +5341,27 @@
     },
     {
         "id": 58,
+        "name": "Eurosport 2 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/58/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/58/"
+            }
+        ]
+    },
+    {
+        "id": "58",
         "name": "EuroSport 2 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/58/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/58/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 232,
-        "name": "Eurosport 2 SE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/232/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/232/"
-            }
-        ]
-    },
-    {
-        "id": 525,
+        "id": "525",
         "name": "EuroSport 2 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/525/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/525/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "232",
@@ -5576,6 +5512,11 @@
     {
         "id": "1210",
         "name": "Event SD Streamm",
+        "servers": []
+    },
+    {
+        "id": "1202",
+        "name": "Event SD Strean",
         "servers": []
     },
     {
@@ -6020,6 +5961,20 @@
             {
                 "name": "URL",
                 "link": "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Express News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/expressnews/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/expressnews/index.m3u8"
             }
         ]
     },
@@ -6920,6 +6875,20 @@
             {
                 "name": "URL",
                 "link": "http://str2.iptvhd.ru:8080/Extreme_Sports/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Extreme Sports Channel Polska (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/262/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/262/index.m3u8"
             }
         ]
     }

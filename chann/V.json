@@ -99,9 +99,18 @@
         ]
     },
     {
-        "id": "9",
+        "id": 6,
         "name": "V Sport Football",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/6/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/6/"
+            }
+        ]
     },
     {
         "id": null,
@@ -118,9 +127,18 @@
         ]
     },
     {
-        "id": "937",
+        "id": 937,
         "name": "V Sport Golf",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/937/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/937/"
+            }
+        ]
     },
     {
         "id": null,
@@ -156,16 +174,16 @@
         "servers": []
     },
     {
-        "id": 572,
+        "id": 3079,
         "name": "V Sport Premium",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/572/"
+                "link": "https://tvnow247.top/embed/3079/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/572/"
+                "link": "https://tvnow247.top/embed/3079/"
             }
         ]
     },
@@ -269,6 +287,20 @@
             {
                 "name": "URL",
                 "link": "https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Valam TV Dayro (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8"
             }
         ]
     },
@@ -1770,6 +1802,20 @@
     },
     {
         "id": null,
+        "name": "Vijay Super (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/vijaysuper/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/vijaysuper/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Vijay Takkar APAC (1080p)",
         "servers": [
             {
@@ -2619,6 +2665,20 @@
             {
                 "name": "URL",
                 "link": "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VNM TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/vnmtv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/vnmtv/index.m3u8"
             }
         ]
     },

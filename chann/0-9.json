@@ -151,15 +151,15 @@
     },
     {
         "id": null,
-        "name": "&xplor HD (1080p) [Geo-blocked]",
+        "name": "&xplor HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
+                "link": "http://51.75.127.199:3141/andxplorehd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
+                "link": "http://51.75.127.199:3141/andxplorehd/index.m3u8"
             }
         ]
     },
@@ -184,7 +184,7 @@
     },
     {
         "id": null,
-        "name": "📢 Channel Not Listed 💬 #JustAsk in Chat — our Mods &amp; Staff will provide a Working Stream Link. 🔗",
+        "name": "📢 Channel Not Listed 💬 #JustAsk in Chat",
         "servers": [
             {
                 "name": "Main Server",
@@ -645,6 +645,20 @@
         ]
     },
     {
+        "id": 12,
+        "name": "1TV Georgia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
+            }
+        ]
+    },
+    {
         "id": "3059",
         "name": "1TV Ukraine",
         "servers": []
@@ -706,9 +720,18 @@
         ]
     },
     {
-        "id": "857",
+        "id": 857,
         "name": "20 Mediaset Italy",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/857/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/857/"
+            }
+        ]
     },
     {
         "id": null,
@@ -889,6 +912,20 @@
             {
                 "name": "URL",
                 "link": "https://hls.247box.live/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "24Hrs TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/24hrstv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/24hrstv/index.m3u8"
             }
         ]
     },
@@ -1865,11 +1902,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
+                "link": "http://51.75.127.199:3141/4tv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
+                "link": "http://51.75.127.199:3141/4tv/index.m3u8"
             }
         ]
     },
@@ -2075,9 +2112,18 @@
         ]
     },
     {
-        "id": "stream-144",
+        "id": 144,
         "name": "5Sport Israel",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/144/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/144/"
+            }
+        ]
     },
     {
         "id": "4105",
@@ -2353,6 +2399,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "7X Music (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/7xmusic/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/7xmusic/index.m3u8"
             }
         ]
     },
@@ -2680,20 +2740,6 @@
             {
                 "name": "URL",
                 "link": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 1033,
-        "name": "ČT Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1033/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1033/"
             }
         ]
     },

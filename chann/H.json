@@ -776,20 +776,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "HBO Drama West (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8"
-            }
-        ]
-    },
-    {
         "id": "691",
         "name": "HBO Family USA",
         "servers": []
@@ -880,9 +866,18 @@
         ]
     },
     {
-        "id": "321",
+        "id": 321,
         "name": "HBO USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/321/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/321/"
+            }
+        ]
     },
     {
         "id": "694",
@@ -1818,6 +1813,20 @@
         "id": "stream-322",
         "name": "History TV",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "History TV18 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/historytv18/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/historytv18/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -2918,15 +2927,15 @@
     },
     {
         "id": null,
-        "name": "Hosanna TV",
+        "name": "Hosanna TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/hosannatv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+                "link": "http://51.75.127.199:3141/hosannatv/index.m3u8"
             }
         ]
     },

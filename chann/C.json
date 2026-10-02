@@ -433,30 +433,16 @@
         ]
     },
     {
-        "id": 10,
-        "name": "Cablenet Sports 1 Cyprus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
-            }
-        ]
-    },
-    {
-        "id": 11,
+        "id": 13,
         "name": "Cablenet Sports 2 Cyprus",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/11/"
+                "link": "https://tvnow247.top/embed/13/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/11/"
+                "link": "https://tvnow247.top/embed/13/"
             }
         ]
     },
@@ -695,6 +681,20 @@
             {
                 "name": "URL",
                 "link": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Calvary TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/calvarytv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/calvarytv/index.m3u8"
             }
         ]
     },
@@ -1203,18 +1203,9 @@
         ]
     },
     {
-        "id": 540,
+        "id": "540",
         "name": "Canal 11 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/540/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/540/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3953,6 +3944,20 @@
     },
     {
         "id": null,
+        "name": "Canal Once (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Canal Oracion Con Son (1080p)",
         "servers": [
             {
@@ -4424,6 +4429,20 @@
             {
                 "name": "URL",
                 "link": "https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal Telesantiago (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8"
             }
         ]
     },
@@ -5000,9 +5019,18 @@
         "servers": []
     },
     {
-        "id": "122",
+        "id": 122,
         "name": "Canal+ Sport France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/122/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/122/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5052,9 +5080,18 @@
         "servers": []
     },
     {
-        "id": "3057",
+        "id": 464,
         "name": "Canal+ Sport360 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/464/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/464/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6154,6 +6191,20 @@
         ]
     },
     {
+        "id": 4,
+        "name": "CBC Sport Azerbaijan",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "CBC Television CBAT-DT (720p) [Geo-blocked]",
         "servers": [
@@ -6798,9 +6849,18 @@
         ]
     },
     {
-        "id": "910",
+        "id": 910,
         "name": "CBS Sports Golazo",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/910/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/910/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10215,20 +10275,6 @@
     },
     {
         "id": null,
-        "name": "Cinemax Action East HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cinemax Classics (1080p)",
         "servers": [
             {
@@ -11382,20 +11428,6 @@
         "servers": []
     },
     {
-        "id": 715,
-        "name": "Cleo TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/715/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/715/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Clergy TV (720p) [Not 24/7]",
         "servers": [
@@ -11952,9 +11984,18 @@
         ]
     },
     {
-        "id": "309",
+        "id": 309,
         "name": "CNBC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/309/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/309/"
+            }
+        ]
     },
     {
         "id": null,
@@ -11981,6 +12022,20 @@
             {
                 "name": "URL",
                 "link": "https://movil.ejeserver.com/live/cncbuga.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "CNC Medellin (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.94.3.106:8000/play/a02o/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.94.3.106:8000/play/a02o/index.m3u8"
             }
         ]
     },
@@ -12318,6 +12373,48 @@
     },
     {
         "id": null,
+        "name": "Colors (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorssd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorssd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Bangla (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorsbanglasd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorsbanglasd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Bangla Cinema (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorsbanglacinema/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorsbanglacinema/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Colors Bangla HD (1080p)",
         "servers": [
             {
@@ -12346,6 +12443,34 @@
     },
     {
         "id": null,
+        "name": "Colors Cineplex HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorscineplexhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorscineplexhd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Cineplex Superhits (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Colors Gujarati (396p)",
         "servers": [
             {
@@ -12355,6 +12480,20 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Gujarati Cinema (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8"
             }
         ]
     },
@@ -12374,6 +12513,62 @@
     },
     {
         "id": null,
+        "name": "Colors Infinity (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorsinfinitysd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorsinfinitysd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Infinity HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorsinfinityhd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorsinfinityhd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Kannada (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorskannadasd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorskannadasd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Kannada Cinema (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorskannadacinema/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorskannadacinema/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Colors Kannada HD (1080i)",
         "servers": [
             {
@@ -12383,6 +12578,20 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Marathi (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorsmarathisd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorsmarathisd/index.m3u8"
             }
         ]
     },
@@ -12439,6 +12648,20 @@
             {
                 "name": "URL",
                 "link": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Colors Tamil (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://51.75.127.199:3141/colorstamil/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://51.75.127.199:3141/colorstamil/index.m3u8"
             }
         ]
     },
@@ -12570,6 +12793,20 @@
             {
                 "name": "URL",
                 "link": "https://ma.anixa.tv/clips/stream/comedy_central/playlist.php"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Comedy Central (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/286/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/286/index.m3u8"
             }
         ]
     },
@@ -13458,20 +13695,6 @@
         ]
     },
     {
-        "id": 625,
-        "name": "Cosmote Sport 4 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/625/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/625/"
-            }
-        ]
-    },
-    {
         "id": "625",
         "name": "Cosmote Sport 4 HD",
         "servers": []
@@ -13487,6 +13710,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205&code=gr&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 626,
+        "name": "Cosmote Sport 5 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/626/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/626/"
             }
         ]
     },
@@ -13567,9 +13804,18 @@
         ]
     },
     {
-        "id": "630",
+        "id": 630,
         "name": "Cosmote Sport 9 HD",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/630/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/630/"
+            }
+        ]
     },
     {
         "id": "3023",
@@ -15353,9 +15599,18 @@
         ]
     },
     {
-        "id": "912",
+        "id": 912,
         "name": "Cytavision Sports 2 Cyprus",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/912/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/912/"
+            }
+        ]
     },
     {
         "id": null,
@@ -15372,9 +15627,18 @@
         ]
     },
     {
-        "id": "913",
+        "id": 913,
         "name": "Cytavision Sports 3 Cyprus",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/913/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/913/"
+            }
+        ]
     },
     {
         "id": null,
@@ -15391,9 +15655,18 @@
         ]
     },
     {
-        "id": "914",
+        "id": 914,
         "name": "Cytavision Sports 4 Cyprus",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/914/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/914/"
+            }
+        ]
     },
     {
         "id": null,
