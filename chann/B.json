@@ -266,6 +266,20 @@
         ]
     },
     {
+        "id": 5025,
+        "name": "Backup Stream",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5025/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5025/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Bada Khabar (576p)",
         "servers": [
@@ -2416,15 +2430,15 @@
     },
     {
         "id": null,
-        "name": "BBC Two Northern Ireland (540p) [Geo-blocked]",
+        "name": "BBC Two Northern Ireland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8"
+                "link": "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd"
             }
         ]
     },
@@ -2443,16 +2457,16 @@
         ]
     },
     {
-        "id": 3001,
+        "id": 357,
         "name": "BBC Two UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/357/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/357/"
             }
         ]
     },
@@ -3095,6 +3109,20 @@
         "servers": []
     },
     {
+        "id": 372,
+        "name": "beIN Sport USA Espanol",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/372/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/372/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "beIN Sports",
         "servers": [
@@ -3238,23 +3266,28 @@
         ]
     },
     {
+        "id": 117,
+        "name": "beIN Sports 2 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/117/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/117/"
+            }
+        ]
+    },
+    {
         "id": "117",
         "name": "beIN SPORTS 2 France",
         "servers": []
     },
     {
-        "id": 713,
+        "id": "713",
         "name": "beIN Sports 2 Malaysia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/713/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/713/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "217",
@@ -3475,6 +3508,20 @@
         "servers": []
     },
     {
+        "id": 1010,
+        "name": "beIN SPORTS 5 Turkey",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1010/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1010/"
+            }
+        ]
+    },
+    {
         "id": "96",
         "name": "beIN Sports 6 Arabic",
         "servers": []
@@ -3608,18 +3655,9 @@
         "servers": []
     },
     {
-        "id": 372,
+        "id": "stream-372",
         "name": "beIN SPORTS en Español",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/372/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/372/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3033",
@@ -3995,20 +4033,6 @@
         ]
     },
     {
-        "id": 100,
-        "name": "beIN Sports MENA Xtra 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/100/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/100/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "beIN SPORTS N ES",
         "servers": [
@@ -4038,7 +4062,7 @@
     },
     {
         "id": 425,
-        "name": "beIN SPORTS USA",
+        "name": "beIN Sports USA",
         "servers": [
             {
                 "name": "Main Server",

@@ -42,20 +42,6 @@
         ]
     },
     {
-        "id": 270,
-        "name": "T Sports Bangladesh",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/270/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/270/"
-            }
-        ]
-    },
-    {
         "id": "270",
         "name": "T Sports BD",
         "servers": []
@@ -697,6 +683,20 @@
             {
                 "name": "URL",
                 "link": "https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Taraf TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8"
             }
         ]
     },
@@ -2472,6 +2472,20 @@
     },
     {
         "id": null,
+        "name": "Telecine Action (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.151.196.223:14326/"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.151.196.223:14326/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Telecity Lombardia (1080p)",
         "servers": [
             {
@@ -2607,20 +2621,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte&code=es&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 529,
-        "name": "Teledeporte Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/529/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/529/"
             }
         ]
     },
@@ -3470,20 +3470,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 131,
-        "name": "Telemundo USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/131/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/131/"
             }
         ]
     },
@@ -5001,30 +4987,30 @@
         "servers": []
     },
     {
-        "id": 1118,
+        "id": 1105,
         "name": "Tennis HD Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1118/"
+                "link": "https://tvnow247.top/embed/1105/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1118/"
+                "link": "https://tvnow247.top/embed/1105/"
             }
         ]
     },
     {
-        "id": 1695,
+        "id": 1683,
         "name": "Tennis Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1695/"
+                "link": "https://tvnow247.top/embed/1683/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1695/"
+                "link": "https://tvnow247.top/embed/1683/"
             }
         ]
     },
@@ -5278,9 +5264,18 @@
         ]
     },
     {
-        "id": "469",
+        "id": 3050,
         "name": "TF1 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3050/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3050/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5946,9 +5941,18 @@
         ]
     },
     {
-        "id": "384",
+        "id": 384,
         "name": "The Food Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/384/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/384/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7806,6 +7810,20 @@
     },
     {
         "id": null,
+        "name": "TMC HD (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TMT (1080p)",
         "servers": [
             {
@@ -8342,9 +8360,18 @@
         ]
     },
     {
-        "id": "34",
+        "id": 34,
         "name": "TNT Sports 4 UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/34/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/34/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8446,16 +8473,30 @@
         "servers": []
     },
     {
-        "id": 208,
+        "id": 642,
+        "name": "TNT SPORTS Premium HD Chile",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/642/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/642/"
+            }
+        ]
+    },
+    {
+        "id": 204,
         "name": "TNT Sports UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/208/"
+                "link": "https://tvnow247.top/embed/204/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/208/"
+                "link": "https://tvnow247.top/embed/204/"
             }
         ]
     },
@@ -8474,9 +8515,18 @@
         ]
     },
     {
-        "id": "338",
+        "id": 338,
         "name": "TNT USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/338/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/338/"
+            }
+        ]
     },
     {
         "id": null,
@@ -11143,6 +11193,20 @@
         ]
     },
     {
+        "id": 341,
+        "name": "truTV USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/341/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/341/"
+            }
+        ]
+    },
+    {
         "id": "341",
         "name": "TruTV USA",
         "servers": []
@@ -11330,9 +11394,18 @@
         ]
     },
     {
-        "id": "112",
+        "id": 112,
         "name": "TSN2",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/112/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/112/"
+            }
+        ]
     },
     {
         "id": 113,
@@ -11499,20 +11572,6 @@
             {
                 "name": "URL",
                 "link": "http://45.190.13.8/TUDNHD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 935,
-        "name": "TUDN Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/935/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/935/"
             }
         ]
     },
@@ -11909,20 +11968,6 @@
             {
                 "name": "URL",
                 "link": "http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 3068,
-        "name": "TV 2 Direkte Norway",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3068/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3068/"
             }
         ]
     },
@@ -16394,20 +16439,6 @@
         ]
     },
     {
-        "id": 154,
-        "name": "TV12 Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/154/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/154/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "TV13 Gujarati (480p)",
         "servers": [
@@ -16483,18 +16514,9 @@
         ]
     },
     {
-        "id": 3069,
+        "id": "817",
         "name": "TV2 Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3069/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3069/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "202",
@@ -16521,9 +16543,18 @@
         "servers": []
     },
     {
-        "id": "810",
+        "id": 810,
         "name": "TV2 Sport Denmark",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/810/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/810/"
+            }
+        ]
     },
     {
         "id": null,
@@ -16704,9 +16735,18 @@
         ]
     },
     {
-        "id": "809",
+        "id": 809,
         "name": "TV3 Sport Denmark",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/809/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/809/"
+            }
+        ]
     },
     {
         "id": null,
@@ -16723,9 +16763,18 @@
         ]
     },
     {
-        "id": "819",
+        "id": 819,
         "name": "TV3+ Denmark",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/819/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/819/"
+            }
+        ]
     },
     {
         "id": null,
@@ -16841,16 +16890,16 @@
         "servers": []
     },
     {
-        "id": 3065,
+        "id": 3067,
         "name": "TV4 Hockey Sweden",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3065/"
+                "link": "https://tvnow247.top/embed/3067/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3065/"
+                "link": "https://tvnow247.top/embed/3067/"
             }
         ]
     },
@@ -16860,21 +16909,16 @@
         "servers": []
     },
     {
-        "id": "702",
+        "id": 702,
         "name": "TV4 Motor",
-        "servers": []
-    },
-    {
-        "id": 3067,
-        "name": "TV4 Motor Sweden",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3067/"
+                "link": "https://tvnow247.top/embed/702/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3067/"
+                "link": "https://tvnow247.top/embed/702/"
             }
         ]
     },
@@ -17231,6 +17275,20 @@
         ]
     },
     {
+        "id": 153,
+        "name": "TV6 Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/153/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/153/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "TV7 Benevento (288p) [Not 24/7]",
         "servers": [
@@ -17241,6 +17299,20 @@
             {
                 "name": "URL",
                 "link": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV7 Bharat (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.ottlive.co.in/tv7bharat/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.ottlive.co.in/tv7bharat/index.m3u8"
             }
         ]
     },
@@ -17695,6 +17767,20 @@
     },
     {
         "id": null,
+        "name": "TVC (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/214/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/214/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TVC Benin (720p)",
         "servers": [
             {
@@ -17979,9 +18065,18 @@
         ]
     },
     {
-        "id": "533",
+        "id": 533,
         "name": "TVE La 1 Spain",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/533/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/533/"
+            }
+        ]
     },
     {
         "id": "536",
@@ -18578,18 +18673,9 @@
         ]
     },
     {
-        "id": 10,
+        "id": "198",
         "name": "TVMSport+ Malta",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -18930,20 +19016,6 @@
     },
     {
         "id": null,
-        "name": "TVP HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHD.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPHD.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVP Info",
         "servers": [
             {
@@ -18960,20 +19032,6 @@
         "id": "452",
         "name": "TVP INFO",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "TVP Kultura (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPKultura.stream/playlist.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -19047,20 +19105,6 @@
     },
     {
         "id": null,
-        "name": "TVP Seriale (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVP Sport PL",
         "servers": [
             {
@@ -19074,16 +19118,16 @@
         ]
     },
     {
-        "id": 128,
+        "id": 3060,
         "name": "TVP Sport Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/128/"
+                "link": "https://tvnow247.top/embed/3060/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/128/"
+                "link": "https://tvnow247.top/embed/3060/"
             }
         ]
     },
@@ -19116,9 +19160,18 @@
         ]
     },
     {
-        "id": "560",
+        "id": 560,
         "name": "TVP1 Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/560/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/560/"
+            }
+        ]
     },
     {
         "id": "561",

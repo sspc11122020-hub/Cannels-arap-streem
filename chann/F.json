@@ -886,6 +886,20 @@
     },
     {
         "id": null,
+        "name": "Favorit TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fazal TV (1080p)",
         "servers": [
             {
@@ -1932,9 +1946,18 @@
         ]
     },
     {
-        "id": "175",
+        "id": 179,
         "name": "FloHockey",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/179/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/179/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1973,6 +1996,20 @@
         "id": "5018",
         "name": "FloRacing II",
         "servers": []
+    },
+    {
+        "id": 55,
+        "name": "FloRacing PPV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/55/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/55/"
+            }
+        ]
     },
     {
         "id": "5012",
@@ -3558,9 +3595,18 @@
         ]
     },
     {
-        "id": "824",
+        "id": 824,
         "name": "FOX Sports 506 AU",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/824/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/824/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4231,20 +4277,6 @@
         ]
     },
     {
-        "id": 301,
-        "name": "Freeform USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/301/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/301/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Frequence Novelas (1080p)",
         "servers": [
@@ -4458,20 +4490,6 @@
         "id": "185",
         "name": "FUBO Sports",
         "servers": []
-    },
-    {
-        "id": 3004,
-        "name": "Fubo Sports Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3004/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3004/"
-            }
-        ]
     },
     {
         "id": null,
@@ -4858,18 +4876,9 @@
         "servers": []
     },
     {
-        "id": 317,
+        "id": "317",
         "name": "FX USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/317/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/317/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

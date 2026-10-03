@@ -889,18 +889,9 @@
         "servers": []
     },
     {
-        "id": 133,
+        "id": "stream-133",
         "name": "UniMás",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/133/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/133/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1544,6 +1535,20 @@
     },
     {
         "id": null,
+        "name": "UP NOW (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.122.122.61:8080/UPNOW/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.122.122.61:8080/UPNOW/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "UPL.TV",
         "servers": [
             {
@@ -1852,11 +1857,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8"
+                "link": "https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8"
+                "link": "https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8"
             }
         ]
     },

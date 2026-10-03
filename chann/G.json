@@ -2277,6 +2277,20 @@
     },
     {
         "id": null,
+        "name": "Golf + (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Golf Channel",
         "servers": [
             {
@@ -3283,15 +3297,15 @@
     },
     {
         "id": null,
-        "name": "Guatevision (720p)",
+        "name": "Guatevision (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8"
+                "link": "http://200.115.120.1:8000/play/ca066/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8"
+                "link": "http://200.115.120.1:8000/play/ca066/index.m3u8"
             }
         ]
     },

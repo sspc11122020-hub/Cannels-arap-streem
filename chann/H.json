@@ -1871,9 +1871,18 @@
         ]
     },
     {
-        "id": "322",
+        "id": 308,
         "name": "History USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/308/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/308/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3221,6 +3230,20 @@
             {
                 "name": "URL",
                 "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "HRT 2 Croatia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/28/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/28/"
             }
         ]
     },
