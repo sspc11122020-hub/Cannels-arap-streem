@@ -2287,20 +2287,6 @@
         ]
     },
     {
-        "id": 3047,
-        "name": "RAI 1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3047/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3047/"
-            }
-        ]
-    },
-    {
         "id": "850",
         "name": "Rai 1 Italy",
         "servers": []
@@ -2397,7 +2383,7 @@
     },
     {
         "id": 882,
-        "name": "RAI Sport 1 IT",
+        "name": "Rai Sport Italy",
         "servers": [
             {
                 "name": "Main Server",
@@ -2408,11 +2394,6 @@
                 "link": "https://tvnow247.top/embed/882/"
             }
         ]
-    },
-    {
-        "id": "882",
-        "name": "Rai Sport Italy",
-        "servers": []
     },
     {
         "id": null,
@@ -3722,6 +3703,20 @@
         ]
     },
     {
+        "id": 841,
+        "name": "RDS Info",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/841/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/841/"
+            }
+        ]
+    },
+    {
         "id": "841",
         "name": "RDS Info CA",
         "servers": []
@@ -4771,20 +4766,6 @@
         "id": "293",
         "name": "Reelz Channel",
         "servers": []
-    },
-    {
-        "id": 677,
-        "name": "Reelz USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/677/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/677/"
-            }
-        ]
     },
     {
         "id": null,
@@ -7159,20 +7140,6 @@
         ]
     },
     {
-        "id": 4,
-        "name": "RTCG 2 Montenegro",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
-            }
-        ]
-    },
-    {
         "id": "364",
         "name": "RTE 1",
         "servers": []
@@ -7468,16 +7435,16 @@
         "servers": []
     },
     {
-        "id": 740,
+        "id": null,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -7749,9 +7716,18 @@
         ]
     },
     {
-        "id": "720",
+        "id": 720,
         "name": "RTP 2 Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
+            }
+        ]
     },
     {
         "id": "721",
@@ -8759,16 +8735,16 @@
         ]
     },
     {
-        "id": 3059,
+        "id": 2,
         "name": "RTVS Sport Slovakia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3059/"
+                "link": "https://tvnow247.top/embed/2/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3059/"
+                "link": "https://tvnow247.top/embed/2/"
             }
         ]
     },
