@@ -917,20 +917,6 @@
     },
     {
         "id": null,
-        "name": "Laff WJLP (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://4.30.180.36:8420/laff/index.m3u8?token=test"
-            },
-            {
-                "name": "URL",
-                "link": "http://4.30.180.36:8420/laff/index.m3u8?token=test"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Laguna TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -1061,32 +1047,23 @@
         ]
     },
     {
-        "id": 3026,
+        "id": 539,
         "name": "LALIGA TV Hypermotion",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3026/"
+                "link": "https://tvnow247.top/embed/539/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3026/"
+                "link": "https://tvnow247.top/embed/539/"
             }
         ]
     },
     {
-        "id": 3027,
+        "id": "108",
         "name": "LALIGA TV Hypermotion 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3027/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3027/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "276",
@@ -2620,32 +2597,9 @@
         "servers": []
     },
     {
-        "id": 960,
+        "id": "stream-3050",
         "name": "Ligue1+ France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/960/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/960/"
-            }
-        ]
-    },
-    {
-        "id": 3078,
-        "name": "Liiga TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3078/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3078/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3901,6 +3855,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/353/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "LRT Plius Lithuania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },

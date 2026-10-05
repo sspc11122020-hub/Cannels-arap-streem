@@ -1,7 +1,7 @@
 [
     {
         "id": null,
-        "name": "H!t Music Channel (480p)",
+        "name": "H!t Music Channel (Hungary) (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10,6 +10,20 @@
             {
                 "name": "URL",
                 "link": "http://hitmusic.hu/hitmusic.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "H!t Music Channel (Romania)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0"
             }
         ]
     },
@@ -866,9 +880,18 @@
         ]
     },
     {
-        "id": "321",
+        "id": 321,
         "name": "HBO USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/321/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/321/"
+            }
+        ]
     },
     {
         "id": "694",

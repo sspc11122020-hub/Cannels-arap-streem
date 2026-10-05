@@ -244,6 +244,20 @@
     },
     {
         "id": null,
+        "name": "Rada TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radar Tasikmalaya TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -547,6 +561,20 @@
             {
                 "name": "URL",
                 "link": "https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radio Bruno TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8"
             }
         ]
     },
@@ -2383,7 +2411,7 @@
     },
     {
         "id": 882,
-        "name": "Rai Sport Italy",
+        "name": "Rai Sport 1 IT",
         "servers": [
             {
                 "name": "Main Server",
@@ -2394,6 +2422,11 @@
                 "link": "https://tvnow247.top/embed/882/"
             }
         ]
+    },
+    {
+        "id": "882",
+        "name": "Rai Sport Italy",
+        "servers": []
     },
     {
         "id": null,
@@ -3167,6 +3200,20 @@
     },
     {
         "id": null,
+        "name": "Rapsodia TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-rapsodia-tv/live_hq?offsetSeconds=0"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rararadio (720p)",
         "servers": [
             {
@@ -3675,18 +3722,9 @@
         ]
     },
     {
-        "id": 840,
+        "id": "840",
         "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 839,
@@ -3732,6 +3770,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 840,
+        "name": "RDS2 CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
             }
         ]
     },
@@ -5958,9 +6010,18 @@
         ]
     },
     {
-        "id": "471",
+        "id": 471,
         "name": "Ring Bulgaria",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/471/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/471/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7150,6 +7211,20 @@
         "servers": []
     },
     {
+        "id": 365,
+        "name": "RTE 2 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/365/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/365/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7291,20 +7366,6 @@
     },
     {
         "id": null,
-        "name": "RTK 1 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.254.89.106/8702/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.254.89.106/8702/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "RTK 3 (1080p)",
         "servers": [
             {
@@ -7435,16 +7496,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
@@ -7697,9 +7758,18 @@
         ]
     },
     {
-        "id": "719",
+        "id": 719,
         "name": "RTP 1 Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/719/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/719/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8344,20 +8414,6 @@
     },
     {
         "id": null,
-        "name": "RTV Islam (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.254.89.106/8714/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.254.89.106/8714/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "RTV LOVE (720p)",
         "servers": [
             {
@@ -8735,18 +8791,9 @@
         ]
     },
     {
-        "id": 2,
+        "id": "255",
         "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8853,15 +8900,15 @@
     },
     {
         "id": null,
-        "name": "Rumba TV (1080p)",
+        "name": "Rumba TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.193.35/RUMBATV/index.m3u8"
+                "link": "http://186.148.196.100:8000/play/a02h"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.193.35/RUMBATV/index.m3u8"
+                "link": "http://186.148.196.100:8000/play/a02h"
             }
         ]
     },

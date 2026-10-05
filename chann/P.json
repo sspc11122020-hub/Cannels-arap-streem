@@ -570,16 +570,16 @@
         ]
     },
     {
-        "id": 3006,
+        "id": 161,
         "name": "Paramount+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3006/"
+                "link": "https://tvnow247.top/embed/161/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3006/"
+                "link": "https://tvnow247.top/embed/161/"
             }
         ]
     },
@@ -1341,20 +1341,6 @@
             {
                 "name": "URL",
                 "link": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PBS WNET (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test"
-            },
-            {
-                "name": "URL",
-                "link": "http://4.30.180.36:8420/wnethd/index.m3u8?token=test"
             }
         ]
     },
@@ -9099,6 +9085,20 @@
         "servers": []
     },
     {
+        "id": 993,
+        "name": "Polsat Sport Extra 1 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/993/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/993/"
+            }
+        ]
+    },
+    {
         "id": "994",
         "name": "Polsat Sport Extra 2 HD Poland",
         "servers": []
@@ -9213,16 +9213,16 @@
         ]
     },
     {
-        "id": 3060,
+        "id": 991,
         "name": "Polsat Sport Premium 1 Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3060/"
+                "link": "https://tvnow247.top/embed/991/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3060/"
+                "link": "https://tvnow247.top/embed/991/"
             }
         ]
     },
@@ -9522,18 +9522,9 @@
         ]
     },
     {
-        "id": 718,
+        "id": "718",
         "name": "Porto Canal Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/718/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/718/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10085,18 +10076,9 @@
         ]
     },
     {
-        "id": 799,
+        "id": "stream-799",
         "name": "Premier Sports 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/799/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/799/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10235,18 +10217,9 @@
         ]
     },
     {
-        "id": 88,
+        "id": "stream-88",
         "name": "Premiere BR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/88/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/88/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10798,6 +10771,20 @@
     },
     {
         "id": null,
+        "name": "Pro Arena (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pro Business (720p)",
         "servers": [
             {
@@ -10807,6 +10794,20 @@
             {
                 "name": "URL",
                 "link": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pro Cinema (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0"
             }
         ]
     },
@@ -10845,15 +10846,15 @@
     },
     {
         "id": null,
-        "name": "PRO TV Chisinau (480p)",
+        "name": "PRO TV Chisinau (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.protv.md/live/sursa-1/index.m3u8"
+                "link": "http://178.76.68.60:7441/15/mpegts"
             },
             {
                 "name": "URL",
-                "link": "https://stream.protv.md/live/sursa-1/index.m3u8"
+                "link": "http://178.76.68.60:7441/15/mpegts"
             }
         ]
     },

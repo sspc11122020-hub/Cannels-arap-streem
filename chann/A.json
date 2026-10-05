@@ -14,20 +14,6 @@
         ]
     },
     {
-        "id": 14,
-        "name": "a Haber Turkey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/14/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/14/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "A Punt (720p)",
         "servers": [
@@ -85,6 +71,20 @@
             {
                 "name": "URL",
                 "link": "http://115.42.65.142:9981/stream/channelid/113328724"
+            }
+        ]
+    },
+    {
+        "id": 302,
+        "name": "A&amp;E TV USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/302/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/302/"
             }
         ]
     },
@@ -1809,15 +1809,29 @@
     },
     {
         "id": null,
-        "name": "Acasa Gold",
+        "name": "Acasa (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8"
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0"
             },
             {
                 "name": "URL",
-                "link": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8"
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Acasa Gold (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0"
             }
         ]
     },
@@ -1897,18 +1911,9 @@
         ]
     },
     {
-        "id": 664,
+        "id": "664",
         "name": "ACC Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/664/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/664/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3924,20 +3929,6 @@
         ]
     },
     {
-        "id": 17,
-        "name": "Al Maghribia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/17/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/17/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Al Maghribia (1080p)",
         "servers": [
@@ -4611,29 +4602,15 @@
     },
     {
         "id": null,
-        "name": "Alb UK TV (1080p)",
+        "name": "Alb UK TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://5.254.89.106/8794/index.m3u8"
+                "link": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://5.254.89.106/8794/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Albanian TV America (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.254.89.106/8711/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.254.89.106/8711/index.m3u8"
+                "link": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8"
             }
         ]
     },
@@ -5434,15 +5411,15 @@
     },
     {
         "id": null,
-        "name": "Alsat (576p)",
+        "name": "Alsat [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://5.254.89.106/8713/index.m3u8"
+                "link": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://5.254.89.106/8713/index.m3u8"
+                "link": "https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8"
             }
         ]
     },
@@ -5961,9 +5938,18 @@
         ]
     },
     {
-        "id": "303",
+        "id": 303,
         "name": "AMC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/303/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/303/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7750,6 +7736,20 @@
         "servers": []
     },
     {
+        "id": 5012,
+        "name": "APPLE TV F1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5012/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5012/"
+            }
+        ]
+    },
+    {
         "id": "2070",
         "name": "AppleTV F1",
         "servers": []
@@ -8105,30 +8105,30 @@
         ]
     },
     {
-        "id": 13,
+        "id": 165,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/13/"
+                "link": "https://tvnow247.top/embed/165/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/13/"
+                "link": "https://tvnow247.top/embed/165/"
             }
         ]
     },
     {
-        "id": 30,
+        "id": 163,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/30/"
+                "link": "https://tvnow247.top/embed/163/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/30/"
+                "link": "https://tvnow247.top/embed/163/"
             }
         ]
     },
@@ -8209,18 +8209,9 @@
         "servers": []
     },
     {
-        "id": 612,
+        "id": "15",
         "name": "Arena Sport 1x2 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/612/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/612/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 433,
@@ -8331,9 +8322,18 @@
         ]
     },
     {
-        "id": "941",
+        "id": 941,
         "name": "Arena Sport 6 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/941/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/941/"
+            }
+        ]
     },
     {
         "id": "942",
@@ -8341,18 +8341,9 @@
         "servers": []
     },
     {
-        "id": 943,
+        "id": "943",
         "name": "Arena Sport 8 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/943/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/943/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "944",
@@ -8363,6 +8354,20 @@
         "id": "612",
         "name": "Arena Sports Tenis Serbia",
         "servers": []
+    },
+    {
+        "id": 612,
+        "name": "Arena Tennis",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/612/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/612/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8866,21 +8871,7 @@
     },
     {
         "id": null,
-        "name": "ARTV (Chile) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.162.193.35/ARTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.162.193.35/ARTV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ARTV (Portugal) (720p) [Not 24/7]",
+        "name": "ARTV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -9495,18 +9486,9 @@
         ]
     },
     {
-        "id": 370,
+        "id": "370",
         "name": "Astro Cricket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/370/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/370/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9931,20 +9913,6 @@
             {
                 "name": "URL",
                 "link": "https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ATV (Kosovo) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.254.89.106/8709/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.254.89.106/8709/index.m3u8"
             }
         ]
     },
@@ -10439,6 +10407,20 @@
         "servers": []
     },
     {
+        "id": 961,
+        "name": "Automoto La chaîne",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/961/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/961/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Autonoma TV",
         "servers": [
@@ -10818,6 +10800,20 @@
     },
     {
         "id": null,
+        "name": "AXN (Portugal) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://188.115.15.121:8000/play/a02z"
+            },
+            {
+                "name": "URL",
+                "link": "http://188.115.15.121:8000/play/a02z"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AXN (Spain) (1080p)",
         "servers": [
             {
@@ -11042,6 +11038,20 @@
             {
                 "name": "URL",
                 "link": "http://185.227.34.179:8080/axn-white/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AXN White Portugal (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://188.115.15.121:8000/play/a01u"
+            },
+            {
+                "name": "URL",
+                "link": "http://188.115.15.121:8000/play/a01u"
             }
         ]
     },
@@ -11321,20 +11331,6 @@
             {
                 "name": "URL",
                 "link": "http://187.245.231.226:8000/play/a0uz/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 844,
-        "name": "Azteca 7 Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/844/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/844/"
             }
         ]
     },

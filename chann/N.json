@@ -2009,18 +2009,9 @@
         "servers": []
     },
     {
-        "id": 777,
+        "id": "stream-777",
         "name": "NBCS Philadelphia USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/777/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/777/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3995,14 +3986,37 @@
         "servers": []
     },
     {
+        "id": 667,
+        "name": "NFL Redzone Feed",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/667/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/667/"
+            }
+        ]
+    },
+    {
         "id": "5101",
         "name": "NFL Redzone Stream",
         "servers": []
     },
     {
-        "id": "8056",
+        "id": 26,
         "name": "NFL Sunday Ticket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/26/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/26/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5962,6 +5976,20 @@
         "servers": []
     },
     {
+        "id": 1022,
+        "name": "Nova SPORT 2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1022/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1022/"
+            }
+        ]
+    },
+    {
         "id": 1023,
         "name": "Nova Sport 3 CZ",
         "servers": [
@@ -6014,9 +6042,37 @@
         ]
     },
     {
+        "id": 1025,
+        "name": "Nova SPORT 5 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1025/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1025/"
+            }
+        ]
+    },
+    {
         "id": "1062",
         "name": "Nova Sport 5 SK",
         "servers": []
+    },
+    {
+        "id": 1062,
+        "name": "Nova SPORT 5 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1062/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1062/"
+            }
+        ]
     },
     {
         "id": "1026",
@@ -6239,20 +6295,6 @@
         "id": "480",
         "name": "Nova TV Bulgaria",
         "servers": []
-    },
-    {
-        "id": 3046,
-        "name": "Nova TV Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3046/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3046/"
-            }
-        ]
     },
     {
         "id": 636,
@@ -6499,6 +6541,20 @@
             {
                 "name": "URL",
                 "link": "https://bpm.tv.delta.nl/hls/combined/1/mobile.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "NPO 1 NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/9/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/9/"
             }
         ]
     },
@@ -6957,15 +7013,15 @@
     },
     {
         "id": null,
-        "name": "NTN24 (720p)",
+        "name": "NTN24 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://181.78.12.119:16123/play/ch80/index.m3u8"
+                "link": "https://stream1.bitred.cl/ntn24/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://181.78.12.119:16123/play/ch80/index.m3u8"
+                "link": "https://stream1.bitred.cl/ntn24/index.m3u8"
             }
         ]
     },

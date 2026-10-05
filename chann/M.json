@@ -566,57 +566,93 @@
         ]
     },
     {
-        "id": 3,
+        "id": 30,
         "name": "Magenta Sport 301",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://tvnow247.top/embed/30/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://tvnow247.top/embed/30/"
             }
         ]
     },
     {
-        "id": 6,
+        "id": "29",
         "name": "Magenta Sport 302",
+        "servers": []
+    },
+    {
+        "id": 28,
+        "name": "Magenta Sport 304",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/6/"
+                "link": "https://tvnow247.top/embed/28/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/6/"
+                "link": "https://tvnow247.top/embed/28/"
             }
         ]
     },
     {
-        "id": "164",
-        "name": "Magenta Sport 304",
-        "servers": []
-    },
-    {
-        "id": "76",
+        "id": 27,
         "name": "Magenta Sport 305",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/27/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/27/"
+            }
+        ]
     },
     {
-        "id": "30",
+        "id": 29,
         "name": "Magenta Sport 306",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/29/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/29/"
+            }
+        ]
     },
     {
-        "id": "69",
+        "id": 1,
         "name": "Magenta Sport 307",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
     },
     {
-        "id": "162",
+        "id": 8,
         "name": "Magenta Sport 308",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/8/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/8/"
+            }
+        ]
     },
     {
         "id": null,
@@ -629,20 +665,6 @@
             {
                 "name": "URL",
                 "link": "https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 622,
-        "name": "MagentaSport 1 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/622/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/622/"
             }
         ]
     },
@@ -745,9 +767,18 @@
         ]
     },
     {
-        "id": "299",
+        "id": 299,
         "name": "Magnolia Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/299/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/299/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2119,9 +2150,18 @@
         "servers": []
     },
     {
-        "id": "168",
+        "id": 168,
         "name": "Match Igra Russia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/168/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/168/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2218,20 +2258,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/137/"
-            }
-        ]
-    },
-    {
-        "id": 138,
-        "name": "Match! Football 3 Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/138/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/138/"
             }
         ]
     },
@@ -2442,20 +2468,6 @@
             {
                 "name": "URL",
                 "link": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Max (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.254.89.106:80/8882/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.254.89.106:80/8882/index.m3u8"
             }
         ]
     },
@@ -3289,15 +3301,15 @@
     },
     {
         "id": null,
-        "name": "MCM Pop (576p)",
+        "name": "MCM Pop (580p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://193.254.245.162/MCM/index.m3u8"
+                "link": "http://188.115.15.121:8000/play/a014"
             },
             {
                 "name": "URL",
-                "link": "http://193.254.245.162/MCM/index.m3u8"
+                "link": "http://188.115.15.121:8000/play/a014"
             }
         ]
     },
@@ -4559,6 +4571,20 @@
         ]
     },
     {
+        "id": 791,
+        "name": "MGM+ USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/791/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/791/"
+            }
+        ]
+    },
+    {
         "id": "791",
         "name": "MGM+ USA / Epix",
         "servers": []
@@ -5717,18 +5743,9 @@
         ]
     },
     {
-        "id": 29,
+        "id": "stream-7",
         "name": "MLB League Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/29/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/29/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5933,20 +5950,6 @@
             {
                 "name": "URL",
                 "link": "https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MNX (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://59.103.38.46:8000/play/a052/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://59.103.38.46:8000/play/a052/index.m3u8"
             }
         ]
     },
@@ -9347,6 +9350,20 @@
     },
     {
         "id": null,
+        "name": "Music Channel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Music India (576p)",
         "servers": [
             {
@@ -9711,20 +9728,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "My Music (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.254.89.106:80/8821/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.254.89.106:80/8821/index.m3u8"
             }
         ]
     },
