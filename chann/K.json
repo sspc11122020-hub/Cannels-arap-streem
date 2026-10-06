@@ -1860,6 +1860,20 @@
         "servers": []
     },
     {
+        "id": 25,
+        "name": "KHL TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/25/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/25/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Khorasan Razavi TV",
         "servers": [
@@ -2542,20 +2556,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.kkr.dk/live/kkr/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Klan Kosova",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
             }
         ]
     },
