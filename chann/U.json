@@ -197,15 +197,15 @@
     },
     {
         "id": null,
-        "name": "UCV TV (1080p)",
+        "name": "UCV TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8"
+                "link": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8"
+                "link": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
             }
         ]
     },
@@ -262,18 +262,9 @@
         "servers": []
     },
     {
-        "id": 12,
+        "id": "250",
         "name": "UFC Fight Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/12/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/12/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "5009",
@@ -959,20 +950,6 @@
         ]
     },
     {
-        "id": 133,
-        "name": "UniMas USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/133/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/133/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "UniMas WAMI-DT (1080p)",
         "servers": [
@@ -1151,6 +1128,20 @@
             {
                 "name": "URL",
                 "link": "http://51.75.127.199:3141/zeecafehd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Unite8 Sports 2 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls"
             }
         ]
     },

@@ -122,11 +122,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://181.209.105.115:2525/play/pakapaka/index.m3u8"
+                "link": "http://190.128.214.97:64333/play/a02r/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://181.209.105.115:2525/play/pakapaka/index.m3u8"
+                "link": "http://190.128.214.97:64333/play/a02r/index.m3u8"
             }
         ]
     },
@@ -1303,9 +1303,18 @@
         ]
     },
     {
-        "id": "210",
+        "id": 210,
         "name": "PBS USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/210/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/210/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8866,6 +8875,20 @@
     },
     {
         "id": null,
+        "name": "Polsat Music (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8001/play/a00z/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8001/play/a00z/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Polsat News (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -9076,14 +9099,56 @@
         "servers": []
     },
     {
+        "id": 993,
+        "name": "Polsat Sport Extra 1 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/993/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/993/"
+            }
+        ]
+    },
+    {
         "id": "994",
         "name": "Polsat Sport Extra 2 HD Poland",
         "servers": []
     },
     {
+        "id": 994,
+        "name": "Polsat Sport Extra 2 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/994/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/994/"
+            }
+        ]
+    },
+    {
         "id": "995",
         "name": "Polsat Sport Extra 3 HD Poland",
         "servers": []
+    },
+    {
+        "id": 995,
+        "name": "Polsat Sport Extra 3 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/995/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/995/"
+            }
+        ]
     },
     {
         "id": "996",
@@ -9110,11 +9175,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/mkr6nvqt-4662"
+                "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/mkr6nvqt-4662"
+                "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
             }
         ]
     },
@@ -9206,6 +9271,20 @@
     },
     {
         "id": null,
+        "name": "Polsat Viasat Explore",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8014/play/a00g/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8014/play/a00g/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Polsat Viasat History (1080p)",
         "servers": [
             {
@@ -9215,6 +9294,20 @@
             {
                 "name": "URL",
                 "link": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat Viasat Nature",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8016/play/a004/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8016/play/a004/index.m3u8"
             }
         ]
     },
@@ -10016,9 +10109,18 @@
         ]
     },
     {
-        "id": "stream-799",
+        "id": 799,
         "name": "Premier Sports 2 Ireland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/799/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/799/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10870,15 +10972,15 @@
     },
     {
         "id": null,
-        "name": "Productiva TV",
+        "name": "Productiva TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
+                "link": "http://190.128.214.97:64333/play/a04i/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
+                "link": "http://190.128.214.97:64333/play/a04i/index.m3u8"
             }
         ]
     },
@@ -11024,6 +11126,20 @@
             {
                 "name": "URL",
                 "link": "http://178.27.12.3:9981/stream/channelid/1567530044?profile=pass"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "ProSieben Maxx DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/24/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/24/"
             }
         ]
     },

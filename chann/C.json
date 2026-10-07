@@ -1050,7 +1050,7 @@
     },
     {
         "id": null,
-        "name": "Canal 10 (Nicaragua) (360p)",
+        "name": "Canal 10 (Nicaragua) (360p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3141,15 +3141,15 @@
     },
     {
         "id": null,
-        "name": "Canal CHV Noticias (1080p)",
+        "name": "Canal CHV Noticias",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8"
+                "link": "https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/chvnoticias/mono.m3u8"
+                "link": "https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS"
             }
         ]
     },
@@ -3822,6 +3822,20 @@
             {
                 "name": "URL",
                 "link": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal Mas (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://canalmasuruguay.com/hls/master-abr.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://canalmasuruguay.com/hls/master-abr.m3u8"
             }
         ]
     },
@@ -4600,6 +4614,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Canal+ (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://151.80.18.177:86/Canal+_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://151.80.18.177:86/Canal+_HD/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "5670",
         "name": "CANAL+ 360 Poland",
         "servers": []
@@ -4944,9 +4972,18 @@
         ]
     },
     {
-        "id": "1064",
+        "id": null,
         "name": "Canal+ Sport 2 SK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0"
+            }
+        ]
     },
     {
         "id": "488",
@@ -4992,9 +5029,18 @@
         "servers": []
     },
     {
-        "id": "1065",
+        "id": null,
         "name": "Canal+ Sport 3 SK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0"
+            }
+        ]
     },
     {
         "id": "489",
@@ -5035,9 +5081,18 @@
         ]
     },
     {
-        "id": "1066",
+        "id": null,
         "name": "Canal+ Sport 4 SK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0"
+            }
+        ]
     },
     {
         "id": "490",
@@ -5083,6 +5138,20 @@
         "servers": []
     },
     {
+        "id": null,
+        "name": "Canal+ Sport 5 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0"
+            }
+        ]
+    },
+    {
         "id": "1047",
         "name": "Canal+ Sport 6 CZ",
         "servers": []
@@ -5116,6 +5185,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Canal+ Sport 6 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0"
+            }
+        ]
+    },
+    {
         "id": "1048",
         "name": "Canal+ Sport 7 CZ",
         "servers": []
@@ -5135,6 +5218,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Canal+ Sport 7 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0"
+            }
+        ]
+    },
+    {
         "id": "1049",
         "name": "Canal+ Sport 8 CZ",
         "servers": []
@@ -5150,6 +5247,20 @@
             {
                 "name": "URL",
                 "link": "https://grandemx.org/ijl5gl6g-9130"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal+ Sport 8 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0"
             }
         ]
     },
@@ -5197,9 +5308,18 @@
         "servers": []
     },
     {
-        "id": "1063",
+        "id": null,
         "name": "Canal+ Sport SK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0"
+            }
+        ]
     },
     {
         "id": null,
@@ -6552,15 +6672,15 @@
     },
     {
         "id": null,
-        "name": "CBeebies (Poland)",
+        "name": "CBeebies (Poland) (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://xyktmobile00.s.gy/ticketview/49092"
+                "link": "http://92.114.85.87:8017/play/a004/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://xyktmobile00.s.gy/ticketview/49092"
+                "link": "http://92.114.85.87:8017/play/a004/index.m3u8"
             }
         ]
     },
@@ -7859,20 +7979,6 @@
             {
                 "name": "URL",
                 "link": "https://cootv.cootel.com.ni:8095/Canal23_CooTel/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CDO (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/cdo/mono.m3u8"
             }
         ]
     },
@@ -9402,9 +9508,18 @@
         ]
     },
     {
-        "id": "776",
+        "id": 776,
         "name": "Chicago Sports Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/776/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/776/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10229,20 +10344,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cine.Ar (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://181.209.105.115:2525/play/cinear/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://181.209.105.115:2525/play/cinear/index.m3u8"
             }
         ]
     },
@@ -12565,11 +12666,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://202.70.146.135:8000/play/a058/index.m3u8"
+                "link": "http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://202.70.146.135:8000/play/a058/index.m3u8"
+                "link": "http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8"
             }
         ]
     },
@@ -13107,6 +13208,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Comedy Channel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8"
             }
         ]
     },
@@ -13823,6 +13938,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%204&code=gr&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 625,
+        "name": "Cosmote Sport 4 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/625/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/625/"
             }
         ]
     },
@@ -14637,11 +14766,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://181.209.105.115:2525/play/cronica/index.m3u8"
+                "link": "http://190.128.214.97:64333/play/a010/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://181.209.105.115:2525/play/cronica/index.m3u8"
+                "link": "http://190.128.214.97:64333/play/a010/index.m3u8"
             }
         ]
     },

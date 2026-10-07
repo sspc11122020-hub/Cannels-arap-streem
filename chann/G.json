@@ -1548,15 +1548,15 @@
     },
     {
         "id": null,
-        "name": "GloboNews (720p)",
+        "name": "GloboNews (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8"
+                "link": "http://79.127.238.228:14093"
             },
             {
                 "name": "URL",
-                "link": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8"
+                "link": "http://79.127.238.228:14093"
             }
         ]
     },
@@ -1613,20 +1613,6 @@
             {
                 "name": "URL",
                 "link": "https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Gloobinho (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://177.52.24.163/GLOOBINHO-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://177.52.24.163/GLOOBINHO-HD/index.m3u8"
             }
         ]
     },

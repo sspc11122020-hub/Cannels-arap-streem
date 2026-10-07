@@ -85,6 +85,20 @@
         ]
     },
     {
+        "id": 22,
+        "name": "V Sport 1 Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/22/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/22/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "V Sport Extra SE",
         "servers": [
@@ -199,20 +213,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Ultra&code=se&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "V Sport Xtra Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },
@@ -1339,15 +1339,15 @@
     },
     {
         "id": null,
-        "name": "Via X (1080p)",
+        "name": "Via X (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8"
+                "link": "http://45.170.130.224:8000/play/a025/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/viax/mono.m3u8"
+                "link": "http://45.170.130.224:8000/play/a025/index.m3u8"
             }
         ]
     },
@@ -1703,9 +1703,18 @@
         ]
     },
     {
-        "id": "stream-659",
+        "id": 659,
         "name": "VICE TV USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/659/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/659/"
+            }
+        ]
     },
     {
         "id": "174",
@@ -2456,15 +2465,15 @@
     },
     {
         "id": null,
-        "name": "Vitebsk",
+        "name": "Vitebsk (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8"
+                "link": "http://46.53.200.153:7777/play/a00h/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8"
+                "link": "http://46.53.200.153:7777/play/a00h/index.m3u8"
             }
         ]
     },
@@ -3007,6 +3016,20 @@
     },
     {
         "id": null,
+        "name": "VOX Music TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8016/play/a00a/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8016/play/a00a/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Voyages & Saveurs (720p)",
         "servers": [
             {
@@ -3056,6 +3079,20 @@
     },
     {
         "id": null,
+        "name": "Voyo Sport 1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus16/live_fullhd?offsetSeconds=0"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Voz Di Bonaire TV (720p)",
         "servers": [
             {
@@ -3065,6 +3102,20 @@
             {
                 "name": "URL",
                 "link": "https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VP TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0"
             }
         ]
     },

@@ -215,25 +215,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8"
+                "link": "http://38.44.109.41:8003/play/a0eh"
             },
             {
                 "name": "URL",
-                "link": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://saran-live.ercdn.net/babytv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://saran-live.ercdn.net/babytv/index.m3u8"
+                "link": "http://38.44.109.41:8003/play/a0eh"
             }
         ]
     },
@@ -2443,9 +2429,18 @@
         ]
     },
     {
-        "id": "357",
+        "id": 357,
         "name": "BBC Two UK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/357/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/357/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3229,6 +3224,20 @@
         ]
     },
     {
+        "id": 117,
+        "name": "beIN Sports 2 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/117/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/117/"
+            }
+        ]
+    },
+    {
         "id": "117",
         "name": "beIN SPORTS 2 France",
         "servers": []
@@ -3439,20 +3448,6 @@
         "servers": []
     },
     {
-        "id": 1010,
-        "name": "beIN SPORTS 5 Turkey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1010/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1010/"
-            }
-        ]
-    },
-    {
         "id": "96",
         "name": "beIN Sports 6 Arabic",
         "servers": []
@@ -3572,9 +3567,18 @@
         "servers": []
     },
     {
-        "id": "stream-372",
+        "id": 372,
         "name": "beIN SPORTS en Español",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/372/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/372/"
+            }
+        ]
     },
     {
         "id": "3033",
@@ -3634,9 +3638,18 @@
         "servers": []
     },
     {
-        "id": "stream-712",
+        "id": 712,
         "name": "beIN Sports Malaysia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/712/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/712/"
+            }
+        ]
     },
     {
         "id": "966",
@@ -3701,20 +3714,6 @@
         ]
     },
     {
-        "id": 495,
-        "name": "beIN Sports Max 5 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/495/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/495/"
-            }
-        ]
-    },
-    {
         "id": "495",
         "name": "beIN Sports MAX 5 France",
         "servers": []
@@ -3763,20 +3762,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%207&code=fr&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 497,
-        "name": "beIN Sports Max 7 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/497/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/497/"
             }
         ]
     },
@@ -3983,6 +3968,20 @@
         ]
     },
     {
+        "id": 100,
+        "name": "beIN Sports MENA Xtra 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/100/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/100/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "beIN SPORTS N ES",
         "servers": [
@@ -4007,6 +4006,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS&code=us&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "name": "beIN SPORTS USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/425/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/425/"
             }
         ]
     },
@@ -4893,9 +4906,18 @@
         ]
     },
     {
-        "id": "306",
+        "id": 306,
         "name": "BET USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/306/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/306/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5048,6 +5070,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Bflix Movies (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls"
             }
         ]
     },
@@ -5604,11 +5640,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8"
+                "link": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8"
+                "link": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8"
             }
         ]
     },
@@ -6248,9 +6284,18 @@
         ]
     },
     {
-        "id": "476",
+        "id": 476,
         "name": "BNT 1 Bulgaria",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/476/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/476/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6286,9 +6331,18 @@
         ]
     },
     {
-        "id": "478",
+        "id": 478,
         "name": "BNT 3 Bulgaria",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/478/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/478/"
+            }
+        ]
     },
     {
         "id": null,
@@ -7841,9 +7895,18 @@
         ]
     },
     {
-        "id": "3978",
+        "id": 397,
         "name": "BTN USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/397/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/397/"
+            }
+        ]
     },
     {
         "id": "207",
@@ -8016,6 +8079,20 @@
             {
                 "name": "URL",
                 "link": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Bug-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8"
             }
         ]
     },

@@ -533,15 +533,15 @@
     },
     {
         "id": null,
-        "name": "La Red (1080p)",
+        "name": "La Red (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8"
+                "link": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8"
+                "link": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8"
             }
         ]
     },
@@ -1707,6 +1707,20 @@
     },
     {
         "id": null,
+        "name": "LCP (477p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "LDPR TV (1080p)",
         "servers": [
             {
@@ -2846,6 +2860,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Live Music Channel HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8"
             }
         ]
     },

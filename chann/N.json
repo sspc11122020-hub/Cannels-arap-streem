@@ -491,6 +491,20 @@
     },
     {
         "id": null,
+        "name": "Nash Kinopokaz HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nashe HD (1080p)",
         "servers": [
             {
@@ -944,6 +958,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic Wild (India) HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic Wild (Russia) (1080p)",
         "servers": [
             {
@@ -1293,18 +1321,9 @@
         ]
     },
     {
-        "id": 10,
+        "id": "8",
         "name": "NBA League Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1564,18 +1583,9 @@
         "servers": []
     },
     {
-        "id": 755,
+        "id": "755",
         "name": "NBC Sports California",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/755/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/755/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2026,9 +2036,18 @@
         ]
     },
     {
-        "id": "stream-753",
+        "id": 753,
         "name": "NBCS Bay Area USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/753/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/753/"
+            }
+        ]
     },
     {
         "id": "stream-755",
@@ -2634,18 +2653,9 @@
         ]
     },
     {
-        "id": 762,
+        "id": "762",
         "name": "NESN USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/762/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/762/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4205,9 +4215,18 @@
         "servers": []
     },
     {
-        "id": "14",
+        "id": 12,
         "name": "NHL Gamecenter",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4252,18 +4271,9 @@
         ]
     },
     {
-        "id": 663,
+        "id": "663",
         "name": "NHL Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/663/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/663/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4576,20 +4586,6 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon (Brazil) (480p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nickelodeon (Bulgaria) (576p)",
         "servers": [
             {
@@ -4772,6 +4768,20 @@
     },
     {
         "id": null,
+        "name": "Nickelodeon Global (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.151.60.162:2122/play/a017/index.m3u8?hls"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.151.60.162:2122/play/a017/index.m3u8?hls"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nickelodeon Junior (1080p)",
         "servers": [
             {
@@ -4935,6 +4945,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nicktoons (France) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://193.254.245.162/NICKELODEON/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://193.254.245.162/NICKELODEON/index.m3u8"
             }
         ]
     },
@@ -5732,6 +5756,20 @@
     },
     {
         "id": null,
+        "name": "Nostalgia TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NosTV Bonaire (1080p)",
         "servers": [
             {
@@ -6347,15 +6385,15 @@
     },
     {
         "id": null,
-        "name": "Novelisima",
+        "name": "Novelisima (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+                "link": "http://138.59.177.78:9999/play/a0gg/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+                "link": "http://138.59.177.78:9999/play/a0gg/index.m3u8"
             }
         ]
     },
@@ -7113,20 +7151,6 @@
     },
     {
         "id": null,
-        "name": "NTV (Chile) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NTV (Ivory Coast) (1080p) [Not 24/7]",
         "servers": [
             {
@@ -7477,15 +7501,15 @@
     },
     {
         "id": null,
-        "name": "Nuevo Tiempo TV (1080p)",
+        "name": "Nuevo Tiempo TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8"
+                "link": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/nuevotiempo/mono.m3u8"
+                "link": "https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8"
             }
         ]
     },
@@ -7654,6 +7678,34 @@
             {
                 "name": "URL",
                 "link": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nuta Gold",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8010/play/a00i/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8010/play/a00i/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nuta TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8010/play/a00j/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8010/play/a00j/index.m3u8"
             }
         ]
     },

@@ -196,9 +196,18 @@
         ]
     },
     {
-        "id": "315",
+        "id": 315,
         "name": "E! Entertainment Television",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/315/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/315/"
+            }
+        ]
     },
     {
         "id": null,
@@ -800,6 +809,20 @@
             {
                 "name": "URL",
                 "link": "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Educanal (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.128.214.97:64333/play/a011/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.128.214.97:64333/play/a011/index.m3u8"
             }
         ]
     },
@@ -1732,20 +1755,6 @@
     },
     {
         "id": null,
-        "name": "Elim TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://38.252.238.18:8000/play/a01k/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://38.252.238.18:8000/play/a01k/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Elive TV Brescia (720p) [Not 24/7]",
         "servers": [
             {
@@ -2413,6 +2422,20 @@
             {
                 "name": "URL",
                 "link": "https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Epic Parivar (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls"
             }
         ]
     },
@@ -3128,6 +3151,48 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eska Rock TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8016/play/a005/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8016/play/a005/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eska TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8018/play/a00h/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8018/play/a00h/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eska TV Extra (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8016/play/a008/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8016/play/a008/index.m3u8"
             }
         ]
     },
@@ -3855,9 +3920,18 @@
         ]
     },
     {
-        "id": "9262",
+        "id": 926,
         "name": "ESPN2 Mexico",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/926/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/926/"
+            }
+        ]
     },
     {
         "id": 45,
@@ -4413,20 +4487,6 @@
     },
     {
         "id": null,
-        "name": "ETC TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Etna Espresso Channel (720p)",
         "servers": [
             {
@@ -4950,20 +5010,6 @@
     },
     {
         "id": null,
-        "name": "Eurochannel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Eurocom (360p)",
         "servers": [
             {
@@ -5150,11 +5196,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8"
+                "link": "https://iptv.bitred.cl/euronews/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8"
+                "link": "https://iptv.bitred.cl/euronews/index.m3u8"
             }
         ]
     },
@@ -5183,6 +5229,34 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Europa Plus TV Belarus (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Europe 1 TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8"
             }
         ]
     },
@@ -5490,9 +5564,18 @@
         "servers": []
     },
     {
-        "id": "1092",
+        "id": 1227,
         "name": "Event SD Stream",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1227/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1227/"
+            }
+        ]
     },
     {
         "id": "1206",
@@ -5515,16 +5598,16 @@
         "servers": []
     },
     {
-        "id": 4118,
+        "id": 5093,
         "name": "Event Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4118/"
+                "link": "https://tvnow247.top/embed/5093/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/4118/"
+                "link": "https://tvnow247.top/embed/5093/"
             }
         ]
     },
@@ -5534,9 +5617,18 @@
         "servers": []
     },
     {
-        "id": "5081",
+        "id": 5081,
         "name": "Event Stream (Swidish)",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5081/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5081/"
+            }
+        ]
     },
     {
         "id": "5021",
