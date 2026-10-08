@@ -1555,6 +1555,20 @@
     },
     {
         "id": null,
+        "name": "FILMBOX+ Festival Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8018/play/a009/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8018/play/a009/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "FILMBOX+ Hits Romania (576p)",
         "servers": [
             {
@@ -1932,9 +1946,18 @@
         ]
     },
     {
-        "id": "175",
+        "id": 77,
         "name": "FloHockey",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/77/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/77/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2868,20 +2891,6 @@
         ]
     },
     {
-        "id": 654,
-        "name": "FOX 5+ USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/654/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/654/"
-            }
-        ]
-    },
-    {
         "id": "297",
         "name": "Fox Business",
         "servers": []
@@ -3108,20 +3117,6 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=foxone"
-            }
-        ]
-    },
-    {
-        "id": 756,
-        "name": "Fox Soccer Plus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/756/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/756/"
             }
         ]
     },
@@ -3661,9 +3656,18 @@
         ]
     },
     {
-        "id": "830",
+        "id": 830,
         "name": "Fox Sports Premium MX",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/830/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/830/"
+            }
+        ]
     },
     {
         "id": "3037",
@@ -3718,18 +3722,9 @@
         "servers": []
     },
     {
-        "id": 768,
+        "id": "768",
         "name": "FOXNY USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/768/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/768/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4844,18 +4839,9 @@
         "servers": []
     },
     {
-        "id": 317,
+        "id": "317",
         "name": "FX USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/317/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/317/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

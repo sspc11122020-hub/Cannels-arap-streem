@@ -215,8 +215,13 @@
         "servers": []
     },
     {
-        "id": 555,
+        "id": "555",
         "name": "Racing Tv UK",
+        "servers": []
+    },
+    {
+        "id": 555,
+        "name": "Racing TV UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -1448,6 +1453,20 @@
     },
     {
         "id": null,
+        "name": "Radio Romania Resita (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream3.srr.ro/RadioResita/live/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream3.srr.ro/RadioResita/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Romania Targu Mures (576p)",
         "servers": [
             {
@@ -2329,37 +2348,9 @@
         ]
     },
     {
-        "id": 850,
-        "name": "RAI 1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/850/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/850/"
-            }
-        ]
-    },
-    {
         "id": "850",
         "name": "Rai 1 Italy",
         "servers": []
-    },
-    {
-        "id": 851,
-        "name": "RAI 2 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/851/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/851/"
-            }
-        ]
     },
     {
         "id": "851",
@@ -2607,6 +2598,20 @@
             {
                 "name": "URL",
                 "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rajawali TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.150.172.59/RajawaliTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.150.172.59/RajawaliTV/index.m3u8"
             }
         ]
     },
@@ -3569,15 +3574,15 @@
     },
     {
         "id": null,
-        "name": "RCC TV",
+        "name": "RCC TV (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://xyktmobile00.s.gy/TICK_RCC"
+                "link": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
             },
             {
                 "name": "URL",
-                "link": "https://xyktmobile00.s.gy/TICK_RCC"
+                "link": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
             }
         ]
     },
@@ -3653,15 +3658,15 @@
     },
     {
         "id": null,
-        "name": "RCTI HD (720p)",
+        "name": "RCTI HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mncmedia.malingtv.workers.dev/rcti.m3u8"
+                "link": "http://202.150.172.59/RCTIHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mncmedia.malingtv.workers.dev/rcti.m3u8"
+                "link": "http://202.150.172.59/RCTIHD/index.m3u8"
             }
         ]
     },
@@ -3765,20 +3770,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/839/"
-            }
-        ]
-    },
-    {
-        "id": 841,
-        "name": "RDS Info",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/841/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/841/"
             }
         ]
     },
@@ -6455,6 +6446,20 @@
     },
     {
         "id": null,
+        "name": "Rock & Pop (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.128.214.97:64333/play/a032/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.128.214.97:64333/play/a032/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ROCK Action (1080p)",
         "servers": [
             {
@@ -7207,20 +7212,6 @@
         "servers": []
     },
     {
-        "id": 365,
-        "name": "RTE 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/365/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/365/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7492,16 +7483,16 @@
         "servers": []
     },
     {
-        "id": 740,
+        "id": null,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8778,18 +8769,9 @@
         ]
     },
     {
-        "id": 2,
+        "id": "255",
         "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

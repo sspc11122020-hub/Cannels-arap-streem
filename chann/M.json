@@ -141,18 +141,9 @@
         "servers": []
     },
     {
-        "id": 521,
+        "id": "5215",
         "name": "M+ Vamos ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/521/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/521/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -636,9 +627,18 @@
         "servers": []
     },
     {
-        "id": "29",
+        "id": 4,
         "name": "Magenta Sport 302",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
     },
     {
         "id": "164",
@@ -646,19 +646,46 @@
         "servers": []
     },
     {
-        "id": "76",
+        "id": 1,
         "name": "Magenta Sport 305",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
     },
     {
-        "id": "30",
+        "id": 2,
         "name": "Magenta Sport 306",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/2/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/2/"
+            }
+        ]
     },
     {
-        "id": "69",
+        "id": 3,
         "name": "Magenta Sport 307",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3/"
+            }
+        ]
     },
     {
         "id": "162",
@@ -765,15 +792,15 @@
     },
     {
         "id": null,
-        "name": "Magna Channel (1080p) [Not 24/7]",
+        "name": "Magna Channel (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+                "link": "http://202.150.172.59/MagnaChannel/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+                "link": "http://202.150.172.59/MagnaChannel/index.m3u8"
             }
         ]
     },
@@ -2194,18 +2221,9 @@
         "servers": []
     },
     {
-        "id": 169,
+        "id": "168",
         "name": "Match Igra Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/169/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/169/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2222,18 +2240,9 @@
         ]
     },
     {
-        "id": 573,
+        "id": "573",
         "name": "Match Premier Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/573/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/573/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2288,6 +2297,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/112/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Match! Football 3 Russia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/138/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/138/"
             }
         ]
     },
@@ -2582,20 +2605,6 @@
         "servers": []
     },
     {
-        "id": 779,
-        "name": "MAX Sport 1 Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/779/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/779/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Max Sport 2 (1080p)",
         "servers": [
@@ -2799,6 +2808,76 @@
     },
     {
         "id": null,
+        "name": "Maxcine (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Maxcine 2 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Maxcine Comedy (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Maxcine Family (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Maxcine Kids (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Maxima TV",
         "servers": [
             {
@@ -2948,20 +3027,6 @@
             {
                 "name": "URL",
                 "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC 3 USA (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
             }
         ]
     },
@@ -3233,7 +3298,7 @@
     },
     {
         "id": null,
-        "name": "MBC TV (India) (576p)",
+        "name": "MBC TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3242,20 +3307,6 @@
             {
                 "name": "URL",
                 "link": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MBC TV (South Korea) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://xyktmobile00.s.gy/PPV930_S_OPERA_SD"
-            },
-            {
-                "name": "URL",
-                "link": "https://xyktmobile00.s.gy/PPV930_S_OPERA_SD"
             }
         ]
     },
@@ -3877,6 +3928,20 @@
             {
                 "name": "URL",
                 "link": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Mega Ficcion (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8"
             }
         ]
     },
@@ -5759,9 +5824,18 @@
         ]
     },
     {
-        "id": "stream-7",
+        "id": 8,
         "name": "MLB League Pass",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/8/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/8/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6381,9 +6455,18 @@
         ]
     },
     {
-        "id": "778",
+        "id": 778,
         "name": "Monumental Sports Network",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/778/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/778/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8885,18 +8968,9 @@
         "servers": []
     },
     {
-        "id": 371,
+        "id": "371",
         "name": "MTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/371/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/371/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

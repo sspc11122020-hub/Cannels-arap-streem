@@ -1000,6 +1000,20 @@
         ]
     },
     {
+        "id": 5,
+        "name": "Geo News",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Geordie Shore (Germany)",
         "servers": [
@@ -2318,6 +2332,20 @@
         ]
     },
     {
+        "id": 318,
+        "name": "Golf Channel USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/318/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/318/"
+            }
+        ]
+    },
+    {
         "id": "318",
         "name": "GOLF Channel USA",
         "servers": []
@@ -3134,15 +3162,15 @@
     },
     {
         "id": null,
-        "name": "GTV (Indonesia) HD",
+        "name": "GTV (Indonesia) HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+                "link": "http://202.150.172.59/GTVHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+                "link": "http://202.150.172.59/GTVHD/index.m3u8"
             }
         ]
     },

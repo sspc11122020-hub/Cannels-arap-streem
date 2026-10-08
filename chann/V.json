@@ -85,20 +85,6 @@
         ]
     },
     {
-        "id": 22,
-        "name": "V Sport 1 Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/22/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/22/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "V Sport Extra SE",
         "servers": [
@@ -109,6 +95,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Extra&code=se&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "V Sport Extra Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/19/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/19/"
             }
         ]
     },
@@ -1671,6 +1671,34 @@
     },
     {
         "id": null,
+        "name": "Viasat True Crime",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8010/play/a00a/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8010/play/a00a/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Viasat Vinter",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/18/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/18/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "viaTelePaese (720p)",
         "servers": [
             {
@@ -1703,18 +1731,9 @@
         ]
     },
     {
-        "id": 659,
+        "id": "stream-659",
         "name": "VICE TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/659/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/659/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "174",
@@ -1942,6 +1961,34 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/100/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "viju TV1000 novella HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "viju TV1000 romantica HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8"
             }
         ]
     },
@@ -3039,6 +3086,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VoyenTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://media1.skifnet.by/voentv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://media1.skifnet.by/voentv/index.m3u8"
             }
         ]
     },
