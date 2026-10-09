@@ -141,9 +141,18 @@
         "servers": []
     },
     {
-        "id": "5215",
+        "id": 521,
         "name": "M+ Vamos ES",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/521/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/521/"
+            }
+        ]
     },
     {
         "id": null,
@@ -188,18 +197,9 @@
         ]
     },
     {
-        "id": 265,
+        "id": "265",
         "name": "M4 Sports Hungary",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/265/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/265/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3066",
@@ -627,16 +627,21 @@
         "servers": []
     },
     {
-        "id": 4,
+        "id": "29",
         "name": "Magenta Sport 302",
+        "servers": []
+    },
+    {
+        "id": 7,
+        "name": "Magenta Sport 303",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
+                "link": "https://tvnow247.top/embed/7/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
+                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },
@@ -646,44 +651,44 @@
         "servers": []
     },
     {
-        "id": 1,
+        "id": 8,
         "name": "Magenta Sport 305",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/8/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },
     {
-        "id": 2,
+        "id": 9,
         "name": "Magenta Sport 306",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/9/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/9/"
             }
         ]
     },
     {
-        "id": 3,
+        "id": 10,
         "name": "Magenta Sport 307",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://tvnow247.top/embed/10/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://tvnow247.top/embed/10/"
             }
         ]
     },
@@ -1679,15 +1684,15 @@
     },
     {
         "id": null,
-        "name": "Maria Vision (360p) [Not 24/7]",
+        "name": "Maria Vision (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+                "link": "http://200.122.223.13:55000/play/a022/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+                "link": "http://200.122.223.13:55000/play/a022/index.m3u8"
             }
         ]
     },
@@ -2737,6 +2742,20 @@
         "servers": []
     },
     {
+        "id": 475,
+        "name": "MAX Sport 4 Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/475/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/475/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Max Sports 1 Bulgaria",
         "servers": [
@@ -3648,6 +3667,20 @@
             {
                 "name": "URL",
                 "link": "http://54.36.110.140/live3/live3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Med.TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8"
             }
         ]
     },
@@ -5824,16 +5857,16 @@
         ]
     },
     {
-        "id": 8,
+        "id": 6,
         "name": "MLB League Pass",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8/"
+                "link": "https://tvnow247.top/embed/6/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8/"
+                "link": "https://tvnow247.top/embed/6/"
             }
         ]
     },
@@ -5961,15 +5994,15 @@
     },
     {
         "id": null,
-        "name": "MNCTV HD (720p)",
+        "name": "MNCTV HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
+                "link": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
+                "link": "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -6455,18 +6488,9 @@
         ]
     },
     {
-        "id": 778,
+        "id": "778",
         "name": "Monumental Sports Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/778/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/778/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -7213,6 +7237,20 @@
         "servers": []
     },
     {
+        "id": 528,
+        "name": "Movistar Golf",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/528/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/528/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Movistar Golf ES",
         "servers": [
@@ -7251,18 +7289,9 @@
         ]
     },
     {
-        "id": 435,
+        "id": "435",
         "name": "Movistar Liga de Campeones",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/435/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/435/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "172",
@@ -7645,9 +7674,18 @@
         ]
     },
     {
-        "id": "765",
+        "id": 765,
         "name": "MSG USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/765/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/765/"
+            }
+        ]
     },
     {
         "id": "327",

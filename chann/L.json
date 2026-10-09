@@ -370,15 +370,15 @@
     },
     {
         "id": null,
-        "name": "La Kalle (720p)",
+        "name": "La Kalle (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8"
+                "link": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8"
+                "link": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8"
             }
         ]
     },
@@ -2421,9 +2421,18 @@
         ]
     },
     {
-        "id": "7003",
+        "id": 4,
         "name": "Liga 1 Max Peru",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
     },
     {
         "id": null,

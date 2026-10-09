@@ -215,13 +215,8 @@
         "servers": []
     },
     {
-        "id": "555",
-        "name": "Racing Tv UK",
-        "servers": []
-    },
-    {
         "id": 555,
-        "name": "Racing TV UK",
+        "name": "Racing Tv UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -2443,6 +2438,20 @@
         "servers": []
     },
     {
+        "id": 882,
+        "name": "RAI Sport 1 Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/882/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/882/"
+            }
+        ]
+    },
+    {
         "id": "882",
         "name": "Rai Sport Italy",
         "servers": []
@@ -2472,6 +2481,20 @@
             {
                 "name": "URL",
                 "link": "https://dt9mwqwe98q7o.cloudfront.net/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Raizal TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8"
             }
         ]
     },
@@ -2598,20 +2621,6 @@
             {
                 "name": "URL",
                 "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rajawali TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://202.150.172.59/RajawaliTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://202.150.172.59/RajawaliTV/index.m3u8"
             }
         ]
     },
@@ -5218,15 +5227,15 @@
     },
     {
         "id": null,
-        "name": "Republic Bangla (1080p)",
+        "name": "Republic Bangla (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8"
+                "link": "https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8"
+                "link": "https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8"
             }
         ]
     },
@@ -7483,16 +7492,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },

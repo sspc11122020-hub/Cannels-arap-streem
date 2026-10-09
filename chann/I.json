@@ -2154,6 +2154,20 @@
     },
     {
         "id": null,
+        "name": "Investigation Discovery Latin America South (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.65.175.84:8000/play/a0ch/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "INWILD (1080p)",
         "servers": [
             {
@@ -2546,6 +2560,20 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "IRIB Varzesh",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },

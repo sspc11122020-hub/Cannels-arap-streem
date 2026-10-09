@@ -1108,6 +1108,20 @@
     },
     {
         "id": null,
+        "name": "TBS (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://193.254.245.162/TBS/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://193.254.245.162/TBS/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TBS TV (720p)",
         "servers": [
             {
@@ -1173,6 +1187,20 @@
             {
                 "name": "URL",
                 "link": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TCM Latin America South (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.171.64.30:6060/play/a014/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.171.64.30:6060/play/a014/index.m3u8"
             }
         ]
     },
@@ -1673,6 +1701,20 @@
             {
                 "name": "URL",
                 "link": "http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tele Amiga (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8"
             }
         ]
     },
@@ -3497,6 +3539,20 @@
         ]
     },
     {
+        "id": 131,
+        "name": "Telemundo USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/131/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/131/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Telemundo WCAU (1080p)",
         "servers": [
@@ -5024,30 +5080,30 @@
         "servers": []
     },
     {
-        "id": 1093,
+        "id": 1092,
         "name": "Tennis HD Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1093/"
+                "link": "https://tvnow247.top/embed/1092/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1093/"
+                "link": "https://tvnow247.top/embed/1092/"
             }
         ]
     },
     {
-        "id": 1673,
+        "id": 1672,
         "name": "Tennis Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1673/"
+                "link": "https://tvnow247.top/embed/1672/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1673/"
+                "link": "https://tvnow247.top/embed/1672/"
             }
         ]
     },
@@ -7217,15 +7273,15 @@
     },
     {
         "id": null,
-        "name": "Tigo Sports (Paraguay) (1080p)",
+        "name": "Tigo Sports (Paraguay)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls"
+                "link": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls"
+                "link": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -7660,9 +7716,18 @@
         ]
     },
     {
-        "id": "stream-337",
+        "id": 337,
         "name": "TLC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/337/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/337/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8021,7 +8086,7 @@
     },
     {
         "id": null,
-        "name": "TNT (576p)",
+        "name": "TNT (Russia) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8030,6 +8095,34 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/135/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TNT (Russia) HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.153.24.78/TNT/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.153.24.78/TNT/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TNT (United States) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://193.254.245.162/TNT-HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://193.254.245.162/TNT-HD/index.m3u8"
             }
         ]
     },
@@ -8110,20 +8203,6 @@
     },
     {
         "id": null,
-        "name": "TNT HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.153.24.78/TNT/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.153.24.78/TNT/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TNT International (480p)",
         "servers": [
             {
@@ -8166,6 +8245,20 @@
     },
     {
         "id": null,
+        "name": "TNT Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.171.64.30:6060/play/a03i/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.171.64.30:6060/play/a03i/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TNT Novelas (1080p)",
         "servers": [
             {
@@ -8189,6 +8282,20 @@
             {
                 "name": "URL",
                 "link": "http://45.162.64.114/TNT_NOVELAS/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TNT Series Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://168.196.127.137:6001/play/a095/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://168.196.127.137:6001/play/a095/index.m3u8"
             }
         ]
     },
@@ -8479,18 +8586,9 @@
         ]
     },
     {
-        "id": 338,
+        "id": "338",
         "name": "TNT USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/338/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/338/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8885,6 +8983,20 @@
             {
                 "name": "URL",
                 "link": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tooncast (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.134.250.110:8000/play/a01t/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.134.250.110:8000/play/a01t/index.m3u8"
             }
         ]
     },
@@ -10905,20 +11017,6 @@
         ]
     },
     {
-        "id": 889,
-        "name": "TRT Sport Turkey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/889/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/889/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "TRT Turk (720p)",
         "servers": [
@@ -11167,6 +11265,20 @@
             {
                 "name": "URL",
                 "link": "https://grandemx.org/qpwihhq2-6590"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "truTV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8"
             }
         ]
     },
@@ -17558,18 +17670,9 @@
         ]
     },
     {
-        "id": 833,
+        "id": "833",
         "name": "TVA Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/833/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/833/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 834,
@@ -18106,6 +18209,20 @@
     },
     {
         "id": null,
+        "name": "TVes (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TVG2 (720p) [Geo-blocked]",
         "servers": [
             {
@@ -18387,15 +18504,15 @@
     },
     {
         "id": null,
-        "name": "TVM (Malta) (1080p)",
+        "name": "TVM (Malta) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8"
+                "link": "http://80.79.6.221:25461/smash/public/19"
             },
             {
                 "name": "URL",
-                "link": "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8"
+                "link": "http://80.79.6.221:25461/smash/public/19"
             }
         ]
     },
@@ -18620,20 +18737,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "TVMsport+ (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8"
             }
         ]
     },
@@ -19416,20 +19519,6 @@
     },
     {
         "id": null,
-        "name": "TVRI (1080i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVRI Aceh (720p)",
         "servers": [
             {
@@ -19579,6 +19668,20 @@
             {
                 "name": "URL",
                 "link": "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TVRI HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
             }
         ]
     },

@@ -85,6 +85,34 @@
         ]
     },
     {
+        "id": 28,
+        "name": "V Sport 1 Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/28/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/28/"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "V Sport Extra",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/29/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/29/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "V Sport Extra SE",
         "servers": [
@@ -95,20 +123,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Extra&code=se&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "name": "V Sport Extra Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/19/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/19/"
             }
         ]
     },
@@ -132,9 +146,18 @@
         ]
     },
     {
-        "id": "937",
+        "id": 937,
         "name": "V Sport Golf",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/937/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/937/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1339,6 +1362,20 @@
     },
     {
         "id": null,
+        "name": "VIA TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.19/live/via_tv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.19/live/via_tv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Via X (576p)",
         "servers": [
             {
@@ -1680,20 +1717,6 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8010/play/a00a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Viasat Vinter",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/18/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/18/"
             }
         ]
     },

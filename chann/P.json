@@ -744,15 +744,15 @@
     },
     {
         "id": null,
-        "name": "Parliament of Malta (1080p)",
+        "name": "Parliament of Malta [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8"
+                "link": "http://80.79.6.221:25461/smash/public/23"
             },
             {
                 "name": "URL",
-                "link": "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8"
+                "link": "http://80.79.6.221:25461/smash/public/23"
             }
         ]
     },
@@ -9077,6 +9077,20 @@
         "servers": []
     },
     {
+        "id": 995,
+        "name": "Polsat Sport Extra 3 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/995/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/995/"
+            }
+        ]
+    },
+    {
         "id": "996",
         "name": "Polsat Sport Extra 4 HD Poland",
         "servers": []
@@ -9472,9 +9486,18 @@
         ]
     },
     {
-        "id": "718",
+        "id": 718,
         "name": "Porto Canal Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9998,9 +10021,18 @@
         ]
     },
     {
-        "id": "stream-799",
+        "id": 799,
         "name": "Premier Sports 2 Ireland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/799/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/799/"
+            }
+        ]
     },
     {
         "id": "771",
@@ -10083,16 +10115,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 26,
         "name": "Premiere 5 BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205&code=br&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/26/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205&code=br&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },
@@ -10125,9 +10157,18 @@
         ]
     },
     {
-        "id": "stream-88",
+        "id": 88,
         "name": "Premiere BR",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/88/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/88/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10359,9 +10400,18 @@
         ]
     },
     {
-        "id": "stream-583",
+        "id": 583,
         "name": "Prima Sport 1 Romania",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/583/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/583/"
+            }
+        ]
     },
     {
         "id": "584",

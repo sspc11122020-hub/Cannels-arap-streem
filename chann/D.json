@@ -1180,9 +1180,18 @@
         "servers": []
     },
     {
-        "id": "3030",
+        "id": 918,
         "name": "DAZN MotoGP ES",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/918/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/918/"
+            }
+        ]
     },
     {
         "id": "4000",
@@ -1215,6 +1224,20 @@
         "servers": []
     },
     {
+        "id": 55,
+        "name": "DAZN UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/55/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/55/"
+            }
+        ]
+    },
+    {
         "id": "1067",
         "name": "DAZN USA",
         "servers": []
@@ -1238,6 +1261,20 @@
         "id": "3017",
         "name": "DAZN1 DE 2",
         "servers": []
+    },
+    {
+        "id": 445,
+        "name": "DAZN1 ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/445/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/445/"
+            }
+        ]
     },
     {
         "id": "8016",
@@ -2798,9 +2835,32 @@
         ]
     },
     {
-        "id": "651",
+        "id": 651,
         "name": "Destination America",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/651/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/651/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Destination America (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -3426,9 +3486,18 @@
         ]
     },
     {
-        "id": "400",
+        "id": 400,
         "name": "Digi Sport 1 Romania",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/400/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/400/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3786,6 +3855,20 @@
     },
     {
         "id": null,
+        "name": "Discovery Channel Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.171.64.30:6060/play/a032/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.171.64.30:6060/play/a032/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Discovery Channel US",
         "servers": [
             {
@@ -3818,9 +3901,32 @@
         "servers": []
     },
     {
-        "id": "311",
+        "id": null,
+        "name": "Discovery Kids Latin America Mexico (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.65.175.84:8000/play/a0an/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.65.175.84:8000/play/a0an/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 311,
         "name": "Discovery Life Channel",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/311/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/311/"
+            }
+        ]
     },
     {
         "id": null,
@@ -5206,6 +5312,20 @@
     },
     {
         "id": null,
+        "name": "Dongguan Comprehensive News Channel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Donna TV (480p)",
         "servers": [
             {
@@ -6361,16 +6481,16 @@
         ]
     },
     {
-        "id": 76,
+        "id": 69,
         "name": "DYN DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/76/"
+                "link": "https://tvnow247.top/embed/69/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/76/"
+                "link": "https://tvnow247.top/embed/69/"
             }
         ]
     },
