@@ -42,18 +42,9 @@
         ]
     },
     {
-        "id": 1011,
+        "id": "1011",
         "name": "A Spor Turkey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1011/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1011/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "269",
@@ -1158,9 +1149,18 @@
         ]
     },
     {
-        "id": "51",
+        "id": 51,
         "name": "ABC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/51/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/51/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1695,20 +1695,6 @@
         ]
     },
     {
-        "id": 600,
-        "name": "Abu Dhabi Sports 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/600/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/600/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Abu Dhabi Sports 1 AE",
         "servers": [
@@ -1902,18 +1888,9 @@
         ]
     },
     {
-        "id": 664,
+        "id": "664",
         "name": "ACC Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/664/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/664/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2475,20 +2452,6 @@
         "id": "295",
         "name": "Adult Swim",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8"
-            }
-        ]
     },
     {
         "id": null,
@@ -3742,18 +3705,9 @@
         ]
     },
     {
-        "id": 2,
+        "id": "10",
         "name": "Al Iraqiya Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4951,25 +4905,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8"
+                "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Alhurra Iraq (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8"
+                "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8"
             }
         ]
     },
@@ -5606,20 +5546,6 @@
         ]
     },
     {
-        "id": 923,
-        "name": "Altitude USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/923/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/923/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "AltoAdige TV (720p)",
         "servers": [
@@ -5989,18 +5915,9 @@
         ]
     },
     {
-        "id": 303,
+        "id": "303",
         "name": "AMC USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/303/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/303/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6237,6 +6154,20 @@
             {
                 "name": "URL",
                 "link": "https://grandemx.org/yebuybr2-6867"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "American Heroes Channel (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8"
             }
         ]
     },
@@ -7082,6 +7013,48 @@
     },
     {
         "id": null,
+        "name": "Animal Planet (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.239.31.26:8989/animalplanet/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.239.31.26:8989/animalplanet/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Animal Planet East HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Animal Planet Latin America HD (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Animation+ (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -7231,6 +7204,20 @@
             {
                 "name": "URL",
                 "link": "https://hplayer1.juyun.tv/camera/154379194.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 774,
+        "name": "ANT+ F1 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/774/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/774/"
             }
         ]
     },
@@ -8128,30 +8115,30 @@
         ]
     },
     {
-        "id": 11,
+        "id": 5,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/11/"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/11/"
+                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
     {
-        "id": 12,
+        "id": 17,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/12/"
+                "link": "https://tvnow247.top/embed/17/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/12/"
+                "link": "https://tvnow247.top/embed/17/"
             }
         ]
     },
@@ -8246,9 +8233,18 @@
         "servers": []
     },
     {
-        "id": "15",
+        "id": 612,
         "name": "Arena Sport 1x2 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/612/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/612/"
+            }
+        ]
     },
     {
         "id": 433,
@@ -8270,9 +8266,18 @@
         "servers": []
     },
     {
-        "id": "430",
+        "id": 430,
         "name": "Arena Sport 2 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/430/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/430/"
+            }
+        ]
     },
     {
         "id": 434,
@@ -8294,9 +8299,18 @@
         "servers": []
     },
     {
-        "id": "431",
+        "id": 431,
         "name": "Arena Sport 3 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/431/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/431/"
+            }
+        ]
     },
     {
         "id": "580",
@@ -8304,24 +8318,60 @@
         "servers": []
     },
     {
-        "id": "581",
+        "id": 581,
         "name": "Arena Sport 4 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/581/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/581/"
+            }
+        ]
     },
     {
-        "id": "940",
+        "id": 940,
         "name": "Arena Sport 5 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/940/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/940/"
+            }
+        ]
     },
     {
-        "id": "941",
+        "id": 941,
         "name": "Arena Sport 6 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/941/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/941/"
+            }
+        ]
     },
     {
-        "id": "942",
+        "id": 942,
         "name": "Arena Sport 7 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/942/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/942/"
+            }
+        ]
     },
     {
         "id": "943",
@@ -8329,37 +8379,14 @@
         "servers": []
     },
     {
-        "id": 944,
+        "id": "944",
         "name": "Arena Sport 9 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/944/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/944/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "612",
         "name": "Arena Sports Tenis Serbia",
         "servers": []
-    },
-    {
-        "id": 612,
-        "name": "Arena Tennis",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/612/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/612/"
-            }
-        ]
     },
     {
         "id": null,
@@ -9478,9 +9505,18 @@
         ]
     },
     {
-        "id": "370",
+        "id": 370,
         "name": "Astro Cricket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/370/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/370/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9497,16 +9533,16 @@
         ]
     },
     {
-        "id": 123,
-        "name": "Astro Grandstand",
+        "id": 124,
+        "name": "Astro Football",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/123/"
+                "link": "https://tvnow247.top/embed/124/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/123/"
+                "link": "https://tvnow247.top/embed/124/"
             }
         ]
     },

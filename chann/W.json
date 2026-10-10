@@ -304,6 +304,20 @@
     },
     {
         "id": null,
+        "name": "Warner Channel Colombia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.134.250.110:8000/play/a029/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.134.250.110:8000/play/a029/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Waseb TV (576p)",
         "servers": [
             {
@@ -1064,9 +1078,18 @@
         ]
     },
     {
-        "id": "655",
+        "id": 655,
         "name": "WETV USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/655/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/655/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1349,9 +1372,18 @@
         ]
     },
     {
-        "id": "598",
+        "id": 598,
         "name": "Willow 2 Cricket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/598/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/598/"
+            }
+        ]
     },
     {
         "id": null,

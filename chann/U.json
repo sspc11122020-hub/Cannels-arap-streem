@@ -875,18 +875,9 @@
         "servers": []
     },
     {
-        "id": 133,
+        "id": "stream-133",
         "name": "UniMás",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/133/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/133/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1296,6 +1287,20 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/UniversalHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Universal TV Latin America Colombia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.134.250.110:8000/play/a006/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.134.250.110:8000/play/a006/index.m3u8"
             }
         ]
     },

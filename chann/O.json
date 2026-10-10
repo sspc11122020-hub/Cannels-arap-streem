@@ -2037,9 +2037,18 @@
         "servers": []
     },
     {
-        "id": "1029",
+        "id": 1029,
         "name": "Oneplay Sport 3 CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1029/"
+            }
+        ]
     },
     {
         "id": "1038",
@@ -2047,9 +2056,18 @@
         "servers": []
     },
     {
-        "id": "3043",
+        "id": 3046,
         "name": "Oneplay Sport CZ",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3046/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3046/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2398,6 +2416,20 @@
         "id": "3011",
         "name": "ORF eins",
         "servers": []
+    },
+    {
+        "id": 20,
+        "name": "ORF eins Austria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/20/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/20/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2938,6 +2970,34 @@
             {
                 "name": "URL",
                 "link": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "OWN (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_OWN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_OWN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "name": "OWN USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/331/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/331/"
             }
         ]
     },

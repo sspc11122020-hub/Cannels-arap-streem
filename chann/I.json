@@ -1715,20 +1715,6 @@
     },
     {
         "id": null,
-        "name": "InfoWars (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ingenio TV (720p) [Geo-blocked]",
         "servers": [
             {
@@ -2148,6 +2134,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Investigation Discovery (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://212.5.144.156:8080/id/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://212.5.144.156:8080/id/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "324",
         "name": "Investigation Discovery (ID USA)",
         "servers": []
@@ -2560,20 +2560,6 @@
             {
                 "name": "URL",
                 "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "IRIB Varzesh",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },
