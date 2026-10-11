@@ -122,11 +122,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.128.214.97:64333/play/a02r/index.m3u8"
+                "link": "http://138.59.227.20:8000/play/a05t/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.128.214.97:64333/play/a02r/index.m3u8"
+                "link": "http://138.59.227.20:8000/play/a05t/index.m3u8"
             }
         ]
     },
@@ -537,6 +537,20 @@
         ]
     },
     {
+        "id": 3085,
+        "name": "Paramaunt+",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3085/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3085/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Paramount Movie Channel",
         "servers": [
@@ -570,9 +584,18 @@
         ]
     },
     {
-        "id": "190",
+        "id": 69,
         "name": "Paramount+",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/69/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/69/"
+            }
+        ]
     },
     {
         "id": null,
@@ -8822,6 +8845,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Polsat Film HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ="
+            },
+            {
+                "name": "URL",
+                "link": "http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ="
+            }
+        ]
+    },
+    {
         "id": "564",
         "name": "Polsat Film Poland",
         "servers": []
@@ -9033,9 +9070,18 @@
         ]
     },
     {
-        "id": "50",
+        "id": 50,
         "name": "Polsat Sport 2 Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/50/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/50/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9085,23 +9131,23 @@
         "servers": []
     },
     {
-        "id": "994",
-        "name": "Polsat Sport Extra 2 HD Poland",
-        "servers": []
-    },
-    {
-        "id": 994,
-        "name": "Polsat Sport Extra 2 Poland",
+        "id": 993,
+        "name": "Polsat Sport Extra 1 Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/994/"
+                "link": "https://tvnow247.top/embed/993/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/994/"
+                "link": "https://tvnow247.top/embed/993/"
             }
         ]
+    },
+    {
+        "id": "994",
+        "name": "Polsat Sport Extra 2 HD Poland",
+        "servers": []
     },
     {
         "id": "995",
@@ -9161,9 +9207,18 @@
         "servers": []
     },
     {
-        "id": "209",
+        "id": 997,
         "name": "Polsat Sport Fight Poland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/997/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/997/"
+            }
+        ]
     },
     {
         "id": "998",
@@ -9790,16 +9845,16 @@
         "servers": []
     },
     {
-        "id": 59,
+        "id": 188,
         "name": "PPV Feed",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/59/"
+                "link": "https://tvnow247.top/embed/188/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/59/"
+                "link": "https://tvnow247.top/embed/188/"
             }
         ]
     },
@@ -10077,6 +10132,20 @@
         "servers": []
     },
     {
+        "id": 224,
+        "name": "Premier Sports Rugby",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/224/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/224/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Premiere",
         "servers": [
@@ -10189,9 +10258,18 @@
         ]
     },
     {
-        "id": "stream-88",
+        "id": 88,
         "name": "Premiere BR",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/88/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/88/"
+            }
+        ]
     },
     {
         "id": null,
@@ -10442,9 +10520,37 @@
         "servers": []
     },
     {
+        "id": 584,
+        "name": "Prima Sport 2 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/584/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/584/"
+            }
+        ]
+    },
+    {
         "id": "585",
         "name": "Prima Sport 3",
         "servers": []
+    },
+    {
+        "id": 585,
+        "name": "Prima Sport 3 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/585/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/585/"
+            }
+        ]
     },
     {
         "id": "586",
@@ -10462,6 +10568,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204&code=ro&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 586,
+        "name": "Prima Sport 4 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/586/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/586/"
             }
         ]
     },

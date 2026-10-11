@@ -744,6 +744,34 @@
     },
     {
         "id": null,
+        "name": "HBO 2 Latin America (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.65.175.84:8000/play/a0ct/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.65.175.84:8000/play/a0ct/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO 2 Latin America HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.171.64.30:6060/play/a00i/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.171.64.30:6060/play/a00i/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Comedy",
         "servers": [
             {
@@ -772,6 +800,20 @@
             {
                 "name": "URL",
                 "link": "https://grandemx.org/30owqrck-7840"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO Family Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.171.64.30:6060/play/a00k/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.171.64.30:6060/play/a00k/index.m3u8"
             }
         ]
     },
@@ -1372,6 +1414,20 @@
             {
                 "name": "URL",
                 "link": "https://grandemx.org/okj3w6e7-7294"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HGTV Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.87.224.19:2220/play/a01p/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.87.224.19:2220/play/a01p/index.m3u8"
             }
         ]
     },
@@ -2362,7 +2418,7 @@
     },
     {
         "id": null,
-        "name": "HMTV (720p)",
+        "name": "HMTV (India) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2371,6 +2427,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.pishow.tv/ott/live/280/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HMTV (Nigeria) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8"
             }
         ]
     },
@@ -3436,6 +3506,20 @@
     },
     {
         "id": null,
+        "name": "HTV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.171.64.30:6060/play/a012/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.171.64.30:6060/play/a012/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HTV 1 Houston Television (720p)",
         "servers": [
             {
@@ -3606,6 +3690,76 @@
         "id": "4",
         "name": "Hub Premier",
         "servers": []
+    },
+    {
+        "id": 3031,
+        "name": "Hub Premier 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3031/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3031/"
+            }
+        ]
+    },
+    {
+        "id": 3032,
+        "name": "Hub Premier 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3032/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3032/"
+            }
+        ]
+    },
+    {
+        "id": 3033,
+        "name": "Hub Premier 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3033/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3033/"
+            }
+        ]
+    },
+    {
+        "id": 3034,
+        "name": "Hub Premier 4",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3034/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3034/"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Hub Premier 5",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/21/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/21/"
+            }
+        ]
     },
     {
         "id": null,

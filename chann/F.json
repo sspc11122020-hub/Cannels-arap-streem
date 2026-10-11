@@ -905,6 +905,20 @@
     },
     {
         "id": null,
+        "name": "Favorit TV2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fazal TV (1080p)",
         "servers": [
             {
@@ -1400,20 +1414,6 @@
             {
                 "name": "URL",
                 "link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 757,
-        "name": "Fight Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/757/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/757/"
             }
         ]
     },
@@ -1965,16 +1965,16 @@
         ]
     },
     {
-        "id": 154,
+        "id": 221,
         "name": "FloHockey",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/154/"
+                "link": "https://tvnow247.top/embed/221/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/154/"
+                "link": "https://tvnow247.top/embed/221/"
             }
         ]
     },
@@ -2015,6 +2015,20 @@
         "id": "5018",
         "name": "FloRacing II",
         "servers": []
+    },
+    {
+        "id": 175,
+        "name": "FloRacing PPV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/175/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/175/"
+            }
+        ]
     },
     {
         "id": "5012",
@@ -2318,6 +2332,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Food Network Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://168.196.127.137:6001/play/a09v/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://168.196.127.137:6001/play/a09v/index.m3u8"
             }
         ]
     },
@@ -2924,20 +2952,6 @@
         ]
     },
     {
-        "id": 654,
-        "name": "FOX 5+ USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/654/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/654/"
-            }
-        ]
-    },
-    {
         "id": "297",
         "name": "Fox Business",
         "servers": []
@@ -3322,16 +3336,16 @@
         ]
     },
     {
-        "id": 3081,
+        "id": 39,
         "name": "FOX Sports 1 USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3081/"
+                "link": "https://tvnow247.top/embed/39/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3081/"
+                "link": "https://tvnow247.top/embed/39/"
             }
         ]
     },
@@ -3430,6 +3444,20 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=fox_2_usa"
+            }
+        ]
+    },
+    {
+        "id": 758,
+        "name": "FOX Sports 2 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/758/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/758/"
             }
         ]
     },
@@ -3943,6 +3971,20 @@
     },
     {
         "id": null,
+        "name": "France 2 FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://grandemx.org/hgz378eb-4510"
+            },
+            {
+                "name": "URL",
+                "link": "https://grandemx.org/hgz378eb-4510"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "France 24 (1080p)",
         "servers": [
             {
@@ -4032,6 +4074,20 @@
     },
     {
         "id": null,
+        "name": "France 3 FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://grandemx.org/wu4mhdi7-4997"
+            },
+            {
+                "name": "URL",
+                "link": "https://grandemx.org/wu4mhdi7-4997"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "France 3 Lorraine (1080p)",
         "servers": [
             {
@@ -4055,6 +4111,20 @@
             {
                 "name": "URL",
                 "link": "http://176.65.146.100:8047/play/a074/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "France 4 FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://grandemx.org/xfgs9irr-7603"
+            },
+            {
+                "name": "URL",
+                "link": "https://grandemx.org/xfgs9irr-7603"
             }
         ]
     },
@@ -4088,6 +4158,20 @@
             {
                 "name": "URL",
                 "link": "http://145.239.5.177/305/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "France 5 FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://grandemx.org/7d3yeddy-5338"
+            },
+            {
+                "name": "URL",
+                "link": "https://grandemx.org/7d3yeddy-5338"
             }
         ]
     },

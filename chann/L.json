@@ -799,6 +799,34 @@
         ]
     },
     {
+        "id": null,
+        "name": "La7 Cinema (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://102.129.186.182:81/la7d/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://102.129.186.182:81/la7d/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "LA7 HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8"
+            }
+        ]
+    },
+    {
         "id": "855",
         "name": "La7 Italy",
         "servers": []
@@ -1034,6 +1062,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3026,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3026/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3026/"
             }
         ]
     },
@@ -1300,9 +1342,18 @@
         ]
     },
     {
-        "id": "924",
+        "id": 924,
         "name": "Las Estrellas",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/924/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/924/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2568,19 +2619,60 @@
         "servers": []
     },
     {
-        "id": "222",
+        "id": 3053,
         "name": "Ligue1+ 3 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3053/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3053/"
+            }
+        ]
     },
     {
-        "id": "3054",
+        "id": 3054,
         "name": "Ligue1+ 4 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3054/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3054/"
+            }
+        ]
     },
     {
-        "id": "3056",
+        "id": 3055,
+        "name": "Ligue1+ 5 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3055/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3055/"
+            }
+        ]
+    },
+    {
+        "id": 3056,
         "name": "Ligue1+ 6 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3056/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3056/"
+            }
+        ]
     },
     {
         "id": "3052",
@@ -2588,16 +2680,16 @@
         "servers": []
     },
     {
-        "id": 3050,
+        "id": 3051,
         "name": "Ligue1+ France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3050/"
+                "link": "https://tvnow247.top/embed/3051/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3050/"
+                "link": "https://tvnow247.top/embed/3051/"
             }
         ]
     },
