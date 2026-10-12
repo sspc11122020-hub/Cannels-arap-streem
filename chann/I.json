@@ -1346,20 +1346,6 @@
     },
     {
         "id": null,
-        "name": "IN 24 News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/in24news/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/in24news/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "In Puii Mei (576p)",
         "servers": [
             {
@@ -1439,20 +1425,6 @@
             {
                 "name": "URL",
                 "link": "https://fs.uplink.kz/india/mono.m3u8?token=onlinetv"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "India 24x7 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/india24x7/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/india24x7/index.m3u8"
             }
         ]
     },
@@ -1757,15 +1729,15 @@
     },
     {
         "id": null,
-        "name": "INH 24x7 (576p)",
+        "name": "INH 24x7 (396p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/inh24x7/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/inh24x7/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8"
             }
         ]
     },
@@ -2162,8 +2134,27 @@
         ]
     },
     {
+        "id": "324",
+        "name": "Investigation Discovery (ID USA)",
+        "servers": []
+    },
+    {
         "id": null,
-        "name": "Investigation Discovery (1080p) [Geo-blocked]",
+        "name": "Investigation Discovery (Russia) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/205/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/205/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Investigation Discovery (United States) (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2174,11 +2165,6 @@
                 "link": "http://212.5.144.156:8080/id/index.m3u8"
             }
         ]
-    },
-    {
-        "id": "324",
-        "name": "Investigation Discovery (ID USA)",
-        "servers": []
     },
     {
         "id": null,
@@ -2280,20 +2266,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IP Noticias (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8"
             }
         ]
     },
@@ -3188,11 +3160,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/r4p22guh-1111"
+                "link": "https://ehgembxe.cfd/r4p22guh-1111"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/r4p22guh-1111"
+                "link": "https://ehgembxe.cfd/r4p22guh-1111"
             }
         ]
     },
@@ -3216,11 +3188,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/1thjaih5-6922"
+                "link": "https://ehgembxe.cfd/1thjaih5-6922"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/1thjaih5-6922"
+                "link": "https://ehgembxe.cfd/1thjaih5-6922"
             }
         ]
     },
@@ -3244,11 +3216,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/tid5ij2o-4488"
+                "link": "https://ehgembxe.cfd/tid5ij2o-4488"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/tid5ij2o-4488"
+                "link": "https://ehgembxe.cfd/tid5ij2o-4488"
             }
         ]
     },
@@ -3277,11 +3249,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/7lef8rck-151"
+                "link": "https://ehgembxe.cfd/7lef8rck-151"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/7lef8rck-151"
+                "link": "https://ehgembxe.cfd/7lef8rck-151"
             }
         ]
     },

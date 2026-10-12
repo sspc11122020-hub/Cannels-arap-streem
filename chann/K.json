@@ -304,25 +304,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/kalaignarseithigal/index.m3u8"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/kalaignarseithigal/index.m3u8"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Kalaignar TV (576p)",
+        "name": "Kalaignar TV (396p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/kalaignartv/index.m3u8"
+                "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/kalaignartv/index.m3u8"
+                "link": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
             }
         ]
     },
@@ -412,20 +412,6 @@
     },
     {
         "id": null,
-        "name": "Kamedi HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Kan 11 (1080p)",
         "servers": [
             {
@@ -481,9 +467,32 @@
         ]
     },
     {
-        "id": "221",
+        "id": 3,
         "name": "Kanal 1 Sport Slovakia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3/"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Kanal 1 Xtra Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/16/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/16/"
+            }
+        ]
     },
     {
         "id": null,
@@ -922,20 +931,6 @@
     },
     {
         "id": null,
-        "name": "Kannur One (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/kannurone/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/kannurone/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Kansas City Royals US",
         "servers": [
             {
@@ -1029,20 +1024,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/144/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kapitan Fantastika HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8"
             }
         ]
     },
@@ -1813,20 +1794,6 @@
         "servers": []
     },
     {
-        "id": null,
-        "name": "KHL Prime (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "153",
         "name": "KHL Tv",
         "servers": []
@@ -2449,15 +2416,15 @@
     },
     {
         "id": null,
-        "name": "Kite Victers (576p)",
+        "name": "Kite Victers (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/kitevicters/index.m3u8"
+                "link": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/kitevicters/index.m3u8"
+                "link": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8"
             }
         ]
     },
@@ -2486,20 +2453,6 @@
             {
                 "name": "URL",
                 "link": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "KKD News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/kkdnews/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/kkdnews/index.m3u8"
             }
         ]
     },
@@ -2967,20 +2920,6 @@
     },
     {
         "id": null,
-        "name": "Kool TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Kora TV",
         "servers": [
             {
@@ -3298,11 +3237,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8"
+                "link": "http://31.148.48.15/Kto_est_kto/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8"
+                "link": "http://31.148.48.15/Kto_est_kto/index.m3u8"
             }
         ]
     },

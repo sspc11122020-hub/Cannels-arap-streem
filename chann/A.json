@@ -47,9 +47,18 @@
         "servers": []
     },
     {
-        "id": "269",
+        "id": 269,
         "name": "A Sport PK",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/269/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/269/"
+            }
+        ]
     },
     {
         "id": null,
@@ -108,9 +117,18 @@
         ]
     },
     {
-        "id": "302",
+        "id": 302,
         "name": "A&E USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/302/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/302/"
+            }
+        ]
     },
     {
         "id": null,
@@ -174,11 +192,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8"
+                "link": "http://31.148.48.15/A2/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8"
+                "link": "http://31.148.48.15/A2/index.m3u8"
             }
         ]
     },
@@ -622,11 +640,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/nhmzkzez-3028"
+                "link": "https://ehgembxe.cfd/nhmzkzez-3028"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/nhmzkzez-3028"
+                "link": "https://ehgembxe.cfd/nhmzkzez-3028"
             }
         ]
     },
@@ -800,7 +818,7 @@
     },
     {
         "id": null,
-        "name": "ABC News (Australia) (720p)",
+        "name": "ABC News (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -809,20 +827,6 @@
             {
                 "name": "URL",
                 "link": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ABC News (India) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/abcnews/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/abcnews/index.m3u8"
             }
         ]
     },
@@ -1851,11 +1855,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/aqwidk96-2985"
+                "link": "https://ehgembxe.cfd/aqwidk96-2985"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/aqwidk96-2985"
+                "link": "https://ehgembxe.cfd/aqwidk96-2985"
             }
         ]
     },
@@ -2524,11 +2528,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/mpmo2rq6-2243"
+                "link": "https://ehgembxe.cfd/mpmo2rq6-2243"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/mpmo2rq6-2243"
+                "link": "https://ehgembxe.cfd/mpmo2rq6-2243"
             }
         ]
     },
@@ -5831,11 +5835,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/q4o68v8x-1092"
+                "link": "https://ehgembxe.cfd/q4o68v8x-1092"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/q4o68v8x-1092"
+                "link": "https://ehgembxe.cfd/q4o68v8x-1092"
             }
         ]
     },
@@ -5938,9 +5942,18 @@
         ]
     },
     {
-        "id": "303",
+        "id": 303,
         "name": "AMC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/303/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/303/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6172,11 +6185,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/yebuybr2-6867"
+                "link": "https://ehgembxe.cfd/yebuybr2-6867"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/yebuybr2-6867"
+                "link": "https://ehgembxe.cfd/yebuybr2-6867"
             }
         ]
     },
@@ -6485,20 +6498,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Anaadi TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/anaaditv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/anaaditv/index.m3u8"
             }
         ]
     },
@@ -7026,17 +7025,31 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/ywroxe20-1715"
+                "link": "https://ehgembxe.cfd/ywroxe20-1715"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/ywroxe20-1715"
+                "link": "https://ehgembxe.cfd/ywroxe20-1715"
             }
         ]
     },
     {
         "id": null,
-        "name": "Animal Planet (720p)",
+        "name": "Animal Planet (Russia) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/114/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/114/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Animal Planet (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7050,7 +7063,7 @@
     },
     {
         "id": null,
-        "name": "Animal Planet East HD (720p)",
+        "name": "Animal Planet (United States) East HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7213,20 +7226,6 @@
             {
                 "name": "URL",
                 "link": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ANN News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/annnews/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/annnews/index.m3u8"
             }
         ]
     },
@@ -7806,9 +7805,18 @@
         ]
     },
     {
-        "id": "2028",
+        "id": 3004,
         "name": "Apple TV",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3004/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3004/"
+            }
+        ]
     },
     {
         "id": "2070",
@@ -7816,32 +7824,9 @@
         "servers": []
     },
     {
-        "id": 5084,
-        "name": "AppleTV F1 ENG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5084/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5084/"
-            }
-        ]
-    },
-    {
-        "id": 5083,
+        "id": "5083",
         "name": "AppleTV F1 UHD ENG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5083/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5083/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8194,30 +8179,30 @@
         ]
     },
     {
-        "id": 24,
+        "id": 13,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/24/"
+                "link": "https://tvnow247.top/embed/13/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/24/"
+                "link": "https://tvnow247.top/embed/13/"
             }
         ]
     },
     {
-        "id": 29,
+        "id": 5,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/29/"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/29/"
+                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
@@ -8246,11 +8231,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/pmk4006b-7099"
+                "link": "https://ehgembxe.cfd/pmk4006b-7099"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/pmk4006b-7099"
+                "link": "https://ehgembxe.cfd/pmk4006b-7099"
             }
         ]
     },
@@ -8420,16 +8405,16 @@
         ]
     },
     {
-        "id": 942,
+        "id": 940,
         "name": "Arena Sport 5 Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/942/"
+                "link": "https://tvnow247.top/embed/940/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/942/"
+                "link": "https://tvnow247.top/embed/940/"
             }
         ]
     },
@@ -8448,9 +8433,18 @@
         ]
     },
     {
-        "id": "942",
+        "id": 942,
         "name": "Arena Sport 7 Serbia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/942/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/942/"
+            }
+        ]
     },
     {
         "id": 943,
@@ -8484,6 +8478,20 @@
         "id": "612",
         "name": "Arena Sports Tenis Serbia",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Arena4",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/arena4/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/arena4/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -8874,20 +8882,6 @@
             {
                 "name": "URL",
                 "link": "http://89.104.114.24:8080/art/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 205,
-        "name": "ART Sport 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/205/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/205/"
             }
         ]
     },
@@ -9323,20 +9317,6 @@
     },
     {
         "id": null,
-        "name": "Asianet (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/asianet/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/asianet/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Asianet HD (1080p)",
         "servers": [
             {
@@ -9360,20 +9340,6 @@
             {
                 "name": "URL",
                 "link": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Asianet Movies (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/asianetmovies/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/asianetmovies/index.m3u8"
             }
         ]
     },
@@ -10570,11 +10536,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8"
+                "link": "http://31.148.48.15/Avto_Plus/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8"
+                "link": "http://31.148.48.15/Avto_Plus/index.m3u8"
             }
         ]
     },
@@ -10626,6 +10592,20 @@
             {
                 "name": "URL",
                 "link": "https://familyhls.avatv.live/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AVA Media (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ava002.xyz/upload/images/1080.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ava002.xyz/upload/images/1080.m3u8"
             }
         ]
     },
@@ -10813,15 +10793,15 @@
     },
     {
         "id": null,
-        "name": "Avto24 (1080i)",
+        "name": "Avto24 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Avto_24/index.m3u8"
+                "link": "http://stream.mcquack.net/78/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Avto_24/index.m3u8"
+                "link": "http://stream.mcquack.net/78/index.m3u8"
             }
         ]
     },
@@ -11228,11 +11208,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/5evzdk49-4997"
+                "link": "https://ehgembxe.cfd/5evzdk49-4997"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/5evzdk49-4997"
+                "link": "https://ehgembxe.cfd/5evzdk49-4997"
             }
         ]
     },
@@ -11484,20 +11464,6 @@
             {
                 "name": "URL",
                 "link": "http://187.245.231.226:8000/play/a0uz/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 844,
-        "name": "Azteca 7 Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/844/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/844/"
             }
         ]
     },

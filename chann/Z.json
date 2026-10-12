@@ -429,11 +429,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeebanglahd/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/zeebanglahd/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls"
             }
         ]
     },
@@ -551,15 +551,15 @@
     },
     {
         "id": null,
-        "name": "Zee Cinemalu HD (1080p)",
+        "name": "Zee Cinemalu HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8"
             }
         ]
     },
@@ -663,20 +663,6 @@
     },
     {
         "id": null,
-        "name": "Zee Keralam HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeekeralamhd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/zeekeralamhd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Madhya Pradesh Chhattisgarh (720p)",
         "servers": [
             {
@@ -691,15 +677,15 @@
     },
     {
         "id": null,
-        "name": "Zee Marathi HD (1080p)",
+        "name": "Zee Marathi HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeemarathihd/index.m3u8"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/zeemarathihd/index.m3u8"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8"
             }
         ]
     },
@@ -775,20 +761,6 @@
     },
     {
         "id": null,
-        "name": "Zee Power HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeepowerhd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/zeepowerhd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Punjab Haryana Himachal (720p)",
         "servers": [
             {
@@ -798,20 +770,6 @@
             {
                 "name": "URL",
                 "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Punjabi (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeepunjabi/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/zeepunjabi/index.m3u8"
             }
         ]
     },
@@ -859,20 +817,6 @@
     },
     {
         "id": null,
-        "name": "Zee Talkies HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeetalkieshd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/zeetalkieshd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Tamil HD (720p)",
         "servers": [
             {
@@ -901,15 +845,15 @@
     },
     {
         "id": null,
-        "name": "Zee Telugu HD (1080p)",
+        "name": "Zee Telugu HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeeteluguhd/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/zeeteluguhd/index.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8"
             }
         ]
     },
@@ -933,11 +877,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/zeetv/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/zeetv/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
             }
         ]
     },
@@ -1143,11 +1087,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/rdo034lm-4447"
+                "link": "https://ehgembxe.cfd/rdo034lm-4447"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/rdo034lm-4447"
+                "link": "https://ehgembxe.cfd/rdo034lm-4447"
             }
         ]
     },
@@ -1157,11 +1101,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/gr554ioo-6760"
+                "link": "https://ehgembxe.cfd/gr554ioo-6760"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/gr554ioo-6760"
+                "link": "https://ehgembxe.cfd/gr554ioo-6760"
             }
         ]
     },
@@ -1171,11 +1115,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/mchozmkr-2081"
+                "link": "https://ehgembxe.cfd/mchozmkr-2081"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/mchozmkr-2081"
+                "link": "https://ehgembxe.cfd/mchozmkr-2081"
             }
         ]
     },
@@ -1185,25 +1129,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/gen/ziggo-sport-4-nl"
+                "link": "https://ehgembxe.cfd/gen/ziggo-sport-4-nl"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/gen/ziggo-sport-4-nl"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Ziggo Sport 5 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://145.239.5.177/349/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://145.239.5.177/349/index.m3u8"
+                "link": "https://ehgembxe.cfd/gen/ziggo-sport-4-nl"
             }
         ]
     },
@@ -1652,11 +1582,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Zvezda/index.m3u8"
+                "link": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Zvezda/index.m3u8"
+                "link": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8"
             }
         ]
     },

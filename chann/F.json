@@ -670,20 +670,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Fashion India (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/fashionindia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/fashionindia/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "744",
         "name": "Fashion TV",
         "servers": []
@@ -732,21 +718,7 @@
     },
     {
         "id": null,
-        "name": "FashionTV (India) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/ftvhd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/ftvhd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FashionTV (Russia) (1080p)",
+        "name": "FashionTV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -835,7 +807,7 @@
     },
     {
         "id": null,
-        "name": "Fast&FunBox (Netherlands)",
+        "name": "Fast&FunBox",
         "servers": [
             {
                 "name": "Main Server",
@@ -844,20 +816,6 @@
             {
                 "name": "URL",
                 "link": "https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fast&FunBox (Russia) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8"
             }
         ]
     },
@@ -881,11 +839,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/fatehtv/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/349/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/fatehtv/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/349/master.m3u8"
             }
         ]
     },
@@ -1213,20 +1171,6 @@
             {
                 "name": "URL",
                 "link": "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fides TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/radiofidesbolivia/index.m3u8"
             }
         ]
     },
@@ -1965,16 +1909,16 @@
         ]
     },
     {
-        "id": 221,
+        "id": 224,
         "name": "FloHockey",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/221/"
+                "link": "https://tvnow247.top/embed/224/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/221/"
+                "link": "https://tvnow247.top/embed/224/"
             }
         ]
     },
@@ -1993,9 +1937,18 @@
         ]
     },
     {
-        "id": "252",
+        "id": 1078,
         "name": "FloRacing",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1078/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1078/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2015,20 +1968,6 @@
         "id": "5018",
         "name": "FloRacing II",
         "servers": []
-    },
-    {
-        "id": 175,
-        "name": "FloRacing PPV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/175/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/175/"
-            }
-        ]
     },
     {
         "id": "5012",
@@ -2094,20 +2033,6 @@
             {
                 "name": "URL",
                 "link": "https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FM News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/fmnews/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/fmnews/index.m3u8"
             }
         ]
     },
@@ -2313,17 +2238,31 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/cnomxno0-1987"
+                "link": "https://ehgembxe.cfd/cnomxno0-1987"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/cnomxno0-1987"
+                "link": "https://ehgembxe.cfd/cnomxno0-1987"
             }
         ]
     },
     {
         "id": null,
-        "name": "Food Network (720p)",
+        "name": "Food Network (Russia) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://stream.mcquack.net/298/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://stream.mcquack.net/298/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Food Network (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2346,20 +2285,6 @@
             {
                 "name": "URL",
                 "link": "http://168.196.127.137:6001/play/a09v/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FoodTime (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Eda/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Eda/index.m3u8"
             }
         ]
     },
@@ -2463,6 +2388,20 @@
     },
     {
         "id": null,
+        "name": "Formula 1 AntenaPlay (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Foro TV",
         "servers": [
             {
@@ -2514,20 +2453,6 @@
             {
                 "name": "URL",
                 "link": "https://multimedia.fortalezatv.cl/video/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fortaleza TV Cueto (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8"
             }
         ]
     },
@@ -2593,11 +2518,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/bhg7rkug-6924"
+                "link": "https://ehgembxe.cfd/bhg7rkug-6924"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/bhg7rkug-6924"
+                "link": "https://ehgembxe.cfd/bhg7rkug-6924"
             }
         ]
     },
@@ -2990,11 +2915,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/8p0wjr6t-3317"
+                "link": "https://ehgembxe.cfd/8p0wjr6t-3317"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/8p0wjr6t-3317"
+                "link": "https://ehgembxe.cfd/8p0wjr6t-3317"
             }
         ]
     },
@@ -3094,15 +3019,15 @@
     },
     {
         "id": null,
-        "name": "Fox News Channel (720p)",
+        "name": "Fox News Channel (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8"
+                "link": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8"
+                "link": "https://tvsen6.aynaott.com/foxnews/index.m3u8"
             }
         ]
     },
@@ -3191,16 +3116,16 @@
         ]
     },
     {
-        "id": 3083,
+        "id": 756,
         "name": "Fox Soccer Plus",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3083/"
+                "link": "https://tvnow247.top/embed/756/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3083/"
+                "link": "https://tvnow247.top/embed/756/"
             }
         ]
     },
@@ -3257,11 +3182,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/f4ijr4sl-187"
+                "link": "https://ehgembxe.cfd/f4ijr4sl-187"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/f4ijr4sl-187"
+                "link": "https://ehgembxe.cfd/f4ijr4sl-187"
             }
         ]
     },
@@ -3336,30 +3261,16 @@
         ]
     },
     {
-        "id": 39,
-        "name": "FOX Sports 1 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/39/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/39/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Sports 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/p5562bwm-3285"
+                "link": "https://ehgembxe.cfd/p5562bwm-3285"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/p5562bwm-3285"
+                "link": "https://ehgembxe.cfd/p5562bwm-3285"
             }
         ]
     },
@@ -3448,20 +3359,6 @@
         ]
     },
     {
-        "id": 758,
-        "name": "FOX Sports 2 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/758/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/758/"
-            }
-        ]
-    },
-    {
         "id": "3082",
         "name": "Fox Sports 2 USA 2",
         "servers": []
@@ -3481,9 +3378,18 @@
         ]
     },
     {
-        "id": "789",
+        "id": 789,
         "name": "Fox Sports 3 Argentina",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/789/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/789/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3505,11 +3411,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/imifneoj-1417"
+                "link": "https://ehgembxe.cfd/imifneoj-1417"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/imifneoj-1417"
+                "link": "https://ehgembxe.cfd/imifneoj-1417"
             }
         ]
     },
@@ -3547,11 +3453,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/caxq9d5g-1854"
+                "link": "https://ehgembxe.cfd/caxq9d5g-1854"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/caxq9d5g-1854"
+                "link": "https://ehgembxe.cfd/caxq9d5g-1854"
             }
         ]
     },
@@ -3580,11 +3486,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/t1ilns5i-746"
+                "link": "https://ehgembxe.cfd/t1ilns5i-746"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/t1ilns5i-746"
+                "link": "https://ehgembxe.cfd/t1ilns5i-746"
             }
         ]
     },
@@ -3613,11 +3519,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/m5ys2t2z-7410"
+                "link": "https://ehgembxe.cfd/m5ys2t2z-7410"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/m5ys2t2z-7410"
+                "link": "https://ehgembxe.cfd/m5ys2t2z-7410"
             }
         ]
     },
@@ -3632,11 +3538,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/p0jkpm12-1140"
+                "link": "https://ehgembxe.cfd/p0jkpm12-1140"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/p0jkpm12-1140"
+                "link": "https://ehgembxe.cfd/p0jkpm12-1140"
             }
         ]
     },
@@ -3665,11 +3571,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/9hg9rzzh-2937"
+                "link": "https://ehgembxe.cfd/9hg9rzzh-2937"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/9hg9rzzh-2937"
+                "link": "https://ehgembxe.cfd/9hg9rzzh-2937"
             }
         ]
     },
@@ -3707,11 +3613,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/s1npqmod-9335"
+                "link": "https://ehgembxe.cfd/s1npqmod-9335"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/s1npqmod-9335"
+                "link": "https://ehgembxe.cfd/s1npqmod-9335"
             }
         ]
     },
@@ -3975,11 +3881,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/hgz378eb-4510"
+                "link": "https://ehgembxe.cfd/hgz378eb-4510"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/hgz378eb-4510"
+                "link": "https://ehgembxe.cfd/hgz378eb-4510"
             }
         ]
     },
@@ -4078,11 +3984,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/wu4mhdi7-4997"
+                "link": "https://ehgembxe.cfd/wu4mhdi7-4997"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/wu4mhdi7-4997"
+                "link": "https://ehgembxe.cfd/wu4mhdi7-4997"
             }
         ]
     },
@@ -4120,11 +4026,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/xfgs9irr-7603"
+                "link": "https://ehgembxe.cfd/xfgs9irr-7603"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/xfgs9irr-7603"
+                "link": "https://ehgembxe.cfd/xfgs9irr-7603"
             }
         ]
     },
@@ -4167,11 +4073,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/7d3yeddy-5338"
+                "link": "https://ehgembxe.cfd/7d3yeddy-5338"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/7d3yeddy-5338"
+                "link": "https://ehgembxe.cfd/7d3yeddy-5338"
             }
         ]
     },
@@ -4417,11 +4323,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/cex5ctvv-7743"
+                "link": "https://ehgembxe.cfd/cex5ctvv-7743"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/cex5ctvv-7743"
+                "link": "https://ehgembxe.cfd/cex5ctvv-7743"
             }
         ]
     },
@@ -4548,6 +4454,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "FS1 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/39/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/39/"
             }
         ]
     },
@@ -4927,25 +4847,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/fn3pa1gb-93"
+                "link": "https://ehgembxe.cfd/fn3pa1gb-93"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/fn3pa1gb-93"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FX (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8"
+                "link": "https://ehgembxe.cfd/fn3pa1gb-93"
             }
         ]
     },
@@ -5006,20 +4912,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "FX Life (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "381",
         "name": "FX Movie Channel",
         "servers": []
@@ -5035,11 +4927,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/af5nt902-6744"
+                "link": "https://ehgembxe.cfd/af5nt902-6744"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/af5nt902-6744"
+                "link": "https://ehgembxe.cfd/af5nt902-6744"
             }
         ]
     },
@@ -5049,11 +4941,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/8lysgd83-4863"
+                "link": "https://ehgembxe.cfd/8lysgd83-4863"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/8lysgd83-4863"
+                "link": "https://ehgembxe.cfd/8lysgd83-4863"
             }
         ]
     },

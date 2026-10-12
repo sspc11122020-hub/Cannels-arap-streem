@@ -734,11 +734,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/ot03jqpb-4126"
+                "link": "https://ehgembxe.cfd/ot03jqpb-4126"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/ot03jqpb-4126"
+                "link": "https://ehgembxe.cfd/ot03jqpb-4126"
             }
         ]
     },
@@ -776,11 +776,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/g8rltva2-1155"
+                "link": "https://ehgembxe.cfd/g8rltva2-1155"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/g8rltva2-1155"
+                "link": "https://ehgembxe.cfd/g8rltva2-1155"
             }
         ]
     },
@@ -795,11 +795,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/30owqrck-7840"
+                "link": "https://ehgembxe.cfd/30owqrck-7840"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/30owqrck-7840"
+                "link": "https://ehgembxe.cfd/30owqrck-7840"
             }
         ]
     },
@@ -842,11 +842,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/ym6y4zya-9910"
+                "link": "https://ehgembxe.cfd/ym6y4zya-9910"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/ym6y4zya-9910"
+                "link": "https://ehgembxe.cfd/ym6y4zya-9910"
             }
         ]
     },
@@ -861,11 +861,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/uionhys2-461"
+                "link": "https://ehgembxe.cfd/uionhys2-461"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/uionhys2-461"
+                "link": "https://ehgembxe.cfd/uionhys2-461"
             }
         ]
     },
@@ -925,6 +925,20 @@
         "id": "694",
         "name": "HBO Zone USA",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "HBO+ Latin America (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.246.24:8080/HBOPlusHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.246.24:8080/HBOPlusHD/index.m3u8"
+            }
+        ]
     },
     {
         "id": "689",
@@ -1409,11 +1423,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/okj3w6e7-7294"
+                "link": "https://ehgembxe.cfd/okj3w6e7-7294"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/okj3w6e7-7294"
+                "link": "https://ehgembxe.cfd/okj3w6e7-7294"
             }
         ]
     },
@@ -1428,20 +1442,6 @@
             {
                 "name": "URL",
                 "link": "http://38.87.224.19:2220/play/a01p/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 382,
-        "name": "HGTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/382/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/382/"
             }
         ]
     },
@@ -1783,20 +1783,6 @@
     },
     {
         "id": null,
-        "name": "History 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "History 2 Latin America (1080p)",
         "servers": [
             {
@@ -1885,11 +1871,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/historytv18/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/historytv18/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls"
             }
         ]
     },
@@ -3034,15 +3020,15 @@
     },
     {
         "id": null,
-        "name": "Hosanna TV (576p)",
+        "name": "Hosanna TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/hosannatv/index.m3u8"
+                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/hosannatv/index.m3u8"
+                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
             }
         ]
     },
@@ -3692,16 +3678,16 @@
         "servers": []
     },
     {
-        "id": 3031,
+        "id": 3009,
         "name": "Hub Premier 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3031/"
+                "link": "https://tvnow247.top/embed/3009/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3031/"
+                "link": "https://tvnow247.top/embed/3009/"
             }
         ]
     },
@@ -3734,44 +3720,16 @@
         ]
     },
     {
-        "id": 3034,
-        "name": "Hub Premier 4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3034/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3034/"
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "name": "Hub Premier 5",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/21/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/21/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Hub Sports 1 Singapore",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/2670rnlp-2693"
+                "link": "https://ehgembxe.cfd/2670rnlp-2693"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/2670rnlp-2693"
+                "link": "https://ehgembxe.cfd/2670rnlp-2693"
             }
         ]
     },
@@ -3781,11 +3739,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/uxjju28j-2977"
+                "link": "https://ehgembxe.cfd/uxjju28j-2977"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/uxjju28j-2977"
+                "link": "https://ehgembxe.cfd/uxjju28j-2977"
             }
         ]
     },
@@ -3795,11 +3753,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/91ieccpw-3489"
+                "link": "https://ehgembxe.cfd/91ieccpw-3489"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/91ieccpw-3489"
+                "link": "https://ehgembxe.cfd/91ieccpw-3489"
             }
         ]
     },
@@ -3809,11 +3767,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/pgb1kdmf-8296"
+                "link": "https://ehgembxe.cfd/pgb1kdmf-8296"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/pgb1kdmf-8296"
+                "link": "https://ehgembxe.cfd/pgb1kdmf-8296"
             }
         ]
     },
@@ -3823,11 +3781,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/tfrrx715-8124"
+                "link": "https://ehgembxe.cfd/tfrrx715-8124"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/tfrrx715-8124"
+                "link": "https://ehgembxe.cfd/tfrrx715-8124"
             }
         ]
     },

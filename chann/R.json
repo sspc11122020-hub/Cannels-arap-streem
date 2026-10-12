@@ -173,11 +173,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/c08i94j7-8999"
+                "link": "https://ehgembxe.cfd/c08i94j7-8999"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/c08i94j7-8999"
+                "link": "https://ehgembxe.cfd/c08i94j7-8999"
             }
         ]
     },
@@ -1532,20 +1532,6 @@
     },
     {
         "id": null,
-        "name": "Radio San Gabriel (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/radiosangabrielbolivia/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Radio Shanson (720p) [Not 24/7]",
         "servers": [
             {
@@ -2316,20 +2302,6 @@
     },
     {
         "id": null,
-        "name": "Raftaar Samay (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/raftaarsamay/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/raftaarsamay/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rai 1 (720p)",
         "servers": [
             {
@@ -2349,7 +2321,7 @@
     },
     {
         "id": 851,
-        "name": "RAI 2 IT",
+        "name": "Rai 2 Italy",
         "servers": [
             {
                 "name": "Main Server",
@@ -2360,11 +2332,6 @@
                 "link": "https://tvnow247.top/embed/851/"
             }
         ]
-    },
-    {
-        "id": "851",
-        "name": "Rai 2 Italy",
-        "servers": []
     },
     {
         "id": null,
@@ -2453,7 +2420,7 @@
     },
     {
         "id": 882,
-        "name": "Rai Sport Italy",
+        "name": "RAI Sport 1 Italy",
         "servers": [
             {
                 "name": "Main Server",
@@ -2464,6 +2431,11 @@
                 "link": "https://tvnow247.top/embed/882/"
             }
         ]
+    },
+    {
+        "id": "882",
+        "name": "Rai Sport Italy",
+        "servers": []
     },
     {
         "id": null,
@@ -3764,27 +3736,36 @@
         ]
     },
     {
-        "id": "840",
+        "id": 840,
         "name": "RDS 2 CA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
     },
     {
-        "id": 3084,
+        "id": 839,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3084/"
+                "link": "https://tvnow247.top/embed/839/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3084/"
+                "link": "https://tvnow247.top/embed/839/"
             }
         ]
     },
     {
         "id": 841,
-        "name": "RDS Info CA",
+        "name": "RDS Info",
         "servers": [
             {
                 "name": "Main Server",
@@ -3795,6 +3776,11 @@
                 "link": "https://tvnow247.top/embed/841/"
             }
         ]
+    },
+    {
+        "id": "841",
+        "name": "RDS Info CA",
+        "servers": []
     },
     {
         "id": null,
@@ -3807,20 +3793,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 840,
-        "name": "RDS2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
             }
         ]
     },
@@ -3943,15 +3915,15 @@
     },
     {
         "id": null,
-        "name": "Real News Kerala (576p)",
+        "name": "Real News Kerala (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/realnewskerala/index.m3u8"
+                "link": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/realnewskerala/index.m3u8"
+                "link": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
             }
         ]
     },
@@ -4857,20 +4829,6 @@
         "servers": []
     },
     {
-        "id": 293,
-        "name": "Reelz USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/293/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/293/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Reflet TV (1080p)",
         "servers": [
@@ -5091,20 +5049,6 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/REN-TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "REN TV HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/REN_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/REN_TV/index.m3u8"
             }
         ]
     },
@@ -6066,11 +6010,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/53en8urb-3546"
+                "link": "https://ehgembxe.cfd/53en8urb-3546"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/53en8urb-3546"
+                "link": "https://ehgembxe.cfd/53en8urb-3546"
             }
         ]
     },
@@ -6262,18 +6206,9 @@
         ]
     },
     {
-        "id": 120,
+        "id": "120",
         "name": "RMC Sport 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/120/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/120/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "3055",
@@ -6739,34 +6674,6 @@
     },
     {
         "id": null,
-        "name": "Romantichnoe HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Semeynoe_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Semeynoe_HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Romedy Now (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/romedynow/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/romedynow/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ronahi TV (1080p)",
         "servers": [
             {
@@ -6977,20 +6884,6 @@
             {
                 "name": "URL",
                 "link": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "RS Bharat (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/rsbharat/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/rsbharat/index.m3u8"
             }
         ]
     },
@@ -7295,20 +7188,6 @@
         "servers": []
     },
     {
-        "id": 365,
-        "name": "RTE 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/365/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/365/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7580,16 +7459,16 @@
         "servers": []
     },
     {
-        "id": 740,
+        "id": 3018,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://tvnow247.top/embed/3018/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://tvnow247.top/embed/3018/"
             }
         ]
     },
@@ -8889,9 +8768,18 @@
         ]
     },
     {
-        "id": "255",
+        "id": 24,
         "name": "RTVS Sport Slovakia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/24/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/24/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9324,11 +9212,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8"
+                "link": "http://31.148.48.15/Russkiy_Ekstrim/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8"
+                "link": "http://31.148.48.15/Russkiy_Ekstrim/index.m3u8"
             }
         ]
     },

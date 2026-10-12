@@ -122,6 +122,11 @@
         "servers": []
     },
     {
+        "id": "5023",
+        "name": "[Away Feed]",
+        "servers": []
+    },
+    {
         "id": null,
         "name": "&TV (576p)",
         "servers": [
@@ -165,15 +170,29 @@
     },
     {
         "id": null,
-        "name": "&xplor HD (1080p)",
+        "name": "&xplor HD (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/andxplorehd/index.m3u8"
+                "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/andxplorehd/index.m3u8"
+                "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
+            }
+        ]
+    },
+    {
+        "id": 521,
+        "name": "#Vamos ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/521/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/521/"
             }
         ]
     },
@@ -903,20 +922,6 @@
             {
                 "name": "URL",
                 "link": "https://hls.247box.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "24Hrs TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/24hrstv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/24hrstv/index.m3u8"
             }
         ]
     },
@@ -1907,11 +1912,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/4tv/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/4tv/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1007/master.m3u8"
             }
         ]
     },
@@ -1940,20 +1945,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 146,
-        "name": "5 Live Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/146/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/146/"
             }
         ]
     },
@@ -2479,20 +2470,6 @@
     },
     {
         "id": null,
-        "name": "7X Music (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/7xmusic/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/7xmusic/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "8 La Marina TV (576p)",
         "servers": [
             {
@@ -2819,72 +2796,30 @@
         ]
     },
     {
-        "id": 1033,
-        "name": "ČT Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1033/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1033/"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "ŠTV 1 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
-            }
-        ]
-    },
-    {
-        "id": 3,
+        "id": 8,
         "name": "ŠTV 2 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://tvnow247.top/embed/8/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
+                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },
     {
-        "id": 5,
+        "id": 2,
         "name": "ŠTV 3 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
+                "link": "https://tvnow247.top/embed/2/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
-            }
-        ]
-    },
-    {
-        "id": 218,
-        "name": "Матч Арена Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/218/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/218/"
+                "link": "https://tvnow247.top/embed/2/"
             }
         ]
     },

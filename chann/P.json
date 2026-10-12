@@ -584,16 +584,16 @@
         ]
     },
     {
-        "id": 69,
+        "id": 86,
         "name": "Paramount+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/69/"
+                "link": "https://tvnow247.top/embed/86/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/69/"
+                "link": "https://tvnow247.top/embed/86/"
             }
         ]
     },
@@ -2154,20 +2154,6 @@
     },
     {
         "id": null,
-        "name": "Pervyy Kosmicheskiy HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pervyy Respublikanskiy",
         "servers": [
             {
@@ -2877,20 +2863,6 @@
             {
                 "name": "URL",
                 "link": "http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PLUS Television (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8"
             }
         ]
     },
@@ -8987,6 +8959,20 @@
     },
     {
         "id": null,
+        "name": "Polsat Rodzina (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/197/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/197/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Polsat Rodzina HD",
         "servers": [
             {
@@ -9001,29 +8987,43 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport 1",
+        "name": "Polsat Seriale (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/pi5dqsjd-8964"
+                "link": "http://57.128.210.196:8080/196/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/pi5dqsjd-8964"
+                "link": "http://57.128.210.196:8080/196/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
+        "name": "Polsat Sport 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd"
+                "link": "https://ehgembxe.cfd/pi5dqsjd-8964"
             },
             {
                 "name": "URL",
-                "link": "http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd"
+                "link": "https://ehgembxe.cfd/pi5dqsjd-8964"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat Sport 1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/193/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/193/index.m3u8"
             }
         ]
     },
@@ -9047,11 +9047,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/njs5pc6k-5347"
+                "link": "https://ehgembxe.cfd/njs5pc6k-5347"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/njs5pc6k-5347"
+                "link": "https://ehgembxe.cfd/njs5pc6k-5347"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat Sport 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/195/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/195/index.m3u8"
             }
         ]
     },
@@ -9070,18 +9084,9 @@
         ]
     },
     {
-        "id": 50,
+        "id": "50",
         "name": "Polsat Sport 2 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/50/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/50/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9089,11 +9094,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/r1ehwgde-9139"
+                "link": "https://ehgembxe.cfd/r1ehwgde-9139"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/r1ehwgde-9139"
+                "link": "https://ehgembxe.cfd/r1ehwgde-9139"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat Sport 3 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/192/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/192/index.m3u8"
             }
         ]
     },
@@ -9193,11 +9212,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
+                "link": "https://ehgembxe.cfd/mkr6nvqt-4662"
             },
             {
                 "name": "URL",
-                "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
+                "link": "https://ehgembxe.cfd/mkr6nvqt-4662"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat Sport Fight (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/194/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/194/index.m3u8"
             }
         ]
     },
@@ -9582,9 +9615,18 @@
         ]
     },
     {
-        "id": "718",
+        "id": 718,
         "name": "Porto Canal Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
+            }
+        ]
     },
     {
         "id": null,
@@ -9845,16 +9887,16 @@
         "servers": []
     },
     {
-        "id": 188,
+        "id": 153,
         "name": "PPV Feed",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/188/"
+                "link": "https://tvnow247.top/embed/153/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/188/"
+                "link": "https://tvnow247.top/embed/153/"
             }
         ]
     },
@@ -10066,11 +10108,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/w3g66pt8-4833"
+                "link": "https://ehgembxe.cfd/w3g66pt8-4833"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/w3g66pt8-4833"
+                "link": "https://ehgembxe.cfd/w3g66pt8-4833"
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "name": "Premier Sports 1 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/771/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/771/"
             }
         ]
     },
@@ -10108,18 +10164,27 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/xneh5qi7-3730"
+                "link": "https://ehgembxe.cfd/xneh5qi7-3730"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/xneh5qi7-3730"
+                "link": "https://ehgembxe.cfd/xneh5qi7-3730"
             }
         ]
     },
     {
-        "id": "stream-799",
+        "id": 799,
         "name": "Premier Sports 2 Ireland",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/799/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/799/"
+            }
+        ]
     },
     {
         "id": "771",
@@ -10132,30 +10197,16 @@
         "servers": []
     },
     {
-        "id": 224,
-        "name": "Premier Sports Rugby",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/224/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/224/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Premiere",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/hx8nkn5h-2645"
+                "link": "https://ehgembxe.cfd/hx8nkn5h-2645"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/hx8nkn5h-2645"
+                "link": "https://ehgembxe.cfd/hx8nkn5h-2645"
             }
         ]
     },
@@ -10890,20 +10941,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Pro Lyubov HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/pro_lyubov/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/pro_lyubov/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "3014",
         "name": "Pro Sieben DE",
         "servers": []
@@ -11101,20 +11138,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Propex TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/propextv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/propextv/index.m3u8"
             }
         ]
     },

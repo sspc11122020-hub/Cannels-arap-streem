@@ -183,20 +183,6 @@
     },
     {
         "id": null,
-        "name": "Nakshatra Digital TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/nakshatradigitaltv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/nakshatradigitaltv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Namayesh TV",
         "servers": [
             {
@@ -505,15 +491,15 @@
     },
     {
         "id": null,
-        "name": "Nashe HD (1080p)",
+        "name": "Nashe HD (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8"
+                "link": "http://stream.mcquack.net/217/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8"
+                "link": "http://stream.mcquack.net/217/index.m3u8"
             }
         ]
     },
@@ -790,15 +776,15 @@
     },
     {
         "id": null,
-        "name": "National Geographic (India) (576p)",
+        "name": "National Geographic (India) (576p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/natgeo/index.m3u8"
+                "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/natgeo/index.m3u8"
+                "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
             }
         ]
     },
@@ -808,11 +794,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/natgeohd/index.m3u8"
+                "link": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/natgeohd/index.m3u8"
+                "link": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
             }
         ]
     },
@@ -846,20 +832,6 @@
             {
                 "name": "URL",
                 "link": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "National Geographic (Russia) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8"
             }
         ]
     },
@@ -935,20 +907,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic Wild (India) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/natgeowild/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/natgeowild/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic Wild (India) HD (1080p)",
         "servers": [
             {
@@ -977,15 +935,15 @@
     },
     {
         "id": null,
-        "name": "National Geographic Wild (Russia) HD (1080p)",
+        "name": "National Geographic Wild (Russia) HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
+                "link": "http://178.76.68.60:7442/50/mpegts"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8"
+                "link": "http://178.76.68.60:7442/50/mpegts"
             }
         ]
     },
@@ -1326,18 +1284,9 @@
         ]
     },
     {
-        "id": 3005,
+        "id": "8",
         "name": "NBA League Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3005/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3005/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1345,11 +1294,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/8tl2ksef-2775"
+                "link": "https://ehgembxe.cfd/8tl2ksef-2775"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/8tl2ksef-2775"
+                "link": "https://ehgembxe.cfd/8tl2ksef-2775"
             }
         ]
     },
@@ -1401,11 +1350,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/bdl7my34-1862"
+                "link": "https://ehgembxe.cfd/bdl7my34-1862"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/bdl7my34-1862"
+                "link": "https://ehgembxe.cfd/bdl7my34-1862"
             }
         ]
     },
@@ -1583,11 +1532,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/soipf80d-8441"
+                "link": "https://ehgembxe.cfd/soipf80d-8441"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/soipf80d-8441"
+                "link": "https://ehgembxe.cfd/soipf80d-8441"
             }
         ]
     },
@@ -1597,18 +1546,9 @@
         "servers": []
     },
     {
-        "id": 755,
+        "id": "755",
         "name": "NBC Sports California",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/755/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/755/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1630,11 +1570,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/03uxmg2p-8674"
+                "link": "https://ehgembxe.cfd/03uxmg2p-8674"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/03uxmg2p-8674"
+                "link": "https://ehgembxe.cfd/03uxmg2p-8674"
             }
         ]
     },
@@ -2064,37 +2004,14 @@
         "servers": []
     },
     {
-        "id": 754,
-        "name": "NBCS Boston USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
-            }
-        ]
-    },
-    {
         "id": "stream-755",
         "name": "NBCS California USA",
         "servers": []
     },
     {
-        "id": 777,
+        "id": "stream-777",
         "name": "NBCS Philadelphia USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/777/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/777/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2948,20 +2865,6 @@
     },
     {
         "id": null,
-        "name": "News 21 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/news21/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/news21/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "News 21 Bangla TV",
         "servers": [
             {
@@ -3088,20 +2991,6 @@
     },
     {
         "id": null,
-        "name": "News Flash (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/newsflash/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/newsflash/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "News India 24x7",
         "servers": [
             {
@@ -3116,15 +3005,15 @@
     },
     {
         "id": null,
-        "name": "News J (576p)",
+        "name": "News J (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/newsj/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1279/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/newsj/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1279/master.m3u8"
             }
         ]
     },
@@ -3279,20 +3168,6 @@
             {
                 "name": "URL",
                 "link": "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "News Only (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/newsonly/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/newsonly/index.m3u8"
             }
         ]
     },
@@ -4050,11 +3925,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/a40czx8e-4022"
+                "link": "https://ehgembxe.cfd/a40czx8e-4022"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/a40czx8e-4022"
+                "link": "https://ehgembxe.cfd/a40czx8e-4022"
             }
         ]
     },
@@ -4078,14 +3953,37 @@
         "servers": []
     },
     {
+        "id": 667,
+        "name": "NFL Redzone Feed",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/667/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/667/"
+            }
+        ]
+    },
+    {
         "id": "5101",
         "name": "NFL Redzone Stream",
         "servers": []
     },
     {
-        "id": "8056",
+        "id": 3039,
         "name": "NFL Sunday Ticket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3039/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3039/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4229,15 +4127,15 @@
     },
     {
         "id": null,
-        "name": "NHK World-Japan HD (1080p)",
+        "name": "NHK World-Japan HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://51.75.127.199:3141/nhkworldjapan/index.m3u8"
+                "link": "http://170.83.16.50/NHK_WORLD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://51.75.127.199:3141/nhkworldjapan/index.m3u8"
+                "link": "http://170.83.16.50/NHK_WORLD/index.m3u8"
             }
         ]
     },
@@ -4261,18 +4159,9 @@
         "servers": []
     },
     {
-        "id": 3010,
+        "id": "14",
         "name": "NHL Gamecenter",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3010/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3010/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4280,11 +4169,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/kelcwql2-1938"
+                "link": "https://ehgembxe.cfd/kelcwql2-1938"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/kelcwql2-1938"
+                "link": "https://ehgembxe.cfd/kelcwql2-1938"
             }
         ]
     },
@@ -4317,9 +4206,18 @@
         ]
     },
     {
-        "id": "663",
+        "id": 663,
         "name": "NHL Network USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/663/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/663/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4383,20 +4281,6 @@
         "servers": []
     },
     {
-        "id": null,
-        "name": "Nick HD+ (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/nickhd/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/nickhd/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "329",
         "name": "NICK JR",
         "servers": []
@@ -4407,11 +4291,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/mkq4q2a4-9321"
+                "link": "https://ehgembxe.cfd/mkq4q2a4-9321"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/mkq4q2a4-9321"
+                "link": "https://ehgembxe.cfd/mkq4q2a4-9321"
             }
         ]
     },
@@ -4622,11 +4506,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/81giyo7o-5495"
+                "link": "https://ehgembxe.cfd/81giyo7o-5495"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/81giyo7o-5495"
+                "link": "https://ehgembxe.cfd/81giyo7o-5495"
             }
         ]
     },
@@ -4986,11 +4870,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/yrqvb007-1124"
+                "link": "https://ehgembxe.cfd/yrqvb007-1124"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/yrqvb007-1124"
+                "link": "https://ehgembxe.cfd/yrqvb007-1124"
             }
         ]
     },
@@ -6082,11 +5966,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/sb9x7g3w-6731"
+                "link": "https://ehgembxe.cfd/sb9x7g3w-6731"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/sb9x7g3w-6731"
+                "link": "https://ehgembxe.cfd/sb9x7g3w-6731"
             }
         ]
     },
@@ -6096,11 +5980,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/mncyelq8-8761"
+                "link": "https://ehgembxe.cfd/mncyelq8-8761"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/mncyelq8-8761"
+                "link": "https://ehgembxe.cfd/mncyelq8-8761"
             }
         ]
     },
@@ -6110,11 +5994,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/52yuydux-8135"
+                "link": "https://ehgembxe.cfd/52yuydux-8135"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/52yuydux-8135"
+                "link": "https://ehgembxe.cfd/52yuydux-8135"
             }
         ]
     },
@@ -6138,11 +6022,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/9sf91j9l-5395"
+                "link": "https://ehgembxe.cfd/9sf91j9l-5395"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/9sf91j9l-5395"
+                "link": "https://ehgembxe.cfd/9sf91j9l-5395"
             }
         ]
     },
@@ -6166,11 +6050,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/dt0aib46-1264"
+                "link": "https://ehgembxe.cfd/dt0aib46-1264"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/dt0aib46-1264"
+                "link": "https://ehgembxe.cfd/dt0aib46-1264"
             }
         ]
     },
@@ -6194,11 +6078,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/yey57b9q-6692"
+                "link": "https://ehgembxe.cfd/yey57b9q-6692"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/yey57b9q-6692"
+                "link": "https://ehgembxe.cfd/yey57b9q-6692"
             }
         ]
     },
@@ -6208,11 +6092,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/hks4yv4k-2710"
+                "link": "https://ehgembxe.cfd/hks4yv4k-2710"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/hks4yv4k-2710"
+                "link": "https://ehgembxe.cfd/hks4yv4k-2710"
             }
         ]
     },
@@ -6241,11 +6125,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/kzjgua6g-3613"
+                "link": "https://ehgembxe.cfd/kzjgua6g-3613"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/kzjgua6g-3613"
+                "link": "https://ehgembxe.cfd/kzjgua6g-3613"
             }
         ]
     },
@@ -6260,27 +6144,18 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/gen/novasports2-gr"
+                "link": "https://ehgembxe.cfd/gen/novasports2-gr"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/gen/novasports2-gr"
+                "link": "https://ehgembxe.cfd/gen/novasports2-gr"
             }
         ]
     },
     {
-        "id": 632,
+        "id": "632",
         "name": "Nova Sports 2 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/632/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/632/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6288,11 +6163,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/8cgt1dk4-8427"
+                "link": "https://ehgembxe.cfd/8cgt1dk4-8427"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/8cgt1dk4-8427"
+                "link": "https://ehgembxe.cfd/8cgt1dk4-8427"
             }
         ]
     },
@@ -6316,11 +6191,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/gen/novasports4-gr"
+                "link": "https://ehgembxe.cfd/gen/novasports4-gr"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/gen/novasports4-gr"
+                "link": "https://ehgembxe.cfd/gen/novasports4-gr"
             }
         ]
     },
@@ -6339,32 +6214,14 @@
         ]
     },
     {
-        "id": 635,
+        "id": "635",
         "name": "Nova Sports 5 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/635/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/635/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 636,
+        "id": "636",
         "name": "Nova Sports 6 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/636/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/636/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6391,11 +6248,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/0p7unwq6-1866"
+                "link": "https://ehgembxe.cfd/0p7unwq6-1866"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/0p7unwq6-1866"
+                "link": "https://ehgembxe.cfd/0p7unwq6-1866"
             }
         ]
     },
@@ -6419,25 +6276,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://grandemx.org/srxocj3e-3012"
+                "link": "https://ehgembxe.cfd/srxocj3e-3012"
             },
             {
                 "name": "URL",
-                "link": "https://grandemx.org/srxocj3e-3012"
+                "link": "https://ehgembxe.cfd/srxocj3e-3012"
             }
         ]
     },
     {
-        "id": 3024,
+        "id": 638,
         "name": "Nova Sports Prime Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3024/"
+                "link": "https://tvnow247.top/embed/638/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3024/"
+                "link": "https://tvnow247.top/embed/638/"
             }
         ]
     },
@@ -6508,18 +6365,23 @@
         "servers": []
     },
     {
-        "id": 638,
-        "name": "NovaSports Prime GR",
+        "id": 636,
+        "name": "NovaSports 6 GR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/636/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/636/"
             }
         ]
+    },
+    {
+        "id": "stream-638",
+        "name": "NovaSports Prime GR",
+        "servers": []
     },
     {
         "id": null,

@@ -52,20 +52,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "V mire zhivotnykh HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Animal_Family_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Animal_Family_HD/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "3067",
         "name": "V sport 1 Norway",
         "servers": []
@@ -183,16 +169,16 @@
         ]
     },
     {
-        "id": 3068,
+        "id": 572,
         "name": "V Sport Premium",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3068/"
+                "link": "https://tvnow247.top/embed/572/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3068/"
+                "link": "https://tvnow247.top/embed/572/"
             }
         ]
     },
@@ -268,6 +254,20 @@
             {
                 "name": "URL",
                 "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "V90 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/228/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/228/index.m3u8"
             }
         ]
     },
@@ -1473,20 +1473,6 @@
         "servers": []
     },
     {
-        "id": 806,
-        "name": "Viaplay Sport News Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/806/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/806/"
-            }
-        ]
-    },
-    {
         "id": "3080",
         "name": "Viaplay Sport SE",
         "servers": []
@@ -1763,18 +1749,9 @@
         ]
     },
     {
-        "id": 659,
+        "id": "stream-659",
         "name": "VICE TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/659/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/659/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "174",
@@ -1895,20 +1872,6 @@
     },
     {
         "id": null,
-        "name": "Vijay Super (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/vijaysuper/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/vijaysuper/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Vijay Takkar APAC (1080p)",
         "servers": [
             {
@@ -1960,20 +1923,6 @@
             {
                 "name": "URL",
                 "link": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "viju Nature HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8"
             }
         ]
     },
@@ -2137,11 +2086,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8"
+                "link": "http://46.53.200.153:7777/play/a01l/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8"
+                "link": "http://46.53.200.153:7777/play/a01l/index.m3u8"
             }
         ]
     },
@@ -2791,20 +2740,6 @@
     },
     {
         "id": null,
-        "name": "VNM TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://51.75.127.199:3141/vnmtv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://51.75.127.199:3141/vnmtv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VNP",
         "servers": [
             {
@@ -3265,20 +3200,6 @@
     },
     {
         "id": null,
-        "name": "VSBet HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live05.meung.app/live/16226575.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live05.meung.app/live/16226575.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VSCTV (1080p)",
         "servers": [
             {
@@ -3516,11 +3437,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8"
             }
         ]
     },
@@ -3558,11 +3479,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8"
             }
         ]
     },
@@ -3572,11 +3493,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8"
             }
         ]
     },
@@ -3591,11 +3512,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8"
             }
         ]
     },
@@ -3605,11 +3526,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8"
+                "link": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8"
             }
         ]
     },
