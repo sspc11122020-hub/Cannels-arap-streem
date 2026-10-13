@@ -842,16 +842,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 3018,
         "name": "DAZN 2 DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3018/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3018/"
             }
         ]
     },
@@ -1113,20 +1113,6 @@
         ]
     },
     {
-        "id": 458,
-        "name": "DAZN Eleven 4 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/458/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/458/"
-            }
-        ]
-    },
-    {
         "id": "5003",
         "name": "DAZN ES",
         "servers": []
@@ -1146,16 +1132,16 @@
         ]
     },
     {
-        "id": 3030,
+        "id": null,
         "name": "DAZN F1 ES",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3030/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3030/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=es&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1163,20 +1149,6 @@
         "id": "179",
         "name": "DAZN France",
         "servers": []
-    },
-    {
-        "id": 3017,
-        "name": "DAZN Germany",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3017/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3017/"
-            }
-        ]
     },
     {
         "id": null,
@@ -1196,20 +1168,6 @@
         "id": "3047",
         "name": "DAZN IT",
         "servers": []
-    },
-    {
-        "id": 106,
-        "name": "DAZN Italia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/106/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/106/"
-            }
-        ]
     },
     {
         "id": null,
@@ -1264,18 +1222,9 @@
         "servers": []
     },
     {
-        "id": 918,
+        "id": "3030",
         "name": "DAZN MotoGP ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/918/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/918/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "4000",
@@ -1303,51 +1252,9 @@
         "servers": []
     },
     {
-        "id": 3049,
-        "name": "DAZN Pro League 1 Belgium",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3049/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3049/"
-            }
-        ]
-    },
-    {
         "id": "3045",
         "name": "DAZN Pro League 2",
         "servers": []
-    },
-    {
-        "id": 3050,
-        "name": "DAZN Pro League 2 Belgium",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3050/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3050/"
-            }
-        ]
-    },
-    {
-        "id": 110,
-        "name": "DAZN UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/110/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/110/"
-            }
-        ]
     },
     {
         "id": "1067",
@@ -1365,9 +1272,18 @@
         "servers": []
     },
     {
-        "id": "4267",
+        "id": 426,
         "name": "DAZN1 DE",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/426/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/426/"
+            }
+        ]
     },
     {
         "id": "3017",
@@ -1375,16 +1291,16 @@
         "servers": []
     },
     {
-        "id": 3041,
+        "id": 3047,
         "name": "DAZN1 IT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3041/"
+                "link": "https://tvnow247.top/embed/3047/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3041/"
+                "link": "https://tvnow247.top/embed/3047/"
             }
         ]
     },
@@ -1406,62 +1322,6 @@
         "id": "3018",
         "name": "DAZN2 DE 2",
         "servers": []
-    },
-    {
-        "id": 427,
-        "name": "DAZN2 Germany",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/427/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/427/"
-            }
-        ]
-    },
-    {
-        "id": 3047,
-        "name": "DAZN2 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3047/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3047/"
-            }
-        ]
-    },
-    {
-        "id": 446,
-        "name": "DAZN2 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/446/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/446/"
-            }
-        ]
-    },
-    {
-        "id": 448,
-        "name": "DAZN4 Spain",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/448/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/448/"
-            }
-        ]
     },
     {
         "id": null,
@@ -3555,16 +3415,16 @@
         ]
     },
     {
-        "id": 3048,
+        "id": 465,
         "name": "Diema Sport Bulgaria",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3048/"
+                "link": "https://tvnow247.top/embed/465/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3048/"
+                "link": "https://tvnow247.top/embed/465/"
             }
         ]
     },
@@ -3737,18 +3597,9 @@
         ]
     },
     {
-        "id": 402,
+        "id": "402",
         "name": "Digi Sport 3 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/402/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/402/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4049,6 +3900,34 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/5hibihrx-459"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Discovery Channel (Hungary)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/discovery_hungary/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/discovery_hungary/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Discovery Channel (Italy) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
             }
         ]
     },
@@ -4363,15 +4242,15 @@
     },
     {
         "id": null,
-        "name": "Disney Channel (Germany)",
+        "name": "Disney Channel (Germany) (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass"
+                "link": "https://s6.hopslan.com/disneyX/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass"
+                "link": "https://s6.hopslan.com/disneyX/index.m3u8"
             }
         ]
     },
@@ -4386,20 +4265,6 @@
             {
                 "name": "URL",
                 "link": "http://66.102.126.10:8000/play/a013/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Disney Channel (Israel) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/disney/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/disney/index.m3u8"
             }
         ]
     },
@@ -5334,15 +5199,15 @@
     },
     {
         "id": null,
-        "name": "DocuBox Russia (1080p)",
+        "name": "DocuBox Russia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8"
+                "link": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8"
+                "link": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8"
             }
         ]
     },
@@ -5809,6 +5674,20 @@
         ]
     },
     {
+        "id": 802,
+        "name": "DR 2 Denmark",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/802/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/802/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Dr G Medical Examiner",
         "servers": [
@@ -6183,18 +6062,9 @@
         ]
     },
     {
-        "id": 619,
+        "id": "stream-619",
         "name": "DSports 1 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/619/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/619/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6550,20 +6420,6 @@
             {
                 "name": "URL",
                 "link": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Duna World Hungary",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/17/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/17/"
             }
         ]
     },

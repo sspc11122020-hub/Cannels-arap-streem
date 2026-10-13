@@ -160,15 +160,15 @@
     },
     {
         "id": null,
-        "name": "kabel eins Doku",
+        "name": "kabel eins Doku (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass"
+                "link": "https://s6.hopslan.com/dokuX/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass"
+                "link": "https://s6.hopslan.com/dokuX/index.m3u8"
             }
         ]
     },
@@ -467,32 +467,9 @@
         ]
     },
     {
-        "id": 3,
+        "id": "221",
         "name": "Kanal 1 Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "name": "Kanal 1 Xtra Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/16/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/16/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1789,14 +1766,32 @@
         ]
     },
     {
-        "id": "154",
+        "id": 22,
         "name": "KHL Prime",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/22/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/22/"
+            }
+        ]
     },
     {
-        "id": "153",
+        "id": 21,
         "name": "KHL Tv",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/21/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/21/"
+            }
+        ]
     },
     {
         "id": null,

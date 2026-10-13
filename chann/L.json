@@ -2384,6 +2384,20 @@
     },
     {
         "id": null,
+        "name": "Lifetime Latin America Mexico (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.onnethn.com/LIFETIME/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.onnethn.com/LIFETIME/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Lifetime Movies (1080p)",
         "servers": [
             {
@@ -2630,18 +2644,9 @@
         "servers": []
     },
     {
-        "id": 3051,
+        "id": "stream-3050",
         "name": "Ligue1+ France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3051/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3051/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4037,20 +4042,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Luli (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8"
             }
         ]
     },

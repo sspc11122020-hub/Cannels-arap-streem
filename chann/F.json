@@ -1909,18 +1909,9 @@
         ]
     },
     {
-        "id": 224,
+        "id": "175",
         "name": "FloHockey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/224/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/224/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1937,18 +1928,9 @@
         ]
     },
     {
-        "id": 1078,
+        "id": "252",
         "name": "FloRacing",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1078/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1078/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2206,20 +2188,6 @@
     },
     {
         "id": null,
-        "name": "Food Channel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Food Food (576p)",
         "servers": [
             {
@@ -2243,6 +2211,20 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/cnomxno0-1987"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Food Network (Italy) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
             }
         ]
     },
@@ -2877,6 +2859,20 @@
         ]
     },
     {
+        "id": 654,
+        "name": "FOX 5+ USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/654/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/654/"
+            }
+        ]
+    },
+    {
         "id": "297",
         "name": "Fox Business",
         "servers": []
@@ -3303,18 +3299,9 @@
         ]
     },
     {
-        "id": 788,
+        "id": "788",
         "name": "Fox Sports 2 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/788/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/788/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3594,18 +3581,9 @@
         ]
     },
     {
-        "id": 824,
+        "id": "824",
         "name": "FOX Sports 506 AU",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/824/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/824/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4458,20 +4436,6 @@
         ]
     },
     {
-        "id": 39,
-        "name": "FS1 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/39/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/39/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "FTF Sports (720p)",
         "servers": [
@@ -4917,9 +4881,18 @@
         "servers": []
     },
     {
-        "id": "317",
+        "id": 317,
         "name": "FX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/317/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/317/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4950,13 +4923,36 @@
         ]
     },
     {
-        "id": "298",
+        "id": 298,
         "name": "FXX USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/298/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/298/"
+            }
+        ]
     },
     {
         "id": "665",
         "name": "FYI",
         "servers": []
+    },
+    {
+        "id": 665,
+        "name": "FYI USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/665/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/665/"
+            }
+        ]
     }
 ]

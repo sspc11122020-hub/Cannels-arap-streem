@@ -616,9 +616,18 @@
         ]
     },
     {
-        "id": "745",
+        "id": 745,
         "name": "Nat Geo Wild USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/745/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/745/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1541,9 +1550,18 @@
         ]
     },
     {
-        "id": "754",
+        "id": 754,
         "name": "NBC Sports Boston",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/754/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/754/"
+            }
+        ]
     },
     {
         "id": "755",
@@ -2607,18 +2625,9 @@
         ]
     },
     {
-        "id": 762,
+        "id": "762",
         "name": "NESN USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/762/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/762/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3935,6 +3944,20 @@
     },
     {
         "id": null,
+        "name": "NFL Network (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://198.58.104.90:8989/nfl/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://198.58.104.90:8989/nfl/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NFL Network US",
         "servers": [
             {
@@ -3948,23 +3971,23 @@
         ]
     },
     {
-        "id": "667",
-        "name": "NFL RedZone",
-        "servers": []
-    },
-    {
-        "id": 667,
-        "name": "NFL Redzone Feed",
+        "id": 405,
+        "name": "NFL Network USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/667/"
+                "link": "https://tvnow247.top/embed/405/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/667/"
+                "link": "https://tvnow247.top/embed/405/"
             }
         ]
+    },
+    {
+        "id": "667",
+        "name": "NFL RedZone",
+        "servers": []
     },
     {
         "id": "5101",
@@ -3972,18 +3995,9 @@
         "servers": []
     },
     {
-        "id": 3039,
+        "id": "8056",
         "name": "NFL Sunday Ticket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3039/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3039/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4159,9 +4173,18 @@
         "servers": []
     },
     {
-        "id": "14",
+        "id": 13,
         "name": "NHL Gamecenter",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/13/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/13/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4329,20 +4352,6 @@
     },
     {
         "id": null,
-        "name": "Nick Jr. (Israel) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nick Jr. (Italy) (720p)",
         "servers": [
             {
@@ -4394,34 +4403,6 @@
             {
                 "name": "URL",
                 "link": "http://107.167.16.138/nickjr/index.m3u8?token=test"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nick Jr. Asia (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nick Jr. Asia HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://58.8.186.128:10003/bysid/2330"
-            },
-            {
-                "name": "URL",
-                "link": "http://58.8.186.128:10003/bysid/2330"
             }
         ]
     },
@@ -4499,6 +4480,34 @@
         "id": "666",
         "name": "Nick Music",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Nick Schweiz",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts"
+            },
+            {
+                "name": "URL",
+                "link": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts"
+            }
+        ]
+    },
+    {
+        "id": 330,
+        "name": "NICK USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/330/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/330/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4623,20 +4632,6 @@
             {
                 "name": "URL",
                 "link": "http://198.58.104.90:8989/nickelodeon/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nickelodeon Asia (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8"
             }
         ]
     },
@@ -6059,18 +6054,9 @@
         ]
     },
     {
-        "id": 1062,
+        "id": "1062",
         "name": "Nova Sport 5 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6172,18 +6158,9 @@
         ]
     },
     {
-        "id": 633,
+        "id": "633",
         "name": "Nova Sports 3 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/633/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/633/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6200,18 +6177,9 @@
         ]
     },
     {
-        "id": 634,
+        "id": "634",
         "name": "Nova Sports 4 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/634/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/634/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "635",
@@ -6285,16 +6253,16 @@
         ]
     },
     {
-        "id": 638,
+        "id": 3025,
         "name": "Nova Sports Prime Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/3025/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/3025/"
             }
         ]
     },
