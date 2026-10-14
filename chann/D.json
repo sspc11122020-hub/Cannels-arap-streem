@@ -85,6 +85,20 @@
     },
     {
         "id": null,
+        "name": "Da Vinci Asia Vietnam (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=214"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=214"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "DaAi 1 (720p)",
         "servers": [
             {
@@ -842,16 +856,16 @@
         "servers": []
     },
     {
-        "id": 3018,
+        "id": null,
         "name": "DAZN 2 DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3018/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3018/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1113,6 +1127,20 @@
         ]
     },
     {
+        "id": 458,
+        "name": "DAZN Eleven 4 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/458/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/458/"
+            }
+        ]
+    },
+    {
         "id": "5003",
         "name": "DAZN ES",
         "servers": []
@@ -1272,16 +1300,16 @@
         "servers": []
     },
     {
-        "id": 426,
+        "id": 3017,
         "name": "DAZN1 DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/426/"
+                "link": "https://tvnow247.top/embed/3017/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/426/"
+                "link": "https://tvnow247.top/embed/3017/"
             }
         ]
     },
@@ -1291,30 +1319,21 @@
         "servers": []
     },
     {
-        "id": 3047,
+        "id": "8016",
         "name": "DAZN1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3047/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3047/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 445,
-        "name": "DAZN1 Spain",
+        "id": 3018,
+        "name": "DAZN2 DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/445/"
+                "link": "https://tvnow247.top/embed/3018/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/445/"
+                "link": "https://tvnow247.top/embed/3018/"
             }
         ]
     },
@@ -3415,18 +3434,9 @@
         ]
     },
     {
-        "id": 465,
+        "id": "465",
         "name": "Diema Sport Bulgaria",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/465/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/465/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3509,6 +3519,20 @@
             {
                 "name": "URL",
                 "link": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Digi 24 HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0"
             }
         ]
     },
@@ -3597,9 +3621,18 @@
         ]
     },
     {
-        "id": "402",
+        "id": 402,
         "name": "Digi Sport 3 Romania",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/402/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/402/"
+            }
+        ]
     },
     {
         "id": null,
@@ -3905,6 +3938,20 @@
     },
     {
         "id": null,
+        "name": "Discovery Channel (Czech Republic)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Discovery Channel (Hungary)",
         "servers": [
             {
@@ -3928,6 +3975,20 @@
             {
                 "name": "URL",
                 "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Discovery Channel (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/282/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/282/index.m3u8"
             }
         ]
     },
@@ -4002,23 +4063,23 @@
         ]
     },
     {
-        "id": null,
-        "name": "Discovery Family (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": "stream-313",
         "name": "Discovery HD",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Discovery Historia (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/281/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/281/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -4045,6 +4106,20 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Discovery Kids Latin America Chile (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://38.224.231.176:8000/play/a01j/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://38.224.231.176:8000/play/a01j/index.m3u8"
             }
         ]
     },
@@ -4077,9 +4152,18 @@
         ]
     },
     {
-        "id": "311",
+        "id": 311,
         "name": "Discovery Life Channel",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/311/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/311/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4489,11 +4573,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8"
+                "link": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8"
+                "link": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8"
             }
         ]
     },
@@ -5674,20 +5758,6 @@
         ]
     },
     {
-        "id": 802,
-        "name": "DR 2 Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/802/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/802/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Dr G Medical Examiner",
         "servers": [
@@ -6062,9 +6132,18 @@
         ]
     },
     {
-        "id": "stream-619",
+        "id": 619,
         "name": "DSports 1 Argentina",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/619/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/619/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6105,6 +6184,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/620/"
+            }
+        ]
+    },
+    {
+        "id": 621,
+        "name": "DSports+ Argentina",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/621/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/621/"
             }
         ]
     },
@@ -6704,9 +6797,18 @@
         ]
     },
     {
-        "id": "204",
+        "id": 202,
         "name": "DYN DE",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/202/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/202/"
+            }
+        ]
     },
     {
         "id": "200",

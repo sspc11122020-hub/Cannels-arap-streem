@@ -861,9 +861,18 @@
         "servers": []
     },
     {
-        "id": "stream-133",
+        "id": 133,
         "name": "UniMás",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/133/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/133/"
+            }
+        ]
     },
     {
         "id": null,
@@ -918,20 +927,6 @@
             {
                 "name": "URL",
                 "link": "http://168.228.44.241:9997/play/a09e/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 133,
-        "name": "UniMas USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/133/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/133/"
             }
         ]
     },
@@ -1119,7 +1114,21 @@
     },
     {
         "id": null,
-        "name": "Unitel (1080p)",
+        "name": "Unitel (Bolivia) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.181.61.93:8000/play/1909/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.181.61.93:8000/play/1909/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Unitel (Peru) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1890,6 +1899,20 @@
             {
                 "name": "URL",
                 "link": "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "UTV (Romania) (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0"
             }
         ]
     },

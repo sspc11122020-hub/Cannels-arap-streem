@@ -2149,6 +2149,20 @@
     },
     {
         "id": null,
+        "name": "Investigation Discovery (Czech Republic)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Investigation Discovery (Hungary)",
         "servers": [
             {
@@ -3331,20 +3345,6 @@
         "id": "876",
         "name": "ITV Quiz",
         "servers": []
-    },
-    {
-        "id": null,
-        "name": "ITV1 (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb.iptvnetwork.net/ls28/10103/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb.iptvnetwork.net/ls28/10103/playlist.m3u8"
-            }
-        ]
     },
     {
         "id": null,

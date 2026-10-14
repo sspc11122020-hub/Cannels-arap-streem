@@ -744,7 +744,21 @@
     },
     {
         "id": null,
-        "name": "HBO (720p)",
+        "name": "HBO (Czech Republic)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -758,15 +772,15 @@
     },
     {
         "id": null,
-        "name": "HBO 2 Latin America (576p)",
+        "name": "HBO 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://38.65.175.84:8000/play/a0ct/index.m3u8"
+                "link": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://38.65.175.84:8000/play/a0ct/index.m3u8"
+                "link": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
             }
         ]
     },
@@ -781,6 +795,20 @@
             {
                 "name": "URL",
                 "link": "http://45.171.64.30:6060/play/a00i/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO 3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
             }
         ]
     },
@@ -875,20 +903,6 @@
             {
                 "name": "URL",
                 "link": "https://2x2.me/BbwzPx"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Latin America (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://15.204.246.24:8080/HBOHD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://15.204.246.24:8080/HBOHD/index.m3u8"
             }
         ]
     },
@@ -1480,7 +1494,35 @@
     },
     {
         "id": null,
-        "name": "HGTV (1080p)",
+        "name": "HGTV (Czech Republic)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HGTV (Hungary)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/hgtv_hun/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/hgtv_hun/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HGTV (Italy) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1489,6 +1531,20 @@
             {
                 "name": "URL",
                 "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HGTV (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/241/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/241/index.m3u8"
             }
         ]
     },
@@ -1517,6 +1573,20 @@
             {
                 "name": "URL",
                 "link": "http://38.87.224.19:2220/play/a01p/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 382,
+        "name": "HGTV USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/382/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/382/"
             }
         ]
     },
@@ -1941,9 +2011,18 @@
         ]
     },
     {
-        "id": "stream-322",
+        "id": 322,
         "name": "History TV",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/322/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/322/"
+            }
+        ]
     },
     {
         "id": null,
