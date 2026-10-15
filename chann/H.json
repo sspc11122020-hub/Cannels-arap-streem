@@ -1577,20 +1577,6 @@
         ]
     },
     {
-        "id": 382,
-        "name": "HGTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/382/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/382/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Hi Dost! (720p)",
         "servers": [
@@ -2011,18 +1997,9 @@
         ]
     },
     {
-        "id": 322,
+        "id": "stream-322",
         "name": "History TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/322/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/322/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3347,6 +3324,20 @@
             {
                 "name": "URL",
                 "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "HRT 2 Croatia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/25/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/25/"
             }
         ]
     },
