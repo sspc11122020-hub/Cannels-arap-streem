@@ -433,20 +433,6 @@
         ]
     },
     {
-        "id": 184,
-        "name": "Cablenet Sports 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/184/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/184/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Cablenoticias (1080p)",
         "servers": [
@@ -1203,18 +1189,9 @@
         ]
     },
     {
-        "id": 540,
+        "id": "540",
         "name": "Canal 11 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/540/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/540/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4628,16 +4605,16 @@
         ]
     },
     {
-        "id": 567,
-        "name": "Canal+ 360 Poland",
+        "id": null,
+        "name": "CANAL+ 360 (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/567/"
+                "link": "http://92.114.85.87:8019/play/a003/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/567/"
+                "link": "http://92.114.85.87:8019/play/a003/index.m3u8"
             }
         ]
     },
@@ -4690,6 +4667,34 @@
     },
     {
         "id": null,
+        "name": "Canal+ Dokument (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/301/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/301/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal+ Domo (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8019/play/a008/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8019/play/a008/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CANAL+ Extra 1",
         "servers": [
             {
@@ -4703,18 +4708,9 @@
         ]
     },
     {
-        "id": 983,
+        "id": "983",
         "name": "Canal+ Extra 1 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/983/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/983/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4731,93 +4727,53 @@
         ]
     },
     {
-        "id": 984,
+        "id": "984",
         "name": "Canal+ Extra 2 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/984/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/984/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 985,
+        "id": "985",
         "name": "Canal+ Extra 3 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/985/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/985/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 986,
+        "id": "986",
         "name": "Canal+ Extra 4 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/986/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/986/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 987,
+        "id": "987",
         "name": "Canal+ Extra 5 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/987/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/987/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 988,
+        "id": "988",
         "name": "Canal+ Extra 6 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/988/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/988/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 989,
+        "id": "989",
         "name": "Canal+ Extra 7 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/989/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/989/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "567",
         "name": "Canal+ Family Poland",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Canal+ Film (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/296/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/296/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,
@@ -4857,16 +4813,16 @@
         "servers": []
     },
     {
-        "id": 3050,
+        "id": 121,
         "name": "Canal+ France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3050/"
+                "link": "https://tvnow247.top/embed/121/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3050/"
+                "link": "https://tvnow247.top/embed/121/"
             }
         ]
     },
@@ -4890,92 +4846,268 @@
         ]
     },
     {
-        "id": "203",
+        "id": null,
+        "name": "Canal+ Kuchnia (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8019/play/a009/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8019/play/a009/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 152,
         "name": "Canal+ Live 1 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/152/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/152/"
+            }
+        ]
     },
     {
-        "id": "180",
+        "id": 110,
+        "name": "Canal+ Live 10 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/110/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/110/"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Canal+ Live 11 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/109/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/109/"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Canal+ Live 12 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/68/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/68/"
+            }
+        ]
+    },
+    {
+        "id": 12,
         "name": "Canal+ Live 13 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
+            }
+        ]
     },
     {
-        "id": "177",
+        "id": 59,
+        "name": "Canal+ Live 14 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/59/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/59/"
+            }
+        ]
+    },
+    {
+        "id": 108,
         "name": "Canal+ Live 15 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/108/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/108/"
+            }
+        ]
     },
     {
-        "id": "194",
+        "id": 216,
+        "name": "Canal+ Live 16 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/216/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/216/"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Canal+ Live 17 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/107/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/107/"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Canal+ Live 18 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/105/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/105/"
+            }
+        ]
+    },
+    {
+        "id": 69,
         "name": "Canal+ Live 2 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/69/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/69/"
+            }
+        ]
     },
     {
-        "id": 162,
+        "id": 77,
         "name": "Canal+ Live 3 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/162/"
+                "link": "https://tvnow247.top/embed/77/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/162/"
+                "link": "https://tvnow247.top/embed/77/"
             }
         ]
     },
     {
-        "id": 157,
+        "id": 86,
         "name": "Canal+ Live 4 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/157/"
+                "link": "https://tvnow247.top/embed/86/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/157/"
+                "link": "https://tvnow247.top/embed/86/"
             }
         ]
     },
     {
-        "id": 161,
+        "id": 76,
         "name": "Canal+ Live 5 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/161/"
+                "link": "https://tvnow247.top/embed/76/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/161/"
+                "link": "https://tvnow247.top/embed/76/"
             }
         ]
     },
     {
-        "id": 160,
+        "id": 55,
         "name": "Canal+ Live 6 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/160/"
+                "link": "https://tvnow247.top/embed/55/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/160/"
+                "link": "https://tvnow247.top/embed/55/"
             }
         ]
     },
     {
-        "id": 158,
+        "id": 153,
         "name": "Canal+ Live 7 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/158/"
+                "link": "https://tvnow247.top/embed/153/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/158/"
+                "link": "https://tvnow247.top/embed/153/"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Canal+ Live 8 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/106/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/106/"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Canal+ Live 9 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/154/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/154/"
             }
         ]
     },
@@ -4999,9 +5131,37 @@
         ]
     },
     {
+        "id": null,
+        "name": "Canal+ Now (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8006/play/a005/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8006/play/a005/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "566",
         "name": "Canal+ Premium Poland",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Canal+ Seriale (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.210.196:8080/294/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.210.196:8080/294/index.m3u8"
+            }
+        ]
     },
     {
         "id": "570",
@@ -5046,18 +5206,9 @@
         "servers": []
     },
     {
-        "id": 487,
+        "id": "487",
         "name": "Canal+ Sport 2 Afrique",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/487/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/487/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "1043",
@@ -5357,20 +5508,6 @@
         ]
     },
     {
-        "id": 107,
-        "name": "Canal+ Sport 6 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/107/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/107/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Canal+ Sport 6 SK",
         "servers": [
@@ -5470,16 +5607,16 @@
         ]
     },
     {
-        "id": 122,
+        "id": 3050,
         "name": "Canal+ Sport France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/122/"
+                "link": "https://tvnow247.top/embed/3050/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/122/"
+                "link": "https://tvnow247.top/embed/3050/"
             }
         ]
     },
@@ -6372,15 +6509,15 @@
     },
     {
         "id": null,
-        "name": "Cartoon Network (Italy) HD",
+        "name": "Cartoon Network (India) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073"
+                "link": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073"
+                "link": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
             }
         ]
     },
@@ -6437,6 +6574,20 @@
             {
                 "name": "URL",
                 "link": "http://45.132.87.69:8080/cartoon_network/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cartoon Network HD+ (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
             }
         ]
     },
@@ -6507,6 +6658,34 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cartoonito CEE Poland (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/303/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/303/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cartoonito Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.173.12.70:8000/play/a0hh"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.173.12.70:8000/play/a0hh"
             }
         ]
     },
@@ -6782,16 +6961,16 @@
         ]
     },
     {
-        "id": 182,
+        "id": 26,
         "name": "CBC Sport Azerbaijan",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/182/"
+                "link": "https://tvnow247.top/embed/26/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/182/"
+                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },
@@ -8712,20 +8891,6 @@
             {
                 "name": "URL",
                 "link": "https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Chaco TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
             }
         ]
     },
@@ -10927,6 +11092,62 @@
     },
     {
         "id": null,
+        "name": "Cinemax 2 Central Europe Poland (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/288/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/288/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cinemax Asia (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tinyurl.com/44efw2rx"
+            },
+            {
+                "name": "URL",
+                "link": "https://tinyurl.com/44efw2rx"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cinemax Asia HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://125.227.210.55:1001/VideoInput/play.ts"
+            },
+            {
+                "name": "URL",
+                "link": "http://125.227.210.55:1001/VideoInput/play.ts"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cinemax Central Europe Poland (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/287/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/287/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cinemax Classics (1080p)",
         "servers": [
             {
@@ -11081,6 +11302,20 @@
             {
                 "name": "URL",
                 "link": "https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "CineWow (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0"
             }
         ]
     },
@@ -12220,20 +12455,6 @@
         ]
     },
     {
-        "id": 77,
-        "name": "Club RTL Belgium",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/77/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/77/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Club TV",
         "servers": [
@@ -12637,6 +12858,20 @@
     },
     {
         "id": null,
+        "name": "CNBC Europe (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/234/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/234/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CNBC TV18 (1080p)",
         "servers": [
             {
@@ -12941,6 +13176,20 @@
     },
     {
         "id": null,
+        "name": "CNN HD (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://212.5.144.156:8080/cnn/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://212.5.144.156:8080/cnn/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CNN International (1080p)",
         "servers": [
             {
@@ -12964,6 +13213,20 @@
             {
                 "name": "URL",
                 "link": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "CNN News 18 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8"
             }
         ]
     },
@@ -13613,11 +13876,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
+                "link": "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://15.204.246.24:8080/ComedyCentralHD/index.m3u8"
+                "link": "https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8"
             }
         ]
     },
@@ -16280,18 +16543,9 @@
         ]
     },
     {
-        "id": 911,
+        "id": "911",
         "name": "Cytavision Sports 1 Cyprus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/911/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/911/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,

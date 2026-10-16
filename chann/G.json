@@ -427,20 +427,6 @@
     },
     {
         "id": null,
-        "name": "GB News HD (2160p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://xemzi.short.gy/1000017"
-            },
-            {
-                "name": "URL",
-                "link": "https://xemzi.short.gy/1000017"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "GBS TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -1183,6 +1169,20 @@
     },
     {
         "id": null,
+        "name": "Gia Lai TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Gigant FM (720p)",
         "servers": [
             {
@@ -1192,6 +1192,20 @@
             {
                 "name": "URL",
                 "link": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Gigavision (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://158.172.155.130:8000/play/a0e7/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://158.172.155.130:8000/play/a0e7/index.m3u8"
             }
         ]
     },

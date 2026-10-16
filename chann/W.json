@@ -304,6 +304,20 @@
     },
     {
         "id": null,
+        "name": "Warner TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.15.17/live/warner_tv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.15.17/live/warner_tv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Waseb TV (576p)",
         "servers": [
             {
@@ -425,6 +439,20 @@
             {
                 "name": "URL",
                 "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Water Planet (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/122/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/122/index.m3u8"
             }
         ]
     },
@@ -1308,6 +1336,20 @@
     },
     {
         "id": null,
+        "name": "Willamette Falls Media Center",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Willax TV (1080p)",
         "servers": [
             {
@@ -1349,18 +1391,9 @@
         ]
     },
     {
-        "id": 598,
+        "id": "598",
         "name": "Willow 2 Cricket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/598/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/598/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -1508,18 +1541,9 @@
         ]
     },
     {
-        "id": 392,
+        "id": "stream-392",
         "name": "Win+ Futbol Colombia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/392/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/392/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2037,6 +2061,20 @@
     },
     {
         "id": null,
+        "name": "WP TV (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8002/play/a008/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8002/play/a008/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "WPLG 10.1 (720p)",
         "servers": [
             {
@@ -2252,6 +2290,20 @@
             {
                 "name": "URL",
                 "link": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wydarzenia 24 (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8016/play/a007/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8016/play/a007/index.m3u8"
             }
         ]
     }

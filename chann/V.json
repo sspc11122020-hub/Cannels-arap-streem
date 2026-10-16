@@ -85,16 +85,16 @@
         ]
     },
     {
-        "id": 186,
-        "name": "V Sport Extra",
+        "id": 3069,
+        "name": "V Sport 1 Sweden",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/186/"
+                "link": "https://tvnow247.top/embed/3069/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/186/"
+                "link": "https://tvnow247.top/embed/3069/"
             }
         ]
     },
@@ -113,18 +113,9 @@
         ]
     },
     {
-        "id": 26,
+        "id": "9",
         "name": "V Sport Football",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/26/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/26/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -141,9 +132,18 @@
         ]
     },
     {
-        "id": "937",
+        "id": 937,
         "name": "V Sport Golf",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/937/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/937/"
+            }
+        ]
     },
     {
         "id": null,
@@ -179,16 +179,16 @@
         "servers": []
     },
     {
-        "id": 3069,
+        "id": 572,
         "name": "V Sport Premium",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3069/"
+                "link": "https://tvnow247.top/embed/572/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3069/"
+                "link": "https://tvnow247.top/embed/572/"
             }
         ]
     },
@@ -1306,20 +1306,6 @@
     },
     {
         "id": null,
-        "name": "VH1 (432p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://193.254.245.162/VH1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://193.254.245.162/VH1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VH1 Queens of Reality",
         "servers": [
             {
@@ -1483,20 +1469,6 @@
         "servers": []
     },
     {
-        "id": 806,
-        "name": "Viaplay Sport News Denmark",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/806/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/806/"
-            }
-        ]
-    },
-    {
         "id": "3080",
         "name": "Viaplay Sport SE",
         "servers": []
@@ -1582,6 +1554,20 @@
             {
                 "name": "URL",
                 "link": "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viasat Epic Drama Poland (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8001/play/a00x/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8001/play/a00x/index.m3u8"
             }
         ]
     },
@@ -2680,6 +2666,20 @@
     },
     {
         "id": null,
+        "name": "VIVE TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Vivo TV",
         "servers": [
             {
@@ -2722,15 +2722,15 @@
     },
     {
         "id": null,
-        "name": "VM Latino (720p) [Not 24/7]",
+        "name": "VM Latino (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+                "link": "http://45.163.139.42:8000/play/a03d/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+                "link": "http://45.163.139.42:8000/play/a03d/index.m3u8"
             }
         ]
     },

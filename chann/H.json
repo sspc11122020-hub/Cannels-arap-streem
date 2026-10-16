@@ -758,6 +758,20 @@
     },
     {
         "id": null,
+        "name": "HBO (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/243/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/243/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO (United States) (720p)",
         "servers": [
             {
@@ -772,7 +786,7 @@
     },
     {
         "id": null,
-        "name": "HBO 2",
+        "name": "HBO 2 (Czech Republic)",
         "servers": [
             {
                 "name": "Main Server",
@@ -781,6 +795,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO 2 (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/246/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/246/index.m3u8"
             }
         ]
     },
@@ -800,7 +828,7 @@
     },
     {
         "id": null,
-        "name": "HBO 3",
+        "name": "HBO 3 (Czech Republic)",
         "servers": [
             {
                 "name": "Main Server",
@@ -809,6 +837,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO 3 (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/245/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/245/index.m3u8"
             }
         ]
     },
@@ -823,6 +865,34 @@
             {
                 "name": "URL",
                 "link": "https://2x2.me/yTKXaE"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO Asia SD (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tinyurl.com/yn3d3rmd"
+            },
+            {
+                "name": "URL",
+                "link": "https://tinyurl.com/yn3d3rmd"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO Asia Taiwan (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://125.227.210.55:1003/VideoInput/play.ts"
+            },
+            {
+                "name": "URL",
+                "link": "http://125.227.210.55:1003/VideoInput/play.ts"
             }
         ]
     },
@@ -1550,6 +1620,20 @@
     },
     {
         "id": null,
+        "name": "HGTV (United States) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://tvsen7.aynascope.net/hgtv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://tvsen7.aynascope.net/hgtv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HGTV Asia (1080p)",
         "servers": [
             {
@@ -1900,6 +1984,20 @@
     },
     {
         "id": null,
+        "name": "History (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/240/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/240/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "History (Slovenia) (1080p)",
         "servers": [
             {
@@ -1923,6 +2021,20 @@
             {
                 "name": "URL",
                 "link": "http://212.5.144.156:8080/history/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "History 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/247/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/247/index.m3u8"
             }
         ]
     },
@@ -3324,20 +3436,6 @@
             {
                 "name": "URL",
                 "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
-            }
-        ]
-    },
-    {
-        "id": 25,
-        "name": "HRT 2 Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/25/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/25/"
             }
         ]
     },

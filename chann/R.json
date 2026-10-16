@@ -2424,20 +2424,6 @@
         ]
     },
     {
-        "id": 882,
-        "name": "Rai Sport 1 Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/882/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/882/"
-            }
-        ]
-    },
-    {
         "id": "882",
         "name": "Rai Sport Italy",
         "servers": []
@@ -3741,9 +3727,18 @@
         ]
     },
     {
-        "id": "840",
+        "id": 840,
         "name": "RDS 2 CA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
     },
     {
         "id": 839,
@@ -5400,6 +5395,20 @@
     },
     {
         "id": null,
+        "name": "Retro Cartoon (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Retro Music TV (360p)",
         "servers": [
             {
@@ -5409,6 +5418,48 @@
             {
                 "name": "URL",
                 "link": "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Retro Plus (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.119.97.124:8080/play/a00t/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.119.97.124:8080/play/a00t/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Retro Plus 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.119.97.124:8080/play/a00n/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.119.97.124:8080/play/a00n/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Retro Plus 3 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.119.97.124:8080/play/retroplus_3/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.119.97.124:8080/play/retroplus_3/index.m3u8"
             }
         ]
     },
@@ -5988,7 +6039,7 @@
     },
     {
         "id": 471,
-        "name": "Ring BG",
+        "name": "Ring bg",
         "servers": [
             {
                 "name": "Main Server",
@@ -6002,15 +6053,29 @@
     },
     {
         "id": null,
+        "name": "Ring BG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ring&code=bg&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ring&code=bg&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RING BG",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/53en8urb-3546"
+                "link": "https://ehgembxe.cfd/tjv8d61o-3241"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/53en8urb-3546"
+                "link": "https://ehgembxe.cfd/tjv8d61o-3241"
             }
         ]
     },
@@ -6147,15 +6212,29 @@
     },
     {
         "id": null,
+        "name": "RMC Decouverte (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RMC Life (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://145.239.5.177/333/index.m3u8"
+                "link": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://145.239.5.177/333/index.m3u8"
+                "link": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8"
             }
         ]
     },
@@ -6202,9 +6281,18 @@
         ]
     },
     {
-        "id": "120",
+        "id": 120,
         "name": "RMC Sport 2 France",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/120/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/120/"
+            }
+        ]
     },
     {
         "id": "3055",
@@ -6600,6 +6688,20 @@
     },
     {
         "id": null,
+        "name": "Romance TV (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8009/play/a00a/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8009/play/a00a/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Romania TV (576p)",
         "servers": [
             {
@@ -6859,20 +6961,6 @@
         "id": "3020",
         "name": "RSI La 2",
         "servers": []
-    },
-    {
-        "id": 105,
-        "name": "RSI La 2 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/105/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/105/"
-            }
-        ]
     },
     {
         "id": "262",
@@ -7156,20 +7244,6 @@
         "servers": []
     },
     {
-        "id": 365,
-        "name": "RTE 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/365/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/365/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RTG TV (720p)",
         "servers": [
@@ -7441,16 +7515,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
@@ -7657,6 +7731,34 @@
             {
                 "name": "URL",
                 "link": "https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTNB Divertissement",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tv2-stream.rtnb.bi/hls/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tv2-stream.rtnb.bi/hls/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTNB TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tv1-stream.rtnb.bi/hls/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tv1-stream.rtnb.bi/hls/master.m3u8"
             }
         ]
     },
@@ -8741,18 +8843,9 @@
         ]
     },
     {
-        "id": 2,
+        "id": "255",
         "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8952,6 +9045,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.pishow.tv/ott/live/1039/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rupavahini (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8"
             }
         ]
     },

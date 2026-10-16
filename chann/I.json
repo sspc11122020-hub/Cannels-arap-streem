@@ -2168,6 +2168,34 @@
     },
     {
         "id": null,
+        "name": "Investigation Discovery (India) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Investigation Discovery (Poland) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/239/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/239/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Investigation Discovery (Russia) (1080p)",
         "servers": [
             {
@@ -3343,20 +3371,6 @@
             {
                 "name": "URL",
                 "link": "https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ITV2 HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://xemzi.short.gy/1000012"
-            },
-            {
-                "name": "URL",
-                "link": "https://xemzi.short.gy/1000012"
             }
         ]
     },

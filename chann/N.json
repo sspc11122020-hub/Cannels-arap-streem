@@ -616,6 +616,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Nat Geo People (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8016/play/a003/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8016/play/a003/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": "745",
         "name": "Nat Geo Wild USA",
         "servers": []
@@ -823,6 +837,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8006/play/a00a/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8006/play/a00a/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic (Russia) (1080p)",
         "servers": [
             {
@@ -916,6 +944,20 @@
             {
                 "name": "URL",
                 "link": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "National Geographic Wild (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8010/play/a005/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8010/play/a005/index.m3u8"
             }
         ]
     },
@@ -1988,20 +2030,6 @@
         "id": "stream-753",
         "name": "NBCS Bay Area USA",
         "servers": []
-    },
-    {
-        "id": 754,
-        "name": "NBCS Boston USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
-            }
-        ]
     },
     {
         "id": "stream-755",
@@ -3705,6 +3733,20 @@
     },
     {
         "id": null,
+        "name": "Newsmax Polska (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8014/play/a006/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8014/play/a006/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Newsmax Spanish (1080p)",
         "servers": [
             {
@@ -4118,15 +4160,15 @@
     },
     {
         "id": null,
-        "name": "NHK World-Japan HD (720p)",
+        "name": "NHK World-Japan HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://170.83.16.50/NHK_WORLD/index.m3u8"
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=106"
             },
             {
                 "name": "URL",
-                "link": "http://170.83.16.50/NHK_WORLD/index.m3u8"
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=106"
             }
         ]
     },
@@ -4325,6 +4367,20 @@
     },
     {
         "id": null,
+        "name": "Nick Jr. (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8013/play/a004/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8013/play/a004/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nick Jr. (Russia) (576p)",
         "servers": [
             {
@@ -4446,11 +4502,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bin.webhookrelay.com/v1/webhooks/0351cd0b-b0d7-4836-8cc9-4d2280c7961c"
+                "link": "https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bin.webhookrelay.com/v1/webhooks/0351cd0b-b0d7-4836-8cc9-4d2280c7961c"
+                "link": "https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8"
             }
         ]
     },
@@ -4521,6 +4577,34 @@
             {
                 "name": "URL",
                 "link": "http://103.185.24.134:3001/NICK/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nickelodeon (Italy)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nickelodeon (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8013/play/a005/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8013/play/a005/index.m3u8"
             }
         ]
     },
@@ -4820,15 +4904,15 @@
     },
     {
         "id": null,
-        "name": "Nicktoons (France) (1080p)",
+        "name": "Nicktoons (Poland) (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://193.254.245.162/NICKELODEON/index.m3u8"
+                "link": "http://92.114.85.87:8013/play/a008/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://193.254.245.162/NICKELODEON/index.m3u8"
+                "link": "http://92.114.85.87:8013/play/a008/index.m3u8"
             }
         ]
     },
@@ -5929,18 +6013,9 @@
         ]
     },
     {
-        "id": 1060,
+        "id": "1060",
         "name": "Nova Sport 3 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1060/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1060/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -5985,18 +6060,23 @@
         ]
     },
     {
-        "id": 1062,
-        "name": "Nova Sport 5 SK",
+        "id": 1025,
+        "name": "Nova SPORT 5 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
+                "link": "https://tvnow247.top/embed/1025/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
+                "link": "https://tvnow247.top/embed/1025/"
             }
         ]
+    },
+    {
+        "id": "1062",
+        "name": "Nova Sport 5 SK",
+        "servers": []
     },
     {
         "id": null,
@@ -6051,11 +6131,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/kzjgua6g-3613"
+                "link": "https://ehgembxe.cfd/o0py3s7v-2242"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/kzjgua6g-3613"
+                "link": "https://ehgembxe.cfd/o0py3s7v-2242"
             }
         ]
     },
@@ -6070,11 +6150,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/l7fl1poj-9779"
+                "link": "https://ehgembxe.cfd/l7fl1poj-6773"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/l7fl1poj-9779"
+                "link": "https://ehgembxe.cfd/l7fl1poj-6773"
             }
         ]
     },
@@ -6089,11 +6169,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/8cgt1dk4-8427"
+                "link": "https://ehgembxe.cfd/1yd8rb8r-9226"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/8cgt1dk4-8427"
+                "link": "https://ehgembxe.cfd/1yd8rb8r-9226"
             }
         ]
     },
@@ -6117,11 +6197,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/ki629tzv-5069"
+                "link": "https://ehgembxe.cfd/ki629tzv-3691"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/ki629tzv-5069"
+                "link": "https://ehgembxe.cfd/ki629tzv-3691"
             }
         ]
     },
@@ -6202,11 +6282,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/srxocj3e-3012"
+                "link": "https://ehgembxe.cfd/1g6tryqz-1361"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/srxocj3e-3012"
+                "link": "https://ehgembxe.cfd/1g6tryqz-1361"
             }
         ]
     },
@@ -6481,6 +6561,20 @@
         "id": "1003",
         "name": "NOW TV Turkey",
         "servers": []
+    },
+    {
+        "id": null,
+        "name": "Nowa TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8001/play/a013/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8001/play/a013/index.m3u8"
+            }
+        ]
     },
     {
         "id": null,

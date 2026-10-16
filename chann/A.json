@@ -2133,6 +2133,20 @@
     },
     {
         "id": null,
+        "name": "Active Family HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8010/play/a00p/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8010/play/a00p/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Actualidad 360",
         "servers": [
             {
@@ -2469,6 +2483,20 @@
             {
                 "name": "URL",
                 "link": "http://168.197.104.22/ADULT_SWIM/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Adult Swim West [Not 24/7;Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8"
             }
         ]
     },
@@ -5150,6 +5178,20 @@
     },
     {
         "id": null,
+        "name": "Allegro HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://158.172.155.130:8000/play/a0dn/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://158.172.155.130:8000/play/a0dn/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Allgau TV (1080p)",
         "servers": [
             {
@@ -5537,6 +5579,20 @@
         ]
     },
     {
+        "id": 923,
+        "name": "Altitude USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/923/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/923/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "AltoAdige TV (720p)",
         "servers": [
@@ -5865,6 +5921,20 @@
     },
     {
         "id": null,
+        "name": "AMC Europe Poland (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/318/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/318/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AMC Latin America (1080p)",
         "servers": [
             {
@@ -5906,9 +5976,18 @@
         ]
     },
     {
-        "id": "303",
+        "id": 303,
         "name": "AMC USA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/303/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/303/"
+            }
+        ]
     },
     {
         "id": null,
@@ -6980,11 +7059,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/ywroxe20-1715"
+                "link": "https://ehgembxe.cfd/wmsxcqty-6769"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/ywroxe20-1715"
+                "link": "https://ehgembxe.cfd/wmsxcqty-6769"
             }
         ]
     },
@@ -7013,6 +7092,34 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.17/live/animal_hun/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Animal Planet (India) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Animal Planet (India) HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
             }
         ]
     },
@@ -7774,16 +7881,16 @@
         ]
     },
     {
-        "id": 154,
+        "id": 3039,
         "name": "Apple TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/154/"
+                "link": "https://tvnow247.top/embed/3039/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/154/"
+                "link": "https://tvnow247.top/embed/3039/"
             }
         ]
     },
@@ -8148,16 +8255,16 @@
         ]
     },
     {
-        "id": 19,
+        "id": 11,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/19/"
+                "link": "https://tvnow247.top/embed/11/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/19/"
+                "link": "https://tvnow247.top/embed/11/"
             }
         ]
     },
@@ -8205,6 +8312,34 @@
         "servers": []
     },
     {
+        "id": null,
+        "name": "Arena Sport 1 Premium (Serbia) (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
+            },
+            {
+                "name": "URL",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Arena Sport 1 Premium (Slovenia)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6"
+            },
+            {
+                "name": "URL",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6"
+            }
+        ]
+    },
+    {
         "id": 429,
         "name": "Arena Sport 1 Serbia",
         "servers": [
@@ -8224,18 +8359,9 @@
         "servers": []
     },
     {
-        "id": 945,
+        "id": "945",
         "name": "Arena Sport 10 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/945/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/945/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "stream-3",
@@ -8431,6 +8557,34 @@
             {
                 "name": "URL",
                 "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Arena Sport Premium M2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4"
+            },
+            {
+                "name": "URL",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Arena Sport Premium M3",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH"
+            },
+            {
+                "name": "URL",
+                "link": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH"
             }
         ]
     },
@@ -8786,20 +8940,6 @@
             {
                 "name": "URL",
                 "link": "https://account33.livebox.co.in/jesushelpshls/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 192,
-        "name": "Arryadia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/192/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/192/"
             }
         ]
     },
@@ -9570,18 +9710,9 @@
         ]
     },
     {
-        "id": 370,
+        "id": "370",
         "name": "Astro Cricket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/370/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/370/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -10907,20 +11038,6 @@
     },
     {
         "id": null,
-        "name": "AXN (Spain) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://193.254.245.162/AXN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://193.254.245.162/AXN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "AXN Asia Malaysia (1080p)",
         "servers": [
             {
@@ -10949,7 +11066,21 @@
     },
     {
         "id": null,
-        "name": "AXN Black (576p)",
+        "name": "AXN Black (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8014/play/a00h/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8014/play/a00h/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AXN Black (United States) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10963,7 +11094,7 @@
     },
     {
         "id": null,
-        "name": "AXN Black Hungary (576p)",
+        "name": "AXN Black (United States) Hungary (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10977,7 +11108,7 @@
     },
     {
         "id": null,
-        "name": "AXN Black Poland (576p)",
+        "name": "AXN Black (United States) Poland (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11066,6 +11197,20 @@
     },
     {
         "id": null,
+        "name": "AXN Poland (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8015/play/a00f/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8015/play/a00f/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AXN Spin (Poland)",
         "servers": [
             {
@@ -11080,7 +11225,21 @@
     },
     {
         "id": null,
-        "name": "AXN White Bulgaria (576p)",
+        "name": "AXN White (Poland) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://92.114.85.87:8014/play/a004/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://92.114.85.87:8014/play/a004/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AXN White (United States) Bulgaria (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11094,7 +11253,7 @@
     },
     {
         "id": null,
-        "name": "AXN White Poland (576p)",
+        "name": "AXN White (United States) Poland (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11108,7 +11267,7 @@
     },
     {
         "id": null,
-        "name": "AXN White Portugal (576p)",
+        "name": "AXN White (United States) Portugal (576p)",
         "servers": [
             {
                 "name": "Main Server",
