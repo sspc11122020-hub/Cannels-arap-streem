@@ -1080,9 +1080,18 @@
         ]
     },
     {
-        "id": "108",
+        "id": 3027,
         "name": "LALIGA TV Hypermotion 2",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3027/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3027/"
+            }
+        ]
     },
     {
         "id": "276",
@@ -2477,9 +2486,18 @@
         ]
     },
     {
-        "id": "7003",
+        "id": 12,
         "name": "Liga 1 Max Peru",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
+            }
+        ]
     },
     {
         "id": null,
@@ -2619,37 +2637,14 @@
         "servers": []
     },
     {
-        "id": 194,
-        "name": "Ligue1+ 10 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/194/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/194/"
-            }
-        ]
-    },
-    {
         "id": "3053",
         "name": "Ligue1+ 2 France",
         "servers": []
     },
     {
-        "id": 3053,
+        "id": "222",
         "name": "Ligue1+ 3 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3053/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3053/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": 3054,
@@ -2666,86 +2661,49 @@
         ]
     },
     {
-        "id": 201,
+        "id": 3055,
         "name": "Ligue1+ 5 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/201/"
+                "link": "https://tvnow247.top/embed/3055/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/201/"
+                "link": "https://tvnow247.top/embed/3055/"
             }
         ]
     },
     {
-        "id": 196,
+        "id": 3056,
         "name": "Ligue1+ 6 France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/196/"
+                "link": "https://tvnow247.top/embed/3056/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/196/"
+                "link": "https://tvnow247.top/embed/3056/"
             }
         ]
     },
     {
-        "id": 198,
+        "id": "3052",
         "name": "Ligue1+ 7 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/198/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/198/"
-            }
-        ]
+        "servers": []
     },
     {
-        "id": 199,
-        "name": "Ligue1+ 8 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/199/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/199/"
-            }
-        ]
-    },
-    {
-        "id": 195,
-        "name": "Ligue1+ 9 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/195/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/195/"
-            }
-        ]
-    },
-    {
-        "id": 3050,
+        "id": 3051,
         "name": "Ligue1+ France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3050/"
+                "link": "https://tvnow247.top/embed/3051/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3050/"
+                "link": "https://tvnow247.top/embed/3051/"
             }
         ]
     },
@@ -4064,6 +4022,20 @@
     },
     {
         "id": null,
+        "name": "Lucas & Friends",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Lucky Dog (720p)",
         "servers": [
             {
@@ -4157,6 +4129,20 @@
             {
                 "name": "URL",
                 "link": "http://103.154.3.101:5001/live/1736.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Luxembourg Global Radio TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.globalradio.lu/lgr/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.globalradio.lu/lgr/index.m3u8"
             }
         ]
     },

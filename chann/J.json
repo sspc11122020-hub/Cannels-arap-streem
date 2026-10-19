@@ -495,11 +495,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8"
+                "link": "http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8"
+                "link": "http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8"
             }
         ]
     },
@@ -1374,20 +1374,6 @@
             {
                 "name": "URL",
                 "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "name": "Jordan TV Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/28/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/28/"
             }
         ]
     },

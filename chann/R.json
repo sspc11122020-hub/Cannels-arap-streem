@@ -2320,21 +2320,35 @@
         "servers": []
     },
     {
+        "id": 851,
+        "name": "RAI 2 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/851/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/851/"
+            }
+        ]
+    },
+    {
         "id": "851",
         "name": "Rai 2 Italy",
         "servers": []
     },
     {
         "id": null,
-        "name": "Rai 3 (720p)",
+        "name": "Rai 3 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+                "link": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+                "link": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8"
             }
         ]
     },
@@ -2373,6 +2387,20 @@
             {
                 "name": "URL",
                 "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai Movie HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://team-tv.co:81/raimovie/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://team-tv.co:81/raimovie/index.m3u8"
             }
         ]
     },
@@ -2425,7 +2453,7 @@
     },
     {
         "id": 882,
-        "name": "Rai Sport 1 Italy",
+        "name": "RAI Sport 1 IT",
         "servers": [
             {
                 "name": "Main Server",
@@ -3770,7 +3798,7 @@
     },
     {
         "id": 841,
-        "name": "RDS Info",
+        "name": "RDS Info CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -3781,11 +3809,6 @@
                 "link": "https://tvnow247.top/embed/841/"
             }
         ]
-    },
-    {
-        "id": "841",
-        "name": "RDS Info CA",
-        "servers": []
     },
     {
         "id": null,
@@ -3891,11 +3914,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.19/live/real_madrid_tv/index.m3u8"
+                "link": "http://88.212.15.17/live/real_madrid_tv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.19/live/real_madrid_tv/index.m3u8"
+                "link": "http://88.212.15.17/live/real_madrid_tv/index.m3u8"
             }
         ]
     },
@@ -6253,18 +6276,9 @@
         ]
     },
     {
-        "id": 119,
+        "id": "119",
         "name": "RMC Sport 1 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/119/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/119/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -7506,16 +7520,16 @@
         "servers": []
     },
     {
-        "id": null,
+        "id": 3011,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3011/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3011/"
             }
         ]
     },
@@ -7755,6 +7769,20 @@
     },
     {
         "id": null,
+        "name": "RTNC (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://kali.vdopanel.com:3850/live/masterlive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://kali.vdopanel.com:3850/live/masterlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RTNC 3",
         "servers": [
             {
@@ -7829,9 +7857,18 @@
         ]
     },
     {
-        "id": "720",
+        "id": 720,
         "name": "RTP 2 Portugal",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
+            }
+        ]
     },
     {
         "id": "721",
@@ -7854,15 +7891,15 @@
     },
     {
         "id": null,
-        "name": "RTR-Planeta (576p)",
+        "name": "RTR-Planeta (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv"
+                "link": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/rtr_planeta/mono.m3u8?token=onlinetv"
+                "link": "https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410"
             }
         ]
     },
@@ -8218,18 +8255,9 @@
         ]
     },
     {
-        "id": 190,
+        "id": "192",
         "name": "RTSH Sport Albania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/190/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/190/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -8834,18 +8862,9 @@
         ]
     },
     {
-        "id": 2,
+        "id": "255",
         "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -9362,11 +9381,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
+                "link": "http://31.148.48.15/Russkiy_illusion/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv"
+                "link": "http://31.148.48.15/Russkiy_illusion/index.m3u8"
             }
         ]
     },
@@ -9582,20 +9601,6 @@
             {
                 "name": "URL",
                 "link": "https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rybalka i okhota (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv"
             }
         ]
     },

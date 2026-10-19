@@ -57,15 +57,15 @@
     },
     {
         "id": null,
-        "name": "O! International (576p)",
+        "name": "O! International (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv"
+                "link": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv"
+                "link": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8"
             }
         ]
     },
@@ -841,15 +841,15 @@
     },
     {
         "id": null,
-        "name": "Okko Futbol (1080p)",
+        "name": "Okko Futbol (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/491/index.m3u8"
+                "link": "http://178.124.179.122:8080/Setanta1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/491/index.m3u8"
+                "link": "http://178.124.179.122:8080/Setanta1/index.m3u8"
             }
         ]
     },
@@ -864,20 +864,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/493/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Okko Sport (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://stream.mcquack.net/492/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://stream.mcquack.net/492/index.m3u8"
             }
         ]
     },
@@ -1484,20 +1470,6 @@
         ]
     },
     {
-        "id": 611,
-        "name": "ON Sport 1 Egypt",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/611/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/611/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "On The Case",
         "servers": [
@@ -2018,16 +1990,16 @@
         "servers": []
     },
     {
-        "id": 3044,
+        "id": 3041,
         "name": "Oneplay Sport 1 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3044/"
+                "link": "https://tvnow247.top/embed/3041/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3044/"
+                "link": "https://tvnow247.top/embed/3041/"
             }
         ]
     },
@@ -2047,18 +2019,9 @@
         "servers": []
     },
     {
-        "id": 3045,
+        "id": "3043",
         "name": "Oneplay Sport CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3045/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3045/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2381,11 +2344,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8"
+                "link": "https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8"
+                "link": "https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8"
             }
         ]
     },
@@ -2409,11 +2372,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8"
+                "link": "http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8"
+                "link": "http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8"
             }
         ]
     },
@@ -2447,6 +2410,20 @@
             {
                 "name": "URL",
                 "link": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Orizont TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0"
+            },
+            {
+                "name": "URL",
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0"
             }
         ]
     },
@@ -2559,20 +2536,6 @@
             {
                 "name": "URL",
                 "link": "https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Oruzhie (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -2741,11 +2704,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.19/live/otv/playlist.m3u8"
+                "link": "http://88.212.15.17/live/otv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.19/live/otv/playlist.m3u8"
+                "link": "http://88.212.15.17/live/otv/playlist.m3u8"
             }
         ]
     },
@@ -2993,20 +2956,6 @@
         ]
     },
     {
-        "id": 331,
-        "name": "OWN USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/331/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/331/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Oxigeno TV (360p) [Not 24/7]",
         "servers": [
@@ -3063,9 +3012,18 @@
         ]
     },
     {
-        "id": "332",
+        "id": 332,
         "name": "Oxygen True Crime",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/332/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/332/"
+            }
+        ]
     },
     {
         "id": null,

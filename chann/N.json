@@ -43,20 +43,6 @@
     },
     {
         "id": null,
-        "name": "N4 (360p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nabaa TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -547,15 +533,15 @@
     },
     {
         "id": null,
-        "name": "Nashe Novoe Kino (1080p)",
+        "name": "Nashe Novoe Kino",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8"
+                "link": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8"
+                "link": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -1588,18 +1574,9 @@
         "servers": []
     },
     {
-        "id": 755,
+        "id": "755",
         "name": "NBC Sports California",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/755/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/755/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -2036,32 +2013,9 @@
         ]
     },
     {
-        "id": 753,
+        "id": "stream-753",
         "name": "NBCS Bay Area USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/753/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/753/"
-            }
-        ]
-    },
-    {
-        "id": 754,
-        "name": "NBCS Boston USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": "stream-755",
@@ -2069,18 +2023,9 @@
         "servers": []
     },
     {
-        "id": 777,
+        "id": "stream-777",
         "name": "NBCS Philadelphia USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/777/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/777/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -3998,9 +3943,18 @@
         ]
     },
     {
-        "id": "3002",
+        "id": 3038,
         "name": "NFL Game Pass",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3038/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3038/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4045,9 +3999,37 @@
         ]
     },
     {
+        "id": 405,
+        "name": "NFL Network USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/405/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/405/"
+            }
+        ]
+    },
+    {
         "id": "667",
         "name": "NFL RedZone",
         "servers": []
+    },
+    {
+        "id": 667,
+        "name": "NFL Redzone Feed",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/667/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/667/"
+            }
+        ]
     },
     {
         "id": "5101",
@@ -4055,9 +4037,18 @@
         "servers": []
     },
     {
-        "id": "8056",
+        "id": 3031,
         "name": "NFL Sunday Ticket",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3031/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3031/"
+            }
+        ]
     },
     {
         "id": null,
@@ -4228,6 +4219,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "NHL AntenaPlay",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8"
+            }
+        ]
+    },
+    {
         "id": "4096",
         "name": "NHL Game Pass",
         "servers": []
@@ -4280,18 +4285,9 @@
         ]
     },
     {
-        "id": 663,
+        "id": "663",
         "name": "NHL Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/663/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/663/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -4944,11 +4940,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8"
+                "link": "http://88.212.15.17/live/test_nicktoons/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8"
+                "link": "http://88.212.15.17/live/test_nicktoons/playlist.m3u8"
             }
         ]
     },
@@ -6049,6 +6045,20 @@
         ]
     },
     {
+        "id": 1022,
+        "name": "Nova SPORT 2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1022/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1022/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Nova Sport 3 CZ",
         "servers": [
@@ -6194,18 +6204,9 @@
         ]
     },
     {
-        "id": 631,
+        "id": "631",
         "name": "Nova Sports 1 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/631/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/631/"
-            }
-        ]
+        "servers": []
     },
     {
         "id": null,
@@ -6222,16 +6223,16 @@
         ]
     },
     {
-        "id": 3023,
+        "id": 632,
         "name": "Nova Sports 2 Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3023/"
+                "link": "https://tvnow247.top/embed/632/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3023/"
+                "link": "https://tvnow247.top/embed/632/"
             }
         ]
     },
@@ -6381,16 +6382,16 @@
         ]
     },
     {
-        "id": 638,
+        "id": 3023,
         "name": "Nova Sports Prime Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/3023/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/638/"
+                "link": "https://tvnow247.top/embed/3023/"
             }
         ]
     },
@@ -6532,20 +6533,6 @@
             {
                 "name": "URL",
                 "link": "http://31.131.139.253:9002/novoros/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Novyi Russkii (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
             }
         ]
     },

@@ -467,9 +467,32 @@
         ]
     },
     {
-        "id": "221",
+        "id": 13,
         "name": "Kanal 1 Sport Slovakia",
-        "servers": []
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/13/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/13/"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Kanal 1 Xtra Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/14/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/14/"
+            }
+        ]
     },
     {
         "id": null,
@@ -1771,21 +1794,16 @@
         "servers": []
     },
     {
-        "id": "153",
+        "id": 191,
         "name": "KHL Tv",
-        "servers": []
-    },
-    {
-        "id": 208,
-        "name": "KHL TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/208/"
+                "link": "https://tvnow247.top/embed/191/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/208/"
+                "link": "https://tvnow247.top/embed/191/"
             }
         ]
     },
@@ -2850,6 +2868,20 @@
             {
                 "name": "URL",
                 "link": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kon Tum TV (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1"
+            },
+            {
+                "name": "URL",
+                "link": "https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1"
             }
         ]
     },
