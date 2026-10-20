@@ -169,6 +169,20 @@
     },
     {
         "id": null,
+        "name": "Yerkir Media (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://yerkirmedia.am/yerkirmedia/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://yerkirmedia.am/yerkirmedia/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "YES",
         "servers": [
             {
@@ -180,21 +194,6 @@
                 "link": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8"
             }
         ]
-    },
-    {
-        "id": "543",
-        "name": "Yes Movies Action Israel",
-        "servers": []
-    },
-    {
-        "id": "545",
-        "name": "Yes Movies Comedy Israel",
-        "servers": []
-    },
-    {
-        "id": "544",
-        "name": "Yes Movies Kids Israel",
-        "servers": []
     },
     {
         "id": null,
@@ -223,21 +222,6 @@
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Yes%20Network&code=us&user=cdnlivetv&plan=free"
             }
         ]
-    },
-    {
-        "id": "763",
-        "name": "YES Network USA",
-        "servers": []
-    },
-    {
-        "id": "837",
-        "name": "Yes TV CA",
-        "servers": []
-    },
-    {
-        "id": "stream-763",
-        "name": "YES USA",
-        "servers": []
     },
     {
         "id": null,
@@ -560,11 +544,6 @@
                 "link": "http://202.60.106.14:8080/214/playlist.m3u8"
             }
         ]
-    },
-    {
-        "id": "286",
-        "name": "YTV CA",
-        "servers": []
     },
     {
         "id": null,
