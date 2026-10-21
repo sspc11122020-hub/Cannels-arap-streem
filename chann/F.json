@@ -2815,6 +2815,20 @@
     },
     {
         "id": null,
+        "name": "Fox Comedy (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://57.128.231.171:8080/250/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://57.128.231.171:8080/250/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fox Deportes",
         "servers": [
             {
@@ -3472,6 +3486,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%20507&code=au&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 787,
+        "name": "Fox Sports Argentina",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/787/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/787/"
             }
         ]
     },
@@ -4529,11 +4557,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://168.197.104.22/FUTURA/index.m3u8"
+                "link": "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://168.197.104.22/FUTURA/index.m3u8"
+                "link": "http://170.83.49.66:8083/FUTURAHD/index.m3u8"
             }
         ]
     },
@@ -4622,6 +4650,20 @@
         ]
     },
     {
+        "id": 317,
+        "name": "FX USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/317/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/317/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "FXM",
         "servers": [
@@ -4646,20 +4688,6 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/8lysgd83-4863"
-            }
-        ]
-    },
-    {
-        "id": 665,
-        "name": "FYI USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/665/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/665/"
             }
         ]
     }

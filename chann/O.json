@@ -1078,20 +1078,6 @@
         ]
     },
     {
-        "id": 20,
-        "name": "Oman TV Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/20/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/20/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Omega (720p)",
         "servers": [
@@ -1415,6 +1401,20 @@
     },
     {
         "id": null,
+        "name": "ON Cine",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=176"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ON FM (720p)",
         "servers": [
             {
@@ -1466,6 +1466,20 @@
             {
                 "name": "URL",
                 "link": "https://freem3u.xyz/api/live/play.m3u8?vid=181"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ON Music (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=185"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=185"
             }
         ]
     },
