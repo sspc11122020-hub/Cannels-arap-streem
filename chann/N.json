@@ -616,20 +616,6 @@
         ]
     },
     {
-        "id": 745,
-        "name": "Nat Geo Wild USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/745/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/745/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NAT TV (1080p)",
         "servers": [
@@ -742,20 +728,6 @@
         ]
     },
     {
-        "id": 328,
-        "name": "National Geographic",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/328/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/328/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "National Geographic (Bulgaria) (1080p)",
         "servers": [
@@ -836,6 +808,20 @@
             {
                 "name": "URL",
                 "link": "http://138.121.15.230:9002/NAT-GEO/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 328,
+        "name": "National Geographic (NGC)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/328/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/328/"
             }
         ]
     },
@@ -5896,58 +5882,16 @@
         ]
     },
     {
-        "id": 1023,
+        "id": null,
         "name": "Nova Sport 3 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1023/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1023/"
-            }
-        ]
-    },
-    {
-        "id": 1060,
-        "name": "Nova Sport 3 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1060/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1060/"
-            }
-        ]
-    },
-    {
-        "id": 1024,
-        "name": "Nova Sport 4 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1024/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1024/"
-            }
-        ]
-    },
-    {
-        "id": 1061,
-        "name": "Nova Sport 4 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1061/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1061/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6004,6 +5948,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport&code=bg&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 632,
+        "name": "Nova Sports 2 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/632/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/632/"
             }
         ]
     },
