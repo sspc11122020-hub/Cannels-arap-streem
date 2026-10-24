@@ -379,20 +379,6 @@
     },
     {
         "id": null,
-        "name": "Hang Meas HDTV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hangulat TV (720p)",
         "servers": [
             {
@@ -729,20 +715,6 @@
     },
     {
         "id": null,
-        "name": "HBO (Poland) (576i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/243/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/243/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HBO (United States) (720p)",
         "servers": [
             {
@@ -757,7 +729,7 @@
     },
     {
         "id": null,
-        "name": "HBO 2 (Czech Republic)",
+        "name": "HBO 2",
         "servers": [
             {
                 "name": "Main Server",
@@ -766,20 +738,6 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO 2 (Poland) (576i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/246/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/246/index.m3u8"
             }
         ]
     },
@@ -799,7 +757,7 @@
     },
     {
         "id": null,
-        "name": "HBO 3 (Czech Republic)",
+        "name": "HBO 3",
         "servers": [
             {
                 "name": "Main Server",
@@ -808,20 +766,6 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO 3 (Poland) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/245/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/245/index.m3u8"
             }
         ]
     },
@@ -976,20 +920,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 321,
-        "name": "HBO USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/321/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/321/"
             }
         ]
     },
@@ -1919,15 +1849,15 @@
     },
     {
         "id": null,
-        "name": "History (Poland) (1080p)",
+        "name": "History (Poland) (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://57.128.231.171:8080/240/index.m3u8"
+                "link": "http://92.114.85.87:8015/play/a00c/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://57.128.231.171:8080/240/index.m3u8"
+                "link": "http://92.114.85.87:8015/play/a00c/index.m3u8"
             }
         ]
     },
@@ -1956,20 +1886,6 @@
             {
                 "name": "URL",
                 "link": "http://212.5.144.156:8080/history/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "History 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/247/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/247/index.m3u8"
             }
         ]
     },
@@ -2082,6 +1998,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History&code=us&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 322,
+        "name": "History USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/322/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/322/"
             }
         ]
     },

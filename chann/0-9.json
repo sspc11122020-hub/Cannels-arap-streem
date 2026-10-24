@@ -168,6 +168,20 @@
         ]
     },
     {
+        "id": 521,
+        "name": "#Vamos ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/521/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/521/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "+MaisUm (720p)",
         "servers": [
@@ -435,20 +449,6 @@
     },
     {
         "id": null,
-        "name": "13 Ulica (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/325/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/325/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "13C (1080p)",
         "servers": [
             {
@@ -672,16 +672,16 @@
         ]
     },
     {
-        "id": null,
-        "name": "2+2 Marathon (1080p)",
+        "id": 5,
+        "name": "2+2 Ukrain",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8"
+                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
@@ -2016,6 +2016,20 @@
         ]
     },
     {
+        "id": 147,
+        "name": "5Stars Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/147/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/147/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "5tv",
         "servers": [
@@ -2096,20 +2110,6 @@
             {
                 "name": "URL",
                 "link": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "6ter (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://145.239.5.177/314/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://145.239.5.177/314/index.m3u8"
             }
         ]
     },
@@ -2348,6 +2348,20 @@
             {
                 "name": "URL",
                 "link": "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "7X Music (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn2.in/7xPunjabihls/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn2.in/7xPunjabihls/live.m3u8"
             }
         ]
     },
@@ -2688,16 +2702,44 @@
         ]
     },
     {
-        "id": 15,
+        "id": 171,
         "name": "ŠTV 1 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/15/"
+                "link": "https://tvnow247.top/embed/171/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/15/"
+                "link": "https://tvnow247.top/embed/171/"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "ŠTV 2 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/11/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/11/"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "ŠTV 3 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
             }
         ]
     }

@@ -1443,6 +1443,20 @@
     },
     {
         "id": null,
+        "name": "India Talkies (360p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "India Today (720p)",
         "servers": [
             {
@@ -1540,16 +1554,16 @@
         ]
     },
     {
-        "id": 8,
+        "id": 1,
         "name": "Indosiar",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8/"
+                "link": "https://tvnow247.top/embed/1/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/8/"
+                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },
@@ -2152,20 +2166,6 @@
             {
                 "name": "URL",
                 "link": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Investigation Discovery (Poland) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/239/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/239/index.m3u8"
             }
         ]
     },
@@ -3172,6 +3172,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201&code=gb&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "name": "ITV 1 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/350/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/350/"
             }
         ]
     },

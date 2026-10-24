@@ -225,6 +225,20 @@
     },
     {
         "id": null,
+        "name": "Nanaksar Live (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nanchang News & Generalist Channel",
         "servers": [
             {
@@ -1978,6 +1992,20 @@
         ]
     },
     {
+        "id": 753,
+        "name": "NBCS Bay Area USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/753/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/753/"
+            }
+        ]
+    },
+    {
         "id": 755,
         "name": "NBCS California USA",
         "servers": [
@@ -2632,20 +2660,6 @@
             {
                 "name": "URL",
                 "link": "https://watch.haitilive.net/naktvhd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 5000,
-        "name": "Netflix",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5000/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5000/"
             }
         ]
     },
@@ -4190,6 +4204,20 @@
         ]
     },
     {
+        "id": 663,
+        "name": "NHL Network USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/663/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/663/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "NHL UHD US",
         "servers": [
@@ -4340,20 +4368,6 @@
             {
                 "name": "URL",
                 "link": "http://212.5.144.156:8080/nickjr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nick Jr. (United States) East HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://107.167.16.138/nickjr/index.m3u8?token=test"
-            },
-            {
-                "name": "URL",
-                "link": "http://107.167.16.138/nickjr/index.m3u8?token=test"
             }
         ]
     },
@@ -5351,20 +5365,6 @@
     },
     {
         "id": null,
-        "name": "Nollywood TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://145.239.5.177/148/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://145.239.5.177/148/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NonStop Kung Fu",
         "servers": [
             {
@@ -5882,44 +5882,58 @@
         ]
     },
     {
-        "id": null,
+        "id": 1023,
         "name": "Nova Sport 3 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/1023/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203&code=cz&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/1023/"
             }
         ]
     },
     {
-        "id": 1025,
+        "id": 1024,
+        "name": "Nova Sport 4 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1024/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1024/"
+            }
+        ]
+    },
+    {
+        "id": 1061,
+        "name": "Nova Sport 4 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1061/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1061/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nova Sport 5 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1025/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205&code=cz&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1025/"
-            }
-        ]
-    },
-    {
-        "id": 1062,
-        "name": "Nova Sport 5 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205&code=cz&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5948,6 +5962,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport&code=bg&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "name": "Nova Sport Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/468/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/468/"
             }
         ]
     },
@@ -5994,20 +6022,6 @@
         ]
     },
     {
-        "id": 635,
-        "name": "Nova Sports 5 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/635/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/635/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Nova Sports News GR",
         "servers": [
@@ -6022,6 +6036,20 @@
         ]
     },
     {
+        "id": 599,
+        "name": "Nova Sports Premier League Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/599/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/599/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Nova Sports Prime GR",
         "servers": [
@@ -6032,6 +6060,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime&code=gr&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3023,
+        "name": "Nova Sports Prime Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3023/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3023/"
             }
         ]
     },
@@ -6391,11 +6433,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://145.239.5.177/215/index.m3u8"
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811"
             },
             {
                 "name": "URL",
-                "link": "http://145.239.5.177/215/index.m3u8"
+                "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811"
             }
         ]
     },

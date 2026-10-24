@@ -113,15 +113,15 @@
     },
     {
         "id": null,
-        "name": "Kabaddi 24x7 (576p)",
+        "name": "Kabaddi 24x7 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://180.188.254.253/live/KABADDI24X7.m3u8"
+                "link": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://180.188.254.253/live/KABADDI24X7.m3u8"
+                "link": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8"
             }
         ]
     },
@@ -458,6 +458,20 @@
             {
                 "name": "URL",
                 "link": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Kanal 1 Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/16/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/16/"
             }
         ]
     },
@@ -1708,16 +1722,30 @@
         ]
     },
     {
-        "id": 217,
+        "id": 169,
+        "name": "KHL Prime",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/169/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/169/"
+            }
+        ]
+    },
+    {
+        "id": 170,
         "name": "KHL Tv",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/217/"
+                "link": "https://tvnow247.top/embed/170/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/217/"
+                "link": "https://tvnow247.top/embed/170/"
             }
         ]
     },
@@ -1998,34 +2026,6 @@
             {
                 "name": "URL",
                 "link": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kino Polska (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/238/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/238/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kino Polska Muzyka (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.231.171:8080/237/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.231.171:8080/237/index.m3u8"
             }
         ]
     },
@@ -3151,15 +3151,15 @@
     },
     {
         "id": null,
-        "name": "KTO (504p)",
+        "name": "KTO (404p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://145.239.5.177/354/index.m3u8"
+                "link": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://145.239.5.177/354/index.m3u8"
+                "link": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8"
             }
         ]
     },
@@ -3300,6 +3300,20 @@
             {
                 "name": "URL",
                 "link": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "KTV Sport",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/17/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/17/"
             }
         ]
     },

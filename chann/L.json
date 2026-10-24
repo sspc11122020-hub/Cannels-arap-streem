@@ -659,15 +659,15 @@
     },
     {
         "id": null,
-        "name": "La Trois (1080p)",
+        "name": "La Trois (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://145.239.5.177/330/index.m3u8"
+                "link": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             },
             {
                 "name": "URL",
-                "link": "http://145.239.5.177/330/index.m3u8"
+                "link": "http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             }
         ]
     },
@@ -677,11 +677,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://145.239.5.177/329/index.m3u8"
+                "link": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             },
             {
                 "name": "URL",
-                "link": "http://145.239.5.177/329/index.m3u8"
+                "link": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg"
             }
         ]
     },
@@ -1032,6 +1032,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 539,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/539/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/539/"
             }
         ]
     },
@@ -1633,11 +1647,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://145.239.5.177/368/index.m3u8"
+                "link": "http://151.80.18.177:86/LCI_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://145.239.5.177/368/index.m3u8"
+                "link": "http://151.80.18.177:86/LCI_HD/index.m3u8"
             }
         ]
     },
@@ -2526,6 +2540,20 @@
             {
                 "name": "URL3",
                 "link": "https://104game.click/player/3/18"
+            }
+        ]
+    },
+    {
+        "id": 960,
+        "name": "Ligue1+ France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/960/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/960/"
             }
         ]
     },
