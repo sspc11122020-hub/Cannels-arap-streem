@@ -2381,15 +2381,15 @@
     },
     {
         "id": null,
-        "name": "Rai Gulp (576p)",
+        "name": "Rai Gulp (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953"
+                "link": "http://5.180.164.197:8080/RAIGULP/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953"
+                "link": "http://5.180.164.197:8080/RAIGULP/index.m3u8"
             }
         ]
     },
@@ -2460,6 +2460,20 @@
             {
                 "name": "URL",
                 "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+            }
+        ]
+    },
+    {
+        "id": 880,
+        "name": "Rai Sport Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/880/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/880/"
             }
         ]
     },
@@ -3752,20 +3766,6 @@
         ]
     },
     {
-        "id": 840,
-        "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
-    },
-    {
         "id": 839,
         "name": "RDS CA",
         "servers": [
@@ -4840,20 +4840,6 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 293,
-        "name": "Reelz USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/293/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/293/"
             }
         ]
     },
@@ -6244,6 +6230,20 @@
         ]
     },
     {
+        "id": 119,
+        "name": "RMC Sport 1 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/119/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/119/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RMC Sport 2 FR",
         "servers": [
@@ -6254,6 +6254,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202&code=fr&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "RMC Sport 2 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/120/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/120/"
             }
         ]
     },
@@ -7438,16 +7452,16 @@
         ]
     },
     {
-        "id": 740,
+        "id": null,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -7742,6 +7756,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201&code=pt&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 720,
+        "name": "RTP 2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
             }
         ]
     },

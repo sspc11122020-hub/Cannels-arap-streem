@@ -1667,6 +1667,20 @@
     },
     {
         "id": null,
+        "name": "Info TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Informatia TV",
         "servers": [
             {
@@ -2278,6 +2292,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_ION/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 325,
+        "name": "ION USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/325/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/325/"
             }
         ]
     },
