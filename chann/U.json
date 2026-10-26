@@ -224,20 +224,6 @@
         ]
     },
     {
-        "id": 163,
-        "name": "UFC Fight Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/163/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/163/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "UFC Fight Pass 24/7",
         "servers": [
@@ -1223,11 +1209,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Universal%20Kids&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Universal%20Kids%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Universal%20Kids&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Universal%20Kids%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1317,6 +1303,20 @@
     },
     {
         "id": null,
+        "name": "Univision CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Univision East HD (1080p)",
         "servers": [
             {
@@ -1368,20 +1368,6 @@
             {
                 "name": "URL",
                 "link": "http://45.6.4.35/TELENOVELAS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Univision US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1554,30 +1540,30 @@
         ]
     },
     {
-        "id": 222,
+        "id": 184,
         "name": "UPL.TV1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/222/"
+                "link": "https://tvnow247.top/embed/184/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/222/"
+                "link": "https://tvnow247.top/embed/184/"
             }
         ]
     },
     {
-        "id": 68,
+        "id": 185,
         "name": "UPL.TV2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/68/"
+                "link": "https://tvnow247.top/embed/185/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/68/"
+                "link": "https://tvnow247.top/embed/185/"
             }
         ]
     },
@@ -1741,11 +1727,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1905,15 +1891,15 @@
     },
     {
         "id": null,
-        "name": "UTV (Romania) (576p)",
+        "name": "UTV (Romania) HD (1080i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0"
+                "link": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-kapital/live_hq?offsetSeconds=0"
+                "link": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8"
             }
         ]
     },

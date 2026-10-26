@@ -253,6 +253,20 @@
     },
     {
         "id": null,
+        "name": "Hallmark Channel US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Hallmark%20Channel%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Hallmark%20Channel%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Hallmark Movies & More (1080p)",
         "servers": [
             {
@@ -267,15 +281,15 @@
     },
     {
         "id": null,
-        "name": "Hallmark US",
+        "name": "Halloween Non Stop (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Hallmark&code=us&user=cdnlivetv&plan=free"
+                "link": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Hallmark&code=us&user=cdnlivetv&plan=free"
+                "link": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
             }
         ]
     },
@@ -841,6 +855,20 @@
     },
     {
         "id": null,
+        "name": "HBO FHD PL [Multi-Audio]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO%20FHD%20PL%20%5BMulti-Audio%5D&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO%20FHD%20PL%20%5BMulti-Audio%5D&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Hits (720p)",
         "servers": [
             {
@@ -878,20 +906,6 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/uionhys2-461"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=HBO&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1919,15 +1933,15 @@
     },
     {
         "id": null,
-        "name": "History TV18 (576p)",
+        "name": "History TV18 HD (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls"
+                "link": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a00y/index.m3u8?hls"
+                "link": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8"
             }
         ]
     },
@@ -1951,11 +1965,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -2530,6 +2544,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hogar TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.61.47.54:8000/play/a01n/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.61.47.54:8000/play/a01n/index.m3u8"
             }
         ]
     },
@@ -3165,20 +3193,6 @@
     },
     {
         "id": null,
-        "name": "Houston Astros US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Houston%20Astros&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Houston%20Astros&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HOY Infotainment (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -3598,44 +3612,72 @@
         ]
     },
     {
-        "id": 3009,
+        "id": 18,
         "name": "Hub Premier 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3009/"
+                "link": "https://tvnow247.top/embed/18/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3009/"
+                "link": "https://tvnow247.top/embed/18/"
             }
         ]
     },
     {
-        "id": 3006,
+        "id": 3032,
         "name": "Hub Premier 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3006/"
+                "link": "https://tvnow247.top/embed/3032/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3006/"
+                "link": "https://tvnow247.top/embed/3032/"
             }
         ]
     },
     {
-        "id": 3005,
+        "id": 3033,
         "name": "Hub Premier 3",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3005/"
+                "link": "https://tvnow247.top/embed/3033/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3005/"
+                "link": "https://tvnow247.top/embed/3033/"
+            }
+        ]
+    },
+    {
+        "id": 3034,
+        "name": "Hub Premier 4",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3034/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3034/"
+            }
+        ]
+    },
+    {
+        "id": 3031,
+        "name": "Hub Premier 5",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3031/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3031/"
             }
         ]
     },

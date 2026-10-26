@@ -127,20 +127,6 @@
     },
     {
         "id": null,
-        "name": "Oakland Athletics US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Oakland%20Athletics&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Oakland%20Athletics&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "OAN Plus (1080p)",
         "servers": [
             {
@@ -1499,6 +1485,20 @@
     },
     {
         "id": null,
+        "name": "ON O2TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=136"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "On The Case",
         "servers": [
             {
@@ -1709,29 +1709,29 @@
     },
     {
         "id": null,
-        "name": "ONE 1 IL",
+        "name": "ONE 1 HD IL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%201&code=il&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%201%20HD%20IL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%201&code=il&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%201%20HD%20IL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "ONE 2 IL",
+        "name": "ONE 2 HD IL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%202&code=il&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%202%20HD%20IL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%202&code=il&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ONE%202%20HD%20IL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1988,48 +1988,6 @@
         ]
     },
     {
-        "id": 3043,
-        "name": "OnePlay MD2 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3043/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3043/"
-            }
-        ]
-    },
-    {
-        "id": 3044,
-        "name": "OnePlay MD3 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3044/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3044/"
-            }
-        ]
-    },
-    {
-        "id": 3041,
-        "name": "OnePlay MD4 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3041/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3041/"
-            }
-        ]
-    },
-    {
         "id": 1027,
         "name": "Oneplay Sport 1 CZ",
         "servers": [
@@ -2044,16 +2002,16 @@
         ]
     },
     {
-        "id": 3042,
-        "name": "Oneplay Sport 2 CZ",
+        "id": 3041,
+        "name": "Oneplay Sport 3 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3042/"
+                "link": "https://tvnow247.top/embed/3041/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3042/"
+                "link": "https://tvnow247.top/embed/3041/"
             }
         ]
     },

@@ -785,34 +785,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic (India) (576p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
-            },
-            {
-                "name": "URL",
-                "link": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "National Geographic (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic (Mexico) (1080p)",
         "servers": [
             {
@@ -883,6 +855,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic FHD UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=National%20Geographic%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=National%20Geographic%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic Latin America (1080p)",
         "servers": [
             {
@@ -897,20 +883,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=National%20Geographic&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=National%20Geographic&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic Wild (Bulgaria) (1080p)",
         "servers": [
             {
@@ -920,20 +892,6 @@
             {
                 "name": "URL",
                 "link": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "National Geographic Wild (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8"
             }
         ]
     },
@@ -1345,15 +1303,15 @@
     },
     {
         "id": null,
-        "name": "NBA TV US",
+        "name": "NBA TV FHD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1629,15 +1587,15 @@
     },
     {
         "id": null,
-        "name": "NBC Universo US",
+        "name": "NBC Universo UHD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Universo&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Universo%20UHD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Universo&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Universo%20UHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1647,11 +1605,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1992,20 +1950,6 @@
         ]
     },
     {
-        "id": 753,
-        "name": "NBCS Bay Area USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/753/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/753/"
-            }
-        ]
-    },
-    {
         "id": 755,
         "name": "NBCS California USA",
         "servers": [
@@ -2021,7 +1965,7 @@
     },
     {
         "id": 777,
-        "name": "NBCS Philadelphia",
+        "name": "NBCS Philadelphia USA",
         "servers": [
             {
                 "name": "Main Server",
@@ -2608,20 +2552,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "NESN US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NESN&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NESN&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 762,
         "name": "NESN USA",
         "servers": [
@@ -2632,6 +2562,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/762/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NESN+ HD US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -2786,34 +2730,6 @@
             {
                 "name": "URL",
                 "link": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "New York Mets US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=New%20York%20Mets&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=New%20York%20Mets&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "New York Yankees US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=New%20York%20Yankees&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=New%20York%20Yankees&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3952,6 +3868,20 @@
         ]
     },
     {
+        "id": 3038,
+        "name": "NFL Game Pass",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3038/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3038/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "NFL Network",
         "servers": [
@@ -3981,15 +3911,71 @@
     },
     {
         "id": null,
-        "name": "NFL Network US",
+        "name": "NFL Network HD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "name": "NFL Network USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/405/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/405/"
+            }
+        ]
+    },
+    {
+        "id": 4042,
+        "name": "NFL Redzone",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4042/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4042/"
+            }
+        ]
+    },
+    {
+        "id": 667,
+        "name": "NFL Redzone Feed",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/667/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/667/"
+            }
+        ]
+    },
+    {
+        "id": 3039,
+        "name": "NFL Sunday Ticket",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3039/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3039/"
             }
         ]
     },
@@ -4107,20 +4093,6 @@
     },
     {
         "id": null,
-        "name": "NHK General TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://nhk4.mov3.co/hls/nhk.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://nhk4.mov3.co/hls/nhk.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NHK World Premium (720p)",
         "servers": [
             {
@@ -4158,20 +4130,6 @@
             {
                 "name": "URL",
                 "link": "https://freem3u.xyz/api/live/play.m3u8?vid=106"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NHL | ANAHEIM DUCKS US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20%7C%20ANAHEIM%20DUCKS&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20%7C%20ANAHEIM%20DUCKS&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4219,43 +4177,15 @@
     },
     {
         "id": null,
-        "name": "NHL Network US",
+        "name": "NHL Network HD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20Network&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 663,
-        "name": "NHL Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/663/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/663/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NHL UHD US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20UHD%20US&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20UHD%20US&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4821,15 +4751,15 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon TV US",
+        "name": "Nickelodeon US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nickelodeon%20TV&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nickelodeon%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nickelodeon%20TV&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nickelodeon%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5910,30 +5840,30 @@
         ]
     },
     {
-        "id": 1021,
-        "name": "Nova Sport 1 CZ",
+        "id": null,
+        "name": "Nova News HD BG",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1021/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20News%20HD%20BG&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1021/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20News%20HD%20BG&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 1022,
-        "name": "Nova Sport 2 CZ",
+        "id": 1021,
+        "name": "Nova SPORT 1 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1022/"
+                "link": "https://tvnow247.top/embed/1021/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1022/"
+                "link": "https://tvnow247.top/embed/1021/"
             }
         ]
     },
@@ -5948,6 +5878,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/1023/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nova Sport 3 HD GR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203%20HD%20GR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5994,30 +5938,16 @@
         ]
     },
     {
-        "id": 1025,
-        "name": "Nova Sport 5 CZ",
+        "id": null,
+        "name": "Nova Sport 5 HD GR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1025/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1025/"
-            }
-        ]
-    },
-    {
-        "id": 1062,
-        "name": "Nova Sport 5 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6036,20 +5966,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Nova Sport BG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport&code=bg&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 468,
         "name": "Nova Sport Bulgaria",
         "servers": [
@@ -6060,6 +5976,34 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/468/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nova Sport HD BG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20HD%20BG&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20HD%20BG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nova Sport Start HD GR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20Start%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20Start%20HD%20GR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6134,20 +6078,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Nova Sports News GR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20News&code=gr&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20News&code=gr&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 599,
         "name": "Nova Sports Premier League Greece",
         "servers": [
@@ -6163,15 +6093,15 @@
     },
     {
         "id": null,
-        "name": "Nova Sports Prime GR",
+        "name": "Nova Sports Prime FHD GR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime&code=gr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime%20FHD%20GR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime&code=gr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime%20FHD%20GR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6186,20 +6116,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/3024/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Nova Sports Start GR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Start&code=gr&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Start&code=gr&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6303,6 +6219,20 @@
     },
     {
         "id": null,
+        "name": "NOVO19",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://149.62.177.107:9999/NOVO19/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://149.62.177.107:9999/NOVO19/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Novoe televidenie (576p)",
         "servers": [
             {
@@ -6326,6 +6256,20 @@
             {
                 "name": "URL",
                 "link": "http://31.131.139.253:9002/novoros/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NOW (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8"
             }
         ]
     },

@@ -210,20 +210,6 @@
         ]
     },
     {
-        "id": 1051,
-        "name": "Dajto",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1051/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1051/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Dali TV (720p)",
         "servers": [
@@ -546,16 +532,16 @@
         ]
     },
     {
-        "id": 739,
-        "name": "Das Erste DE",
+        "id": null,
+        "name": "Das Erste FHD DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/739/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Das%20Erste%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/739/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Das%20Erste%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -729,29 +715,29 @@
     },
     {
         "id": null,
-        "name": "DAZN 1 DE",
+        "name": "DAZN 1 FHD DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "DAZN 1 GB",
+        "name": "DAZN 1 FHD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%201%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -827,15 +813,29 @@
     },
     {
         "id": null,
-        "name": "DAZN 2 DE",
+        "name": "DAZN 2 FHD DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20DE&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DAZN 2 FHD PT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20PT&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -855,20 +855,6 @@
     },
     {
         "id": null,
-        "name": "DAZN 2 PT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=pt&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%202&code=pt&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DAZN 2 Spain",
         "servers": [
             {
@@ -883,71 +869,71 @@
     },
     {
         "id": null,
-        "name": "DAZN 3 PT",
+        "name": "DAZN 3 FHD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%203&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%203%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%203&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%203%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "DAZN 4 PT",
+        "name": "DAZN 4 FHD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "DAZN 5 PT",
+        "name": "DAZN 5 FHD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%205&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%205%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%205&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%205%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "DAZN 6 PT",
+        "name": "DAZN 6 FHD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%206%20FHD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 227,
+        "id": 193,
         "name": "DAZN Baloncesto",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/227/"
+                "link": "https://tvnow247.top/embed/193/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/227/"
+                "link": "https://tvnow247.top/embed/193/"
             }
         ]
     },
@@ -988,6 +974,20 @@
         ]
     },
     {
+        "id": 194,
+        "name": "DAZN Baloncesto 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/194/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/194/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "dazn baloncesto 3",
         "servers": [
@@ -1006,16 +1006,16 @@
         ]
     },
     {
-        "id": 209,
-        "name": "DAZN CA",
+        "id": 195,
+        "name": "DAZN Baloncesto 3",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/209/"
+                "link": "https://tvnow247.top/embed/195/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/209/"
+                "link": "https://tvnow247.top/embed/195/"
             }
         ]
     },
@@ -1044,6 +1044,62 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 455,
+        "name": "DAZN Eleven 1 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/455/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/455/"
+            }
+        ]
+    },
+    {
+        "id": 456,
+        "name": "DAZN Eleven 2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/456/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/456/"
+            }
+        ]
+    },
+    {
+        "id": 457,
+        "name": "DAZN Eleven 3 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/457/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/457/"
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "name": "DAZN Eleven 4 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/458/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/458/"
             }
         ]
     },
@@ -1077,6 +1133,20 @@
     },
     {
         "id": null,
+        "name": "DAZN F1 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "DAZN Heldinnen x Pluto TV",
         "servers": [
             {
@@ -1090,30 +1160,58 @@
         ]
     },
     {
-        "id": 107,
+        "id": 109,
         "name": "DAZN IT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/107/"
+                "link": "https://tvnow247.top/embed/109/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/107/"
+                "link": "https://tvnow247.top/embed/109/"
             }
         ]
     },
     {
-        "id": 77,
+        "id": 158,
         "name": "DAZN Italia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/77/"
+                "link": "https://tvnow247.top/embed/158/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/77/"
+                "link": "https://tvnow247.top/embed/158/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DAZN La Liga 2 HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20La%20Liga%202%20HD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20La%20Liga%202%20HD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DAZN La Liga HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20La%20Liga%20HD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20La%20Liga%20HD&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1128,48 +1226,6 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/fw2jrum9-448"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DAZN LaLiga 2 ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DAZN LaLiga ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 918,
-        "name": "DAZN MotoGP ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/918/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/918/"
             }
         ]
     },
@@ -1198,6 +1254,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/3050/"
+            }
+        ]
+    },
+    {
+        "id": 3006,
+        "name": "DAZN UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3006/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3006/"
             }
         ]
     },
@@ -1244,86 +1314,58 @@
         ]
     },
     {
-        "id": 455,
-        "name": "DAZN1 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/455/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/455/"
-            }
-        ]
-    },
-    {
-        "id": 445,
+        "id": 3028,
         "name": "DAZN1 Spain",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/445/"
+                "link": "https://tvnow247.top/embed/3028/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/445/"
+                "link": "https://tvnow247.top/embed/3028/"
             }
         ]
     },
     {
-        "id": 456,
-        "name": "DAZN2 Portugal",
+        "id": 427,
+        "name": "DAZN2 DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/456/"
+                "link": "https://tvnow247.top/embed/427/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/456/"
+                "link": "https://tvnow247.top/embed/427/"
             }
         ]
     },
     {
-        "id": 446,
+        "id": 3029,
         "name": "DAZN2 Spain",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/446/"
+                "link": "https://tvnow247.top/embed/3029/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/446/"
+                "link": "https://tvnow247.top/embed/3029/"
             }
         ]
     },
     {
-        "id": 457,
-        "name": "DAZN3 Portugal",
+        "id": 448,
+        "name": "DAZN4 Spain",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/457/"
+                "link": "https://tvnow247.top/embed/448/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/457/"
-            }
-        ]
-    },
-    {
-        "id": 458,
-        "name": "DAZN4 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/458/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/458/"
+                "link": "https://tvnow247.top/embed/448/"
             }
         ]
     },
@@ -3031,20 +3073,6 @@
     },
     {
         "id": null,
-        "name": "Detroit Tigers US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Detroit%20Tigers&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Detroit%20Tigers&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Detskiy (576p)",
         "servers": [
             {
@@ -3082,6 +3110,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DG:TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mdn.dg.church/673ac57a073a4-1/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mdn.dg.church/673ac57a073a4-1/index.m3u8"
             }
         ]
     },
@@ -3352,20 +3394,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Diema Sport 2 BG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%202&code=bg&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%202&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 466,
         "name": "Diema Sport 2 Bulgaria",
         "servers": [
@@ -3381,15 +3409,15 @@
     },
     {
         "id": null,
-        "name": "Diema Sport 3 BG",
+        "name": "Diema Sport 2 HD BG",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203&code=bg&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%202%20HD%20BG&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203&code=bg&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%202%20HD%20BG&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3408,16 +3436,30 @@
         ]
     },
     {
-        "id": 3048,
+        "id": null,
+        "name": "Diema Sport 3 FHD BG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203%20FHD%20BG&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203%20FHD%20BG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 465,
         "name": "Diema Sport Bulgaria",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3048/"
+                "link": "https://tvnow247.top/embed/465/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3048/"
+                "link": "https://tvnow247.top/embed/465/"
             }
         ]
     },
@@ -3521,15 +3563,15 @@
     },
     {
         "id": null,
-        "name": "Digi Sport 1 RO",
+        "name": "Digi Sport 1 FHD RO",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%201%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3549,6 +3591,20 @@
     },
     {
         "id": null,
+        "name": "Digi Sport 2 FHD RO",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202%20FHD%20RO&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202%20FHD%20RO&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Digi Sport 2 HD (1080i)",
         "servers": [
             {
@@ -3558,20 +3614,6 @@
             {
                 "name": "URL",
                 "link": "https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Digi Sport 2 RO",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202&code=ro&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%202&code=ro&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3591,15 +3633,15 @@
     },
     {
         "id": null,
-        "name": "Digi Sport 3 RO",
+        "name": "Digi Sport 3 HD RO",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%203&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%203%20HD%20RO&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%203&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%203%20HD%20RO&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3619,15 +3661,15 @@
     },
     {
         "id": null,
-        "name": "Digi Sport 4 RO",
+        "name": "Digi Sport 4 FHD RO",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4037,6 +4079,20 @@
     },
     {
         "id": null,
+        "name": "Discovery Channel FHD UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Discovery%20Channel%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Discovery%20Channel%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Discovery Channel Latin America (1080p)",
         "servers": [
             {
@@ -4046,20 +4102,6 @@
             {
                 "name": "URL",
                 "link": "http://45.171.64.30:6060/play/a032/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Discovery Channel US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Discovery%20Channel&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Discovery%20Channel&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4503,11 +4545,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Disney%20Channel&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Disney%20Channel%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Disney%20Channel&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Disney%20Channel%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5773,6 +5815,34 @@
     },
     {
         "id": null,
+        "name": "DR 1 HD DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20DK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20DK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DR 2 HD DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR%202%20HD%20DK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR%202%20HD%20DK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Dr G Medical Examiner",
         "servers": [
             {
@@ -5843,20 +5913,6 @@
     },
     {
         "id": null,
-        "name": "DR1 DK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR1&code=dk&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR1&code=dk&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DR2 (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -5866,20 +5922,6 @@
             {
                 "name": "URL",
                 "link": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DR2 DK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR2&code=dk&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DR2&code=dk&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6748,6 +6790,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "name": "DYN DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/197/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/197/"
             }
         ]
     },

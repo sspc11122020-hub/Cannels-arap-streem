@@ -2283,6 +2283,20 @@
     },
     {
         "id": null,
+        "name": "Golf Channel FHD US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Golf Channel Latin America (1080p)",
         "servers": [
             {
@@ -2306,20 +2320,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/318/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "GOLF TV US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=GOLF%20TV&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=GOLF%20TV&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },

@@ -15,20 +15,6 @@
     },
     {
         "id": null,
-        "name": ":NHL  11 US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=%3ANHL%20%2011&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=%3ANHL%20%2011&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "¡OPA! (720p)",
         "servers": [
             {
@@ -477,20 +463,6 @@
     },
     {
         "id": null,
-        "name": "13Rec (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.4.1.201:8000/play/a11i/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.4.1.201:8000/play/a11i/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "13T (720p)",
         "servers": [
             {
@@ -701,21 +673,7 @@
     },
     {
         "id": null,
-        "name": "24 Horas (Chile) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://187.102.208.209:8000/play/a0a1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://187.102.208.209:8000/play/a0a1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "24 Horas (Spain) (720p)",
+        "name": "24 Horas (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2716,44 +2674,30 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "ŠTV 1 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
+                "link": "https://tvnow247.top/embed/6/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
+                "link": "https://tvnow247.top/embed/6/"
             }
         ]
     },
     {
-        "id": 4,
+        "id": 8,
         "name": "ŠTV 2 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
+                "link": "https://tvnow247.top/embed/8/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "ŠTV 3 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/6/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/6/"
+                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },
@@ -2768,6 +2712,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/395/"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "name": "МАТЧ! СТРАНА",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/200/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/200/"
             }
         ]
     }

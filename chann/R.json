@@ -1429,6 +1429,20 @@
     },
     {
         "id": null,
+        "name": "Radio Romania Iasi (576i) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Romania Oltenia-Craiova (576p) [Not 24/7]",
         "servers": [
             {
@@ -2324,6 +2338,20 @@
         ]
     },
     {
+        "id": 851,
+        "name": "RAI 2 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/851/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/851/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Rai 3 (1080p)",
         "servers": [
@@ -2334,6 +2362,62 @@
             {
                 "name": "URL",
                 "link": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai 3 BIS FJK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai 3 Friuli Venezia Giulia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai 3 Trentino-Alto Adige Bolzano",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai 3 Trentino-Alto Adige Trento",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8"
             }
         ]
     },
@@ -2464,16 +2548,16 @@
         ]
     },
     {
-        "id": 880,
-        "name": "Rai Sport Italy",
+        "id": 882,
+        "name": "Rai Sport 1 Italy",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/880/"
+                "link": "https://tvnow247.top/embed/882/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/880/"
+                "link": "https://tvnow247.top/embed/882/"
             }
         ]
     },
@@ -3235,6 +3319,20 @@
     },
     {
         "id": null,
+        "name": "Ranchenato TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.78.12.119:16123/play/ch15/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.78.12.119:16123/play/ch15/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rang (576p)",
         "servers": [
             {
@@ -3766,6 +3864,20 @@
         ]
     },
     {
+        "id": 840,
+        "name": "RDS 2 CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
+    },
+    {
         "id": 839,
         "name": "RDS CA",
         "servers": [
@@ -3907,15 +4019,15 @@
     },
     {
         "id": null,
-        "name": "Real Madrid TV ES",
+        "name": "Real Madrid TV. ES",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV.%20ES&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV.%20ES&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4299,6 +4411,20 @@
     },
     {
         "id": null,
+        "name": "Red Bull TV FHD UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Red%20Bull%20TV%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Red%20Bull%20TV%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Red Bull TV SD (1080p)",
         "servers": [
             {
@@ -4336,20 +4462,6 @@
             {
                 "name": "URL",
                 "link": "https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Red Bull US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Red%20Bull&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Red%20Bull&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6049,15 +6161,15 @@
     },
     {
         "id": null,
-        "name": "Ring BG",
+        "name": "Ring HD BG",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ring&code=bg&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ring%20HD%20BG&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ring&code=bg&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ring%20HD%20BG&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6217,57 +6329,29 @@
     },
     {
         "id": null,
-        "name": "RMC Sport 1 FR",
+        "name": "RMC Sport 1 HD FR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201&code=fr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201&code=fr&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 119,
-        "name": "RMC Sport 1 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/119/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/119/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "RMC Sport 2 FR",
+        "name": "RMC Sport 2 HD FR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202&code=fr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202%20HD%20FR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202&code=fr&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 120,
-        "name": "RMC Sport 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/120/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/120/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%202%20HD%20FR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -7452,16 +7536,30 @@
         ]
     },
     {
-        "id": null,
+        "id": 740,
         "name": "RTL DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL&code=de&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/740/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTL FHD DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTL%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -7747,15 +7845,15 @@
     },
     {
         "id": null,
-        "name": "RTP 1 PT",
+        "name": "RTP 1 HD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20HD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20HD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8726,6 +8824,20 @@
         ]
     },
     {
+        "id": 1,
+        "name": "RTVS Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTVS1",
         "servers": [
@@ -8946,6 +9058,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.5.241/kanal_21/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Russia 1 RU",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Russia%201%20RU&code=ru&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Russia%201%20RU&code=ru&user=cdnlivetv&plan=free"
             }
         ]
     },

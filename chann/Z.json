@@ -299,29 +299,29 @@
     },
     {
         "id": null,
-        "name": "ZDF DE",
+        "name": "ZDF FHD DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20FHD%20DE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "ZDF Info DE",
+        "name": "ZDF Info HD DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info%20HD%20DE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info&code=de&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ZDF%20Info%20HD%20DE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1068,6 +1068,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Ziggo Sport 2 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%202%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
         "id": 398,
         "name": "Ziggo Sport 2 NL",
         "servers": [
@@ -1078,6 +1092,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/398/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ziggo Sport 3 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%203%20FHD%20NL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1096,6 +1124,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Ziggo Sport 4 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
         "id": 396,
         "name": "Ziggo Sport 4 NL",
         "servers": [
@@ -1110,6 +1152,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Ziggo Sport 5 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
         "id": 383,
         "name": "Ziggo Sport 5 NL",
         "servers": [
@@ -1120,6 +1176,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/383/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Ziggo Sport 6 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%206%20FHD%20NL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1334,30 +1404,16 @@
         ]
     },
     {
-        "id": 218,
+        "id": 181,
         "name": "Zona Serie A",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/218/"
+                "link": "https://tvnow247.top/embed/181/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/218/"
-            }
-        ]
-    },
-    {
-        "id": 217,
-        "name": "Zona Serie B",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/217/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/217/"
+                "link": "https://tvnow247.top/embed/181/"
             }
         ]
     },

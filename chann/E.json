@@ -1373,20 +1373,6 @@
     },
     {
         "id": null,
-        "name": "El Trece (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://15.204.246.24:8080/eltreceHD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://15.204.246.24:8080/eltreceHD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "EL TV",
         "servers": [
             {
@@ -1568,20 +1554,6 @@
         ]
     },
     {
-        "id": 71,
-        "name": "Eleven Sport 1 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/71/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/71/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Eleven Sports 1",
         "servers": [
@@ -1597,15 +1569,29 @@
     },
     {
         "id": null,
-        "name": "Eleven Sports 1 PL",
+        "name": "Eleven Sports 1 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%201&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%201&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Eleven Sports 1 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/71/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/71/"
             }
         ]
     },
@@ -1639,15 +1625,15 @@
     },
     {
         "id": null,
-        "name": "Eleven Sports 2 PL",
+        "name": "Eleven Sports 2 HD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%202&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%202%20HD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%202&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%202%20HD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1695,15 +1681,15 @@
     },
     {
         "id": null,
-        "name": "Eleven Sports 3 PL",
+        "name": "Eleven Sports 3 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%203&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%203%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%203&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%203%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1751,15 +1737,15 @@
     },
     {
         "id": null,
-        "name": "Eleven Sports 4 PL",
+        "name": "Eleven Sports 4 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%204&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%204%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%204&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eleven%20Sports%204%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1858,6 +1844,20 @@
             {
                 "name": "URL",
                 "link": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Elyssa TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tv.elyssatv.com/live/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tv.elyssatv.com/live/master.m3u8"
             }
         ]
     },
@@ -2208,6 +2208,20 @@
             {
                 "name": "URL",
                 "link": "https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Enlace Television (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.78.12.119:16123/play/ch33/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.78.12.119:16123/play/ch33/index.m3u8"
             }
         ]
     },
@@ -2618,6 +2632,20 @@
             {
                 "name": "URL",
                 "link": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "ERT 2 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/9/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/9/"
             }
         ]
     },
@@ -3427,15 +3455,57 @@
     },
     {
         "id": null,
-        "name": "ESPN 2 BR",
+        "name": "ESPN 2 FHD AU",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20AU&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20AU&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN 2 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN 2 FHD US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20FHD%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN 2 HD BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3482,30 +3552,16 @@
         ]
     },
     {
-        "id": 3088,
+        "id": 3089,
         "name": "ESPN 2 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3088/"
+                "link": "https://tvnow247.top/embed/3089/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3088/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ESPN 2 US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202&code=us&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3089/"
             }
         ]
     },
@@ -3539,6 +3595,34 @@
     },
     {
         "id": null,
+        "name": "ESPN 3 FHD BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN 3 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ESPN 3 Latin America (1080p)",
         "servers": [
             {
@@ -3566,16 +3650,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 3088,
         "name": "ESPN 3 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3088/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/3088/"
             }
         ]
     },
@@ -3608,16 +3692,44 @@
         ]
     },
     {
-        "id": null,
-        "name": "ESPN 4 BR",
+        "id": 191,
+        "name": "ESPN 4 Argentina",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204&code=br&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/191/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204&code=br&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/191/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN 4 FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN 4 HD BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3632,20 +3744,6 @@
             {
                 "name": "URL",
                 "link": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ESPN 4 MX",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204&code=mx&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204&code=mx&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3734,20 +3832,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "ESPN AR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=ar&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=ar&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 149,
         "name": "ESPN Argentina",
         "servers": [
@@ -3762,20 +3846,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "ESPN BR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=br&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=br&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 81,
         "name": "ESPN Brasil",
         "servers": [
@@ -3786,6 +3856,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/81/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN Brasil HD BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3827,11 +3911,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3846,6 +3930,48 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=espndeportes"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN FHD ARG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20ARG&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20ARG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN FHD NL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20NL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN HD US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3879,6 +4005,34 @@
     },
     {
         "id": null,
+        "name": "ESPN Latin America Mexico (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://168.228.44.241:9997/play/a06p/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://168.228.44.241:9997/play/a06p/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 925,
+        "name": "ESPN Mexico",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/925/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/925/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ESPN MX",
         "servers": [
             {
@@ -3893,29 +4047,15 @@
     },
     {
         "id": null,
-        "name": "ESPN News US",
+        "name": "ESPN News FHD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20News&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20News%20FHD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20News&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ESPN NL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=nl&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN&code=nl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20News%20FHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3953,20 +4093,6 @@
     },
     {
         "id": null,
-        "name": "ESPN Premium AR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium&code=ar&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium&code=ar&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ESPN Premium Argentina",
         "servers": [
             {
@@ -3981,15 +4107,43 @@
     },
     {
         "id": null,
-        "name": "ESPN U US",
+        "name": "ESPN Premium FHD ARG",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20U&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium%20FHD%20ARG&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20U&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium%20FHD%20ARG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN SEC Network US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20SEC%20Network%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20SEC%20Network%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ESPN U FHD US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20U%20FHD%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20U%20FHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4008,30 +4162,16 @@
         ]
     },
     {
-        "id": 1144,
+        "id": 159,
         "name": "ESPN+ USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1144/"
+                "link": "https://tvnow247.top/embed/159/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1144/"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ESPN+ USA US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%2B%20USA&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%2B%20USA&code=us&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/159/"
             }
         ]
     },
@@ -4118,16 +4258,16 @@
         ]
     },
     {
-        "id": 45,
-        "name": "ESPN2 USA",
+        "id": 926,
+        "name": "ESPN2 Mexico",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/45/"
+                "link": "https://tvnow247.top/embed/926/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/45/"
+                "link": "https://tvnow247.top/embed/926/"
             }
         ]
     },
@@ -4164,6 +4304,20 @@
             {
                 "name": "URL3",
                 "link": "https://104game.click/player/3/89"
+            }
+        ]
+    },
+    {
+        "id": 798,
+        "name": "ESPN3 Argentina",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/798/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/798/"
             }
         ]
     },
@@ -4233,7 +4387,7 @@
     },
     {
         "id": 85,
-        "name": "ESPN4 Brasil",
+        "name": "ESPN4 Brazil",
         "servers": [
             {
                 "name": "Main Server",
@@ -4242,20 +4396,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/85/"
-            }
-        ]
-    },
-    {
-        "id": 928,
-        "name": "ESPN4 Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/928/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/928/"
             }
         ]
     },
@@ -4402,6 +4542,20 @@
         ]
     },
     {
+        "id": 28,
+        "name": "Esport 3 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/28/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/28/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Esport3 (1080p) [Geo-blocked]",
         "servers": [
@@ -4412,6 +4566,20 @@
             {
                 "name": "URL",
                 "link": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "name": "Esport3 (Cataluña)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/190/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/190/"
             }
         ]
     },
@@ -4571,6 +4739,20 @@
     },
     {
         "id": null,
+        "name": "ET Now Swadesh (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ETB 1 (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -4720,6 +4902,20 @@
             {
                 "name": "URL",
                 "link": "https://sb.err.ee/live/etv2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "ETV 2 Estonia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/25/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/25/"
             }
         ]
     },
@@ -5061,76 +5257,6 @@
     },
     {
         "id": null,
-        "name": "Euro Sport 1 BG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=bg&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Euro Sport 1 GB",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=gb&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=gb&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Euro Sport 1 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=it&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%201&code=it&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Euro Sport 2 BG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=bg&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=bg&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Euro Sport 2 GB",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=gb&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Euro%20Sport%202&code=gb&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Euro TV (Greece) (432p)",
         "servers": [
             {
@@ -5438,6 +5564,34 @@
         ]
     },
     {
+        "id": null,
+        "name": "Eurosport 1 FHD PL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eurosport 1 FHD UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
         "id": 772,
         "name": "EuroSport 1 France",
         "servers": [
@@ -5448,6 +5602,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/772/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eurosport 1 HD BG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20BG&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20BG&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5602,6 +5770,34 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/895/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eurosport 2 FHD BG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD%20BG&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD%20BG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eurosport 2 FHD UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5866,58 +6062,30 @@
         ]
     },
     {
-        "id": 1213,
+        "id": 1212,
         "name": "Event SD Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1213/"
+                "link": "https://tvnow247.top/embed/1212/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1213/"
+                "link": "https://tvnow247.top/embed/1212/"
             }
         ]
     },
     {
-        "id": 4121,
+        "id": 5019,
         "name": "Event Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4121/"
+                "link": "https://tvnow247.top/embed/5019/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/4121/"
-            }
-        ]
-    },
-    {
-        "id": 2001,
-        "name": "Event Stream ENG",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2001/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2001/"
-            }
-        ]
-    },
-    {
-        "id": 2003,
-        "name": "Event Stream ESP",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2003/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2003/"
+                "link": "https://tvnow247.top/embed/5019/"
             }
         ]
     },

@@ -561,20 +561,6 @@
     },
     {
         "id": null,
-        "name": "Tampa Bay Rays US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tampa%20Bay%20Rays&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tampa%20Bay%20Rays&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Tamyr (576p)",
         "servers": [
             {
@@ -1135,7 +1121,7 @@
     },
     {
         "id": null,
-        "name": "TBS TV (South Korea) (720p)",
+        "name": "TBS TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1149,15 +1135,15 @@
     },
     {
         "id": null,
-        "name": "TBS US",
+        "name": "TBS UHD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TBS&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TBS%20UHD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TBS&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TBS%20UHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -2101,34 +2087,6 @@
     },
     {
         "id": null,
-        "name": "Tele Posadas (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Tele Posadas SD (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Tele Proyecto TV [Not 24/7]",
         "servers": [
             {
@@ -2787,15 +2745,29 @@
     },
     {
         "id": null,
-        "name": "Teledeporte ES",
+        "name": "Teledeporte FHD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte&code=es&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte&code=es&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 529,
+        "name": "Teledeporte Spain (TDP)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/529/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/529/"
             }
         ]
     },
@@ -3589,6 +3561,20 @@
     },
     {
         "id": null,
+        "name": "Telemundo FHD MX",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Telemundo Internacional (1080p)",
         "servers": [
             {
@@ -3640,20 +3626,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Telemundo US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -5199,43 +5171,43 @@
     },
     {
         "id": null,
-        "name": "Tennis Channel US",
+        "name": "Tennis Channel HD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 1082,
+        "id": 1076,
         "name": "Tennis HD Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1082/"
+                "link": "https://tvnow247.top/embed/1076/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1082/"
+                "link": "https://tvnow247.top/embed/1076/"
             }
         ]
     },
     {
-        "id": 1704,
+        "id": 1680,
         "name": "Tennis Stream",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1704/"
+                "link": "https://tvnow247.top/embed/1680/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1704/"
+                "link": "https://tvnow247.top/embed/1680/"
             }
         ]
     },
@@ -5395,20 +5367,6 @@
     },
     {
         "id": null,
-        "name": "Texas Rangers US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Texas%20Rangers&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Texas%20Rangers&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Tezaur TV (576i)",
         "servers": [
             {
@@ -5436,6 +5394,48 @@
             {
                 "name": "URL3",
                 "link": "https://104game.click/player/3/24"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TF1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://149.62.177.107:9999/TF1/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://149.62.177.107:9999/TF1/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TF1 Series Films",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TFX",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://149.62.177.107:9999/TFX/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://149.62.177.107:9999/TFX/index.m3u8"
             }
         ]
     },
@@ -7078,20 +7078,6 @@
         ]
     },
     {
-        "id": 25,
-        "name": "Thmanyah",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/25/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/25/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Thornton 8 (1080p)",
         "servers": [
@@ -7863,15 +7849,15 @@
     },
     {
         "id": null,
-        "name": "TLC US",
+        "name": "TLC UHD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TLC&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TLC%20UHD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TLC&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TLC%20UHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8021,15 +8007,15 @@
     },
     {
         "id": null,
-        "name": "TMC HD (1080p) [Geo-blocked]",
+        "name": "TMC HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8"
+                "link": "http://149.62.177.107:9999/TMC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8"
+                "link": "http://149.62.177.107:9999/TMC/index.m3u8"
             }
         ]
     },
@@ -8343,15 +8329,15 @@
     },
     {
         "id": null,
-        "name": "TNT BR",
+        "name": "TNT HD BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20HD%20BR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8482,20 +8468,6 @@
         ]
     },
     {
-        "id": 31,
-        "name": "TNT Sport 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/31/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/31/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "TNT sport arg",
         "servers": [
@@ -8529,29 +8501,29 @@
     },
     {
         "id": null,
-        "name": "TNT Sports 1 GB",
+        "name": "TNT Sports 1 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 3001,
+        "id": 31,
         "name": "TNT Sports 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/31/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/31/"
             }
         ]
     },
@@ -8571,29 +8543,29 @@
     },
     {
         "id": null,
-        "name": "TNT Sports 2 GB",
+        "name": "TNT Sports 2 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 3002,
+        "id": 32,
         "name": "TNT Sports 2 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3002/"
+                "link": "https://tvnow247.top/embed/32/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3002/"
+                "link": "https://tvnow247.top/embed/32/"
             }
         ]
     },
@@ -8613,15 +8585,15 @@
     },
     {
         "id": null,
-        "name": "TNT Sports 3 GB",
+        "name": "TNT Sports 3 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8655,85 +8627,71 @@
     },
     {
         "id": null,
-        "name": "TNT Sports 4 GB",
+        "name": "TNT Sports 4 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%204%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 3004,
+        "id": 34,
         "name": "TNT Sports 4 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3004/"
+                "link": "https://tvnow247.top/embed/34/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3004/"
+                "link": "https://tvnow247.top/embed/34/"
             }
         ]
     },
     {
         "id": null,
-        "name": "TNT Sports 5 GB",
+        "name": "TNT Sports 5 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%205&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%205%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%205&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%205%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "TNT Sports 6 GB",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%206&code=gb&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%206&code=gb&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 615,
         "name": "TNT Sports 6 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/615/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%206%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/615/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%206%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "TNT Sports 8 GB",
+        "name": "TNT Sports 8 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%208&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%208%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%208&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%208%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8767,15 +8725,15 @@
     },
     {
         "id": null,
-        "name": "TNT Sports CL",
+        "name": "TNT Sports HD ARG",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports&code=cl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%20HD%20ARG&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports&code=cl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%20HD%20ARG&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8799,11 +8757,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9452,20 +9410,6 @@
             {
                 "name": "URL",
                 "link": "http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Toronto Blue Jays US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Toronto%20Blue%20Jays&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Toronto%20Blue%20Jays&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -10533,11 +10477,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Travel%20Channel&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Travel%20Channel%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Travel%20Channel&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Travel%20Channel%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -10963,15 +10907,15 @@
     },
     {
         "id": null,
-        "name": "TRT 1 TR",
+        "name": "TRT 1 FHD TR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%201&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%201%20FHD%20TR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%201&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%201%20FHD%20TR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -10991,15 +10935,15 @@
     },
     {
         "id": null,
-        "name": "TRT 2 TR",
+        "name": "TRT 2 FHD TR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%202&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%202%20FHD%20TR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%202&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%202%20FHD%20TR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -11023,11 +10967,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%203&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%203%20TR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%203&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%203%20TR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -11215,15 +11159,29 @@
     },
     {
         "id": null,
-        "name": "TRT Spor TR",
+        "name": "TRT Spor FHD TR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%20Spor&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%20Spor%20FHD%20TR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%20Spor&code=tr&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%20Spor%20FHD%20TR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 889,
+        "name": "TRT Spor Turkey",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/889/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/889/"
             }
         ]
     },
@@ -11280,6 +11238,20 @@
             {
                 "name": "URL",
                 "link": "https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tru TV UHD US",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tru%20TV%20UHD%20US&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tru%20TV%20UHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -11424,22 +11396,8 @@
         ]
     },
     {
-        "id": null,
-        "name": "truTV US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=truTV&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=truTV&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 341,
-        "name": "Trutv USA",
+        "name": "truTV USA",
         "servers": [
             {
                 "name": "Main Server",
@@ -11537,71 +11495,57 @@
     },
     {
         "id": null,
-        "name": "TSN 1 CA",
+        "name": "TSN 2 FHD CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "TSN 2 CA",
+        "name": "TSN 3 FHD CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "TSN 3 CA",
+        "name": "TSN 4 FHD CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "TSN 4 CA",
+        "name": "TSN 5 FHD CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204&code=ca&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "TSN 5 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205&code=ca&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -11704,16 +11648,16 @@
         ]
     },
     {
-        "id": 3035,
+        "id": 115,
         "name": "TSN5",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3035/"
+                "link": "https://tvnow247.top/embed/115/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3035/"
+                "link": "https://tvnow247.top/embed/115/"
             }
         ]
     },
@@ -11859,15 +11803,15 @@
     },
     {
         "id": null,
-        "name": "TUDN US",
+        "name": "TUDN UHD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN%20UHD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TUDN%20UHD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -12240,20 +12184,6 @@
         ]
     },
     {
-        "id": 109,
-        "name": "TV 2 Direkte Norway",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/109/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/109/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "TV 2/Bornholm (1080p) [Not 24/7]",
         "servers": [
@@ -12563,6 +12493,20 @@
     },
     {
         "id": null,
+        "name": "TV Arad (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TV Arapuan (720p)",
         "servers": [
             {
@@ -12633,15 +12577,15 @@
     },
     {
         "id": null,
-        "name": "TV AS (576p)",
+        "name": "TV AS",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0"
+                "link": "https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0"
+                "link": "https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8"
             }
         ]
     },
@@ -12726,6 +12670,20 @@
             {
                 "name": "URL",
                 "link": "https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV Bozsike Hamburg HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rtmp.radiobozsike.com/hls/stream1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rtmp.radiobozsike.com/hls/stream1.m3u8"
             }
         ]
     },
@@ -13837,6 +13795,20 @@
     },
     {
         "id": null,
+        "name": "TV Globo Brasilia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://79.127.238.228:14173/"
+            },
+            {
+                "name": "URL",
+                "link": "http://79.127.238.228:14173/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TV Globo Sao Paulo (720p)",
         "servers": [
             {
@@ -13888,20 +13860,6 @@
             {
                 "name": "URL",
                 "link": "https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 3023,
-        "name": "TV Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3023/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3023/"
             }
         ]
     },
@@ -15027,15 +14985,15 @@
     },
     {
         "id": null,
-        "name": "TV ONE US",
+        "name": "TV One US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV%20ONE&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV%20One%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV%20ONE&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV%20One%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -16791,43 +16749,29 @@
     },
     {
         "id": null,
-        "name": "TV2 Bornholm DK",
+        "name": "TV2 Bornholm HD DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Bornholm&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Bornholm%20HD%20DK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Bornholm&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Bornholm%20HD%20DK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "TV2 DK",
+        "name": "TV2 HD DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20HD%20DK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2&code=dk&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 666,
-        "name": "TV2 Sport 2 Norway",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/666/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/666/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20HD%20DK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -16847,15 +16791,15 @@
     },
     {
         "id": null,
-        "name": "TV2 Sport DK",
+        "name": "TV2 Sport HD DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20HD%20DK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20HD%20DK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -16874,30 +16818,30 @@
         ]
     },
     {
-        "id": 808,
+        "id": 3069,
         "name": "TV2 Sport X Denmark",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/808/"
+                "link": "https://tvnow247.top/embed/3069/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/808/"
+                "link": "https://tvnow247.top/embed/3069/"
             }
         ]
     },
     {
         "id": null,
-        "name": "TV2 Sport X DK",
+        "name": "TV2 Sport X HD DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X%20HD%20DK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20Sport%20X%20HD%20DK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -16986,58 +16930,72 @@
         ]
     },
     {
-        "id": null,
-        "name": "TV3 Max DK",
+        "id": 223,
+        "name": "TV3 MAX Denmark",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Max&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/223/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Max&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/223/"
             }
         ]
     },
     {
         "id": null,
-        "name": "TV3 Puls DK",
+        "name": "TV3 Max HD DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Puls&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Max%20HD%20DK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Puls&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Max%20HD%20DK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 809,
+        "id": null,
+        "name": "TV3 Puls HD DK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Puls%20HD%20DK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Puls%20HD%20DK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3068,
         "name": "TV3 Sport Denmark",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/809/"
+                "link": "https://tvnow247.top/embed/3068/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/809/"
+                "link": "https://tvnow247.top/embed/3068/"
             }
         ]
     },
     {
         "id": null,
-        "name": "TV3 Sport DK",
+        "name": "TV3 Sport HD DK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Sport&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Sport%20HD%20DK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Sport&code=dk&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV3%20Sport%20HD%20DK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -17154,58 +17112,44 @@
         ]
     },
     {
-        "id": 3065,
+        "id": 3066,
         "name": "TV4 Fotball",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3065/"
+                "link": "https://tvnow247.top/embed/3066/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3065/"
+                "link": "https://tvnow247.top/embed/3066/"
             }
         ]
     },
     {
-        "id": 700,
-        "name": "TV4 Hockey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/700/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/700/"
-            }
-        ]
-    },
-    {
-        "id": 3066,
+        "id": 3065,
         "name": "TV4 Hockey Sweden",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3066/"
+                "link": "https://tvnow247.top/embed/3065/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3066/"
+                "link": "https://tvnow247.top/embed/3065/"
             }
         ]
     },
     {
-        "id": 21,
+        "id": 3,
         "name": "TV4 Latvia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/21/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/21/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
@@ -17238,58 +17182,30 @@
         ]
     },
     {
-        "id": 3062,
-        "name": "TV4 Sport Live 2 Sweden",
+        "id": 704,
+        "name": "TV4 Sport Live 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3062/"
+                "link": "https://tvnow247.top/embed/704/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3062/"
+                "link": "https://tvnow247.top/embed/704/"
             }
         ]
     },
     {
-        "id": 3063,
-        "name": "TV4 Sport Live 3 Sweden",
+        "id": 705,
+        "name": "TV4 Sport Live 3",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3063/"
+                "link": "https://tvnow247.top/embed/705/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3063/"
-            }
-        ]
-    },
-    {
-        "id": 3064,
-        "name": "TV4 Sport Live 4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3064/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3064/"
-            }
-        ]
-    },
-    {
-        "id": 707,
-        "name": "TV4 Sportkanalen",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/707/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/707/"
+                "link": "https://tvnow247.top/embed/705/"
             }
         ]
     },
@@ -17299,11 +17215,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Sportkanalen&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Sportkanalen%20SE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Sportkanalen&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Sportkanalen%20SE&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 707,
+        "name": "TV4 Sportkanalen Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/707/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/707/"
             }
         ]
     },
@@ -17883,7 +17813,7 @@
     },
     {
         "id": 834,
-        "name": "TVA Sports 2",
+        "name": "TVA Sports 2 CA",
         "servers": [
             {
                 "name": "Main Server",
@@ -17901,11 +17831,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports&code=ca&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -17925,15 +17855,15 @@
     },
     {
         "id": null,
-        "name": "TVAgro (720p)",
+        "name": "TVAgro (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://168.228.44.241:9999/play/a04n/index.m3u8"
+                "link": "http://190.61.47.54:8000/play/a01k/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://168.228.44.241:9999/play/a04n/index.m3u8"
+                "link": "http://190.61.47.54:8000/play/a01k/index.m3u8"
             }
         ]
     },
@@ -18471,15 +18401,15 @@
     },
     {
         "id": null,
-        "name": "TVI PT",
+        "name": "TVI HD PT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVI&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVI%20HD%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVI&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVI%20HD%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -19381,15 +19311,15 @@
     },
     {
         "id": null,
-        "name": "TVP Sport PL",
+        "name": "TVP Sport FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TVP%20Sport%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -21116,20 +21046,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Tyc Sports AR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tyc%20Sports&code=ar&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Tyc%20Sports&code=ar&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
         "id": 746,
         "name": "TyC Sports Argentina",
         "servers": [
@@ -21140,6 +21056,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/746/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TYC Sports FHD ARG",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=TYC%20Sports%20FHD%20ARG&code=&user=cdnlivetv&plan=free"
             }
         ]
     },

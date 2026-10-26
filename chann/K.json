@@ -462,16 +462,30 @@
         ]
     },
     {
-        "id": 19,
+        "id": 14,
+        "name": "Kanal 1 Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/14/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/14/"
+            }
+        ]
+    },
+    {
+        "id": 4,
         "name": "Kanal 1 Xtra Slovakia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/19/"
+                "link": "https://tvnow247.top/embed/4/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/19/"
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },
@@ -892,20 +906,6 @@
             {
                 "name": "URL",
                 "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kansas City Royals US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Kansas%20City%20Royals&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Kansas%20City%20Royals&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1722,16 +1722,30 @@
         ]
     },
     {
-        "id": 229,
+        "id": 199,
+        "name": "KHL Prime",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/199/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/199/"
+            }
+        ]
+    },
+    {
+        "id": 198,
         "name": "KHL TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/229/"
+                "link": "https://tvnow247.top/embed/198/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/229/"
+                "link": "https://tvnow247.top/embed/198/"
             }
         ]
     },

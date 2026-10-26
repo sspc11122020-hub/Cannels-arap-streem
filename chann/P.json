@@ -574,16 +574,16 @@
         ]
     },
     {
-        "id": 3081,
+        "id": 108,
         "name": "Paramount+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3081/"
+                "link": "https://tvnow247.top/embed/108/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3081/"
+                "link": "https://tvnow247.top/embed/108/"
             }
         ]
     },
@@ -2199,20 +2199,6 @@
     },
     {
         "id": null,
-        "name": "Philadelphia Phillies US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Philadelphia%20Phillies&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Philadelphia%20Phillies&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "PhillyCAM (720p)",
         "servers": [
             {
@@ -2488,20 +2474,6 @@
             {
                 "name": "URL",
                 "link": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pittsburgh Pirates US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Pittsburgh%20Pirates&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Pittsburgh%20Pirates&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8401,6 +8373,20 @@
     },
     {
         "id": null,
+        "name": "Polsat FHD PL",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Polsat Film HD",
         "servers": [
             {
@@ -8485,15 +8471,15 @@
     },
     {
         "id": null,
-        "name": "Polsat News PL",
+        "name": "Polsat News FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20News&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20News%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20News&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20News%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8508,20 +8494,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Polsat PL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat&code=pl&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat&code=pl&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8653,15 +8625,29 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport 2 PL",
+        "name": "Polsat Sport 2 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Polsat Sport 2 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/50/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/50/"
             }
         ]
     },
@@ -8695,15 +8681,15 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport 3 PL",
+        "name": "Polsat Sport 3 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8723,7 +8709,7 @@
     },
     {
         "id": 993,
-        "name": "Polsat Sport Extra 1 Poland Poland",
+        "name": "Polsat Sport Extra 1 Poland",
         "servers": [
             {
                 "name": "Main Server",
@@ -8806,30 +8792,16 @@
         ]
     },
     {
-        "id": 997,
-        "name": "Polsat Sport Fight Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/997/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/997/"
-            }
-        ]
-    },
-    {
         "id": null,
-        "name": "Polsat Sport Premium 1 PL",
+        "name": "Polsat Sport Premium 1 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -8849,15 +8821,15 @@
     },
     {
         "id": null,
-        "name": "Polsat Sport Premium 2 PL",
+        "name": "Polsat Sport Premium 2 FHD PL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202&code=pl&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9175,11 +9147,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Porto%20Canal&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Porto%20Canal%20PT&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Porto%20Canal&code=pt&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Porto%20Canal%20PT&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9577,15 +9549,15 @@
     },
     {
         "id": null,
-        "name": "Premier Sports 1 GB",
+        "name": "Premier Sports 1 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9600,6 +9572,20 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/nf1skh2l-1926"
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "name": "Premier Sports 1 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/771/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/771/"
             }
         ]
     },
@@ -9619,15 +9605,15 @@
     },
     {
         "id": null,
-        "name": "Premier Sports 2 GB",
+        "name": "Premier Sports 2 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9689,6 +9675,20 @@
     },
     {
         "id": null,
+        "name": "Premiere 1 HD BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Premiere 2 BR",
         "servers": [
             {
@@ -9698,6 +9698,20 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=premiere2"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Premiere 2 HD BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9717,71 +9731,71 @@
     },
     {
         "id": null,
-        "name": "Premiere 4 BR",
+        "name": "Premiere 3 HD BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "Premiere 5 BR",
+        "name": "Premiere 4 HD BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "Premiere 6 BR",
+        "name": "Premiere 5 HD BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "Premiere 7 BR",
+        "name": "Premiere 6 HD BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207&code=br&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 88,
-        "name": "Premiere BR",
+        "id": null,
+        "name": "Premiere 7 HD BR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/88/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/88/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9983,15 +9997,15 @@
     },
     {
         "id": null,
-        "name": "Prima Sport 1 RO",
+        "name": "Prima Sport 1 FHD RO",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%201&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%201%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%201&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%201%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -10039,15 +10053,29 @@
     },
     {
         "id": null,
-        "name": "Prima Sport 4 RO",
+        "name": "Prima Sport 4 FHD RO",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204&code=ro&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 586,
+        "name": "Prima Sport 4 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/586/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/586/"
             }
         ]
     },

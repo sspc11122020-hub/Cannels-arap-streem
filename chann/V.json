@@ -47,67 +47,53 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%201&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%201%20SE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%201&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%201%20SE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
         "id": null,
-        "name": "V Sport Extra SE",
+        "name": "V Sport Extra HD FI",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Extra&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Extra%20HD%20FI&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Extra&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Extra%20HD%20FI&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
     {
-        "id": 27,
-        "name": "V Sport Extra Sweden",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/27/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/27/"
-            }
-        ]
-    },
-    {
-        "id": 3068,
+        "id": 106,
         "name": "V Sport Football",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3068/"
+                "link": "https://tvnow247.top/embed/106/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3068/"
+                "link": "https://tvnow247.top/embed/106/"
             }
         ]
     },
     {
         "id": null,
-        "name": "V Sport Football SE",
+        "name": "V Sport Football HD FI",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Football&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Football%20HD%20FI&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Football&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Football%20HD%20FI&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -131,11 +117,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Motor&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Motor%20SE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Motor&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Motor%20SE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -173,25 +159,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium&code=se&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "V Sport Ultra SE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Ultra&code=se&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Ultra&code=se&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -360,6 +332,20 @@
             {
                 "name": "URL",
                 "link": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "name": "Vamos 2 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/183/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/183/"
             }
         ]
     },
@@ -1400,44 +1386,58 @@
         ]
     },
     {
-        "id": null,
-        "name": "Viaplay Sports 1 GB",
+        "id": 806,
+        "name": "Viaplay Sport News Denmark",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/806/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/806/"
             }
         ]
     },
     {
-        "id": 451,
+        "id": null,
+        "name": "Viaplay Sports 1 FHD UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3001,
         "name": "Viaplay Sports 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/451/"
+                "link": "https://tvnow247.top/embed/3001/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/451/"
+                "link": "https://tvnow247.top/embed/3001/"
             }
         ]
     },
     {
         "id": null,
-        "name": "Viaplay Sports 2 GB",
+        "name": "Viaplay Sports 2 FHD UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202&code=gb&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -2110,6 +2110,132 @@
             {
                 "name": "URL",
                 "link": "http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 1 FHD KSA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%201%20FHD%20KSA&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%201%20FHD%20KSA&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 2 FHD KSA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%202%20FHD%20KSA&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%202%20FHD%20KSA&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 3 FHD KSA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%203%20FHD%20KSA&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%203%20FHD%20KSA&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 4 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%204%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%204%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 5 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%205%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%205%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 6 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%206%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%206%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 7 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%207%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%207%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 8 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%208%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%208%20FHD&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VIP beIN SPORTS 9 FHD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%209%20FHD&code=&user=cdnlivetv&plan=free"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VIP%20beIN%20SPORTS%209%20FHD&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3295,15 +3421,15 @@
     },
     {
         "id": null,
-        "name": "VTV UY",
+        "name": "VTV Plus HD UY",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VTV&code=uy&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VTV%20Plus%20HD%20UY&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VTV&code=uy&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=VTV%20Plus%20HD%20UY&code=&user=cdnlivetv&plan=free"
             }
         ]
     },

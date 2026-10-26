@@ -1139,11 +1139,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1695,15 +1695,15 @@
     },
     {
         "id": null,
-        "name": "Abu Dhabi Sports 1 AE",
+        "name": "Abu Dhabi Sports 1 FHD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201&code=ae&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201%20FHD&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201&code=ae&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Abu%20Dhabi%20Sports%201%20FHD&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -1839,11 +1839,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ACC%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ACC%20Network%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ACC%20Network&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ACC%20Network%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3137,6 +3137,20 @@
     },
     {
         "id": null,
+        "name": "Ahasa TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ahasatv.lk/live-stream/rewind-3600.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://ahasatv.lk/live-stream/rewind-3600.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ahlulbayt TV (1080p)",
         "servers": [
             {
@@ -3682,20 +3696,6 @@
         ]
     },
     {
-        "id": 108,
-        "name": "Al Iraqiya Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/108/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/108/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Al Ittihad TV (552p) [Not 24/7]",
         "servers": [
@@ -3874,6 +3874,20 @@
             {
                 "name": "URL",
                 "link": "https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Al Maghribia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/29/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/29/"
             }
         ]
     },
@@ -5503,15 +5517,15 @@
     },
     {
         "id": null,
-        "name": "Altitude US",
+        "name": "Altitude Sports HD US",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude%20Sports%20HD%20US&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude%20Sports%20HD%20US&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6011,11 +6025,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.171.108.253:8888/AMERICA/index.m3u8"
+                "link": "http://190.93.224.42/AMERICA-TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.171.108.253:8888/AMERICA/index.m3u8"
+                "link": "http://190.93.224.42/AMERICA-TV/index.m3u8"
             }
         ]
     },
@@ -7840,20 +7854,6 @@
         ]
     },
     {
-        "id": 3031,
-        "name": "Apple TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3031/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3031/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Apsara TV11 (720p)",
         "servers": [
@@ -8204,16 +8204,30 @@
         ]
     },
     {
-        "id": 7,
+        "id": 11,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
+                "link": "https://tvnow247.top/embed/11/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
+                "link": "https://tvnow247.top/embed/11/"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Arena 5 Premium Serbia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/26/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },
@@ -8312,20 +8326,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/945/"
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "name": "Arena Sport 1P",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/26/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },
@@ -8695,20 +8695,6 @@
     },
     {
         "id": null,
-        "name": "Arizona Diamondbacks US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arizona%20Diamondbacks&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Arizona%20Diamondbacks&code=us&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ark TV (1080p) [Not 24/7]",
         "servers": [
             {
@@ -8942,6 +8928,20 @@
             {
                 "name": "URL",
                 "link": "http://89.104.114.24:8080/art/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "name": "ART Sport 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/155/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/155/"
             }
         ]
     },
@@ -9661,15 +9661,15 @@
     },
     {
         "id": null,
-        "name": "Astro Cricket US",
+        "name": "ASTRO CRICKET HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Astro%20Cricket&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Astro%20Cricket&code=us&user=cdnlivetv&plan=free"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ASTRO%20CRICKET%20HD&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -9866,20 +9866,6 @@
             {
                 "name": "URL",
                 "link": "https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Atlanta Braves US",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Atlanta%20Braves&code=us&user=cdnlivetv&plan=free"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Atlanta%20Braves&code=us&user=cdnlivetv&plan=free"
             }
         ]
     },
