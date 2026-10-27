@@ -495,11 +495,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8"
             }
         ]
     },
@@ -1214,6 +1214,20 @@
             {
                 "name": "URL",
                 "link": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1052,
+        "name": "JOJ Šport SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1052/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1052/"
             }
         ]
     },

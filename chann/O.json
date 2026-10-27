@@ -61,11 +61,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8"
             }
         ]
     },
@@ -1499,6 +1499,20 @@
     },
     {
         "id": null,
+        "name": "ON Style TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=184"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "On The Case",
         "servers": [
             {
@@ -1508,6 +1522,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ON Vie Dramas (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=177"
             }
         ]
     },
@@ -1988,30 +2016,16 @@
         ]
     },
     {
-        "id": 1027,
-        "name": "Oneplay Sport 1 CZ",
+        "id": 1028,
+        "name": "Oneplay Sport 2 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1027/"
+                "link": "https://tvnow247.top/embed/1028/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1027/"
-            }
-        ]
-    },
-    {
-        "id": 3041,
-        "name": "Oneplay Sport 3 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3041/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3041/"
+                "link": "https://tvnow247.top/embed/1028/"
             }
         ]
     },
@@ -2185,6 +2199,20 @@
     },
     {
         "id": null,
+        "name": "Oplot 2 (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.224.16.9:7779/Oplot_2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.224.16.9:7779/Oplot_2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Oplot TV (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -2315,11 +2343,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8"
+                "link": "http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8"
+                "link": "http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8"
             }
         ]
     },
@@ -2353,15 +2381,15 @@
     },
     {
         "id": null,
-        "name": "Orizont TV (576p)",
+        "name": "Orizont TV (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0"
+                "link": "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0"
+                "link": "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8"
             }
         ]
     },
@@ -2637,11 +2665,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/otv/playlist.m3u8"
+                "link": "http://88.212.7.14/live/otv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/otv/playlist.m3u8"
+                "link": "http://88.212.7.14/live/otv/playlist.m3u8"
             }
         ]
     },

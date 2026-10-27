@@ -491,15 +491,15 @@
     },
     {
         "id": null,
-        "name": "Farovision (720p)",
+        "name": "Farovision (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
+                "link": "https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
+                "link": "https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8"
             }
         ]
     },
@@ -1531,11 +1531,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/filmbox_hungary/index.m3u8"
+                "link": "http://88.212.7.14/live/filmbox_hungary/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/filmbox_hungary/index.m3u8"
+                "link": "http://88.212.7.14/live/filmbox_hungary/index.m3u8"
             }
         ]
     },
@@ -2119,11 +2119,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8"
             }
         ]
     },
@@ -2133,11 +2133,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/fn_hungary/index.m3u8"
+                "link": "http://88.212.7.14/live/fn_hungary/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/fn_hungary/index.m3u8"
+                "link": "http://88.212.7.14/live/fn_hungary/index.m3u8"
             }
         ]
     },
@@ -2744,6 +2744,20 @@
         ]
     },
     {
+        "id": 654,
+        "name": "FOX 5+ USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/654/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/654/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Fox Business Network (576p)",
         "servers": [
@@ -2958,20 +2972,6 @@
         ]
     },
     {
-        "id": 756,
-        "name": "Fox Soccer Plus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/756/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/756/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Soccer Plus HD US",
         "servers": [
@@ -3052,20 +3052,6 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=fox1ar"
-            }
-        ]
-    },
-    {
-        "id": 787,
-        "name": "Fox Sports 1 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/787/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/787/"
             }
         ]
     },
@@ -3420,20 +3406,6 @@
         ]
     },
     {
-        "id": 824,
-        "name": "FOX Sports 506 AU",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/824/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/824/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "FOX Sports 506 HD AU",
         "servers": [
@@ -3780,20 +3752,6 @@
             {
                 "name": "URL",
                 "link": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 951,
-        "name": "France 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/951/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/951/"
             }
         ]
     },
@@ -4688,6 +4646,20 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/8lysgd83-4863"
+            }
+        ]
+    },
+    {
+        "id": 665,
+        "name": "FYI USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/665/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/665/"
             }
         ]
     }

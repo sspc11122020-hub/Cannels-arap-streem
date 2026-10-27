@@ -1,7 +1,7 @@
 [
     {
         "id": null,
-        "name": "H!t Music Channel (Hungary) (480p)",
+        "name": "H!t Music Channel (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10,20 +10,6 @@
             {
                 "name": "URL",
                 "link": "http://hitmusic.hu/hitmusic.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "H!t Music Channel (Romania)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0"
-            },
-            {
-                "name": "URL",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0"
             }
         ]
     },
@@ -719,11 +705,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8"
             }
         ]
     },
@@ -747,11 +733,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8"
             }
         ]
     },
@@ -775,11 +761,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8"
             }
         ]
     },
@@ -1405,11 +1391,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8"
             }
         ]
     },
@@ -1419,11 +1405,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/hgtv_hun/index.m3u8"
+                "link": "http://88.212.7.14/live/hgtv_hun/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/hgtv_hun/index.m3u8"
+                "link": "http://88.212.7.14/live/hgtv_hun/index.m3u8"
             }
         ]
     },
@@ -3487,15 +3473,15 @@
     },
     {
         "id": null,
-        "name": "HTV Sports",
+        "name": "HTV Sports (1080i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dethich.pw/htvthethao/index.m3u8"
+                "link": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao"
             },
             {
                 "name": "URL",
-                "link": "https://dethich.pw/htvthethao/index.m3u8"
+                "link": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao"
             }
         ]
     },
@@ -3585,6 +3571,48 @@
     },
     {
         "id": null,
+        "name": "HTVC Family (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dethich.pw/htvcgiadinh/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dethich.pw/htvcgiadinh/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HTVC Movies (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dethich.pw/htvcphim/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dethich.pw/htvcphim/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HTVC Women (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dethich.pw/htvcphunu/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dethich.pw/htvcphunu/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Huacho Peru TV",
         "servers": [
             {
@@ -3608,76 +3636,6 @@
             {
                 "name": "URL",
                 "link": "https://paneltv.online:1936/8024/8024/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Hub Premier 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/18/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/18/"
-            }
-        ]
-    },
-    {
-        "id": 3032,
-        "name": "Hub Premier 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3032/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3032/"
-            }
-        ]
-    },
-    {
-        "id": 3033,
-        "name": "Hub Premier 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3033/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3033/"
-            }
-        ]
-    },
-    {
-        "id": 3034,
-        "name": "Hub Premier 4",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3034/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3034/"
-            }
-        ]
-    },
-    {
-        "id": 3031,
-        "name": "Hub Premier 5",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3031/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3031/"
             }
         ]
     },

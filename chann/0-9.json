@@ -5,11 +5,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.17/live/test_trojka_25p/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_trojka_25p/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.17/live/test_trojka_25p/playlist.m3u8"
+                "link": "http://88.212.15.50/live/test_trojka_25p/playlist.m3u8"
             }
         ]
     },
@@ -136,20 +136,6 @@
             {
                 "name": "URL",
                 "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
-            }
-        ]
-    },
-    {
-        "id": 521,
-        "name": "#Vamos ES",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/521/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/521/"
             }
         ]
     },
@@ -1876,6 +1862,20 @@
         ]
     },
     {
+        "id": 147,
+        "name": "5 Star Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/147/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/147/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "50 Canale",
         "servers": [
@@ -1960,16 +1960,16 @@
         ]
     },
     {
-        "id": 145,
-        "name": "5Plus Israel",
+        "id": 144,
+        "name": "5Sport Israel",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/145/"
+                "link": "https://tvnow247.top/embed/144/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/145/"
+                "link": "https://tvnow247.top/embed/144/"
             }
         ]
     },
@@ -1984,20 +1984,6 @@
             {
                 "name": "URL",
                 "link": "http://89.33.29.115:8080/IL_5Stars/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 147,
-        "name": "5Stars Israel",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/147/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/147/"
             }
         ]
     },
@@ -2082,6 +2068,20 @@
             {
                 "name": "URL",
                 "link": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "6ter",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://149.62.177.107:9999/6ter/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://149.62.177.107:9999/6ter/index.m3u8"
             }
         ]
     },
@@ -2670,62 +2670,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/1033/"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "ŠTV 1 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/6/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/6/"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "ŠTV 2 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/8/"
-            }
-        ]
-    },
-    {
-        "id": 395,
-        "name": "МАТЧ! БОЕЦ Russia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/395/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/395/"
-            }
-        ]
-    },
-    {
-        "id": 200,
-        "name": "МАТЧ! СТРАНА",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/200/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/200/"
             }
         ]
     }
