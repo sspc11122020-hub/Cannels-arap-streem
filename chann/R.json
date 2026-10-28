@@ -211,7 +211,7 @@
     },
     {
         "id": 555,
-        "name": "Racing TV UK",
+        "name": "Racing Tv UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -3822,30 +3822,30 @@
         ]
     },
     {
-        "id": 840,
+        "id": 839,
         "name": "RDS 2 CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
+                "link": "https://tvnow247.top/embed/839/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
+                "link": "https://tvnow247.top/embed/839/"
             }
         ]
     },
     {
-        "id": 839,
+        "id": null,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -4910,6 +4910,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "name": "Reelz USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/293/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/293/"
             }
         ]
     },
@@ -6114,6 +6128,20 @@
             {
                 "name": "URL",
                 "link": "https://amixtv.com:8081/rikutv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "name": "Ring Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/471/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/471/"
             }
         ]
     },
@@ -7490,6 +7518,20 @@
             {
                 "name": "URL",
                 "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 740,
+        "name": "RTL DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/740/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
