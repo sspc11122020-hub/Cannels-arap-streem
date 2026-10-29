@@ -574,16 +574,30 @@
         ]
     },
     {
-        "id": 108,
+        "id": null,
+        "name": "Paramount Network (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 153,
         "name": "Paramount+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/108/"
+                "link": "https://tvnow247.top/embed/153/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/108/"
+                "link": "https://tvnow247.top/embed/153/"
             }
         ]
     },
@@ -1316,20 +1330,6 @@
         ]
     },
     {
-        "id": 210,
-        "name": "PBS USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/210/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/210/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "PBS WEDQ (1080p)",
         "servers": [
@@ -1424,6 +1424,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "PDC Tv",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/43/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/43/"
             }
         ]
     },
@@ -2143,6 +2157,20 @@
     },
     {
         "id": null,
+        "name": "Pesca e Caccia (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://102.129.186.182:81/pescacaccia/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://102.129.186.182:81/pescacaccia/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pet Club TV (1080p)",
         "servers": [
             {
@@ -2166,6 +2194,20 @@
             {
                 "name": "URL",
                 "link": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Pets.TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8"
             }
         ]
     },
@@ -2479,15 +2521,15 @@
     },
     {
         "id": null,
-        "name": "Pitaara (720p)",
+        "name": "Pitaara (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
+                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8"
+                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8"
             }
         ]
     },
@@ -8722,6 +8764,20 @@
         ]
     },
     {
+        "id": 993,
+        "name": "Polsat Sport Extra 1 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/993/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/993/"
+            }
+        ]
+    },
+    {
         "id": 994,
         "name": "Polsat Sport Extra 2 Poland",
         "servers": [
@@ -8736,16 +8792,16 @@
         ]
     },
     {
-        "id": 993,
+        "id": 995,
         "name": "Polsat Sport Extra 3 Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/993/"
+                "link": "https://tvnow247.top/embed/995/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/993/"
+                "link": "https://tvnow247.top/embed/995/"
             }
         ]
     },
@@ -8769,25 +8825,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/mkr6nvqt-4662"
+                "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/mkr6nvqt-4662"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Polsat Sport Fight (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://57.128.210.196:8080/194/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://57.128.210.196:8080/194/index.m3u8"
+                "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
             }
         ]
     },
@@ -8802,6 +8844,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 991,
+        "name": "Polsat Sport Premium 1 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/991/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/991/"
             }
         ]
     },
@@ -9110,6 +9166,20 @@
             {
                 "name": "URL",
                 "link": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 718,
+        "name": "Porto Canal Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
             }
         ]
     },
@@ -9451,6 +9521,20 @@
     },
     {
         "id": null,
+        "name": "Pratham News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Pratidin Time (576p)",
         "servers": [
             {
@@ -9548,20 +9632,6 @@
         ]
     },
     {
-        "id": 771,
-        "name": "Premier Sports 1 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/771/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/771/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Premier Sports 2 (1080p)",
         "servers": [
@@ -9600,6 +9670,20 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/c8prf9yh-2498"
+            }
+        ]
+    },
+    {
+        "id": 799,
+        "name": "Premier Sports 2 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/799/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/799/"
             }
         ]
     },
@@ -9754,6 +9838,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Premiere BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/88/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/88/"
             }
         ]
     },
@@ -10514,20 +10612,6 @@
         ]
     },
     {
-        "id": 157,
-        "name": "ProSieben Maxx DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/157/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/157/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Prosveshchenie (576p)",
         "servers": [
@@ -10543,15 +10627,15 @@
     },
     {
         "id": null,
-        "name": "PROTV News (1080p)",
+        "name": "PROTV News",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0"
             },
             {
                 "name": "URL",
-                "link": "https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0"
+                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0"
             }
         ]
     },
@@ -11076,20 +11160,6 @@
         ]
     },
     {
-        "id": 450,
-        "name": "PTV Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/450/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/450/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "PTV Sports (1080p)",
         "servers": [
@@ -11114,6 +11184,20 @@
             {
                 "name": "URL",
                 "link": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Public First (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
             }
         ]
     },

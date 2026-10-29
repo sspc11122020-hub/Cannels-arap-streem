@@ -743,20 +743,6 @@
     },
     {
         "id": null,
-        "name": "Favorit TV2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0"
-            },
-            {
-                "name": "URL",
-                "link": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Fazal TV (1080p)",
         "servers": [
             {
@@ -1727,11 +1713,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/1muz_HD/video.m3u8"
+                "link": "http://rtmp.one.by:2300"
             },
             {
                 "name": "URL",
-                "link": "http://hls127.freeott.top:8080/1muz_HD/video.m3u8"
+                "link": "http://rtmp.one.by:2300"
             }
         ]
     },
@@ -2264,20 +2250,6 @@
             {
                 "name": "URL",
                 "link": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Formula 1 AntenaPlay (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8"
             }
         ]
     },
@@ -3224,20 +3196,6 @@
         ]
     },
     {
-        "id": 789,
-        "name": "Fox Sports 3 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/789/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/789/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Sports 3 MX",
         "servers": [
@@ -3504,6 +3462,20 @@
             {
                 "name": "URL3",
                 "link": "https://104game.click/player/3/104"
+            }
+        ]
+    },
+    {
+        "id": 830,
+        "name": "Fox Sports Premium MX",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/830/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/830/"
             }
         ]
     },
@@ -3862,6 +3834,20 @@
             {
                 "name": "URL3",
                 "link": "https://104game.click/player/3/30"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Franceinfo (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://149.62.177.107:9999/franceinfo:/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://149.62.177.107:9999/franceinfo:/index.m3u8"
             }
         ]
     },
@@ -4528,12 +4514,26 @@
         "name": "FUTV",
         "servers": [
             {
+                "name": "URL1",
+                "link": "https://streamtp-golden1.click/global1.php?stream=futv"
+            },
+            {
+                "name": "URL2",
+                "link": "https://streamtp-golden1.click/global2.php?stream=futv"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FUTV (1080p)",
+        "servers": [
+            {
                 "name": "Main Server",
-                "link": "http://190.61.90.17:40000/play/a03v/index.m3u8"
+                "link": "http://45.228.234.9:8000/play/a06o/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.61.90.17:40000/play/a03v/index.m3u8"
+                "link": "http://45.228.234.9:8000/play/a06o/index.m3u8"
             }
         ]
     },
@@ -4660,6 +4660,20 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/8lysgd83-4863"
+            }
+        ]
+    },
+    {
+        "id": 665,
+        "name": "FYI USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/665/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/665/"
             }
         ]
     }

@@ -225,20 +225,6 @@
     },
     {
         "id": null,
-        "name": "Hallmark Channel (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://41.205.93.154/HALLMARK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://41.205.93.154/HALLMARK/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hallmark Channel US",
         "servers": [
             {
@@ -262,6 +248,20 @@
             {
                 "name": "URL",
                 "link": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hallmark Mystery (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://41.205.93.154/HALLMARK/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://41.205.93.154/HALLMARK/index.m3u8"
             }
         ]
     },
@@ -896,20 +896,6 @@
         ]
     },
     {
-        "id": 321,
-        "name": "HBO USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/321/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/321/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "HBO+ Latin America (720p) [Geo-blocked]",
         "servers": [
@@ -1438,6 +1424,20 @@
             {
                 "name": "URL",
                 "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HGTV (New Zealand) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8"
             }
         ]
     },
@@ -2035,11 +2035,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/XitHD/video.m3u8"
+                "link": "http://stream.mcquack.net/363/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://hls127.freeott.top:8080/XitHD/video.m3u8"
+                "link": "http://stream.mcquack.net/363/index.m3u8"
             }
         ]
     },
@@ -3109,15 +3109,15 @@
     },
     {
         "id": null,
-        "name": "Hosanna TV",
+        "name": "Hosanna TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+                "link": "https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
             },
             {
                 "name": "URL",
-                "link": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8"
+                "link": "https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
             }
         ]
     },
@@ -3430,20 +3430,6 @@
         ]
     },
     {
-        "id": 15,
-        "name": "HT Spor Turkey",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/15/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/15/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "HTR TV (720p)",
         "servers": [
@@ -3510,6 +3496,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HTV Argentina (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.134.141.161:2200/ARG/HTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.134.141.161:2200/ARG/HTV/index.m3u8"
             }
         ]
     },
@@ -3967,11 +3967,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
+                "link": "http://66.102.126.10:8000/play/a023/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.185.24.134:3001/HUNGAMA/index.m3u8"
+                "link": "http://66.102.126.10:8000/play/a023/index.m3u8"
             }
         ]
     },

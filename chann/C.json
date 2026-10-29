@@ -437,6 +437,20 @@
     },
     {
         "id": null,
+        "name": "Caccia e Pesca (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://102.129.186.182:81/cacciapesca/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://102.129.186.182:81/cacciapesca/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CAD TV",
         "servers": [
             {
@@ -1207,7 +1221,7 @@
     },
     {
         "id": null,
-        "name": "Canal 12 (576p)",
+        "name": "Canal 12 (El Salvador) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1216,6 +1230,20 @@
             {
                 "name": "URL",
                 "link": "http://186.33.26.18:8000/play/a0nw/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal 12 (Nicaragua) (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.228.234.9:8000/play/a06s/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.228.234.9:8000/play/a06s/index.m3u8"
             }
         ]
     },
@@ -4305,20 +4333,6 @@
     },
     {
         "id": null,
-        "name": "Canal+ Cinemas (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal+ Domo (576i)",
         "servers": [
             {
@@ -4770,6 +4784,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20Sport%20360%20HD%20FR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "name": "Canal+ Sport 4 Afrique",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/489/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/489/"
             }
         ]
     },
@@ -5749,6 +5777,20 @@
     },
     {
         "id": null,
+        "name": "Cars.TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cartago Medios TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -5833,15 +5875,15 @@
     },
     {
         "id": null,
-        "name": "Cartoon Network (United States) (720p)",
+        "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
+                "link": "http://212.5.144.156:8080/cartoon/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8"
+                "link": "http://212.5.144.156:8080/cartoon/index.m3u8"
             }
         ]
     },
@@ -6938,6 +6980,20 @@
         ]
     },
     {
+        "id": 910,
+        "name": "CBS Sports Golazo",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/910/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/910/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "CBS Sports Golazo Network (720p)",
         "servers": [
@@ -7130,6 +7186,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/767/"
+            }
+        ]
+    },
+    {
+        "id": 308,
+        "name": "CBSSN USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/308/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/308/"
             }
         ]
     },
@@ -11923,15 +11993,15 @@
     },
     {
         "id": null,
-        "name": "CNA International (576p)",
+        "name": "CNA International (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8"
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=112"
             },
             {
                 "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8"
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=112"
             }
         ]
     },
@@ -13155,7 +13225,7 @@
     },
     {
         "id": null,
-        "name": "Comedy TV",
+        "name": "Comedy TV (Georgia)",
         "servers": [
             {
                 "name": "Main Server",
@@ -13164,6 +13234,20 @@
             {
                 "name": "URL",
                 "link": "http://31.146.5.178:8087/play/a00b/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Comedy TV (United States) (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8"
             }
         ]
     },
@@ -15408,34 +15492,6 @@
         ]
     },
     {
-        "id": 280,
-        "name": "CW PIX 11 USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/280/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/280/"
-            }
-        ]
-    },
-    {
-        "id": 300,
-        "name": "CW USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/300/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/300/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Cypress Channel 36 (360p)",
         "servers": [
@@ -15446,6 +15502,20 @@
             {
                 "name": "URL",
                 "link": "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 911,
+        "name": "Cytavision Sports 1 Cyprus",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/911/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/911/"
             }
         ]
     },

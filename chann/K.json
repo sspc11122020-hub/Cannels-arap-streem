@@ -686,6 +686,20 @@
         ]
     },
     {
+        "id": 156,
+        "name": "Kanal A Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/156/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/156/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Kanal D (Romania) (480p)",
         "servers": [
@@ -2073,20 +2087,6 @@
     },
     {
         "id": null,
-        "name": "Kinopokaz HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Kinopremyera (1080p)",
         "servers": [
             {
@@ -2143,15 +2143,15 @@
     },
     {
         "id": null,
-        "name": "Kinoseriya (1080p)",
+        "name": "Kinoseriya (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8"
+                "link": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8"
+                "link": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -2390,20 +2390,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kluch (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Kluch/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Kluch/video.m3u8"
             }
         ]
     },
@@ -2726,20 +2712,6 @@
             {
                 "name": "URL",
                 "link": "http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kon Tum TV (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1"
-            },
-            {
-                "name": "URL",
-                "link": "https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1"
             }
         ]
     },

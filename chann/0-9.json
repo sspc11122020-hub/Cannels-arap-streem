@@ -126,20 +126,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "&xplor HD (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
-            },
-            {
-                "name": "URL",
-                "link": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY"
-            }
-        ]
-    },
-    {
         "id": 521,
         "name": "#Vamos ES",
         "servers": [
@@ -1960,6 +1946,20 @@
         ]
     },
     {
+        "id": 147,
+        "name": "5Stars Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/147/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/147/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "5tv",
         "servers": [
@@ -2646,44 +2646,16 @@
         ]
     },
     {
-        "id": 25,
-        "name": "ŠTV 1 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/25/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/25/"
-            }
-        ]
-    },
-    {
-        "id": 160,
-        "name": "ŠTV 2 Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/160/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/160/"
-            }
-        ]
-    },
-    {
-        "id": 165,
+        "id": 164,
         "name": "ŠTV 3 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/165/"
+                "link": "https://tvnow247.top/embed/164/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/165/"
+                "link": "https://tvnow247.top/embed/164/"
             }
         ]
     }

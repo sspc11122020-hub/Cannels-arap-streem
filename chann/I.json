@@ -1415,6 +1415,20 @@
     },
     {
         "id": null,
+        "name": "Ind 24 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://livestream.jswk.online/ind24/live/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://livestream.jswk.online/ind24/live/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "India (576p)",
         "servers": [
             {
@@ -1452,6 +1466,34 @@
             {
                 "name": "URL",
                 "link": "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "India News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "India News Punjab/Himachal (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8"
             }
         ]
     },
@@ -1564,20 +1606,6 @@
             {
                 "name": "URL",
                 "link": "http://188.113.190.12/329/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Indosiar",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
             }
         ]
     },
@@ -1830,6 +1858,20 @@
             {
                 "name": "URL",
                 "link": "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "INSP (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8"
             }
         ]
     },
@@ -2903,11 +2945,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/Istoriya/video.m3u8"
+                "link": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "http://hls127.freeott.top:8080/Istoriya/video.m3u8"
+                "link": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -3172,6 +3214,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3007,
+        "name": "ITV 1 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3007/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3007/"
             }
         ]
     },

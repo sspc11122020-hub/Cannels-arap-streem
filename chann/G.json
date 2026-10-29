@@ -2003,6 +2003,20 @@
     },
     {
         "id": null,
+        "name": "GOD TV Asia (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "God's Learning Channel KPCB-DT (480p)",
         "servers": [
             {
@@ -3092,6 +3106,34 @@
             {
                 "name": "URL",
                 "link": "https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "GTC Punjabi UK (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "GTC Punjabi US (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8"
             }
         ]
     },
