@@ -2521,7 +2521,7 @@
     },
     {
         "id": 882,
-        "name": "RAI Sport 1 IT",
+        "name": "Rai Sport 1 Italy",
         "servers": [
             {
                 "name": "Main Server",
@@ -3822,16 +3822,16 @@
         ]
     },
     {
-        "id": 839,
+        "id": null,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3860,6 +3860,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 839,
+        "name": "RDS USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/839/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/839/"
             }
         ]
     },
@@ -7159,6 +7173,20 @@
     },
     {
         "id": null,
+        "name": "RTA Education (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RTB (360p) [Not 24/7]",
         "servers": [
             {
@@ -7508,6 +7536,20 @@
         ]
     },
     {
+        "id": 740,
+        "name": "RTL DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/740/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/740/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTL FHD DE",
         "servers": [
@@ -7812,20 +7854,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20HD%20PT&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 720,
-        "name": "RTP2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/720/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/720/"
             }
         ]
     },
@@ -8778,20 +8806,6 @@
             {
                 "name": "URL",
                 "link": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },

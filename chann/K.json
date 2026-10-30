@@ -462,6 +462,20 @@
         ]
     },
     {
+        "id": 20,
+        "name": "Kanal 1 Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/20/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/20/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Kanal 10 Asia (540p)",
         "servers": [
@@ -682,20 +696,6 @@
             {
                 "name": "URL",
                 "link": "https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true"
-            }
-        ]
-    },
-    {
-        "id": 156,
-        "name": "Kanal A Slovenia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/156/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/156/"
             }
         ]
     },
@@ -962,6 +962,20 @@
             {
                 "name": "URL",
                 "link": "http://85.132.78.122:8050/hls/stream/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kapital TV (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8"
             }
         ]
     },
@@ -1704,6 +1718,34 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/KHL_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "KHL Prime",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/28/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/28/"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "KHL TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/27/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/27/"
             }
         ]
     },
