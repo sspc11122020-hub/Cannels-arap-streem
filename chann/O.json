@@ -1065,20 +1065,6 @@
     },
     {
         "id": null,
-        "name": "Omega (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Omega Channel (576i)",
         "servers": [
             {
@@ -2044,6 +2030,62 @@
         ]
     },
     {
+        "id": 1039,
+        "name": "OnePlay MD2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1039/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1039/"
+            }
+        ]
+    },
+    {
+        "id": 1040,
+        "name": "OnePlay MD3 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1040/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1040/"
+            }
+        ]
+    },
+    {
+        "id": 3045,
+        "name": "OnePlay MD5 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3045/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3045/"
+            }
+        ]
+    },
+    {
+        "id": 3046,
+        "name": "OnePlay MD6 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3046/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3046/"
+            }
+        ]
+    },
+    {
         "id": 1027,
         "name": "Oneplay Sport 1 CZ",
         "servers": [
@@ -2058,16 +2100,16 @@
         ]
     },
     {
-        "id": 1028,
+        "id": 3043,
         "name": "Oneplay Sport 2 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1028/"
+                "link": "https://tvnow247.top/embed/3043/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1028/"
+                "link": "https://tvnow247.top/embed/3043/"
             }
         ]
     },
@@ -2096,6 +2138,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/1038/"
+            }
+        ]
+    },
+    {
+        "id": 3041,
+        "name": "Oneplay Sport CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3041/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3041/"
             }
         ]
     },
@@ -2408,20 +2464,6 @@
         ]
     },
     {
-        "id": 5,
-        "name": "ORF eins",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "ORF III HD (720p)",
         "servers": [
@@ -2446,20 +2488,6 @@
             {
                 "name": "URL",
                 "link": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd"
-            }
-        ]
-    },
-    {
-        "id": 3016,
-        "name": "ORF Sport Plus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3016/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3016/"
             }
         ]
     },
@@ -2992,6 +3020,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_OWN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "name": "OWN USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/331/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/331/"
             }
         ]
     },

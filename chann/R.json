@@ -1415,6 +1415,20 @@
     },
     {
         "id": null,
+        "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Romania Iasi (576i) [Not 24/7]",
         "servers": [
             {
@@ -1900,6 +1914,20 @@
             {
                 "name": "URL",
                 "link": "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radio TV Serie A",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8"
             }
         ]
     },
@@ -2516,20 +2544,6 @@
             {
                 "name": "URL",
                 "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
-            }
-        ]
-    },
-    {
-        "id": 882,
-        "name": "Rai Sport 1 Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/882/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/882/"
             }
         ]
     },
@@ -3822,16 +3836,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 89,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/89/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/89/"
             }
         ]
     },
@@ -3860,20 +3874,6 @@
             {
                 "name": "URL",
                 "link": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 839,
-        "name": "RDS USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/839/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/839/"
             }
         ]
     },
@@ -4924,6 +4924,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "name": "Reelz USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/293/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/293/"
             }
         ]
     },
@@ -6132,6 +6146,20 @@
         ]
     },
     {
+        "id": 471,
+        "name": "Ring Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/471/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/471/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Ring HD BG",
         "servers": [
@@ -6324,6 +6352,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "RMC Sport 2 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/120/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/120/"
             }
         ]
     },
@@ -7532,20 +7574,6 @@
             {
                 "name": "URL",
                 "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 740,
-        "name": "RTL DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },

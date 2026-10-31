@@ -1065,6 +1065,20 @@
     },
     {
         "id": null,
+        "name": "Jingmen Comprehensive News Channel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Jinvani Channel (720p)",
         "servers": [
             {
@@ -1386,16 +1400,16 @@
         ]
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Jordan TV Sport",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
