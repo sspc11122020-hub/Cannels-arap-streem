@@ -1596,16 +1596,16 @@
         ]
     },
     {
-        "id": 1,
+        "id": 19,
         "name": "Indosiar",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/19/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/19/"
             }
         ]
     },
@@ -1947,20 +1947,6 @@
     },
     {
         "id": null,
-        "name": "Interactiva TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Interactivo Television (720p)",
         "servers": [
             {
@@ -2012,20 +1998,6 @@
             {
                 "name": "URL",
                 "link": "https://live.intermediatv.ro/ram/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Interradio TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8"
             }
         ]
     },
@@ -3200,6 +3172,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "name": "ITV 1 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/350/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/350/"
             }
         ]
     },

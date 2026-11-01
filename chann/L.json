@@ -337,20 +337,6 @@
     },
     {
         "id": null,
-        "name": "La Granja TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "La Hermandad Salsera (1080p) [Not 24/7]",
         "servers": [
             {
@@ -1032,6 +1018,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3026,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3026/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3026/"
             }
         ]
     },
@@ -2544,6 +2544,118 @@
         ]
     },
     {
+        "id": 207,
+        "name": "Ligue1+ 10 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/207/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/207/"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "name": "Ligue1+ 3 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/208/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/208/"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "name": "Ligue1+ 4 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/203/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/203/"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "name": "Ligue1+ 5 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/205/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/205/"
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "name": "Ligue1+ 6 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/206/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/206/"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "name": "Ligue1+ 7 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/202/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/202/"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "name": "Ligue1+ 8 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/209/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/209/"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "name": "Ligue1+ 9 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/204/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/204/"
+            }
+        ]
+    },
+    {
         "id": 3051,
         "name": "Ligue1+ France",
         "servers": [
@@ -3791,21 +3903,7 @@
     },
     {
         "id": null,
-        "name": "LTV (Chile) (2160p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.cdnlivecdn.com/live/c9fe062eed2978749aa00df6485940d298449f5e.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "LTV (Honduras) (720p) [Not 24/7]",
+        "name": "LTV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",

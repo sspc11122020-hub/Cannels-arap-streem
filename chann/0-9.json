@@ -799,20 +799,6 @@
     },
     {
         "id": null,
-        "name": "24Kitchen Bulgary (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "24KZ (576p)",
         "servers": [
             {
@@ -1932,6 +1918,20 @@
         ]
     },
     {
+        "id": 145,
+        "name": "5Plus Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/145/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/145/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "5Stars (1080p)",
         "servers": [
@@ -1970,6 +1970,20 @@
             {
                 "name": "URL",
                 "link": "https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 800,
+        "name": "6 eren Denmark",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/800/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/800/"
             }
         ]
     },
@@ -2632,44 +2646,44 @@
         ]
     },
     {
-        "id": 168,
+        "id": 20,
         "name": "ŠTV 1 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/168/"
+                "link": "https://tvnow247.top/embed/20/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/168/"
+                "link": "https://tvnow247.top/embed/20/"
             }
         ]
     },
     {
-        "id": 9,
+        "id": 4,
         "name": "ŠTV 2 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/9/"
+                "link": "https://tvnow247.top/embed/4/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/9/"
+                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },
     {
-        "id": 7,
+        "id": 5,
         "name": "ŠTV 3 Slovenia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
+                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
