@@ -813,6 +813,20 @@
     },
     {
         "id": null,
+        "name": "HBO Asia HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.150.165.66:8088/play/100-HBO/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.150.165.66:8088/play/100-HBO/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Asia SD (720p) [Geo-blocked]",
         "servers": [
             {
@@ -869,6 +883,20 @@
     },
     {
         "id": null,
+        "name": "HBO Family Asia HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Family Latin America (1080p)",
         "servers": [
             {
@@ -911,6 +939,20 @@
     },
     {
         "id": null,
+        "name": "HBO Hits Asia HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Latino",
         "servers": [
             {
@@ -934,6 +976,34 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/uionhys2-461"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO Signature Asia HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 321,
+        "name": "HBO USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/321/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/321/"
             }
         ]
     },
@@ -1975,6 +2045,20 @@
     },
     {
         "id": null,
+        "name": "History Latin America South",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "History TV18 HD (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -2012,6 +2096,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 322,
+        "name": "History USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/322/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/322/"
             }
         ]
     },
@@ -3724,22 +3822,8 @@
         ]
     },
     {
-        "id": 26,
-        "name": "Hub Premier",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/26/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/26/"
-            }
-        ]
-    },
-    {
         "id": 3009,
-        "name": "Hub Premier 1",
+        "name": "Hub Premier",
         "servers": [
             {
                 "name": "Main Server",
@@ -4014,20 +4098,6 @@
             {
                 "name": "URL",
                 "link": "https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hungama TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a023/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a023/index.m3u8"
             }
         ]
     },

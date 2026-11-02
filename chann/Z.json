@@ -425,15 +425,15 @@
     },
     {
         "id": null,
-        "name": "Zee Bangla HD (1080p)",
+        "name": "Zee Bangla HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls"
+                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
             }
         ]
     },
@@ -1404,16 +1404,30 @@
         ]
     },
     {
-        "id": 76,
+        "id": 164,
+        "name": "Zona Serie A",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/164/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/164/"
+            }
+        ]
+    },
+    {
+        "id": 163,
         "name": "Zona Serie B",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/76/"
+                "link": "https://tvnow247.top/embed/163/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/76/"
+                "link": "https://tvnow247.top/embed/163/"
             }
         ]
     },

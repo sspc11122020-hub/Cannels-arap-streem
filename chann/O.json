@@ -1373,6 +1373,20 @@
     },
     {
         "id": null,
+        "name": "ON BiBi (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=178"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ON Cine",
         "servers": [
             {
@@ -1508,34 +1522,6 @@
             {
                 "name": "URL",
                 "link": "https://vmttv.dpdns.org/tv360/?id=175"
-            }
-        ]
-    },
-    {
-        "id": 611,
-        "name": "ON Sport 1 Egypt",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/611/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/611/"
-            }
-        ]
-    },
-    {
-        "id": 193,
-        "name": "ON Sport Plus Egypt",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/193/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/193/"
             }
         ]
     },
@@ -2072,30 +2058,58 @@
         ]
     },
     {
-        "id": 1040,
+        "id": 3043,
         "name": "OnePlay MD3 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1040/"
+                "link": "https://tvnow247.top/embed/3043/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1040/"
+                "link": "https://tvnow247.top/embed/3043/"
             }
         ]
     },
     {
-        "id": 1041,
+        "id": 3045,
         "name": "OnePlay MD4 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1041/"
+                "link": "https://tvnow247.top/embed/3045/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1041/"
+                "link": "https://tvnow247.top/embed/3045/"
+            }
+        ]
+    },
+    {
+        "id": 1042,
+        "name": "OnePlay MD5 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1042/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1042/"
+            }
+        ]
+    },
+    {
+        "id": 1053,
+        "name": "OnePlay MD6 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1053/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1053/"
             }
         ]
     },
@@ -2114,22 +2128,36 @@
         ]
     },
     {
-        "id": 1028,
+        "id": 3042,
         "name": "Oneplay Sport 2 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1028/"
+                "link": "https://tvnow247.top/embed/3042/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1028/"
+                "link": "https://tvnow247.top/embed/3042/"
+            }
+        ]
+    },
+    {
+        "id": 3044,
+        "name": "Oneplay Sport 3 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3044/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3044/"
             }
         ]
     },
     {
         "id": 1038,
-        "name": "OnePlay Sport 4 CZ",
+        "name": "Oneplay Sport 4 CZ",
         "servers": [
             {
                 "name": "Main Server",
@@ -2460,6 +2488,20 @@
             {
                 "name": "URL",
                 "link": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ORF Sport+",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://test02.mdn.ors.at/orf/orfs/qxa/manifest.m3u8"
             }
         ]
     },
@@ -3034,6 +3076,20 @@
             {
                 "name": "URL",
                 "link": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 332,
+        "name": "Oxygen True Crime",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/332/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/332/"
             }
         ]
     },
