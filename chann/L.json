@@ -1275,15 +1275,15 @@
     },
     {
         "id": null,
-        "name": "Larivision TV",
+        "name": "Larivision TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cloud5.larivision.net/hls/live.m3u8"
+                "link": "https://live.larivision.net/livelan/live.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cloud5.larivision.net/hls/live.m3u8"
+                "link": "https://live.larivision.net/livelan/live.m3u8"
             }
         ]
     },
@@ -2412,6 +2412,20 @@
         ]
     },
     {
+        "id": 4,
+        "name": "Liga 1 Max Peru",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Liga1MAX",
         "servers": [
@@ -2544,44 +2558,16 @@
         ]
     },
     {
-        "id": 3052,
-        "name": "Ligue1+ 4 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3052/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3052/"
-            }
-        ]
-    },
-    {
-        "id": 167,
-        "name": "Ligue1+ 5 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/167/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/167/"
-            }
-        ]
-    },
-    {
-        "id": 3051,
+        "id": 960,
         "name": "Ligue1+ France",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3051/"
+                "link": "https://tvnow247.top/embed/960/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3051/"
+                "link": "https://tvnow247.top/embed/960/"
             }
         ]
     },

@@ -2129,6 +2129,20 @@
     },
     {
         "id": null,
+        "name": "Radio ZU (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radiocanal (1080p)",
         "servers": [
             {
@@ -2306,20 +2320,6 @@
             {
                 "name": "URL",
                 "link": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 851,
-        "name": "RAI 2 IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/851/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/851/"
             }
         ]
     },
@@ -2516,6 +2516,20 @@
             {
                 "name": "URL",
                 "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+            }
+        ]
+    },
+    {
+        "id": 882,
+        "name": "Rai Sport Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/882/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/882/"
             }
         ]
     },
@@ -3837,7 +3851,7 @@
     },
     {
         "id": 841,
-        "name": "RDS Info CA",
+        "name": "RDS Info",
         "servers": [
             {
                 "name": "Main Server",
@@ -4131,7 +4145,7 @@
     },
     {
         "id": null,
-        "name": "Recipe TV (720p)",
+        "name": "Recipe.TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6105,7 +6119,7 @@
     },
     {
         "id": 471,
-        "name": "Ring Bulgaria",
+        "name": "Ring BG",
         "servers": [
             {
                 "name": "Main Server",
@@ -6296,20 +6310,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 120,
-        "name": "RMC Sport 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/120/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/120/"
             }
         ]
     },
@@ -6734,6 +6734,20 @@
             {
                 "name": "URL",
                 "link": "https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Romantic FM (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8"
             }
         ]
     },
@@ -7579,6 +7593,20 @@
     },
     {
         "id": null,
+        "name": "RTL Super HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://s6.hopslan.com/superX/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://s6.hopslan.com/superX/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "RTL Tele Letzebuerg (1080p)",
         "servers": [
             {
@@ -7630,6 +7658,20 @@
             {
                 "name": "URL",
                 "link": "https://dash4.antik.sk/live/test_rtl_zwei_tizen/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTL Zwei HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://s6.hopslan.com/rtl2q/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://s6.hopslan.com/rtl2q/index.m3u8"
             }
         ]
     },
@@ -8194,16 +8236,16 @@
         ]
     },
     {
-        "id": 27,
+        "id": 1,
         "name": "RTSH Sport Albania",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/27/"
+                "link": "https://tvnow247.top/embed/1/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/27/"
+                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },
@@ -8806,20 +8848,6 @@
             {
                 "name": "URL",
                 "link": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "RTVS Sport Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
             }
         ]
     },

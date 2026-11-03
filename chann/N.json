@@ -1260,20 +1260,6 @@
         ]
     },
     {
-        "id": 404,
-        "name": "NBA TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/404/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/404/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NBC",
         "servers": [
@@ -1936,8 +1922,22 @@
         ]
     },
     {
+        "id": 755,
+        "name": "NBCS California USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/755/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/755/"
+            }
+        ]
+    },
+    {
         "id": 777,
-        "name": "NBCS Philadelphia",
+        "name": "NBCS Philadelphia USA",
         "servers": [
             {
                 "name": "Main Server",
@@ -3001,6 +3001,20 @@
     },
     {
         "id": null,
+        "name": "News Malayalam 24x7 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/1629/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/1629/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "News Marathi 24x7 (720p)",
         "servers": [
             {
@@ -3920,34 +3934,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 3039,
-        "name": "NFL Redzone Feed",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3039/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3039/"
-            }
-        ]
-    },
-    {
-        "id": 3038,
-        "name": "NFL Sunday Ticket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3038/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3038/"
             }
         ]
     },
@@ -5869,7 +5855,7 @@
     },
     {
         "id": 1022,
-        "name": "Nova SPORT 2 CZ",
+        "name": "Nova Sport 2 CZ",
         "servers": [
             {
                 "name": "Main Server",
@@ -5980,20 +5966,6 @@
         ]
     },
     {
-        "id": 1062,
-        "name": "Nova Sport 5 SK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1062/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1062/"
-            }
-        ]
-    },
-    {
         "id": 1026,
         "name": "Nova Sport 6 CZ",
         "servers": [
@@ -6050,44 +6022,30 @@
         ]
     },
     {
-        "id": 3023,
+        "id": 632,
         "name": "Nova Sports 2 Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3023/"
+                "link": "https://tvnow247.top/embed/632/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3023/"
+                "link": "https://tvnow247.top/embed/632/"
             }
         ]
     },
     {
-        "id": 633,
-        "name": "Nova Sports 3 Greece",
+        "id": 599,
+        "name": "Nova Sports Premier League Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/633/"
+                "link": "https://tvnow247.top/embed/599/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/633/"
-            }
-        ]
-    },
-    {
-        "id": 634,
-        "name": "Nova Sports 4 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/634/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/634/"
+                "link": "https://tvnow247.top/embed/599/"
             }
         ]
     },
@@ -6106,16 +6064,16 @@
         ]
     },
     {
-        "id": 3025,
+        "id": 3023,
         "name": "Nova Sports Prime Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3025/"
+                "link": "https://tvnow247.top/embed/3023/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3025/"
+                "link": "https://tvnow247.top/embed/3023/"
             }
         ]
     },
@@ -7632,16 +7590,16 @@
         ]
     },
     {
-        "id": 162,
+        "id": 164,
         "name": "NWSL+",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/162/"
+                "link": "https://tvnow247.top/embed/164/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/162/"
+                "link": "https://tvnow247.top/embed/164/"
             }
         ]
     },
