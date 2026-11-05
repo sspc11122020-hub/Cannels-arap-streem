@@ -267,20 +267,6 @@
     },
     {
         "id": null,
-        "name": "Halloween Non Stop (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Hamaika Telebista (1080p)",
         "servers": [
             {
@@ -3412,6 +3398,20 @@
             {
                 "name": "URL",
                 "link": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "name": "HRT 2 Croatia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/208/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/208/"
             }
         ]
     },
