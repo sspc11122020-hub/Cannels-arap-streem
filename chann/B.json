@@ -3279,7 +3279,7 @@
     },
     {
         "id": 495,
-        "name": "beIN Sports MAX 5 France",
+        "name": "beIN Sports Max 5 France",
         "servers": [
             {
                 "name": "Main Server",
@@ -3540,6 +3540,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20N%20LAM&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "beIN Sports USA (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvsen6.aynaott.com/beinsports/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvsen6.aynaott.com/beinsports/index.m3u8"
             }
         ]
     },
@@ -4416,20 +4430,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=BET%20UHD%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 306,
-        "name": "BET USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/306/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/306/"
             }
         ]
     },
@@ -5652,48 +5652,6 @@
         ]
     },
     {
-        "id": 22,
-        "name": "Blue Sport 2 Live",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/22/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/22/"
-            }
-        ]
-    },
-    {
-        "id": 68,
-        "name": "Blue Sport 8 Live",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/68/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/68/"
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Blue Sport D 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/18/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/18/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "BM&C News (720p)",
         "servers": [
@@ -5862,58 +5820,58 @@
         ]
     },
     {
-        "id": 201,
+        "id": 261,
         "name": "Board 1",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/201/"
+                "link": "https://tvnow247.top/embed/261/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/201/"
+                "link": "https://tvnow247.top/embed/261/"
             }
         ]
     },
     {
-        "id": 202,
+        "id": 262,
         "name": "Board 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/202/"
+                "link": "https://tvnow247.top/embed/262/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/202/"
+                "link": "https://tvnow247.top/embed/262/"
             }
         ]
     },
     {
-        "id": 203,
+        "id": 263,
         "name": "Board 3",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/203/"
+                "link": "https://tvnow247.top/embed/263/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/203/"
+                "link": "https://tvnow247.top/embed/263/"
             }
         ]
     },
     {
-        "id": 204,
+        "id": 264,
         "name": "Board 4",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/204/"
+                "link": "https://tvnow247.top/embed/264/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/204/"
+                "link": "https://tvnow247.top/embed/264/"
             }
         ]
     },
@@ -6754,20 +6712,6 @@
             {
                 "name": "URL",
                 "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 307,
-        "name": "Bravo USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/307/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/307/"
             }
         ]
     },
