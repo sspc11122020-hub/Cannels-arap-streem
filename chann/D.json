@@ -75,11 +75,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vmttv.dpdns.org/tv360/?id=davinci-hd"
+                "link": "https://vmttv.dpdns.org/tv360?id=davinci-hd"
             },
             {
                 "name": "URL",
-                "link": "https://vmttv.dpdns.org/tv360/?id=davinci-hd"
+                "link": "https://vmttv.dpdns.org/tv360?id=davinci-hd"
             }
         ]
     },
@@ -449,7 +449,7 @@
     },
     {
         "id": null,
-        "name": "Dare To Dream Network",
+        "name": "Dare To Dream Network (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -509,11 +509,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1453/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1453/master.m3u8"
             }
         ]
     },
@@ -1020,6 +1020,20 @@
         ]
     },
     {
+        "id": 59,
+        "name": "DAZN Belgium",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/59/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/59/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "DAZN Combat (684p)",
         "servers": [
@@ -1048,16 +1062,16 @@
         ]
     },
     {
-        "id": 3022,
+        "id": 455,
         "name": "DAZN Eleven 1 Portugal",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3022/"
+                "link": "https://tvnow247.top/embed/455/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3022/"
+                "link": "https://tvnow247.top/embed/455/"
             }
         ]
     },
@@ -1090,20 +1104,6 @@
         ]
     },
     {
-        "id": 458,
-        "name": "DAZN Eleven 4 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/458/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/458/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "DAZN F1",
         "servers": [
@@ -1114,6 +1114,20 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/5rvazszz-6983"
+            }
+        ]
+    },
+    {
+        "id": 537,
+        "name": "DAZN F1 ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/537/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/537/"
             }
         ]
     },
@@ -1142,6 +1156,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "DAZN Italia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/68/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/68/"
             }
         ]
     },
@@ -1188,16 +1216,86 @@
         ]
     },
     {
-        "id": 165,
-        "name": "DAZN UK",
+        "id": 918,
+        "name": "DAZN MotoGP ES",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/165/"
+                "link": "https://tvnow247.top/embed/918/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/165/"
+                "link": "https://tvnow247.top/embed/918/"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "DAZN Pro League 1 Belgium",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/76/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/76/"
+            }
+        ]
+    },
+    {
+        "id": 877,
+        "name": "DAZN ZONA 1 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/877/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/877/"
+            }
+        ]
+    },
+    {
+        "id": 426,
+        "name": "DAZN1 DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/426/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/426/"
+            }
+        ]
+    },
+    {
+        "id": 445,
+        "name": "DAZN1 Spain",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/445/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/445/"
+            }
+        ]
+    },
+    {
+        "id": 427,
+        "name": "DAZN2 DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/427/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/427/"
             }
         ]
     },
@@ -1301,6 +1399,34 @@
     },
     {
         "id": null,
+        "name": "DD Arun Prabha (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/32/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/32/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DD Bangla (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/37/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/37/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "DD Bharati (720p)",
         "servers": [
             {
@@ -1329,15 +1455,15 @@
     },
     {
         "id": null,
-        "name": "DD Chandana (504p)",
+        "name": "DD Chandana (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/28/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/28/master.m3u8"
             }
         ]
     },
@@ -1357,15 +1483,29 @@
     },
     {
         "id": null,
-        "name": "DD India (1080p)",
+        "name": "DD Jharkhand (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1617/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1617/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "DD Kashir (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/16/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/16/master.m3u8"
             }
         ]
     },
@@ -1427,20 +1567,6 @@
     },
     {
         "id": null,
-        "name": "DD National HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DD News (1080p)",
         "servers": [
             {
@@ -1450,20 +1576,6 @@
             {
                 "name": "URL",
                 "link": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DD Odia (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8"
             }
         ]
     },
@@ -1483,15 +1595,15 @@
     },
     {
         "id": null,
-        "name": "DD Saptagiri (504p)",
+        "name": "DD Saptagiri (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/22/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/22/master.m3u8"
             }
         ]
     },
@@ -1801,11 +1913,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://38.19.41.46:8081/DEPELICULA/index.m3u8"
+                "link": "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://38.19.41.46:8081/DEPELICULA/index.m3u8"
+                "link": "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8"
             }
         ]
     },
@@ -2877,7 +2989,7 @@
     },
     {
         "id": null,
-        "name": "Diadora TV",
+        "name": "Diadora TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3040,6 +3152,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203%20FHD%20BG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 465,
+        "name": "Diema Sport Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/465/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/465/"
             }
         ]
     },
@@ -3208,20 +3334,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 403,
-        "name": "Digi Sport 4 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/403/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/403/"
             }
         ]
     },
@@ -3453,11 +3565,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://185.227.34.179:8080/disco-polo-music/index.m3u8"
+                "link": "http://92.114.85.87:8014/play/a007/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://185.227.34.179:8080/disco-polo-music/index.m3u8"
+                "link": "http://92.114.85.87:8014/play/a007/index.m3u8"
             }
         ]
     },
@@ -4433,11 +4545,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8"
+                "link": "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8"
+                "link": "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8"
             }
         ]
     },
@@ -4531,11 +4643,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1624/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1624/master.m3u8"
             }
         ]
     },
@@ -4905,20 +5017,6 @@
     },
     {
         "id": null,
-        "name": "DNN (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://samitaorigin.tangotv.in/DNN/SAMITAORIGIN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Doble C Television (720p)",
         "servers": [
             {
@@ -5175,11 +5273,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/236/index.m3u8"
+                "link": "http://88.212.15.50/live/test_dom_kino/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/236/index.m3u8"
+                "link": "http://88.212.15.50/live/test_dom_kino/playlist.m3u8"
             }
         ]
     },
@@ -5231,11 +5329,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -5245,11 +5343,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/227/index.m3u8"
+                "link": "http://31.148.5.241/kanal_14/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/227/index.m3u8"
+                "link": "http://31.148.5.241/kanal_14/index.m3u8"
             }
         ]
     },
@@ -5357,11 +5455,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8"
+                "link": "http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv"
             },
             {
                 "name": "URL",
-                "link": "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8"
+                "link": "http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv"
             }
         ]
     },
@@ -5493,7 +5591,7 @@
     },
     {
         "id": null,
-        "name": "Doyel TV",
+        "name": "Doyel TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5535,7 +5633,7 @@
     },
     {
         "id": null,
-        "name": "Dr G Medical Examiner",
+        "name": "Dr G Medical Examiner (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5707,11 +5805,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn12.178.indevs.in/163189/dreamworks"
+                "link": "http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn12.178.indevs.in/163189/dreamworks"
+                "link": "http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8"
             }
         ]
     },
@@ -5856,6 +5954,20 @@
         ]
     },
     {
+        "id": 619,
+        "name": "DSports 1 Argentina",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/619/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/619/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Dsports 2",
         "servers": [
@@ -5880,6 +5992,20 @@
             {
                 "name": "URL",
                 "link": "http://187.102.208.209:8000/play/a0bq/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 620,
+        "name": "DSports 2 Argentina",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/620/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/620/"
             }
         ]
     },
@@ -6319,29 +6445,15 @@
     },
     {
         "id": null,
-        "name": "Duronto TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Dushanbe HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.teleradiocom.tj/7/3m.m3u8"
+                "link": "http://185.121.1.163:8083/DushanbeHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.teleradiocom.tj/7/3m.m3u8"
+                "link": "http://185.121.1.163:8083/DushanbeHD/index.m3u8"
             }
         ]
     },
@@ -6472,16 +6584,16 @@
         ]
     },
     {
-        "id": 219,
+        "id": 153,
         "name": "DYN DE",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/219/"
+                "link": "https://tvnow247.top/embed/153/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/219/"
+                "link": "https://tvnow247.top/embed/153/"
             }
         ]
     },

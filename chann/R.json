@@ -1653,7 +1653,7 @@
     },
     {
         "id": null,
-        "name": "Radio Tele Evangile Sans Limite",
+        "name": "Radio Tele Evangile Sans Limite (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1667,7 +1667,7 @@
     },
     {
         "id": null,
-        "name": "Radio Tele Full Gospel",
+        "name": "Radio Tele Full Gospel (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1681,7 +1681,7 @@
     },
     {
         "id": null,
-        "name": "Radio Tele Ginen",
+        "name": "Radio Tele Ginen (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1751,7 +1751,7 @@
     },
     {
         "id": null,
-        "name": "Radio Tele Sentinel",
+        "name": "Radio Tele Sentinel (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1895,11 +1895,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8"
+                "link": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8"
+                "link": "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8"
             }
         ]
     },
@@ -2283,20 +2283,6 @@
     },
     {
         "id": null,
-        "name": "Raftaar Media (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Ragni (360p)",
         "servers": [
             {
@@ -2339,7 +2325,7 @@
     },
     {
         "id": null,
-        "name": "Rai 3 BIS FJK",
+        "name": "Rai 3 BIS FJK (408p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2353,7 +2339,7 @@
     },
     {
         "id": null,
-        "name": "Rai 3 Friuli Venezia Giulia",
+        "name": "Rai 3 Friuli Venezia Giulia (408p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2367,7 +2353,7 @@
     },
     {
         "id": null,
-        "name": "Rai 3 Trentino-Alto Adige Bolzano",
+        "name": "Rai 3 Trentino-Alto Adige Bolzano (408p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2381,7 +2367,7 @@
     },
     {
         "id": null,
-        "name": "Rai 3 Trentino-Alto Adige Trento",
+        "name": "Rai 3 Trentino-Alto Adige Trento (408p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2446,6 +2432,20 @@
             {
                 "name": "URL",
                 "link": "http://5.180.164.197:8080/RAIGULP/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai Italia North Americas (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://138.59.177.78:9999/play/a0gf/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://138.59.177.78:9999/play/a0gf/index.m3u8"
             }
         ]
     },
@@ -2516,6 +2516,20 @@
             {
                 "name": "URL",
                 "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+            }
+        ]
+    },
+    {
+        "id": 882,
+        "name": "Rai Sport 1 Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/882/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/882/"
             }
         ]
     },
@@ -2637,11 +2651,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1507/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1507/master.m3u8"
             }
         ]
     },
@@ -2665,11 +2679,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/279/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/279/master.m3u8"
             }
         ]
     },
@@ -2679,11 +2693,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
+                "link": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
+                "link": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8"
             }
         ]
     },
@@ -3179,7 +3193,7 @@
     },
     {
         "id": null,
-        "name": "Rakuten Viki Poland",
+        "name": "Rakuten Viki Poland (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3617,11 +3631,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8"
+                "link": "http://176.118.197.101/RBK/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8"
+                "link": "http://176.118.197.101/RBK/index.m3u8"
             }
         ]
     },
@@ -3701,11 +3715,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.226.205.96:48000/play/a0af/index.m3u8"
+                "link": "http://45.224.96.220:18000/play/a098/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.226.205.96:48000/play/a0af/index.m3u8"
+                "link": "http://45.224.96.220:18000/play/a098/index.m3u8"
             }
         ]
     },
@@ -3808,30 +3822,16 @@
         ]
     },
     {
-        "id": 840,
-        "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
-    },
-    {
-        "id": 839,
+        "id": null,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/839/"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -3921,7 +3921,7 @@
     },
     {
         "id": null,
-        "name": "Real America's Voice KPVM-LD",
+        "name": "Real America's Voice KPVM-LD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4845,7 +4845,7 @@
     },
     {
         "id": null,
-        "name": "Rede TV! Mais",
+        "name": "Rede TV! Mais (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4877,11 +4877,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://168.197.104.22/REDE_VIDA/index.m3u8"
+                "link": "http://46.151.196.223:14244"
             },
             {
                 "name": "URL",
-                "link": "http://168.197.104.22/REDE_VIDA/index.m3u8"
+                "link": "http://46.151.196.223:14244"
             }
         ]
     },
@@ -5073,11 +5073,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8"
+                "link": "http://190.128.214.97:64333/play/a05o/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8"
+                "link": "http://190.128.214.97:64333/play/a05o/index.m3u8"
             }
         ]
     },
@@ -5143,11 +5143,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/REN-TV/index.m3u8"
+                "link": "http://31.148.5.241/kanal_11/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/REN-TV/index.m3u8"
+                "link": "http://31.148.5.241/kanal_11/index.m3u8"
             }
         ]
     },
@@ -5176,20 +5176,6 @@
             {
                 "name": "URL",
                 "link": "https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Rengoni (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8"
             }
         ]
     },
@@ -5283,11 +5269,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://segment.yuppcdn.net/050522/reporter/playlist.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1510/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://segment.yuppcdn.net/050522/reporter/playlist.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1510/master.m3u8"
             }
         ]
     },
@@ -5311,11 +5297,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/270/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/270/master.m3u8"
             }
         ]
     },
@@ -5405,7 +5391,7 @@
     },
     {
         "id": null,
-        "name": "Rete 8",
+        "name": "Rete 8 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5493,11 +5479,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/191/index.m3u8"
+                "link": "http://176.118.197.101/Retro/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/191/index.m3u8"
+                "link": "http://176.118.197.101/Retro/index.m3u8"
             }
         ]
     },
@@ -6105,7 +6091,7 @@
     },
     {
         "id": 471,
-        "name": "Ring bg",
+        "name": "Ring Bulgaria",
         "servers": [
             {
                 "name": "Main Server",
@@ -6286,6 +6272,20 @@
         ]
     },
     {
+        "id": 119,
+        "name": "RMC Sport 1 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/119/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/119/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RMC Sport 1 HD FR",
         "servers": [
@@ -6296,6 +6296,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "RMC Sport 2 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/120/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/120/"
             }
         ]
     },
@@ -6529,7 +6543,7 @@
     },
     {
         "id": null,
-        "name": "Rocco TV",
+        "name": "Rocco TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6879,7 +6893,7 @@
     },
     {
         "id": null,
-        "name": "Royalworld",
+        "name": "Royalworld (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7121,11 +7135,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8"
             }
         ]
     },
@@ -7243,7 +7257,7 @@
     },
     {
         "id": null,
-        "name": "RTC Television",
+        "name": "RTC Television (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7275,11 +7289,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/164/index.m3u8"
+                "link": "http://46.53.200.153:7777/play/a00u/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/164/index.m3u8"
+                "link": "http://46.53.200.153:7777/play/a00u/index.m3u8"
             }
         ]
     },
@@ -7518,20 +7532,6 @@
             {
                 "name": "URL",
                 "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 740,
-        "name": "RTL DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/740/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/740/"
             }
         ]
     },
@@ -7901,7 +7901,7 @@
     },
     {
         "id": null,
-        "name": "RTR-Planeta Asia",
+        "name": "RTR-Planeta Asia (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8559,7 +8559,7 @@
     },
     {
         "id": null,
-        "name": "RTV Nuble",
+        "name": "RTV Nuble (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8927,11 +8927,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://186.148.196.100:8000/play/a02h"
+                "link": "http://38.134.250.110:8000/play/a01p/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://186.148.196.100:8000/play/a02h"
+                "link": "http://38.134.250.110:8000/play/a01p/index.m3u8"
             }
         ]
     },
@@ -9165,11 +9165,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8"
+                "link": "http://176.118.197.101/RossiyaHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8"
+                "link": "http://176.118.197.101/RossiyaHD/index.m3u8"
             }
         ]
     },
@@ -9207,11 +9207,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/229/index.m3u8"
+                "link": "http://31.148.5.241/kanal_6/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/229/index.m3u8"
+                "link": "http://31.148.5.241/kanal_6/index.m3u8"
             }
         ]
     },
@@ -9263,11 +9263,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
+                "link": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8"
+                "link": "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8"
             }
         ]
     },

@@ -89,11 +89,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8"
+                "link": "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8"
+                "link": "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8"
             }
         ]
     },
@@ -477,7 +477,7 @@
     },
     {
         "id": null,
-        "name": "UMAGTV",
+        "name": "UMAGTV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -519,7 +519,7 @@
     },
     {
         "id": null,
-        "name": "Umm TV",
+        "name": "Umm TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -785,7 +785,7 @@
     },
     {
         "id": null,
-        "name": "Unife TV",
+        "name": "Unife TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -840,20 +840,6 @@
         ]
     },
     {
-        "id": 133,
-        "name": "UniMás",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/133/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/133/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "UniMas Central (720p)",
         "servers": [
@@ -869,7 +855,7 @@
     },
     {
         "id": null,
-        "name": "UniMas KFTR-DT [Geo-blocked]",
+        "name": "UniMas KFTR-DT (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -883,7 +869,7 @@
     },
     {
         "id": null,
-        "name": "UniMas KUVN-DT",
+        "name": "UniMas KUVN-DT (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -939,7 +925,7 @@
     },
     {
         "id": null,
-        "name": "UniMas WXTV-DT",
+        "name": "UniMas WXTV-DT (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -967,7 +953,7 @@
     },
     {
         "id": null,
-        "name": "Union TV",
+        "name": "Union TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -976,20 +962,6 @@
             {
                 "name": "URL",
                 "link": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Unique TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8"
             }
         ]
     },
@@ -1023,7 +995,7 @@
     },
     {
         "id": null,
-        "name": "Uniregion TV",
+        "name": "Uniregion TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1307,11 +1279,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.197.41.183/Univision/index.m3u8"
+                "link": "http://38.252.238.18:8000/play/a03e/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.197.41.183/Univision/index.m3u8"
+                "link": "http://38.252.238.18:8000/play/a03e/index.m3u8"
             }
         ]
     },
@@ -1345,7 +1317,7 @@
     },
     {
         "id": null,
-        "name": "Univision KMEX-DT [Geo-blocked]",
+        "name": "Univision KMEX-DT (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1550,6 +1522,34 @@
             {
                 "name": "URL",
                 "link": "http://dtv.vol.net.ua/UPL-TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "UPL.TV 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/5/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/5/"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "UPL.TV 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/6/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/6/"
             }
         ]
     },

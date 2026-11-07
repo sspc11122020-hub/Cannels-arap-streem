@@ -15,7 +15,7 @@
     },
     {
         "id": null,
-        "name": "L'altro Corriere TV",
+        "name": "L'altro Corriere TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -141,7 +141,7 @@
     },
     {
         "id": null,
-        "name": "La 2",
+        "name": "La 2 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -449,7 +449,7 @@
     },
     {
         "id": null,
-        "name": "La Nuova TV",
+        "name": "La Nuova TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -477,7 +477,7 @@
     },
     {
         "id": null,
-        "name": "La Popular TV",
+        "name": "La Popular TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -533,7 +533,7 @@
     },
     {
         "id": null,
-        "name": "La Reina TV [Geo-blocked]",
+        "name": "La Reina TV (360p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -939,7 +939,7 @@
     },
     {
         "id": null,
-        "name": "Lake Havasu City 4",
+        "name": "Lake Havasu City 4 (360p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1018,6 +1018,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 539,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/539/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/539/"
             }
         ]
     },
@@ -1135,7 +1149,7 @@
     },
     {
         "id": null,
-        "name": "Lanthung TV",
+        "name": "Lanthung TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1279,11 +1293,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+                "link": "http://45.189.151.7:8000/play/a07s"
             },
             {
                 "name": "URL",
-                "link": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+                "link": "http://45.189.151.7:8000/play/a07s"
             }
         ]
     },
@@ -1358,6 +1372,20 @@
             {
                 "name": "URL",
                 "link": "https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Latele (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.128.214.97:64333/play/a03i/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.128.214.97:64333/play/a03i/index.m3u8"
             }
         ]
     },
@@ -1615,7 +1643,7 @@
     },
     {
         "id": null,
-        "name": "LCI",
+        "name": "LCI (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1909,7 +1937,7 @@
     },
     {
         "id": null,
-        "name": "Lena TV [Not 24/7]",
+        "name": "Lena TV (614p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -2021,7 +2049,7 @@
     },
     {
         "id": null,
-        "name": "Lepanto TV",
+        "name": "Lepanto TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2398,6 +2426,20 @@
         ]
     },
     {
+        "id": 18,
+        "name": "Liga 1 Max Peru",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/18/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/18/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Liga1MAX",
         "servers": [
@@ -2545,7 +2587,7 @@
     },
     {
         "id": null,
-        "name": "Lila TV Pencahue",
+        "name": "Lila TV Pencahue (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2885,11 +2927,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.ottlive.co.in/livingindia/index.m3u8"
+                "link": "https://livingindiaottlive.akamaized.net/livingindia/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.ottlive.co.in/livingindia/index.m3u8"
+                "link": "https://livingindiaottlive.akamaized.net/livingindia/index.m3u8"
             }
         ]
     },
@@ -3259,7 +3301,7 @@
     },
     {
         "id": null,
-        "name": "Lombardia TV",
+        "name": "Lombardia TV (720p)",
         "servers": [
             {
                 "name": "Main Server",

@@ -1,7 +1,7 @@
 [
     {
         "id": null,
-        "name": "O Dia TV",
+        "name": "O Dia TV (450p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1503,11 +1503,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vmttv.dpdns.org/tv360/?id=175"
+                "link": "https://vmttv.dpdns.org/tv360?id=175"
             },
             {
                 "name": "URL",
-                "link": "https://vmttv.dpdns.org/tv360/?id=175"
+                "link": "https://vmttv.dpdns.org/tv360?id=175"
             }
         ]
     },
@@ -1737,7 +1737,7 @@
     },
     {
         "id": null,
-        "name": "One",
+        "name": "One (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1975,6 +1975,20 @@
     },
     {
         "id": null,
+        "name": "One Planet (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://dtv.vol.net.ua/OnePlanet/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://dtv.vol.net.ua/OnePlanet/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "One TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -2040,6 +2054,34 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/1027/"
+            }
+        ]
+    },
+    {
+        "id": 1029,
+        "name": "Oneplay Sport 3 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1029/"
+            }
+        ]
+    },
+    {
+        "id": 1038,
+        "name": "Oneplay Sport 4 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1038/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1038/"
             }
         ]
     },
@@ -2609,11 +2651,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://flussonic.linkintel.ru/otr/index.m3u8"
+                "link": "http://31.148.5.241/kanal_9/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://flussonic.linkintel.ru/otr/index.m3u8"
+                "link": "http://31.148.5.241/kanal_9/index.m3u8"
             }
         ]
     },
@@ -2689,7 +2731,7 @@
     },
     {
         "id": null,
-        "name": "OTV (Ukraine)",
+        "name": "OTV (Ukraine) (576p)",
         "servers": [
             {
                 "name": "Main Server",

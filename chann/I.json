@@ -61,11 +61,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
+                "link": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
+                "link": "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8"
             }
         ]
     },
@@ -75,11 +75,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8"
+                "link": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8"
+                "link": "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8"
             }
         ]
     },
@@ -122,20 +122,6 @@
             {
                 "name": "URL",
                 "link": "https://tv.streambox.ro/hls/itv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "IBC 24 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8"
             }
         ]
     },
@@ -841,7 +827,7 @@
     },
     {
         "id": null,
-        "name": "iHolyfield TV WHPS-CD",
+        "name": "iHolyfield TV WHPS-CD (614p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1177,7 +1163,7 @@
     },
     {
         "id": null,
-        "name": "Impact Channel",
+        "name": "Impact Channel (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1433,11 +1419,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/269/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/269/master.m3u8"
             }
         ]
     },
@@ -1452,34 +1438,6 @@
             {
                 "name": "URL",
                 "link": "https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "India News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "India News Punjab/Himachal (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8"
             }
         ]
     },
@@ -1592,6 +1550,20 @@
             {
                 "name": "URL",
                 "link": "http://188.113.190.12/329/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Indosiar",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },
@@ -1867,11 +1839,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8"
             }
         ]
     },
@@ -1998,6 +1970,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "InTouch+ (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -2395,7 +2381,7 @@
     },
     {
         "id": null,
-        "name": "Iran Jewish TV",
+        "name": "Iran Jewish TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2675,7 +2661,7 @@
     },
     {
         "id": null,
-        "name": "ISA TV",
+        "name": "ISA TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2815,7 +2801,7 @@
     },
     {
         "id": null,
-        "name": "Island Luck TV",
+        "name": "Island Luck TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3121,15 +3107,15 @@
     },
     {
         "id": null,
-        "name": "ITV (480p)",
+        "name": "ITV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+                "link": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+                "link": "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8"
             }
         ]
     },
@@ -3144,6 +3130,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "name": "ITV 1 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/350/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/350/"
             }
         ]
     },
@@ -3186,6 +3186,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%204%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 353,
+        "name": "ITV 4 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/353/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/353/"
             }
         ]
     },

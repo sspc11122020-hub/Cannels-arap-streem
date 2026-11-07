@@ -187,11 +187,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1389/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1389/master.m3u8"
             }
         ]
     },
@@ -211,7 +211,7 @@
     },
     {
         "id": null,
-        "name": "NAN TV",
+        "name": "NAN TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -229,11 +229,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8"
             }
         ]
     },
@@ -267,7 +267,7 @@
     },
     {
         "id": null,
-        "name": "Nandejara Ne'e TV",
+        "name": "Nandejara Ne'e TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -290,6 +290,20 @@
             {
                 "name": "URL",
                 "link": "https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nanduti (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.128.214.97:64333/play/a02d/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.128.214.97:64333/play/a02d/index.m3u8"
             }
         ]
     },
@@ -673,7 +687,7 @@
     },
     {
         "id": null,
-        "name": "Nation TV",
+        "name": "Nation TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -887,11 +901,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8"
+                "link": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8"
+                "link": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8"
             }
         ]
     },
@@ -1242,20 +1256,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 404,
-        "name": "NBA TV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/404/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/404/"
             }
         ]
     },
@@ -1894,22 +1894,36 @@
         ]
     },
     {
-        "id": 753,
-        "name": "NBCS Bay Area USA",
+        "id": 754,
+        "name": "NBCS Boston USA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/753/"
+                "link": "https://tvnow247.top/embed/754/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/753/"
+                "link": "https://tvnow247.top/embed/754/"
+            }
+        ]
+    },
+    {
+        "id": 755,
+        "name": "NBCS California",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/755/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/755/"
             }
         ]
     },
     {
         "id": 777,
-        "name": "NBCS Philadelphia",
+        "name": "NBCS Philadelphia USA",
         "servers": [
             {
                 "name": "Main Server",
@@ -2291,11 +2305,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
             }
         ]
     },
@@ -2366,20 +2380,6 @@
             {
                 "name": "URL",
                 "link": "https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NE News (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2NENEWS/index.m3u8"
             }
         ]
     },
@@ -2501,11 +2501,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1490/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1490/master.m3u8"
             }
         ]
     },
@@ -2637,7 +2637,7 @@
     },
     {
         "id": null,
-        "name": "Nevis Television",
+        "name": "Nevis Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2721,34 +2721,6 @@
     },
     {
         "id": null,
-        "name": "News 1 India (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "News 11 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "News 1st (576p)",
         "servers": [
             {
@@ -2763,7 +2735,7 @@
     },
     {
         "id": null,
-        "name": "News 21 Bangla TV",
+        "name": "News 21 Bangla TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2805,29 +2777,15 @@
     },
     {
         "id": null,
-        "name": "News 24 MP & Chhattisgarh (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "News 7 Tamil (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1498/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://segment.yuppcdn.net/240122/news7/playlist.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1498/master.m3u8"
             }
         ]
     },
@@ -2875,20 +2833,6 @@
     },
     {
         "id": null,
-        "name": "News Daily 24 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3NEWSDAILY24/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "News Hour (576p)",
         "servers": [
             {
@@ -2907,11 +2851,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/273/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://samitaorigin.tangotv.in/NEWSINDIA24X7/SAMITAORIGIN/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/273/master.m3u8"
             }
         ]
     },
@@ -2949,11 +2893,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8"
             }
         ]
     },
@@ -2963,11 +2907,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/10003/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/10003/master.m3u8"
             }
         ]
     },
@@ -3005,11 +2949,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+                "link": "https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+                "link": "https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8"
             }
         ]
     },
@@ -3155,7 +3099,7 @@
     },
     {
         "id": null,
-        "name": "News1",
+        "name": "News1 (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3169,7 +3113,7 @@
     },
     {
         "id": null,
-        "name": "News12 Bronx [Geo-blocked]",
+        "name": "News12 Bronx (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3183,7 +3127,7 @@
     },
     {
         "id": null,
-        "name": "News12 Brooklyn [Geo-blocked]",
+        "name": "News12 Brooklyn (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3211,7 +3155,7 @@
     },
     {
         "id": null,
-        "name": "News12 Hudson Valley [Geo-blocked]",
+        "name": "News12 Hudson Valley (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3239,7 +3183,7 @@
     },
     {
         "id": null,
-        "name": "News12 New Jersey [Geo-blocked]",
+        "name": "News12 New Jersey (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3267,7 +3211,7 @@
     },
     {
         "id": null,
-        "name": "News12 Westchester [Geo-blocked]",
+        "name": "News12 Westchester (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -3313,11 +3257,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
+                "link": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8"
+                "link": "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8"
             }
         ]
     },
@@ -3435,6 +3379,20 @@
     },
     {
         "id": null,
+        "name": "News18 Kannada (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "News18 Kerala (1080p)",
         "servers": [
             {
@@ -3481,11 +3439,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8"
+                "link": "https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8"
             }
         ]
     },
@@ -3631,7 +3589,7 @@
     },
     {
         "id": null,
-        "name": "Newsmax 2 KPVM-LD",
+        "name": "Newsmax 2 KPVM-LD (484p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3733,11 +3691,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1049/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1049/master.m3u8"
             }
         ]
     },
@@ -3812,20 +3770,6 @@
         ]
     },
     {
-        "id": 217,
-        "name": "Next Level Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/217/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/217/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Next TV (1080p) [Not 24/7]",
         "servers": [
@@ -3855,7 +3799,7 @@
     },
     {
         "id": null,
-        "name": "Nexxo TV",
+        "name": "Nexxo TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4055,11 +3999,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/455/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/455/master.m3u8"
             }
         ]
     },
@@ -4116,6 +4060,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 663,
+        "name": "NHL Network USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/663/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/663/"
             }
         ]
     },
@@ -4195,11 +4153,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls"
             },
             {
                 "name": "URL",
-                "link": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
+                "link": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls"
             }
         ]
     },
@@ -4387,6 +4345,20 @@
     },
     {
         "id": null,
+        "name": "Nickelodeon (Bulgaria)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://87.120.179.187:8000/play/a00x"
+            },
+            {
+                "name": "URL",
+                "link": "http://87.120.179.187:8000/play/a00x"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nickelodeon (Croatia) (1080p)",
         "servers": [
             {
@@ -4466,6 +4438,20 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8013/play/a005/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nickelodeon (Romania)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.76.68.60:7442/64/mpegts"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.76.68.60:7442/64/mpegts"
             }
         ]
     },
@@ -4765,6 +4751,20 @@
     },
     {
         "id": null,
+        "name": "Nicktoons (Romania)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://178.76.68.60:7442/80/mpegts"
+            },
+            {
+                "name": "URL",
+                "link": "http://178.76.68.60:7442/80/mpegts"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nicktoons (United States) (720p)",
         "servers": [
             {
@@ -5003,15 +5003,15 @@
     },
     {
         "id": null,
-        "name": "Ninja Kidz TV (720p)",
+        "name": "Ninja Kidz TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
+                "link": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
+                "link": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -5617,7 +5617,7 @@
     },
     {
         "id": null,
-        "name": "Notisur TV [Not 24/7]",
+        "name": "Notisur TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -5770,6 +5770,48 @@
         ]
     },
     {
+        "id": 1021,
+        "name": "Nova Sport 1 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1021/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1021/"
+            }
+        ]
+    },
+    {
+        "id": 1022,
+        "name": "Nova Sport 2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1022/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1022/"
+            }
+        ]
+    },
+    {
+        "id": 1023,
+        "name": "Nova Sport 3 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1023/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1023/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Nova Sport 3 HD GR",
         "servers": [
@@ -5780,6 +5822,48 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 1060,
+        "name": "Nova Sport 3 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1060/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1060/"
+            }
+        ]
+    },
+    {
+        "id": 1024,
+        "name": "Nova Sport 4 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1024/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1024/"
+            }
+        ]
+    },
+    {
+        "id": 1061,
+        "name": "Nova Sport 4 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1061/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1061/"
             }
         ]
     },
@@ -5826,6 +5910,20 @@
         ]
     },
     {
+        "id": 1026,
+        "name": "Nova Sport 6 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1026/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1026/"
+            }
+        ]
+    },
+    {
         "id": 468,
         "name": "Nova Sport Bulgaria",
         "servers": [
@@ -5868,6 +5966,34 @@
         ]
     },
     {
+        "id": 632,
+        "name": "Nova Sports 2 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/632/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/632/"
+            }
+        ]
+    },
+    {
+        "id": 633,
+        "name": "Nova Sports 3 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/633/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/633/"
+            }
+        ]
+    },
+    {
         "id": 634,
         "name": "Nova Sports 4 Greece",
         "servers": [
@@ -5882,16 +6008,16 @@
         ]
     },
     {
-        "id": 635,
-        "name": "Nova Sports 5 Greece",
+        "id": 599,
+        "name": "Nova Sports Premier League Greece",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/635/"
+                "link": "https://tvnow247.top/embed/599/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/635/"
+                "link": "https://tvnow247.top/embed/599/"
             }
         ]
     },
@@ -6037,7 +6163,7 @@
     },
     {
         "id": null,
-        "name": "NOVO19",
+        "name": "NOVO19 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6681,15 +6807,15 @@
     },
     {
         "id": null,
-        "name": "NTN (Ukraine) (1080i)",
+        "name": "NTN (Ukraine) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+                "link": "http://stream.mcquack.net/326/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+                "link": "http://stream.mcquack.net/326/index.m3u8"
             }
         ]
     },
@@ -6825,11 +6951,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.153.24.78/NTV/index.m3u8"
+                "link": "http://31.148.5.241/kanal_4/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.153.24.78/NTV/index.m3u8"
+                "link": "http://31.148.5.241/kanal_4/index.m3u8"
             }
         ]
     },
@@ -6895,11 +7021,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https"
+                "link": "http://flussonic.linkintel.ru/ntv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https"
+                "link": "http://flussonic.linkintel.ru/ntv/index.m3u8"
             }
         ]
     },
@@ -7157,7 +7283,7 @@
     },
     {
         "id": null,
-        "name": "Nuevo Tiempo TV",
+        "name": "Nuevo Tiempo TV (720p)",
         "servers": [
             {
                 "name": "Main Server",

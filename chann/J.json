@@ -141,20 +141,6 @@
     },
     {
         "id": null,
-        "name": "Jaihind TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Jalisco TV (720p)",
         "servers": [
             {
@@ -285,11 +271,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8"
             }
         ]
     },
@@ -547,7 +533,7 @@
     },
     {
         "id": null,
-        "name": "Jeremiah TV",
+        "name": "Jeremiah TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1218,6 +1204,20 @@
         ]
     },
     {
+        "id": 1052,
+        "name": "JOJ Šport SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1052/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1052/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Jonack (576p)",
         "servers": [
@@ -1368,6 +1368,20 @@
             {
                 "name": "URL",
                 "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jordan TV Sport",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
@@ -1555,7 +1569,7 @@
     },
     {
         "id": null,
-        "name": "JTV Madiun",
+        "name": "JTV Madiun (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1583,7 +1597,7 @@
     },
     {
         "id": null,
-        "name": "JTV Malang",
+        "name": "JTV Malang (480p)",
         "servers": [
             {
                 "name": "Main Server",

@@ -298,6 +298,20 @@
         ]
     },
     {
+        "id": 727,
+        "name": "ZDF DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/727/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/727/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "ZDF FHD DE",
         "servers": [
@@ -443,11 +457,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
+                "link": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8"
+                "link": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8"
             }
         ]
     },
@@ -541,11 +555,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a024/index.m3u8?hls"
+                "link": "http://103.151.60.162:2122/play/a012/index.m3u8?hls"
             },
             {
                 "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a024/index.m3u8?hls"
+                "link": "http://103.151.60.162:2122/play/a012/index.m3u8?hls"
             }
         ]
     },
@@ -1054,16 +1068,16 @@
         ]
     },
     {
-        "id": 3088,
+        "id": 393,
         "name": "Ziggo Sport 1 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3088/"
+                "link": "https://tvnow247.top/embed/393/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3088/"
+                "link": "https://tvnow247.top/embed/393/"
             }
         ]
     },
@@ -1082,16 +1096,16 @@
         ]
     },
     {
-        "id": 3089,
+        "id": 398,
         "name": "Ziggo Sport 2 NL",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3089/"
+                "link": "https://tvnow247.top/embed/398/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3089/"
+                "link": "https://tvnow247.top/embed/398/"
             }
         ]
     },
@@ -1405,7 +1419,7 @@
     },
     {
         "id": null,
-        "name": "Zonavision TV [Not 24/7]",
+        "name": "Zonavision TV (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -1503,15 +1517,15 @@
     },
     {
         "id": null,
-        "name": "Zoopark (576i)",
+        "name": "Zoopark (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv"
             },
             {
                 "name": "URL",
-                "link": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8"
+                "link": "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv"
             }
         ]
     },

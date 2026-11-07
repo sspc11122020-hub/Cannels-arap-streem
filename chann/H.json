@@ -533,7 +533,7 @@
     },
     {
         "id": null,
-        "name": "Hard Knocks Fighting Championship",
+        "name": "Hard Knocks Fighting Championship (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1027,11 +1027,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.streamhch.com/live/streams/hch1.m3u8"
+                "link": "http://45.228.234.9:8000/play/a06t/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.streamhch.com/live/streams/hch1.m3u8"
+                "link": "http://45.228.234.9:8000/play/a06t/index.m3u8"
             }
         ]
     },
@@ -3015,17 +3015,17 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1385/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8"
+                "link": "https://cdn.pishow.tv/ott/live/1385/master.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Hope Channel Inter-America",
+        "name": "Hope Channel Inter-America (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3132,20 +3132,6 @@
             {
                 "name": "URL",
                 "link": "http://144.217.14.88/hls/hope4life.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hornbill TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8"
             }
         ]
     },
@@ -3617,11 +3603,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao"
+                "link": "https://vmttv.dpdns.org/tv360?id=htv-the-thao"
             },
             {
                 "name": "URL",
-                "link": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao"
+                "link": "https://vmttv.dpdns.org/tv360?id=htv-the-thao"
             }
         ]
     },

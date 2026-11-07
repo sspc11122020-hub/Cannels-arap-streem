@@ -1,20 +1,6 @@
 [
     {
         "id": null,
-        "name": "Q TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Q-Music (1080p)",
         "servers": [
             {
@@ -122,20 +108,6 @@
             {
                 "name": "URL",
                 "link": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Qazaqstan (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv"
-            },
-            {
-                "name": "URL",
-                "link": "https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv"
             }
         ]
     },
@@ -341,11 +313,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1"
             },
             {
                 "name": "URL",
-                "link": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1"
             }
         ]
     },
@@ -369,11 +341,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1"
             },
             {
                 "name": "URL",
-                "link": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1"
             }
         ]
     },
@@ -383,11 +355,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1"
             },
             {
                 "name": "URL",
-                "link": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1"
             }
         ]
     },
@@ -411,11 +383,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1"
             },
             {
                 "name": "URL",
-                "link": "http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+                "link": "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1"
             }
         ]
     },
@@ -491,7 +463,7 @@
     },
     {
         "id": null,
-        "name": "Qub TV",
+        "name": "Qub TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
