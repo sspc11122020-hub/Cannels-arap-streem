@@ -15,29 +15,29 @@
     },
     {
         "id": null,
-        "name": "R Plus (768p)",
+        "name": "R Plus (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+                "link": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+                "link": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "R Plus Gold (720p)",
+        "name": "R Plus Gold (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/1231/master.m3u8"
+                "link": "https://stream.ottlive.co.in/rplusgold/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/1231/master.m3u8"
+                "link": "https://stream.ottlive.co.in/rplusgold/index.m3u8"
             }
         ]
     },
@@ -2311,6 +2311,20 @@
     },
     {
         "id": null,
+        "name": "Rai 2 HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://team-tv.co:81/rai2/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://team-tv.co:81/rai2/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Rai 3 (1080p)",
         "servers": [
             {
@@ -2521,7 +2535,7 @@
     },
     {
         "id": 882,
-        "name": "Rai Sport 1 Italy",
+        "name": "RAI Sport 1 IT",
         "servers": [
             {
                 "name": "Main Server",
@@ -3822,16 +3836,30 @@
         ]
     },
     {
-        "id": null,
+        "id": 840,
+        "name": "RDS 2 CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
+    },
+    {
+        "id": 839,
         "name": "RDS CA",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/839/"
             },
             {
                 "name": "URL",
-                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=&user=cdnlivetv&plan=free"
+                "link": "https://tvnow247.top/embed/839/"
             }
         ]
     },
@@ -8820,6 +8848,20 @@
             {
                 "name": "URL",
                 "link": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "name": "RTVS Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1059/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1059/"
             }
         ]
     },

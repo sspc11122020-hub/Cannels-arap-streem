@@ -127,6 +127,20 @@
     },
     {
         "id": null,
+        "name": "IBC 24 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "IBC Bakthi (1080p)",
         "servers": [
             {
@@ -1554,16 +1568,16 @@
         ]
     },
     {
-        "id": 1,
+        "id": 24,
         "name": "Indosiar",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/24/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
+                "link": "https://tvnow247.top/embed/24/"
             }
         ]
     },
@@ -1830,6 +1844,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Insula non stop (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8"
             }
         ]
     },
@@ -3134,16 +3162,16 @@
         ]
     },
     {
-        "id": 350,
+        "id": 3001,
         "name": "ITV 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/350/"
+                "link": "https://tvnow247.top/embed/3001/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/350/"
+                "link": "https://tvnow247.top/embed/3001/"
             }
         ]
     },

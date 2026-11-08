@@ -285,6 +285,20 @@
     },
     {
         "id": null,
+        "name": "WAPA-TV 4.2 (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Wapp (720p)",
         "servers": [
             {
@@ -308,6 +322,20 @@
             {
                 "name": "URL",
                 "link": "http://38.134.250.110:8000/play/a029/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Warner Channel Mexico (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.246.24:8080/WarnerChannelHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.246.24:8080/WarnerChannelHD/index.m3u8"
             }
         ]
     },
@@ -2262,20 +2290,6 @@
             {
                 "name": "URL",
                 "link": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Wydarzenia 24 (576i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://92.114.85.87:8016/play/a007/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://92.114.85.87:8016/play/a007/index.m3u8"
             }
         ]
     }

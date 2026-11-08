@@ -448,20 +448,6 @@
         ]
     },
     {
-        "id": 27,
-        "name": "Kanal 1 Xtra Slovakia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/27/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/27/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Kanal 10 Asia (540p)",
         "servers": [
@@ -1359,6 +1345,20 @@
     },
     {
         "id": null,
+        "name": "Kechnec TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kecskemeti TV (416p) [Not 24/7]",
         "servers": [
             {
@@ -1676,6 +1676,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/KHL_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "name": "KHL TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/195/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/195/"
             }
         ]
     },
@@ -3206,16 +3220,16 @@
         ]
     },
     {
-        "id": 4,
+        "id": 26,
         "name": "KTV Sport Kuwait",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
+                "link": "https://tvnow247.top/embed/26/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
+                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },

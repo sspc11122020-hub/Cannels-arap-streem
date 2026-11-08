@@ -298,20 +298,6 @@
         ]
     },
     {
-        "id": 727,
-        "name": "ZDF DE",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/727/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/727/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "ZDF FHD DE",
         "servers": [
@@ -439,15 +425,15 @@
     },
     {
         "id": null,
-        "name": "Zee Bangla HD (720p)",
+        "name": "Zee Bangla HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+                "link": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+                "link": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8"
             }
         ]
     },
@@ -495,15 +481,15 @@
     },
     {
         "id": null,
-        "name": "Zee Business (720p)",
+        "name": "Zee Business (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
+                "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
+                "link": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8"
             }
         ]
     },
@@ -831,15 +817,15 @@
     },
     {
         "id": null,
-        "name": "Zee Telugu HD (576p)",
+        "name": "Zee Telugu HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8"
+                "link": "https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8"
+                "link": "https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8"
             }
         ]
     },
@@ -887,15 +873,15 @@
     },
     {
         "id": null,
-        "name": "Zee TV HD (720p) [Geo-blocked]",
+        "name": "Zee TV HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://41.205.93.154/ZEE-TV/index.m3u8"
+                "link": "http://103.135.253.32:8080/ZEE-TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://41.205.93.154/ZEE-TV/index.m3u8"
+                "link": "http://103.135.253.32:8080/ZEE-TV/index.m3u8"
             }
         ]
     },
@@ -1418,6 +1404,34 @@
         ]
     },
     {
+        "id": 68,
+        "name": "Zona Serie A",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/68/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/68/"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Zona Serie B",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/105/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/105/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Zonavision TV (720p) [Not 24/7]",
         "servers": [
@@ -1484,20 +1498,6 @@
             {
                 "name": "URL",
                 "link": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zoom TV (576i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://92.114.85.87:8001/play/a00y/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://92.114.85.87:8001/play/a00y/index.m3u8"
             }
         ]
     },

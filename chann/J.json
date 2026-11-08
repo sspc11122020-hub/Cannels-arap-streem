@@ -155,6 +155,34 @@
     },
     {
         "id": null,
+        "name": "Jalsha Movies (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Jalsha Movies HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Jalwa TV",
         "servers": [
             {
@@ -1368,20 +1396,6 @@
             {
                 "name": "URL",
                 "link": "https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Jordan TV Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },

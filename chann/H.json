@@ -393,15 +393,15 @@
     },
     {
         "id": null,
-        "name": "Happy Channel",
+        "name": "Happy Channel HD (1080i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8"
+                "link": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8"
+                "link": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8"
             }
         ]
     },
@@ -967,6 +967,20 @@
     },
     {
         "id": null,
+        "name": "HBO Pop Latin America (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://15.204.246.24:8080/HBOPOPHD/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://15.204.246.24:8080/HBOPOPHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO Signature Asia HD (1080p)",
         "servers": [
             {
@@ -1326,20 +1340,6 @@
             {
                 "name": "URL",
                 "link": "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hello Taste",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8"
             }
         ]
     },
@@ -1723,15 +1723,15 @@
     },
     {
         "id": null,
-        "name": "Hindi Hits (720p)",
+        "name": "Hindi Hits (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8"
+                "link": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8"
+                "link": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
             }
         ]
     },
@@ -3766,6 +3766,34 @@
         ]
     },
     {
+        "id": 3009,
+        "name": "Hub Premier",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3009/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3009/"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Hub Premier 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/12/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/12/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Hub Sports 1 Singapore",
         "servers": [
@@ -4028,6 +4056,20 @@
             {
                 "name": "URL",
                 "link": "https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hungama TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.135.253.32:8080/HUNGAMA/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.135.253.32:8080/HUNGAMA/index.m3u8"
             }
         ]
     },

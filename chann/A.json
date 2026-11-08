@@ -477,6 +477,20 @@
     },
     {
         "id": null,
+        "name": "Aastha International (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Aastha Kannada (576p)",
         "servers": [
             {
@@ -528,6 +542,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.pishow.tv/ott/live/262/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Aastha UK (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8"
             }
         ]
     },
@@ -966,6 +994,20 @@
         ]
     },
     {
+        "id": 766,
+        "name": "ABC NY USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/766/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/766/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "ABC Teleshow (720p)",
         "servers": [
@@ -1116,6 +1158,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "ABC USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/51/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/51/"
             }
         ]
     },
@@ -4984,6 +5040,20 @@
         ]
     },
     {
+        "id": 189,
+        "name": "Alkass Five",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/189/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/189/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Alkhuzama Radio (1080p)",
         "servers": [
@@ -5442,6 +5512,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Altitude%20Sports%20HD%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 923,
+        "name": "Altitude USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/923/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/923/"
             }
         ]
     },
@@ -6483,15 +6567,15 @@
     },
     {
         "id": null,
-        "name": "ANB News (720p)",
+        "name": "ANB News (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8"
+                "link": "https://stream.ottlive.co.in/anb/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8"
+                "link": "https://stream.ottlive.co.in/anb/index.m3u8"
             }
         ]
     },
@@ -7267,20 +7351,6 @@
     },
     {
         "id": null,
-        "name": "Antena 1 (Romania)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Antena 1 (Romania) HD (1440p)",
         "servers": [
             {
@@ -7332,6 +7402,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Antena 3 CNN HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8"
             }
         ]
     },
@@ -7407,15 +7491,15 @@
     },
     {
         "id": null,
-        "name": "Antena International",
+        "name": "Antena International (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8"
+                "link": "https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8"
+                "link": "https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8"
             }
         ]
     },
@@ -7444,6 +7528,20 @@
             {
                 "name": "URL",
                 "link": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Antena Stars HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8"
             }
         ]
     },
@@ -7486,6 +7584,20 @@
             {
                 "name": "URL",
                 "link": "https://tvdatta.com:3578/live/antenaunolive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AntenaPlay Events (576i) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8"
             }
         ]
     },
@@ -7822,6 +7934,20 @@
             {
                 "name": "URL",
                 "link": "https://live.apostoltv.hu/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 3037,
+        "name": "Apple TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3037/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3037/"
             }
         ]
     },
@@ -8176,30 +8302,30 @@
         ]
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/9/"
+                "link": "https://tvnow247.top/embed/10/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/9/"
+                "link": "https://tvnow247.top/embed/10/"
             }
         ]
     },
     {
-        "id": 16,
+        "id": 5,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/16/"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/16/"
+                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
@@ -9269,6 +9395,20 @@
     },
     {
         "id": null,
+        "name": "Asia Express NonStop (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Asia TV (720p)",
         "servers": [
             {
@@ -9576,6 +9716,20 @@
         ]
     },
     {
+        "id": 370,
+        "name": "Astro Cricket",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/370/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/370/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "ASTRO CRICKET HD",
         "servers": [
@@ -9628,6 +9782,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/125/"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Astro Premier League 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/126/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/126/"
             }
         ]
     },
