@@ -2143,20 +2143,6 @@
     },
     {
         "id": null,
-        "name": "HITS Movies (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HKTV (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -3766,30 +3752,16 @@
         ]
     },
     {
-        "id": 3009,
+        "id": 3034,
         "name": "Hub Premier",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3009/"
+                "link": "https://tvnow247.top/embed/3034/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3009/"
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Hub Premier 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/12/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/12/"
+                "link": "https://tvnow247.top/embed/3034/"
             }
         ]
     },

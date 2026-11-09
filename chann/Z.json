@@ -411,20 +411,6 @@
     },
     {
         "id": null,
-        "name": "Zee Bangla (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a011/index.m3u8?hls"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a011/index.m3u8?hls"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Bangla HD (1080p)",
         "servers": [
             {
@@ -541,11 +527,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a012/index.m3u8?hls"
+                "link": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a012/index.m3u8?hls"
+                "link": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8"
             }
         ]
     },
@@ -840,20 +826,6 @@
             {
                 "name": "URL",
                 "link": "https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee TV (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls"
             }
         ]
     },
@@ -1404,30 +1376,16 @@
         ]
     },
     {
-        "id": 68,
+        "id": 107,
         "name": "Zona Serie A",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/68/"
+                "link": "https://tvnow247.top/embed/107/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/68/"
-            }
-        ]
-    },
-    {
-        "id": 105,
-        "name": "Zona Serie B",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/105/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/105/"
+                "link": "https://tvnow247.top/embed/107/"
             }
         ]
     },

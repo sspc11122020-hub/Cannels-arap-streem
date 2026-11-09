@@ -2535,7 +2535,7 @@
     },
     {
         "id": 882,
-        "name": "RAI Sport 1 IT",
+        "name": "Rai Sport 1 Italy",
         "servers": [
             {
                 "name": "Main Server",
@@ -3963,20 +3963,6 @@
     },
     {
         "id": null,
-        "name": "Real Madrid TV (726p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Real Madrid TV English",
         "servers": [
             {
@@ -4042,6 +4028,20 @@
             {
                 "name": "URL",
                 "link": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Real Time HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://102.129.186.182:81/realtime/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://102.129.186.182:81/realtime/index.m3u8"
             }
         ]
     },
@@ -6300,20 +6300,6 @@
         ]
     },
     {
-        "id": 119,
-        "name": "RMC Sport 1 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/119/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/119/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RMC Sport 1 HD FR",
         "servers": [
@@ -6324,20 +6310,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RMC%20Sport%201%20HD%20FR&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 120,
-        "name": "RMC Sport 2 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/120/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/120/"
             }
         ]
     },
@@ -7564,6 +7536,20 @@
         ]
     },
     {
+        "id": 740,
+        "name": "RTL DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/740/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/740/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTL FHD DE",
         "servers": [
@@ -7700,6 +7686,20 @@
             {
                 "name": "URL",
                 "link": "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTLup (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://s6.hopslan.com/rtltupz/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://s6.hopslan.com/rtltupz/index.m3u8"
             }
         ]
     },
@@ -7896,6 +7896,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20HD%20PT&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 720,
+        "name": "RTP 2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
             }
         ]
     },

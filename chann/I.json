@@ -1568,16 +1568,16 @@
         ]
     },
     {
-        "id": 24,
+        "id": 28,
         "name": "Indosiar",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/24/"
+                "link": "https://tvnow247.top/embed/28/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/24/"
+                "link": "https://tvnow247.top/embed/28/"
             }
         ]
     },
@@ -3162,16 +3162,16 @@
         ]
     },
     {
-        "id": 3001,
+        "id": 350,
         "name": "ITV 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/350/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/350/"
             }
         ]
     },
@@ -3214,20 +3214,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%204%20FHD%20UK&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 353,
-        "name": "ITV 4 UK",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/353/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/353/"
             }
         ]
     },
@@ -3340,6 +3326,20 @@
             {
                 "name": "URL",
                 "link": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "IVC (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://200.59.191.177:8000/play/a00j/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://200.59.191.177:8000/play/a00j/index.m3u8"
             }
         ]
     },
