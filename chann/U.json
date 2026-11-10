@@ -224,20 +224,6 @@
         ]
     },
     {
-        "id": 159,
-        "name": "UFC Fight Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/159/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/159/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "UFC Fight Pass 24/7",
         "servers": [
@@ -1279,11 +1265,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://38.252.238.18:8000/play/a03e/index.m3u8"
+                "link": "http://190.197.41.183/Univision/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://38.252.238.18:8000/play/a03e/index.m3u8"
+                "link": "http://190.197.41.183/Univision/index.m3u8"
             }
         ]
     },
@@ -1298,20 +1284,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Univision East HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.190.13.8/UnivisionHD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.190.13.8/UnivisionHD/index.m3u8"
             }
         ]
     },
@@ -1354,6 +1326,20 @@
             {
                 "name": "URL",
                 "link": "http://45.6.4.35/TELENOVELAS/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Univision USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/132/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/132/"
             }
         ]
     },
@@ -1522,34 +1508,6 @@
             {
                 "name": "URL",
                 "link": "http://dtv.vol.net.ua/UPL-TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "name": "UPL.TV 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/16/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/16/"
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "name": "UPL.TV 2",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/17/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/17/"
             }
         ]
     },
