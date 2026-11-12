@@ -408,30 +408,16 @@
         ]
     },
     {
-        "id": 1,
-        "name": "Cablenet Sports 1 Cyprus",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
-            }
-        ]
-    },
-    {
-        "id": 2,
+        "id": 3,
         "name": "Cablenet Sports 2 Cyprus",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/2/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
@@ -1207,15 +1193,15 @@
     },
     {
         "id": null,
-        "name": "Canal 11 (Honduras) (1080p)",
+        "name": "Canal 11 (Honduras) (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8"
+                "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8"
+                "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8"
             }
         ]
     },
@@ -3311,11 +3297,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8"
+                "link": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/CANAL_DO_BOI/index.m3u8"
+                "link": "http://170.83.16.50/CANAL_DO_BOI/index.m3u8"
             }
         ]
     },
@@ -3395,11 +3381,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+                "link": "http://45.177.114.115/CANAL_EDUCACAO/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+                "link": "http://45.177.114.115/CANAL_EDUCACAO/index.m3u8"
             }
         ]
     },
@@ -3437,11 +3423,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/FUTURA/index.m3u8"
+                "link": "http://170.83.16.50/FUTURA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/FUTURA/index.m3u8"
+                "link": "http://170.83.16.50/FUTURA/index.m3u8"
             }
         ]
     },
@@ -3745,11 +3731,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://170.244.209.30:8000/play/a1ib/index.m3u8"
+                "link": "http://187.102.208.209:8000/play/a0az/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://170.244.209.30:8000/play/a1ib/index.m3u8"
+                "link": "http://187.102.208.209:8000/play/a0az/index.m3u8"
             }
         ]
     },
@@ -5847,20 +5833,6 @@
     },
     {
         "id": null,
-        "name": "Cartoon Network (India) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cartoon Network (Pakistan)",
         "servers": [
             {
@@ -6015,15 +5987,15 @@
     },
     {
         "id": null,
-        "name": "Cartoon Network Latin America Brazil (720p)",
+        "name": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
+                "link": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
+                "link": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8"
             }
         ]
     },
@@ -6033,11 +6005,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://38.252.238.18:8000/play/a053/index.m3u8"
+                "link": "http://45.173.12.70:8000/play/a0fj"
             },
             {
                 "name": "URL",
-                "link": "http://38.252.238.18:8000/play/a053/index.m3u8"
+                "link": "http://45.173.12.70:8000/play/a0fj"
             }
         ]
     },
@@ -7078,6 +7050,34 @@
         ]
     },
     {
+        "id": 3009,
+        "name": "CBS Sports Golazo",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3009/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3009/"
+            }
+        ]
+    },
+    {
+        "id": 308,
+        "name": "CBS Sports Golazo Network",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/308/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/308/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "CBS Sports Golazo Network (720p)",
         "servers": [
@@ -7130,20 +7130,6 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/9c2jwr40-3407"
-            }
-        ]
-    },
-    {
-        "id": 308,
-        "name": "CBS Sports Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/308/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/308/"
             }
         ]
     },
@@ -7919,15 +7905,15 @@
     },
     {
         "id": null,
-        "name": "CDN (576p)",
+        "name": "CDN (480p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.61.90.17:40000/play/a03p/index.m3u8"
+                "link": "http://187.245.231.226:8000/play/a0ss/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.61.90.17:40000/play/a03p/index.m3u8"
+                "link": "http://187.245.231.226:8000/play/a0ss/index.m3u8"
             }
         ]
     },
@@ -9403,20 +9389,6 @@
     },
     {
         "id": null,
-        "name": "Chef TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://168.197.104.22/CHEF_TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://168.197.104.22/CHEF_TV/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Chefi la cutite (576i)",
         "servers": [
             {
@@ -9496,6 +9468,20 @@
             {
                 "name": "URL",
                 "link": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 776,
+        "name": "Chicago Sports Network",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/776/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/776/"
             }
         ]
     },
@@ -10616,20 +10602,6 @@
             {
                 "name": "URL",
                 "link": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cinemax Latin America HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://38.65.175.84:8000/play/a093/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://38.65.175.84:8000/play/a093/index.m3u8"
             }
         ]
     },
@@ -14074,6 +14046,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%204%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 626,
+        "name": "Cosmote Sport 5 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/626/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/626/"
             }
         ]
     },

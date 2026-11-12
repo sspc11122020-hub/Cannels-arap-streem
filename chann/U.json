@@ -631,15 +631,15 @@
     },
     {
         "id": null,
-        "name": "UNE TV (720p)",
+        "name": "UNE TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
+                "link": "http://45.166.93.156:9999/play/a0jo/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8"
+                "link": "http://45.166.93.156:9999/play/a0jo/index.m3u8"
             }
         ]
     },
@@ -841,20 +841,6 @@
     },
     {
         "id": null,
-        "name": "UniMas Central (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.197.41.183/Unimas/mono.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.197.41.183/Unimas/mono.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "UniMas KFTR-DT (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -892,20 +878,6 @@
             {
                 "name": "URL",
                 "link": "http://168.228.44.241:9997/play/a09e/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "UniMas WAMI-DT (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.197.41.183/Unimas/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.197.41.183/Unimas/index.m3u8"
             }
         ]
     },
@@ -1261,15 +1233,15 @@
     },
     {
         "id": null,
-        "name": "Univision (1080p)",
+        "name": "Univision (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.197.41.183/Univision/index.m3u8"
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.197.41.183/Univision/index.m3u8"
+                "link": "https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8"
             }
         ]
     },
@@ -1629,11 +1601,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.197.41.183/USA_NETWORK/index.m3u8"
+                "link": "http://200.32.231.178/USA_NETWORK/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.197.41.183/USA_NETWORK/index.m3u8"
+                "link": "http://200.32.231.178/USA_NETWORK/index.m3u8"
             }
         ]
     },

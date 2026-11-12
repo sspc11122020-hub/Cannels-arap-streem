@@ -2507,20 +2507,6 @@
     },
     {
         "id": null,
-        "name": "Rai Premium",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://team-tv.co:81/raipremium/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://team-tv.co:81/raipremium/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rai Scuola (576p) [Geo-blocked]",
         "servers": [
             {
@@ -2530,6 +2516,20 @@
             {
                 "name": "URL",
                 "link": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+            }
+        ]
+    },
+    {
+        "id": 882,
+        "name": "RAI Sport 1 Italy",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/882/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/882/"
             }
         ]
     },
@@ -3822,20 +3822,6 @@
         ]
     },
     {
-        "id": 840,
-        "name": "RDS 2 CA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/840/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/840/"
-            }
-        ]
-    },
-    {
         "id": 839,
         "name": "RDS CA",
         "servers": [
@@ -4177,11 +4163,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/RECORD_NEWS/index.m3u8"
+                "link": "http://45.177.114.115/RECORD_NEWS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/RECORD_NEWS/index.m3u8"
+                "link": "http://45.177.114.115/RECORD_NEWS/index.m3u8"
             }
         ]
     },
@@ -4695,11 +4681,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/CNT/index.m3u8"
+                "link": "http://170.83.49.66:8083/REDECNTHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/CNT/index.m3u8"
+                "link": "http://170.83.49.66:8083/REDECNTHD/index.m3u8"
             }
         ]
     },
@@ -4709,11 +4695,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://168.197.104.22/REDE_FAMILIA/index.m3u8"
+                "link": "http://186.219.52.187/rede_familia/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://168.197.104.22/REDE_FAMILIA/index.m3u8"
+                "link": "http://186.219.52.187/rede_familia/index.m3u8"
             }
         ]
     },
@@ -4835,11 +4821,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
+                "link": "http://186.219.52.187/seculo21/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
+                "link": "http://186.219.52.187/seculo21/index.m3u8"
             }
         ]
     },
@@ -4877,11 +4863,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/REDE_TV/index.m3u8"
+                "link": "http://170.83.16.50/REDE_TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/REDE_TV/index.m3u8"
+                "link": "http://170.83.16.50/REDE_TV/index.m3u8"
             }
         ]
     },
@@ -6268,6 +6254,20 @@
             {
                 "name": "URL",
                 "link": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "RMC Sport 1 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/119/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/119/"
             }
         ]
     },
@@ -7844,6 +7844,20 @@
         ]
     },
     {
+        "id": 720,
+        "name": "RTP 2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTQ Queretaro (1080p)",
         "servers": [
@@ -8792,6 +8806,20 @@
             {
                 "name": "URL",
                 "link": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "name": "RTVS Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1059/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1059/"
             }
         ]
     },

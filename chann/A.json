@@ -85,20 +85,6 @@
     },
     {
         "id": null,
-        "name": "A&E (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.239.31.26:8989/aande/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.239.31.26:8989/aande/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "A&E Latin America (1080p)",
         "servers": [
             {
@@ -1849,20 +1835,6 @@
     },
     {
         "id": null,
-        "name": "ACC Network (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.239.31.26:8989/accnetwork/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.239.31.26:8989/accnetwork/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "ACC Network US",
         "servers": [
             {
@@ -2460,34 +2432,6 @@
             {
                 "name": "URL",
                 "link": "https://adriaapp.b-cdn.net/1080p/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Adult Swim Latin America",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://170.244.209.30:8000/play/a02v/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://170.244.209.30:8000/play/a02v/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Adult Swim Latin America Brazil (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://45.162.64.114/ADULT_SWIM/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://45.162.64.114/ADULT_SWIM/index.m3u8"
             }
         ]
     },
@@ -3099,11 +3043,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/AGRO_CANAL/index.m3u8"
+                "link": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/AGRO_CANAL/index.m3u8"
+                "link": "http://170.83.49.66:8083/AGROCANALHD/index.m3u8"
             }
         ]
     },
@@ -3113,11 +3057,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/AGROMAIS/index.m3u8"
+                "link": "http://45.177.114.115/agromais/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/AGROMAIS/index.m3u8"
+                "link": "http://45.177.114.115/agromais/index.m3u8"
             }
         ]
     },
@@ -5811,15 +5755,15 @@
     },
     {
         "id": null,
-        "name": "AMC (United States) (720p)",
+        "name": "AMC (United States) (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://23.239.31.26:8989/amc/index.m3u8"
+                "link": "http://41.205.93.154/AMC/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://23.239.31.26:8989/amc/index.m3u8"
+                "link": "http://41.205.93.154/AMC/index.m3u8"
             }
         ]
     },
@@ -5974,6 +5918,20 @@
             {
                 "name": "URL",
                 "link": "https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "America Internacional (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0"
+            },
+            {
+                "name": "URL",
+                "link": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0"
             }
         ]
     },
@@ -6203,15 +6161,15 @@
     },
     {
         "id": null,
-        "name": "Amigos TV Chiquimula (480p)",
+        "name": "Amigos TV Chiquimula (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
+                "link": "http://45.166.93.156:9999/play/a0j2/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
+                "link": "http://45.166.93.156:9999/play/a0j2/index.m3u8"
             }
         ]
     },
@@ -7057,34 +7015,6 @@
     },
     {
         "id": null,
-        "name": "Animal Planet (India) (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Animal Planet (India) HD (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Animal Planet (Russia) (1080p)",
         "servers": [
             {
@@ -7295,20 +7225,6 @@
     },
     {
         "id": null,
-        "name": "Anmol TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Anshun Comprehensive News Channel",
         "servers": [
             {
@@ -7430,20 +7346,6 @@
             {
                 "name": "URL",
                 "link": "https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Antena 3 Internacional (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://38.252.238.18:8000/play/a04a/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://38.252.238.18:8000/play/a04a/index.m3u8"
             }
         ]
     },
@@ -8288,16 +8190,16 @@
         ]
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/6/"
+                "link": "https://tvnow247.top/embed/5/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/6/"
+                "link": "https://tvnow247.top/embed/5/"
             }
         ]
     },
@@ -8438,20 +8340,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/581/"
-            }
-        ]
-    },
-    {
-        "id": 940,
-        "name": "Arena Sport 5 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/940/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/940/"
             }
         ]
     },
@@ -8965,11 +8853,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/ARTE1/index.m3u8"
+                "link": "http://45.177.114.115/ARTE1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/ARTE1/index.m3u8"
+                "link": "http://45.177.114.115/ARTE1/index.m3u8"
             }
         ]
     },
@@ -10981,20 +10869,6 @@
     },
     {
         "id": null,
-        "name": "AXN Latin America Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://190.11.225.124:5000/live/axn_hd/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "AXN Latin America South",
         "servers": [
             {
@@ -11107,15 +10981,15 @@
     },
     {
         "id": null,
-        "name": "AXS TV (720p)",
+        "name": "AXS TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://23.239.31.26:8989/axstv/index.m3u8"
+                "link": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://23.239.31.26:8989/axstv/index.m3u8"
+                "link": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8"
             }
         ]
     },
@@ -11218,20 +11092,6 @@
             {
                 "name": "URL",
                 "link": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Az Clic (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://38.252.238.18:8000/play/a01g/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://38.252.238.18:8000/play/a01g/index.m3u8"
             }
         ]
     },

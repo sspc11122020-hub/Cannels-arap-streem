@@ -1330,20 +1330,6 @@
         ]
     },
     {
-        "id": 210,
-        "name": "PBS USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/210/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/210/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "PBS WEDQ (1080p)",
         "servers": [
@@ -1494,6 +1480,20 @@
             {
                 "name": "URL",
                 "link": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Peacock USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/68/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/68/"
             }
         ]
     },
@@ -2693,11 +2693,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.162.64.114/PLAY_TV/index.m3u8"
+                "link": "http://45.177.114.115/PLAY_TV/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.162.64.114/PLAY_TV/index.m3u8"
+                "link": "http://45.177.114.115/PLAY_TV/index.m3u8"
             }
         ]
     },
@@ -8261,15 +8261,15 @@
     },
     {
         "id": null,
-        "name": "Pogo (720p)",
+        "name": "Pogo (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+                "link": "http://103.135.253.32:8080/POGO/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8"
+                "link": "http://103.135.253.32:8080/POGO/index.m3u8"
             }
         ]
     },
@@ -8764,16 +8764,30 @@
         ]
     },
     {
-        "id": 996,
+        "id": 995,
+        "name": "Polsat Sport Extra 3 Poland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/995/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/995/"
+            }
+        ]
+    },
+    {
+        "id": 9968,
         "name": "Polsat Sport Extra 4 Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/996/"
+                "link": "https://tvnow247.top/embed/9968/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/996/"
+                "link": "https://tvnow247.top/embed/9968/"
             }
         ]
     },
@@ -9124,6 +9138,20 @@
             {
                 "name": "URL",
                 "link": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 718,
+        "name": "Porto Canal Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
             }
         ]
     },
@@ -11478,20 +11506,6 @@
             {
                 "name": "URL",
                 "link": "http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "PX Sports (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://38.65.175.84:8000/play/a0ku/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://38.65.175.84:8000/play/a0ku/index.m3u8"
             }
         ]
     }
