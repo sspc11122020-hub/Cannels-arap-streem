@@ -1415,6 +1415,20 @@
     },
     {
         "id": null,
+        "name": "ON Info TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=189"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=189"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ON Kids (720p)",
         "servers": [
             {
@@ -1512,6 +1526,34 @@
         ]
     },
     {
+        "id": 611,
+        "name": "ON Sport 1 Egypt",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/611/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/611/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ON Sport Max Egypt",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/4/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/4/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "ON Style TV (1080p)",
         "servers": [
@@ -1536,6 +1578,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ON Trending TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=186"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=186"
             }
         ]
     },
@@ -2044,16 +2100,16 @@
         ]
     },
     {
-        "id": 3041,
+        "id": 1027,
         "name": "Oneplay Sport 1 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3041/"
+                "link": "https://tvnow247.top/embed/1027/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3041/"
+                "link": "https://tvnow247.top/embed/1027/"
             }
         ]
     },
@@ -2418,20 +2474,6 @@
             {
                 "name": "URL",
                 "link": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "ORF SPORT PLUS",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
             }
         ]
     },
@@ -3020,20 +3062,6 @@
             {
                 "name": "URL",
                 "link": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 332,
-        "name": "Oxygen True Crime",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/332/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/332/"
             }
         ]
     },

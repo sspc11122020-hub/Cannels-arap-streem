@@ -869,6 +869,20 @@
     },
     {
         "id": null,
+        "name": "Gem TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "GEM TV +",
         "servers": [
             {
@@ -2338,6 +2352,20 @@
         ]
     },
     {
+        "id": 318,
+        "name": "GOLF Channel USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/318/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/318/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Golkhane Tv",
         "servers": [
@@ -2441,15 +2469,15 @@
     },
     {
         "id": null,
-        "name": "Good News Today (720p)",
+        "name": "Good News Today (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8"
+                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8"
+                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8"
             }
         ]
     },
@@ -3419,15 +3447,29 @@
     },
     {
         "id": null,
-        "name": "Gujarat First (576p)",
+        "name": "Gujarat First (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+                "link": "https://vglivessai.akamaized.net/ptnr-lg/title-Gujarat_First_News/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bdacf79b-158c-4ddf-ac17-6fabbb9249ae/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+                "link": "https://vglivessai.akamaized.net/ptnr-lg/title-Gujarat_First_News/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bdacf79b-158c-4ddf-ac17-6fabbb9249ae/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Gulistan News (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/030a117c40d84ca99ac8927d3e2a1eec/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/030a117c40d84ca99ac8927d3e2a1eec/index.m3u8"
             }
         ]
     },

@@ -672,20 +672,6 @@
         ]
     },
     {
-        "id": 324,
-        "name": "ID USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/324/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/324/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Ideaal TV (480p) [Not 24/7]",
         "servers": [
@@ -1471,6 +1457,20 @@
     },
     {
         "id": null,
+        "name": "India News Gujarati (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/339/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/339/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "India Talkies (360p)",
         "servers": [
             {
@@ -1485,29 +1485,29 @@
     },
     {
         "id": null,
-        "name": "India Today (720p)",
+        "name": "India Today (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8"
+                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8"
+                "link": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "India TV (720p)",
+        "name": "India TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
+                "link": "https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
+                "link": "https://vg-indiatv-waves.vgcdn.net/vglive-sk-394591/playlist.m3u8"
             }
         ]
     },
@@ -1662,6 +1662,20 @@
             {
                 "name": "URL",
                 "link": "https://s2.tvdatta.com:3753/hybrid/play.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Info HD (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://netstreaming.eu/InfoHd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://netstreaming.eu/InfoHd.m3u8"
             }
         ]
     },
@@ -3144,6 +3158,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%201%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "name": "ITV 1 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/350/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/350/"
             }
         ]
     },

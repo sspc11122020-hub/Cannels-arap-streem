@@ -197,15 +197,15 @@
     },
     {
         "id": null,
-        "name": "Namdhari TV (404p) [Not 24/7]",
+        "name": "Namdhari TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://namdhari.tv/live/sbs1.m3u8"
+                "link": "https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://namdhari.tv/live/sbs1.m3u8"
+                "link": "https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8"
             }
         ]
     },
@@ -644,20 +644,6 @@
         ]
     },
     {
-        "id": 745,
-        "name": "Nat Geo Wild USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/745/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/745/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NAT TV (1080p)",
         "servers": [
@@ -799,20 +785,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic (Mexico) (1080p)",
         "servers": [
             {
@@ -822,20 +794,6 @@
             {
                 "name": "URL",
                 "link": "http://138.121.15.230:9002/NAT-GEO/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 328,
-        "name": "National Geographic (NGC)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/328/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/328/"
             }
         ]
     },
@@ -1288,16 +1246,16 @@
         ]
     },
     {
-        "id": 3040,
+        "id": 69,
         "name": "NBA League Pass",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3040/"
+                "link": "https://tvnow247.top/embed/69/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3040/"
+                "link": "https://tvnow247.top/embed/69/"
             }
         ]
     },
@@ -1340,6 +1298,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "name": "NBA TV USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/404/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/404/"
             }
         ]
     },
@@ -1624,20 +1596,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 53,
-        "name": "NBC USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/53/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/53/"
             }
         ]
     },
@@ -1946,62 +1904,6 @@
             {
                 "name": "URL",
                 "link": "https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 769,
-        "name": "NBCNY USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/769/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/769/"
-            }
-        ]
-    },
-    {
-        "id": 753,
-        "name": "NBCS Bay Area",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/753/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/753/"
-            }
-        ]
-    },
-    {
-        "id": 754,
-        "name": "NBCS Boston USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/754/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/754/"
-            }
-        ]
-    },
-    {
-        "id": 755,
-        "name": "NBCS California",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/755/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/755/"
             }
         ]
     },
@@ -2343,15 +2245,15 @@
     },
     {
         "id": null,
-        "name": "NDTV (576p)",
+        "name": "NDTV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/315/master.m3u8"
+                "link": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/315/master.m3u8"
+                "link": "https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8"
             }
         ]
     },
@@ -2385,15 +2287,15 @@
     },
     {
         "id": null,
-        "name": "NDTV India (720p)",
+        "name": "NDTV India (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
+                "link": "https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8"
+                "link": "https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8"
             }
         ]
     },
@@ -2674,20 +2576,6 @@
             {
                 "name": "URL",
                 "link": "https://watch.haitilive.net/naktvhd/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 5000,
-        "name": "Netflix",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/5000/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/5000/"
             }
         ]
     },
@@ -3141,6 +3029,20 @@
     },
     {
         "id": null,
+        "name": "News State Maharashtra Goa (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://prasarbharti-nn.vidgyor.com/nntv/nnbrjh/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "News State MP & CHG (1080p)",
         "servers": [
             {
@@ -3192,6 +3094,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.ottlive.co.in/newstamil/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "News TV India (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streamlive.livebox.co.in/NewsTVIndiahls/live.m3u8"
             }
         ]
     },
@@ -4120,16 +4036,16 @@
         ]
     },
     {
-        "id": 3004,
+        "id": 109,
         "name": "NHL Gamecenter",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3004/"
+                "link": "https://tvnow247.top/embed/109/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3004/"
+                "link": "https://tvnow247.top/embed/109/"
             }
         ]
     },
@@ -5840,6 +5756,20 @@
         ]
     },
     {
+        "id": 468,
+        "name": "Nova Sport Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/468/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/468/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Nova Sport HD BG",
         "servers": [
@@ -5864,6 +5794,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%20Start%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 632,
+        "name": "Nova Sports 2 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/632/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/632/"
             }
         ]
     },
@@ -5906,6 +5850,48 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/635/"
+            }
+        ]
+    },
+    {
+        "id": 636,
+        "name": "Nova Sports 6 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/636/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/636/"
+            }
+        ]
+    },
+    {
+        "id": 639,
+        "name": "Nova Sports News Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/639/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/639/"
+            }
+        ]
+    },
+    {
+        "id": 599,
+        "name": "Nova Sports Premier League Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/599/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/599/"
             }
         ]
     },
@@ -5966,16 +5952,30 @@
         ]
     },
     {
-        "id": 636,
-        "name": "NovaSports 6 GR",
+        "id": 9,
+        "name": "Nova TV Croatia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/636/"
+                "link": "https://tvnow247.top/embed/9/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/636/"
+                "link": "https://tvnow247.top/embed/9/"
+            }
+        ]
+    },
+    {
+        "id": 631,
+        "name": "NovaSports 1 GR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/631/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/631/"
             }
         ]
     },
