@@ -701,15 +701,15 @@
     },
     {
         "id": null,
-        "name": "La Voz de Jesus HD (720p)",
+        "name": "La Voz de Jesus HD (720p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8"
+                "link": "https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8"
+                "link": "https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8"
             }
         ]
     },
@@ -1032,6 +1032,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 539,
+        "name": "LALIGA TV Hypermotion",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/539/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/539/"
             }
         ]
     },
@@ -3786,20 +3800,6 @@
             {
                 "name": "URL",
                 "link": "https://stream-live.lrt.lt/opus/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "name": "LRT Plius",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/13/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/13/"
             }
         ]
     },

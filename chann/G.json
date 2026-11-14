@@ -1667,21 +1667,7 @@
     },
     {
         "id": null,
-        "name": "GMS TV (Georgia)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://158.101.222.193:88/georgia_play.php?id=gms"
-            },
-            {
-                "name": "URL",
-                "link": "http://158.101.222.193:88/georgia_play.php?id=gms"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "GMS TV (Senegal) (1080p)",
+        "name": "GMS TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3344,20 +3330,6 @@
             {
                 "name": "URL",
                 "link": "https://tv.bitstreaming.net:8443/live/guayapetv.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Guaymate TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
             }
         ]
     },
