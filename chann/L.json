@@ -29,6 +29,34 @@
     },
     {
         "id": null,
+        "name": "L'Équipe FR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://ehgembxe.cfd/ivguqpi5-1131"
+            },
+            {
+                "name": "URL",
+                "link": "https://ehgembxe.cfd/ivguqpi5-1131"
+            }
+        ]
+    },
+    {
+        "id": 645,
+        "name": "L'Equipe France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/645/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/645/"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "L1 (1080p)",
         "servers": [
             {
@@ -141,15 +169,15 @@
     },
     {
         "id": null,
-        "name": "La 2 (720p)",
+        "name": "La 2 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
+                "link": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8"
+                "link": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8"
             }
         ]
     },
@@ -570,6 +598,20 @@
             {
                 "name": "URL",
                 "link": "https://streamunoapp.com:3983/live/larutatvlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "La Sexta (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd"
             }
         ]
     },
@@ -1036,16 +1078,30 @@
         ]
     },
     {
-        "id": 539,
+        "id": 3026,
         "name": "LALIGA TV Hypermotion",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/539/"
+                "link": "https://tvnow247.top/embed/3026/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/539/"
+                "link": "https://tvnow247.top/embed/3026/"
+            }
+        ]
+    },
+    {
+        "id": 3027,
+        "name": "LALIGA TV Hypermotion 2",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3027/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3027/"
             }
         ]
     },

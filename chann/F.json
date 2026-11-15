@@ -659,6 +659,20 @@
     },
     {
         "id": null,
+        "name": "Fast Sports (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/Fastsports/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/Fastsports/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fast TV (720p)",
         "servers": [
             {
@@ -1569,6 +1583,20 @@
     },
     {
         "id": null,
+        "name": "FilmUADrama",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Filstalwelle (1080p)",
         "servers": [
             {
@@ -1774,6 +1802,20 @@
             {
                 "name": "URL",
                 "link": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "name": "FloRacing",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/200/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/200/"
             }
         ]
     },
@@ -2702,20 +2744,6 @@
         ]
     },
     {
-        "id": 369,
-        "name": "Fox Cricket",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/369/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/369/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fox Deportes",
         "servers": [
@@ -2916,16 +2944,30 @@
         ]
     },
     {
-        "id": 756,
+        "id": 199,
+        "name": "Fox PPV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/199/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/199/"
+            }
+        ]
+    },
+    {
+        "id": 7560,
         "name": "Fox Soccer Plus",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/756/"
+                "link": "https://tvnow247.top/embed/7560/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/756/"
+                "link": "https://tvnow247.top/embed/7560/"
             }
         ]
     },
@@ -3164,20 +3206,6 @@
             {
                 "name": "URL2",
                 "link": "https://streamtp-golden1.click/global2.php?stream=fox3ar"
-            }
-        ]
-    },
-    {
-        "id": 789,
-        "name": "Fox Sports 3 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/789/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/789/"
             }
         ]
     },
@@ -3504,6 +3532,20 @@
             {
                 "name": "URL",
                 "link": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 768,
+        "name": "FOXNY USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/768/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/768/"
             }
         ]
     },
@@ -4142,6 +4184,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "FS1 USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/39/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/39/"
             }
         ]
     },
