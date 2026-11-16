@@ -1821,6 +1821,20 @@
     },
     {
         "id": null,
+        "name": "Kidz (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KIIO-LD 10.1",
         "servers": [
             {
@@ -2074,20 +2088,6 @@
     {
         "id": null,
         "name": "Kinopremyera (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kinopremyera HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2969,6 +2969,20 @@
     },
     {
         "id": null,
+        "name": "KRT (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "KSCE 38.1 (360p)",
         "servers": [
             {
@@ -3216,20 +3230,6 @@
             {
                 "name": "URL",
                 "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "KTV Sport Kuwait",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },

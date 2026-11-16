@@ -589,7 +589,21 @@
     },
     {
         "id": null,
-        "name": "Paramount Network (1080p)",
+        "name": "Paramount Network (Poland)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693"
+            },
+            {
+                "name": "URL",
+                "link": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Paramount Network (United States) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8680,16 +8694,16 @@
         ]
     },
     {
-        "id": 50,
+        "id": 500,
         "name": "Polsat Sport 2 Poland",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/50/"
+                "link": "https://tvnow247.top/embed/500/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/50/"
+                "link": "https://tvnow247.top/embed/500/"
             }
         ]
     },
@@ -8750,20 +8764,6 @@
         ]
     },
     {
-        "id": 993,
-        "name": "Polsat Sport Extra 1 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/993/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/993/"
-            }
-        ]
-    },
-    {
         "id": 994,
         "name": "Polsat Sport Extra 2 Poland",
         "servers": [
@@ -8816,20 +8816,6 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8016/play/a00b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 997,
-        "name": "Polsat Sport Fight Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/997/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/997/"
             }
         ]
     },
@@ -8928,6 +8914,20 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8016/play/a004/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Polsat X",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bingbang.kotmiuaczek.workers.dev/?id=1594464"
+            },
+            {
+                "name": "URL",
+                "link": "https://bingbang.kotmiuaczek.workers.dev/?id=1594464"
             }
         ]
     },
@@ -9166,20 +9166,6 @@
             {
                 "name": "URL",
                 "link": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 718,
-        "name": "Porto Canal Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/718/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/718/"
             }
         ]
     },
@@ -9432,20 +9418,6 @@
             {
                 "name": "URL",
                 "link": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "name": "PPV feed",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/30/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/30/"
             }
         ]
     },
@@ -11114,20 +11086,6 @@
             {
                 "name": "URL",
                 "link": "https://streamer.zapitv.com/PTV_sevilla/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 450,
-        "name": "PTV Sports",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/450/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/450/"
             }
         ]
     },

@@ -1582,20 +1582,6 @@
         ]
     },
     {
-        "id": 1,
-        "name": "Indosiar",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Indosiar HD (1080p)",
         "servers": [
@@ -3176,16 +3162,16 @@
         ]
     },
     {
-        "id": 3001,
+        "id": 350,
         "name": "ITV 1 UK",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/350/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3001/"
+                "link": "https://tvnow247.top/embed/350/"
             }
         ]
     },
@@ -3214,6 +3200,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ITV%203%20FHD%20UK&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 352,
+        "name": "ITV 3 UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/352/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/352/"
             }
         ]
     },
@@ -3284,6 +3284,20 @@
             {
                 "name": "URL",
                 "link": "https://redirector.dps.live/hls/itv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 3001,
+        "name": "ITV UK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3001/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3001/"
             }
         ]
     },
