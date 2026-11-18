@@ -2282,20 +2282,6 @@
         ]
     },
     {
-        "id": 325,
-        "name": "ION USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/325/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/325/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Ionian TV (1080p) [Not 24/7]",
         "servers": [
@@ -3065,6 +3051,20 @@
     },
     {
         "id": null,
+        "name": "Italia 1 HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Italia 2 (480p) [Geo-blocked]",
         "servers": [
             {
@@ -3256,48 +3256,6 @@
             {
                 "name": "URL",
                 "link": "https://redirector.dps.live/hls/itv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ITV2 (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ITV3 (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ITV4 (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8"
             }
         ]
     },

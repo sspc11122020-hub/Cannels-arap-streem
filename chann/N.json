@@ -798,20 +798,6 @@
         ]
     },
     {
-        "id": 328,
-        "name": "National Geographic (NGC)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/328/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/328/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "National Geographic (Poland) (576i)",
         "servers": [
@@ -1256,6 +1242,20 @@
             {
                 "name": "URL",
                 "link": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NBA AntenaPlay (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/promo/nba-meci/playlist.m3u8"
             }
         ]
     },
@@ -1922,16 +1922,16 @@
         ]
     },
     {
-        "id": 753,
-        "name": "NBCS Bay Area USA",
+        "id": 755,
+        "name": "NBCS California",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/753/"
+                "link": "https://tvnow247.top/embed/755/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/753/"
+                "link": "https://tvnow247.top/embed/755/"
             }
         ]
     },
@@ -4106,20 +4106,6 @@
         ]
     },
     {
-        "id": 14,
-        "name": "NHL Gamecenter",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/14/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/14/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NHL Network",
         "servers": [
@@ -4158,20 +4144,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=NHL%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 663,
-        "name": "NHL Network USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/663/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/663/"
             }
         ]
     },
@@ -4303,15 +4275,15 @@
     },
     {
         "id": null,
-        "name": "Nick Jr. (United States) (1080p)",
+        "name": "Nick Jr. (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow.hostless.app/nick-jr.m3u8"
+                "link": "http://212.5.144.156:8080/nickjr/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow.hostless.app/nick-jr.m3u8"
+                "link": "http://212.5.144.156:8080/nickjr/index.m3u8"
             }
         ]
     },
@@ -4555,15 +4527,15 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon (United States) (1080p)",
+        "name": "Nickelodeon (Spain) HD",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow.hostless.app/nickelodeon.m3u8"
+                "link": "http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow.hostless.app/nickelodeon.m3u8"
+                "link": "http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8"
             }
         ]
     },
@@ -4849,15 +4821,15 @@
     },
     {
         "id": null,
-        "name": "Nicktoons (United States) (1080p)",
+        "name": "Nicktoons (United States) (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow.hostless.app/nicktoons.m3u8"
+                "link": "http://41.205.93.154/NICKTOONS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow.hostless.app/nicktoons.m3u8"
+                "link": "http://41.205.93.154/NICKTOONS/index.m3u8"
             }
         ]
     },
@@ -5910,6 +5882,20 @@
         ]
     },
     {
+        "id": 1021,
+        "name": "Nova Sport 1 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1021/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1021/"
+            }
+        ]
+    },
+    {
         "id": 1022,
         "name": "Nova SPORT 2 CZ",
         "servers": [
@@ -5948,20 +5934,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 1026,
-        "name": "Nova SPORT 6 CZ",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1026/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/1026/"
             }
         ]
     },
@@ -6050,6 +6022,48 @@
         ]
     },
     {
+        "id": 635,
+        "name": "Nova Sports 5 Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/635/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/635/"
+            }
+        ]
+    },
+    {
+        "id": 639,
+        "name": "Nova Sports News Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/639/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/639/"
+            }
+        ]
+    },
+    {
+        "id": 599,
+        "name": "Nova Sports Premier League Greece",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/599/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/599/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Nova Sports Prime FHD GR",
         "servers": [
@@ -6060,34 +6074,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sports%20Prime%20FHD%20GR&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 638,
-        "name": "Nova Sports Prime Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/638/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/638/"
-            }
-        ]
-    },
-    {
-        "id": 3025,
-        "name": "Nova Sports Start",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3025/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3025/"
             }
         ]
     },
@@ -6162,16 +6148,16 @@
         ]
     },
     {
-        "id": 636,
-        "name": "NovaSports 6 GR",
+        "id": 638,
+        "name": "NovaSports Prime GR",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/636/"
+                "link": "https://tvnow247.top/embed/638/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/636/"
+                "link": "https://tvnow247.top/embed/638/"
             }
         ]
     },
@@ -6270,6 +6256,20 @@
             {
                 "name": "URL",
                 "link": "http://31.131.139.253:9002/novoros/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Novosadska TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.novosadska.tv/hls/mystream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.novosadska.tv/hls/mystream.m3u8"
             }
         ]
     },
@@ -6456,20 +6456,6 @@
         ]
     },
     {
-        "id": 3088,
-        "name": "NPO 3",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3088/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3088/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NPO 3 HD (720p) [Geo-blocked]",
         "servers": [
@@ -6480,20 +6466,6 @@
             {
                 "name": "URL",
                 "link": "https://bpm.tv.delta.nl/hls/combined/3/mobile.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "NPO 3 NL",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/8/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },

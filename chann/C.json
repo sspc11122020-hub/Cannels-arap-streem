@@ -15,15 +15,15 @@
     },
     {
         "id": null,
-        "name": "C Star (477p)",
+        "name": "C Star (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -661,6 +661,20 @@
     },
     {
         "id": null,
+        "name": "CaliTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Calvary TV (576p)",
         "servers": [
             {
@@ -1188,6 +1202,20 @@
             {
                 "name": "URL",
                 "link": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 3022,
+        "name": "Canal 11 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3022/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3022/"
             }
         ]
     },
@@ -3125,20 +3153,6 @@
     },
     {
         "id": null,
-        "name": "Canal Claro (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal Coin TV (1080p)",
         "servers": [
             {
@@ -4803,7 +4817,7 @@
     },
     {
         "id": 75,
-        "name": "Canal+ Sport 5 Poland",
+        "name": "CANAL+ SPORT 5 Poland",
         "servers": [
             {
                 "name": "Main Server",
@@ -5035,15 +5049,15 @@
     },
     {
         "id": null,
-        "name": "Canale 5 HD",
+        "name": "Canale 5 HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+                "link": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+                "link": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -5777,6 +5791,20 @@
     },
     {
         "id": null,
+        "name": "Cartoon Network (Japan) HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cartoon Network (Pakistan)",
         "servers": [
             {
@@ -5805,15 +5833,15 @@
     },
     {
         "id": null,
-        "name": "Cartoon Network (United States) (1080p)",
+        "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow.hostless.app/cartoon-network.m3u8"
+                "link": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow.hostless.app/cartoon-network.m3u8"
+                "link": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8"
             }
         ]
     },
@@ -6276,20 +6304,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CazeTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8"
             }
         ]
     },
@@ -7078,20 +7092,6 @@
         ]
     },
     {
-        "id": 52,
-        "name": "CBS USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/52/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/52/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "CBS WCBI-TV (720p)",
         "servers": [
@@ -7200,34 +7200,6 @@
             {
                 "name": "URL",
                 "link": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 767,
-        "name": "CBSNY USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/767/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/767/"
-            }
-        ]
-    },
-    {
-        "id": 308,
-        "name": "CBSSN USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/308/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/308/"
             }
         ]
     },
@@ -8465,15 +8437,15 @@
     },
     {
         "id": null,
-        "name": "Channel 4 (360p)",
+        "name": "Channel 4 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -9193,6 +9165,20 @@
     },
     {
         "id": null,
+        "name": "Chasse & Peche (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CHC Action (1080p)",
         "servers": [
             {
@@ -9412,20 +9398,6 @@
             {
                 "name": "URL",
                 "link": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 776,
-        "name": "Chicago Sports Network",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/776/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/776/"
             }
         ]
     },
@@ -12161,6 +12133,20 @@
     },
     {
         "id": null,
+        "name": "CNBC Europe (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CNBC TV18 (1080p)",
         "servers": [
             {
@@ -13057,6 +13043,20 @@
     },
     {
         "id": null,
+        "name": "Comedy Central (France) HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Comedy Central (Germany)",
         "servers": [
             {
@@ -13085,6 +13085,20 @@
     },
     {
         "id": null,
+        "name": "Comedy Central (Spain) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Comedy Central (Sweden)",
         "servers": [
             {
@@ -13108,20 +13122,6 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Comedy Central (United States) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow.hostless.app/comedy-central.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow.hostless.app/comedy-central.m3u8"
             }
         ]
     },
@@ -13178,6 +13178,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Comedy Central Latin America (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://190.93.224.42/COMEDY-CENTRAL/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://190.93.224.42/COMEDY-CENTRAL/index.m3u8"
             }
         ]
     },
@@ -14541,6 +14555,20 @@
     },
     {
         "id": null,
+        "name": "Crime District (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Crimea 24",
         "servers": [
             {
@@ -14872,6 +14900,20 @@
             {
                 "name": "URL",
                 "link": "https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "name": "CT 2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/160/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/160/"
             }
         ]
     },

@@ -659,20 +659,6 @@
     },
     {
         "id": null,
-        "name": "Fast Sports (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://s7.merlive.am/Fastsports/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://s7.merlive.am/Fastsports/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Fast TV (720p)",
         "servers": [
             {
@@ -2255,6 +2241,34 @@
     },
     {
         "id": null,
+        "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-general-2026/chunklist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Foro TV (576p)",
         "servers": [
             {
@@ -3494,20 +3508,6 @@
         ]
     },
     {
-        "id": 768,
-        "name": "FOXNY USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/768/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/768/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "FOXsport1 arg",
         "servers": [
@@ -3715,15 +3715,15 @@
     },
     {
         "id": null,
-        "name": "France 3 Cote d'Azur (1080p)",
+        "name": "France 3 Cote d'Azur (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://89.187.185.76:8080/France3/index.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://89.187.185.76:8080/France3/index.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -4258,20 +4258,6 @@
         ]
     },
     {
-        "id": 3010,
-        "name": "fuboTV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3010/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3010/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Fuego TV [Not 24/7]",
         "servers": [
@@ -4394,20 +4380,6 @@
             {
                 "name": "URL",
                 "link": "https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "FunBox",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://186.148.196.100:8000/play/a00d"
-            },
-            {
-                "name": "URL",
-                "link": "http://186.148.196.100:8000/play/a00d"
             }
         ]
     },
@@ -4646,20 +4618,6 @@
             {
                 "name": "URL",
                 "link": "https://ehgembxe.cfd/8lysgd83-4863"
-            }
-        ]
-    },
-    {
-        "id": 665,
-        "name": "FYI USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/665/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/665/"
             }
         ]
     }

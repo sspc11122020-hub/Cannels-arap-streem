@@ -308,6 +308,20 @@
         ]
     },
     {
+        "id": 1,
+        "name": "YLE TV2 Finland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "YleX (720p)",
         "servers": [
@@ -556,6 +570,20 @@
             {
                 "name": "URL",
                 "link": "http://202.60.106.14:8080/214/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "YTS Yamagata TV (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8"
             }
         ]
     },
