@@ -1,6 +1,20 @@
 [
     {
         "id": null,
+        "name": "Q TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://163.61.226.31:9981/stream/channelid/359164420?profile=pass"
+            },
+            {
+                "name": "URL",
+                "link": "http://163.61.226.31:9981/stream/channelid/359164420?profile=pass"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Q-Music (1080p)",
         "servers": [
             {

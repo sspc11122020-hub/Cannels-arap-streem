@@ -1,20 +1,6 @@
 [
     {
         "id": null,
-        "name": "K News India (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://legitpro.co.in/knews/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://legitpro.co.in/knews/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "K Shopping (1080p)",
         "servers": [
             {
@@ -449,6 +435,20 @@
     },
     {
         "id": null,
+        "name": "Kanak News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Kanal 10 Asia (540p)",
         "servers": [
             {
@@ -570,20 +570,6 @@
             {
                 "name": "URL",
                 "link": "https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Kanal 35 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://str2.yodacdn.net/kanal35/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://str2.yodacdn.net/kanal35/index.m3u8"
             }
         ]
     },
@@ -1653,6 +1639,20 @@
     },
     {
         "id": null,
+        "name": "Khabar Fast (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            },
+            {
+                "name": "URL",
+                "link": "https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Khalij-e Fars TV",
         "servers": [
             {
@@ -1704,6 +1704,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/KHL_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "KHL TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/26/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/26/"
             }
         ]
     },

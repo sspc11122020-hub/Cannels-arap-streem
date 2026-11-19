@@ -42,20 +42,6 @@
         ]
     },
     {
-        "id": 636,
-        "name": "A Spor Turkey (CH-1011) Nova Sports 6 Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/636/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/636/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "A-Plus TV (576p)",
         "servers": [
@@ -66,6 +52,20 @@
             {
                 "name": "URL",
                 "link": "http://115.42.65.142:9981/stream/channelid/113328724"
+            }
+        ]
+    },
+    {
+        "id": 302,
+        "name": "A&amp;E TV USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/302/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/302/"
             }
         ]
     },
@@ -467,11 +467,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/1454/master.m3u8"
+                "link": "http://163.61.226.31:9981/stream/channelid/565086134?profile=pass"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/1454/master.m3u8"
+                "link": "http://163.61.226.31:9981/stream/channelid/565086134?profile=pass"
             }
         ]
     },
@@ -1050,6 +1050,20 @@
         ]
     },
     {
+        "id": 766,
+        "name": "ABC NY USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/766/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/766/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "ABC Teleshow (720p)",
         "servers": [
@@ -1200,6 +1214,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "ABC USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/51/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/51/"
             }
         ]
     },
@@ -1685,11 +1713,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8"
+                "link": "https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8"
+                "link": "https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8"
             }
         ]
     },
@@ -1732,20 +1760,6 @@
             {
                 "name": "URL",
                 "link": "https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 600,
-        "name": "Abu Dhabi Sports 1",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/600/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/600/"
             }
         ]
     },
@@ -5110,20 +5124,6 @@
         ]
     },
     {
-        "id": 781,
-        "name": "Alkass One",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/781/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/781/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Alkhuzama Radio (1080p)",
         "servers": [
@@ -5586,6 +5586,20 @@
         ]
     },
     {
+        "id": 923,
+        "name": "Altitude USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/923/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/923/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "AltoAdige TV (720p)",
         "servers": [
@@ -5638,20 +5652,6 @@
             {
                 "name": "URL",
                 "link": "https://alpha.tv.online.tm/hls/ch001.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Alvin Channel TV (360p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8"
             }
         ]
     },
@@ -6025,11 +6025,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0"
+                "link": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?ads.gdpr=0&ap=1&app_name=Whale+TV%2B&app_store=Browser&brand_name=&cb=&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&content_episode=&content_genre=News&content_id=&content_livestream=1&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_season=&content_series=&content_title=&coppa=0&device_make=&device_model=&did=&dnt=&dur=&gdpr=1&gdpr_consent=&h=&ic=IAB1&id=10&ip=&language=&lmt=&max_dur=30&min_dur=5&mute=0&partner=whaletv&placement=1&rating=12%2B&skip=0&tag_id=139913&tv_language=&tv_model=&tv_vendor=&ua=&url=&us_privacy=1YNN&version=12&w=&wtv_channel_id=0470"
             },
             {
                 "name": "URL",
-                "link": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0"
+                "link": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?ads.gdpr=0&ap=1&app_name=Whale+TV%2B&app_store=Browser&brand_name=&cb=&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&content_episode=&content_genre=News&content_id=&content_livestream=1&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_season=&content_series=&content_title=&coppa=0&device_make=&device_model=&did=&dnt=&dur=&gdpr=1&gdpr_consent=&h=&ic=IAB1&id=10&ip=&language=&lmt=&max_dur=30&min_dur=5&mute=0&partner=whaletv&placement=1&rating=12%2B&skip=0&tag_id=139913&tv_language=&tv_model=&tv_vendor=&ua=&url=&us_privacy=1YNN&version=12&w=&wtv_channel_id=0470"
             }
         ]
     },
@@ -6721,20 +6721,6 @@
     },
     {
         "id": null,
-        "name": "AnewZ TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Angel TV (1080p)",
         "servers": [
             {
@@ -6973,7 +6959,7 @@
     },
     {
         "id": null,
-        "name": "Anhui TV",
+        "name": "Anhui TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7350,20 +7336,6 @@
         ]
     },
     {
-        "id": 3,
-        "name": "Antena 1 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Antena 21 (480p)",
         "servers": [
@@ -7575,15 +7547,15 @@
     },
     {
         "id": null,
-        "name": "AntenaPlay Events (576i) [Not 24/7]",
+        "name": "AntenaPlay Events (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8"
+                "link": "https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8"
+                "link": "https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8"
             }
         ]
     },
@@ -8079,7 +8051,7 @@
     },
     {
         "id": null,
-        "name": "Araruna TV",
+        "name": "Araruna TV (614p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8288,44 +8260,44 @@
         ]
     },
     {
-        "id": 12,
+        "id": 6,
         "name": "Arena 4 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/12/"
+                "link": "https://tvnow247.top/embed/6/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/12/"
+                "link": "https://tvnow247.top/embed/6/"
             }
         ]
     },
     {
-        "id": 10,
+        "id": 3,
         "name": "Arena 5 Premium Serbia",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/10/"
+                "link": "https://tvnow247.top/embed/3/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/10/"
+                "link": "https://tvnow247.top/embed/3/"
             }
         ]
     },
     {
-        "id": 3067,
-        "name": "Arena M2 Premium",
+        "id": 579,
+        "name": "Arena Sport 1 BIH",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3067/"
+                "link": "https://tvnow247.top/embed/579/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/3067/"
+                "link": "https://tvnow247.top/embed/579/"
             }
         ]
     },
@@ -8382,34 +8354,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/429/"
-            }
-        ]
-    },
-    {
-        "id": 945,
-        "name": "Arena Sport 10 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/945/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/945/"
-            }
-        ]
-    },
-    {
-        "id": 612,
-        "name": "Arena Sport 1x2 Serbia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/612/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/612/"
             }
         ]
     },
@@ -8498,20 +8442,6 @@
         ]
     },
     {
-        "id": 152,
-        "name": "Arena Sport 5 Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/152/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/152/"
-            }
-        ]
-    },
-    {
         "id": 940,
         "name": "Arena Sport 5 Serbia",
         "servers": [
@@ -8522,20 +8452,6 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/940/"
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Arena Sport 6 Croatia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/17/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/17/"
             }
         ]
     },
@@ -8638,6 +8554,20 @@
         ]
     },
     {
+        "id": 612,
+        "name": "Arena Tennis",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/612/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/612/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Arena4",
         "servers": [
@@ -8685,11 +8615,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8"
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8"
             }
         ]
     },
@@ -8988,20 +8918,6 @@
         ]
     },
     {
-        "id": 151,
-        "name": "Arryadia TNT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/151/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/151/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Arsenal (576p)",
         "servers": [
@@ -9208,20 +9124,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Aryan TV National (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
             }
         ]
     },
@@ -11065,7 +10967,7 @@
     },
     {
         "id": null,
-        "name": "AXN (Spain) HD",
+        "name": "AXN (Spain) HD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11447,20 +11349,6 @@
     },
     {
         "id": null,
-        "name": "Az TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://str.yodacdn.net/azertv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://str.yodacdn.net/azertv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "AZA TV HD (1080p)",
         "servers": [
             {
@@ -11470,6 +11358,20 @@
             {
                 "name": "URL",
                 "link": "https://tv.webmedialive.com/azatvhn/live/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Azad TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
             }
         ]
     },
@@ -11544,20 +11446,6 @@
             {
                 "name": "URL",
                 "link": "http://187.245.231.226:8000/play/a0uz/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 844,
-        "name": "Azteca 7 Mexico",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/844/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/844/"
             }
         ]
     },

@@ -141,7 +141,7 @@
     },
     {
         "id": null,
-        "name": "OAN Plus KPVM-LD",
+        "name": "OAN Plus KPVM-LD (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -957,11 +957,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.olidigital.in/olitv/olitv/index.m3u8"
+                "link": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.olidigital.in/olitv/olitv/index.m3u8"
+                "link": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8"
             }
         ]
     },
@@ -1046,20 +1046,6 @@
             {
                 "name": "URL",
                 "link": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Oman TV Sport",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/7/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/7/"
             }
         ]
     },
@@ -1527,6 +1513,20 @@
     },
     {
         "id": null,
+        "name": "On Patrol: Live (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ON Phim Viet (1080p)",
         "servers": [
             {
@@ -1536,6 +1536,20 @@
             {
                 "name": "URL",
                 "link": "https://vmttv.dpdns.org/tv360?id=175"
+            }
+        ]
+    },
+    {
+        "id": 611,
+        "name": "ON Sport 1 Egypt",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/611/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/611/"
             }
         ]
     },
@@ -2100,6 +2114,20 @@
         ]
     },
     {
+        "id": 1039,
+        "name": "OnePlay MD2 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1039/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1039/"
+            }
+        ]
+    },
+    {
         "id": 1027,
         "name": "Oneplay Sport 1 CZ",
         "servers": [
@@ -2114,16 +2142,30 @@
         ]
     },
     {
-        "id": 1038,
-        "name": "Oneplay Sport 4 CZ",
+        "id": 1028,
+        "name": "Oneplay Sport 2 CZ",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/1038/"
+                "link": "https://tvnow247.top/embed/1028/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/1038/"
+                "link": "https://tvnow247.top/embed/1028/"
+            }
+        ]
+    },
+    {
+        "id": 1029,
+        "name": "Oneplay Sport 3 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1029/"
             }
         ]
     },
@@ -2432,20 +2474,6 @@
             {
                 "name": "URL",
                 "link": "http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "ORF eins",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/4/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/4/"
             }
         ]
     },
@@ -2815,7 +2843,7 @@
     },
     {
         "id": null,
-        "name": "OTV-Prim",
+        "name": "OTV-Prim (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3062,6 +3090,20 @@
             {
                 "name": "URL",
                 "link": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 332,
+        "name": "Oxygen True Crime",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/332/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/332/"
             }
         ]
     },

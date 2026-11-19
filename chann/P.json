@@ -1461,11 +1461,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+                "link": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+                "link": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8"
             }
         ]
     },
@@ -2115,7 +2115,7 @@
     },
     {
         "id": null,
-        "name": "Pervyy Respublikanskiy",
+        "name": "Pervyy Respublikanskiy (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2171,7 +2171,7 @@
     },
     {
         "id": null,
-        "name": "Petlovers TV",
+        "name": "Petlovers TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2525,11 +2525,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8"
+                "link": "https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8"
+                "link": "https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8"
             }
         ]
     },
@@ -2773,7 +2773,7 @@
     },
     {
         "id": null,
-        "name": "Plenitude TV",
+        "name": "Plenitude TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2787,7 +2787,7 @@
     },
     {
         "id": null,
-        "name": "PLEX TV",
+        "name": "PLEX TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8862,20 +8862,6 @@
         ]
     },
     {
-        "id": 991,
-        "name": "Polsat Sport Premium 1 Poland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/991/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/991/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Polsat Sport Premium 2 FHD PL",
         "servers": [
@@ -9198,6 +9184,20 @@
         ]
     },
     {
+        "id": 718,
+        "name": "Porto Canal Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/718/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/718/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Porto Canal PT",
         "servers": [
@@ -9465,6 +9465,20 @@
     },
     {
         "id": null,
+        "name": "Prag News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Praise TV (720p)",
         "servers": [
             {
@@ -9660,6 +9674,20 @@
         ]
     },
     {
+        "id": 799,
+        "name": "Premier Sports 2 Ireland",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/799/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/799/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Premiere",
         "servers": [
@@ -9810,6 +9838,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Premiere BR",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/88/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/88/"
             }
         ]
     },
@@ -10080,20 +10122,6 @@
         ]
     },
     {
-        "id": 585,
-        "name": "Prima Sport 3 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/585/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/585/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Prima Sport 4 FHD RO",
         "servers": [
@@ -10118,20 +10146,6 @@
             {
                 "name": "URL",
                 "link": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143"
-            }
-        ]
-    },
-    {
-        "id": 586,
-        "name": "Prima Sport 4 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/586/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/586/"
             }
         ]
     },
@@ -10515,7 +10529,7 @@
     },
     {
         "id": null,
-        "name": "PROFI 24 TV",
+        "name": "PROFI 24 TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10608,20 +10622,6 @@
             {
                 "name": "URL",
                 "link": "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 109,
-        "name": "ProSieben Maxx",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/109/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/109/"
             }
         ]
     },
@@ -11357,15 +11357,15 @@
     },
     {
         "id": null,
-        "name": "Punjabi Beats HD (720p)",
+        "name": "Punjabi Beats HD (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8"
             }
         ]
     },

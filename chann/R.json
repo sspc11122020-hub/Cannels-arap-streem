@@ -211,7 +211,7 @@
     },
     {
         "id": 555,
-        "name": "Racing Tv UK",
+        "name": "Racing TV UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -2343,11 +2343,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8"
+                "link": "http://team-tv.co:81/rai3/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8"
+                "link": "http://team-tv.co:81/rai3/index.m3u8"
             }
         ]
     },
@@ -2544,6 +2544,20 @@
             {
                 "name": "URL",
                 "link": "http://sultanios.alwaysdata.net/vavo.php?ID=843891896"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rai Storia (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://team-tv.co:81/raistoria/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://team-tv.co:81/raistoria/index.m3u8"
             }
         ]
     },
@@ -4915,7 +4929,7 @@
     },
     {
         "id": null,
-        "name": "RedeTV! Parana",
+        "name": "RedeTV! Parana (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4952,6 +4966,20 @@
             {
                 "name": "URL",
                 "link": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Reelz Famous & Infamous (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8"
             }
         ]
     },
@@ -5801,11 +5829,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.171.64.30:6060/play/a04k/index.m3u8"
+                "link": "http://45.166.93.156:9999/play/a0ff/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.171.64.30:6060/play/a04k/index.m3u8"
+                "link": "http://45.166.93.156:9999/play/a0ff/index.m3u8"
             }
         ]
     },
@@ -6282,6 +6310,20 @@
             {
                 "name": "URL",
                 "link": "https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "RMC Sport 1 France",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/119/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/119/"
             }
         ]
     },
@@ -6851,7 +6893,7 @@
     },
     {
         "id": null,
-        "name": "Roya TV (Iran)",
+        "name": "Roya TV (Iran) (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7252,34 +7294,6 @@
             {
                 "name": "URL",
                 "link": "https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "name": "RTCG 2 Montenegro",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/9/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/9/"
-            }
-        ]
-    },
-    {
-        "id": 365,
-        "name": "RTE 2 Ireland",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/365/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/365/"
             }
         ]
     },
@@ -7896,34 +7910,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20HD%20PT&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 719,
-        "name": "RTP 1 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/719/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/719/"
-            }
-        ]
-    },
-    {
-        "id": 720,
-        "name": "RTP 2 Portugal",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/720/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/720/"
             }
         ]
     },
@@ -9039,11 +9025,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://45.70.201.81:8000/play/a018/index.m3u8"
+                "link": "http://38.87.224.19:2220/play/a049/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://45.70.201.81:8000/play/a018/index.m3u8"
+                "link": "http://38.87.224.19:2220/play/a049/index.m3u8"
             }
         ]
     },
