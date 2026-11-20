@@ -561,15 +561,43 @@
     },
     {
         "id": null,
+        "name": "Hare Krsna Music (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Hare Krsna Pravachan (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://dcn72a38509t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/HKTV/HKPravachan/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://dcn72a38509t.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkpravachan/HKTV/HKPravachan/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Hare Krsna TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
+                "link": "https://de3osy3rc63bo.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd"
+                "link": "https://de3osy3rc63bo.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8"
             }
         ]
     },
@@ -1135,20 +1163,6 @@
     },
     {
         "id": null,
-        "name": "Health Channel (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://89.33.29.115:8080/Health/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://89.33.29.115:8080/Health/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Heart Radio Aruba",
         "servers": [
             {
@@ -1578,20 +1592,6 @@
             {
                 "name": "URL",
                 "link": "http://38.87.224.19:2220/play/a01p/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": 382,
-        "name": "HGTV USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/382/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/382/"
             }
         ]
     },
@@ -2110,20 +2110,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=History%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 322,
-        "name": "History USA",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/322/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/322/"
             }
         ]
     },

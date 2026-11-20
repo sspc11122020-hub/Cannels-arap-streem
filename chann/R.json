@@ -99,6 +99,20 @@
     },
     {
         "id": null,
+        "name": "RA Television (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Raajje TV",
         "servers": [
             {
@@ -211,7 +225,7 @@
     },
     {
         "id": 555,
-        "name": "Racing TV UK",
+        "name": "Racing Tv UK",
         "servers": [
             {
                 "name": "Main Server",
@@ -659,6 +673,20 @@
     },
     {
         "id": null,
+        "name": "RADIO CLUB DJ TV",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://radioclubdj.pro/stream/tv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://radioclubdj.pro/stream/tv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Coatan Canal 21",
         "servers": [
             {
@@ -775,11 +803,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vmix.dyndns.biz/Edelweiss/index.m3u8"
+                "link": "https://stmv5.voxtvhd.com.br/edelweisstv/edelweisstv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vmix.dyndns.biz/Edelweiss/index.m3u8"
+                "link": "https://stmv5.voxtvhd.com.br/edelweisstv/edelweisstv/playlist.m3u8"
             }
         ]
     },
@@ -1872,6 +1900,20 @@
             {
                 "name": "URL",
                 "link": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Radio TV Mega (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8"
             }
         ]
     },
@@ -3864,6 +3906,20 @@
         ]
     },
     {
+        "id": 840,
+        "name": "RDS 2 CA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/840/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/840/"
+            }
+        ]
+    },
+    {
         "id": 839,
         "name": "RDS CA",
         "servers": [
@@ -4770,6 +4826,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rede Impacto Gospel TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8"
             }
         ]
     },
@@ -6314,20 +6384,6 @@
         ]
     },
     {
-        "id": 119,
-        "name": "RMC Sport 1 France",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/119/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/119/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "RMC Sport 1 HD FR",
         "servers": [
@@ -7564,6 +7620,20 @@
         ]
     },
     {
+        "id": 740,
+        "name": "RTL DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/740/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/740/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "RTL FHD DE",
         "servers": [
@@ -7686,6 +7756,20 @@
             {
                 "name": "URL",
                 "link": "https://s6.hopslan.com/rtl2q/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "RTL Zwei Schweiz (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtlzwei_ch/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtlzwei_ch/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -7910,6 +7994,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=RTP%201%20HD%20PT&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 720,
+        "name": "RTP 2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/720/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/720/"
             }
         ]
     },
@@ -8890,6 +8988,20 @@
             {
                 "name": "URL",
                 "link": "https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1059,
+        "name": "RTVS Sport Slovakia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1059/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1059/"
             }
         ]
     },

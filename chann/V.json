@@ -42,6 +42,20 @@
         ]
     },
     {
+        "id": 23,
+        "name": "V Sport 1",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/23/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/23/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "V Sport 1 SE",
         "servers": [
@@ -52,6 +66,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%201%20SE&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "V Sport Extra",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/24/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/24/"
             }
         ]
     },
@@ -84,6 +112,20 @@
         ]
     },
     {
+        "id": 937,
+        "name": "V Sport Golf",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/937/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/937/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "V Sport Motor SE",
         "servers": [
@@ -94,6 +136,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Motor%20SE&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 272,
+        "name": "V Sport Motor Sweden",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/272/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/272/"
             }
         ]
     },
@@ -122,6 +178,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=V%20Sport%20Premium%20SE&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "V Sport Vinter",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/25/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/25/"
             }
         ]
     },
@@ -290,6 +360,20 @@
             {
                 "name": "URL",
                 "link": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 3029,
+        "name": "Vamos (ES)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3029/"
             }
         ]
     },
@@ -1667,6 +1751,20 @@
     },
     {
         "id": null,
+        "name": "Vii MEDIA (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://viimedia.akamaized.net/viimedia/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://viimedia.akamaized.net/viimedia/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Vijay Takkar APAC (1080p)",
         "servers": [
             {
@@ -2493,6 +2591,20 @@
     },
     {
         "id": null,
+        "name": "Viva Istanbul",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Viva Nicaragua Canal 13 (720p)",
         "servers": [
             {
@@ -2521,15 +2633,29 @@
     },
     {
         "id": null,
-        "name": "VIVA Russia",
+        "name": "VIVA Russia (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
+                "link": "https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
+                "link": "https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viva Telenovelas",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -3109,15 +3235,15 @@
     },
     {
         "id": null,
-        "name": "Voyo Sport 1 (1080p)",
+        "name": "Voyo Sport 1 (1080i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://34.92.70.128/VOYO-SPORT-1/index.m3u8"
+                "link": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://34.92.70.128/VOYO-SPORT-1/index.m3u8"
+                "link": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
             }
         ]
     },
@@ -3319,15 +3445,15 @@
     },
     {
         "id": null,
-        "name": "VTV Canal 17 (720p) [Not 24/7]",
+        "name": "VTV Canal 17 (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
+                "link": "http://190.181.61.93:8000/play/a00f/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8"
+                "link": "http://190.181.61.93:8000/play/a00f/index.m3u8"
             }
         ]
     },
