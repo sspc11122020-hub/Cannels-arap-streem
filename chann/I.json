@@ -631,7 +631,7 @@
     },
     {
         "id": null,
-        "name": "Ictimai TV",
+        "name": "Ictimai TV [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -701,7 +701,7 @@
     },
     {
         "id": null,
-        "name": "IDJTV",
+        "name": "IDJTV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1582,6 +1582,20 @@
         ]
     },
     {
+        "id": 1,
+        "name": "Indosiar",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Indosiar HD (1080p)",
         "servers": [
@@ -2171,6 +2185,20 @@
     },
     {
         "id": null,
+        "name": "Investigation Discovery (India) (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a119/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a119/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Investigation Discovery (Russia) (1080p)",
         "servers": [
             {
@@ -2241,6 +2269,20 @@
     },
     {
         "id": null,
+        "name": "ION Mystery (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ION Plus (1080p)",
         "servers": [
             {
@@ -2255,6 +2297,20 @@
     },
     {
         "id": null,
+        "name": "ION TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Ion TV (576p)",
         "servers": [
             {
@@ -2264,20 +2320,6 @@
             {
                 "name": "URL",
                 "link": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ION TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_ION/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_ION/index.m3u8"
             }
         ]
     },

@@ -71,15 +71,29 @@
     },
     {
         "id": null,
-        "name": "Da Vinci (576p)",
+        "name": "Da Vinci (Poland) (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/238/index.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0ad/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/238/index.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0ad/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Da Vinci (Russia) (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a0s6/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a0s6/index.m3u8"
             }
         ]
     },
@@ -435,15 +449,15 @@
     },
     {
         "id": null,
-        "name": "Danger TV (720p)",
+        "name": "Danger TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
+                "link": "https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
+                "link": "https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8"
             }
         ]
     },
@@ -491,15 +505,15 @@
     },
     {
         "id": null,
-        "name": "Dark Matter TV (720p)",
+        "name": "Dark Matter TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8"
+                "link": "https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8"
+                "link": "https://wurltricoast.global.transmit.live/hls/67f032bce3ed1615e41629bf/playlist.m3u8"
             }
         ]
     },
@@ -728,6 +742,20 @@
         ]
     },
     {
+        "id": 426,
+        "name": "DAZN 1 DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/426/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/426/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "DAZN 1 FHD DE",
         "servers": [
@@ -761,11 +789,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/3dk8rxui-6212"
+                "link": "https://shoewiki.click/3dk8rxui-6212"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/3dk8rxui-6212"
+                "link": "https://shoewiki.click/3dk8rxui-6212"
             }
         ]
     },
@@ -775,11 +803,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/gmoqoz7b-4945"
+                "link": "https://shoewiki.click/gmoqoz7b-4945"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/gmoqoz7b-4945"
+                "link": "https://shoewiki.click/gmoqoz7b-4945"
             }
         ]
     },
@@ -789,11 +817,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/3zhczzbl-9086"
+                "link": "https://shoewiki.click/3zhczzbl-9086"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/3zhczzbl-9086"
+                "link": "https://shoewiki.click/3zhczzbl-9086"
             }
         ]
     },
@@ -803,11 +831,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/sq26inyf-2660"
+                "link": "https://shoewiki.click/sq26inyf-2660"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/sq26inyf-2660"
+                "link": "https://shoewiki.click/sq26inyf-2660"
             }
         ]
     },
@@ -817,11 +845,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/jyqzet0b-2901"
+                "link": "https://shoewiki.click/jyqzet0b-2901"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/jyqzet0b-2901"
+                "link": "https://shoewiki.click/jyqzet0b-2901"
             }
         ]
     },
@@ -859,11 +887,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/tnifspj6-852"
+                "link": "https://shoewiki.click/tnifspj6-852"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/tnifspj6-852"
+                "link": "https://shoewiki.click/tnifspj6-852"
             }
         ]
     },
@@ -873,11 +901,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/0o3vlabk-4088"
+                "link": "https://shoewiki.click/0o3vlabk-4088"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/0o3vlabk-4088"
+                "link": "https://shoewiki.click/0o3vlabk-4088"
             }
         ]
     },
@@ -980,20 +1008,6 @@
         ]
     },
     {
-        "id": 22,
-        "name": "DAZN Baloncesto",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/22/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/22/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "dazn baloncesto 1",
         "servers": [
@@ -1048,6 +1062,20 @@
         ]
     },
     {
+        "id": 176,
+        "name": "DAZN Belgium",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/176/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/176/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "DAZN Combat (684p)",
         "servers": [
@@ -1090,6 +1118,20 @@
         ]
     },
     {
+        "id": 456,
+        "name": "DAZN Eleven 2 Portugal",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/456/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/456/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "DAZN F1",
         "servers": [
@@ -1100,6 +1142,20 @@
             {
                 "name": "URL",
                 "link": "https://tvorb.net/ZTV/6918-live.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 3029,
+        "name": "DAZN F1 (ES)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3029/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3029/"
             }
         ]
     },
@@ -1146,6 +1202,20 @@
         ]
     },
     {
+        "id": 55,
+        "name": "DAZN Italia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/55/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/55/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "DAZN La Liga 2 HD",
         "servers": [
@@ -1179,11 +1249,67 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/fw2jrum9-448"
+                "link": "https://shoewiki.click/fw2jrum9-448"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/fw2jrum9-448"
+                "link": "https://shoewiki.click/fw2jrum9-448"
+            }
+        ]
+    },
+    {
+        "id": 918,
+        "name": "DAZN MotoGP ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/918/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/918/"
+            }
+        ]
+    },
+    {
+        "id": 3049,
+        "name": "DAZN Pro League 1 (BE)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3049/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3049/"
+            }
+        ]
+    },
+    {
+        "id": 877,
+        "name": "DAZN ZONA 1 IT",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/877/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/877/"
+            }
+        ]
+    },
+    {
+        "id": 445,
+        "name": "DAZN1 ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/445/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/445/"
             }
         ]
     },
@@ -3016,6 +3142,20 @@
         ]
     },
     {
+        "id": 466,
+        "name": "Diema Sport 2 Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/466/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/466/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Diema Sport 2 HD BG",
         "servers": [
@@ -3030,6 +3170,20 @@
         ]
     },
     {
+        "id": 467,
+        "name": "Diema Sport 3 Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/467/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/467/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Diema Sport 3 FHD BG",
         "servers": [
@@ -3040,6 +3194,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Diema%20Sport%203%20FHD%20BG&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 3048,
+        "name": "Diema Sport Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/3048/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/3048/"
             }
         ]
     },
@@ -3156,6 +3324,20 @@
         ]
     },
     {
+        "id": 400,
+        "name": "Digi Sport 1 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/400/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/400/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Digi Sport 2 FHD RO",
         "servers": [
@@ -3226,6 +3408,20 @@
         ]
     },
     {
+        "id": 402,
+        "name": "Digi Sport 3 Romania",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/402/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/402/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Digi Sport 4",
         "servers": [
@@ -3250,20 +3446,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Digi%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": 403,
-        "name": "Digi Sport 4 Romania",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/403/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/403/"
             }
         ]
     },
@@ -3495,11 +3677,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/2uhz8pq7-2322"
+                "link": "https://shoewiki.click/2uhz8pq7-2322"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/2uhz8pq7-2322"
+                "link": "https://shoewiki.click/2uhz8pq7-2322"
             }
         ]
     },
@@ -3537,11 +3719,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0s8/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0s8/index.m3u8"
             }
         ]
     },
@@ -3579,11 +3761,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/5hibihrx-459"
+                "link": "https://shoewiki.click/5hibihrx-459"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/5hibihrx-459"
+                "link": "https://shoewiki.click/5hibihrx-459"
             }
         ]
     },
@@ -3789,11 +3971,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/mcop8cbp-4"
+                "link": "https://shoewiki.click/mcop8cbp-4"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/mcop8cbp-4"
+                "link": "https://shoewiki.click/mcop8cbp-4"
             }
         ]
     },
@@ -3883,6 +4065,20 @@
     },
     {
         "id": null,
+        "name": "Discovery Science (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a11b/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a11b/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Discovery Science Europe UK",
         "servers": [
             {
@@ -3943,11 +4139,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/hgf4qg78-649"
+                "link": "https://shoewiki.click/hgf4qg78-649"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/hgf4qg78-649"
+                "link": "https://shoewiki.click/hgf4qg78-649"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Discovery Turbo (India) (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a11d/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a11d/index.m3u8"
             }
         ]
     },
@@ -4069,11 +4279,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/epuze5e9-1777"
+                "link": "https://shoewiki.click/epuze5e9-1777"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/epuze5e9-1777"
+                "link": "https://shoewiki.click/epuze5e9-1777"
             }
         ]
     },
@@ -4130,6 +4340,34 @@
             {
                 "name": "URL",
                 "link": "http://109.85.181.77:9981/stream/channelid/652495718?profile=pass"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Disney Channel (India) (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a124/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a124/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Disney Channel (India) HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a11r/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a11r/index.m3u8"
             }
         ]
     },
@@ -4363,11 +4601,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/mxh9xhyk-6349"
+                "link": "https://shoewiki.click/mxh9xhyk-6349"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/mxh9xhyk-6349"
+                "link": "https://shoewiki.click/mxh9xhyk-6349"
             }
         ]
     },
@@ -4405,11 +4643,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/6czz80kp-2326"
+                "link": "https://shoewiki.click/6czz80kp-2326"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/6czz80kp-2326"
+                "link": "https://shoewiki.click/6czz80kp-2326"
             }
         ]
     },
@@ -5926,20 +6164,6 @@
         ]
     },
     {
-        "id": 619,
-        "name": "DSports 1 Argentina",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/619/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/619/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "Dsports 2",
         "servers": [
@@ -5968,16 +6192,16 @@
         ]
     },
     {
-        "id": 621,
-        "name": "DSports+ Argentina",
+        "id": 620,
+        "name": "DSports 2 Argentina",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvnow247.top/embed/621/"
+                "link": "https://tvnow247.top/embed/620/"
             },
             {
                 "name": "URL",
-                "link": "https://tvnow247.top/embed/621/"
+                "link": "https://tvnow247.top/embed/620/"
             }
         ]
     },
@@ -6552,6 +6776,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "name": "DYN DE",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/155/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/155/"
             }
         ]
     },

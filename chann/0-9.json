@@ -47,11 +47,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://s1.merlive.am/black/index.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0s4/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://s1.merlive.am/black/index.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0s4/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": ".black HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a0ac/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a0ac/index.m3u8"
             }
         ]
     },
@@ -89,11 +103,39 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/180/index.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0ao/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/180/index.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0ao/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "&pictures HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a132/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a132/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "&TV HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a133/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a133/index.m3u8"
             }
         ]
     },
@@ -103,11 +145,39 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
+                "link": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
+                "link": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "&xplor HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a11o/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a11o/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 521,
+        "name": "#Vamos ES",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/521/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/521/"
             }
         ]
     },
@@ -1541,6 +1611,20 @@
     },
     {
         "id": null,
+        "name": "3TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "4 Afghanistan",
         "servers": [
             {
@@ -1606,20 +1690,6 @@
             {
                 "name": "URL",
                 "link": "https://musichls.persiana.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "4 SiDES TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.ottlive.co.in/4sidestv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.ottlive.co.in/4sidestv/index.m3u8"
             }
         ]
     },
@@ -1904,6 +1974,20 @@
         ]
     },
     {
+        "id": 148,
+        "name": "5Gold Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/148/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/148/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "5Live",
         "servers": [
@@ -1942,6 +2026,20 @@
             {
                 "name": "URL",
                 "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "5Plus Israel",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/145/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/145/"
             }
         ]
     },
@@ -2409,15 +2507,15 @@
     },
     {
         "id": null,
-        "name": "8XM",
+        "name": "8XM (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0tw/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8"
+                "link": "http://116.90.120.149:8000/play/a0tw/index.m3u8"
             }
         ]
     },
@@ -2642,6 +2740,48 @@
             {
                 "name": "URL",
                 "link": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1033,
+        "name": "ČT Sport CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1033/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1033/"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "ŠTV 2 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/7/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/7/"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "ŠTV 3 Slovenia",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/8/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/8/"
             }
         ]
     },

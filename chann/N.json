@@ -365,20 +365,6 @@
     },
     {
         "id": null,
-        "name": "Narodna TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://edge8.pink.rs/narodnatv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://edge8.pink.rs/narodnatv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Naruto (1080p)",
         "servers": [
             {
@@ -771,6 +757,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic (India) HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a115/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a115/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic (Mexico) (1080p)",
         "servers": [
             {
@@ -864,6 +864,20 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "National Geographic Wild (India) HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a11h/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a11h/index.m3u8"
             }
         ]
     },
@@ -1232,30 +1246,16 @@
         ]
     },
     {
-        "id": 3006,
-        "name": "NBA League Pass",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3006/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3006/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NBA TV",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/8tl2ksef-2775"
+                "link": "https://shoewiki.click/8tl2ksef-2775"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/8tl2ksef-2775"
+                "link": "https://shoewiki.click/8tl2ksef-2775"
             }
         ]
     },
@@ -1307,11 +1307,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/bdl7my34-1862"
+                "link": "https://shoewiki.click/bdl7my34-1862"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/bdl7my34-1862"
+                "link": "https://shoewiki.click/bdl7my34-1862"
             }
         ]
     },
@@ -1359,6 +1359,20 @@
     },
     {
         "id": null,
+        "name": "NBC KJRH-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01438-amg01438c8-vizio-us-10941.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01438-amg01438c8-vizio-us-10941.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NBC KNTV (1080p)",
         "servers": [
             {
@@ -1368,6 +1382,20 @@
             {
                 "name": "URL",
                 "link": "https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NBC KOAA-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01438-amg01438c11-vizio-us-10928.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01438-amg01438c11-vizio-us-10928.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1401,29 +1429,29 @@
     },
     {
         "id": null,
-        "name": "NBC KSBY (720p)",
+        "name": "NBC KSBY (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8"
+                "link": "https://amg01438-amg01438c17-vizio-us-10900.playouts.now.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8"
+                "link": "https://amg01438-amg01438c17-vizio-us-10900.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "NBC KSHB-TV (720p)",
+        "name": "NBC KSHB-TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8"
+                "link": "https://amg01438-amg01438c35-vizio-us-10899.playouts.now.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8"
+                "link": "https://amg01438-amg01438c35-vizio-us-10899.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1438,6 +1466,20 @@
             {
                 "name": "URL",
                 "link": "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NBC KTVH-DT (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01438-amg01438c26-vizio-us-10902.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01438-amg01438c26-vizio-us-10902.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1489,11 +1531,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/soipf80d-8441"
+                "link": "https://shoewiki.click/soipf80d-8441"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/soipf80d-8441"
+                "link": "https://shoewiki.click/soipf80d-8441"
             }
         ]
     },
@@ -1517,11 +1559,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/03uxmg2p-8674"
+                "link": "https://shoewiki.click/03uxmg2p-8674"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/03uxmg2p-8674"
+                "link": "https://shoewiki.click/03uxmg2p-8674"
             }
         ]
     },
@@ -1657,15 +1699,15 @@
     },
     {
         "id": null,
-        "name": "NBC WGBA-TV (720p)",
+        "name": "NBC WGBA-TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8"
+                "link": "https://amg01438-amg01438c31-vizio-us-10906.playouts.now.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8"
+                "link": "https://amg01438-amg01438c31-vizio-us-10906.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1755,6 +1797,20 @@
     },
     {
         "id": null,
+        "name": "NBC WMC-TV (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00312-amg00312c58-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c58-amgplt0022/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00312-amg00312c58-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c58-amgplt0022/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NBC WMGT-TV (720p)",
         "servers": [
             {
@@ -1797,15 +1853,15 @@
     },
     {
         "id": null,
-        "name": "NBC WPTV-TV (720p)",
+        "name": "NBC WPTV-TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
+                "link": "https://amg01438-amg01438c2-vizio-us-10862.playouts.now.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
+                "link": "https://amg01438-amg01438c2-vizio-us-10862.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1839,15 +1895,29 @@
     },
     {
         "id": null,
-        "name": "NBC WTMJ-TV (720p)",
+        "name": "NBC WSMV-TV (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8"
+                "link": "https://amg00312-amg00312c45-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c45-amgplt0022/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8"
+                "link": "https://amg00312-amg00312c45-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c45-amgplt0022/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NBC WTMJ-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01438-amg01438c40-vizio-us-10892.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01438-amg01438c40-vizio-us-10892.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -1932,6 +2002,34 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/753/"
+            }
+        ]
+    },
+    {
+        "id": 754,
+        "name": "NBCS Boston USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/754/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/754/"
+            }
+        ]
+    },
+    {
+        "id": 755,
+        "name": "NBCS California USA",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/755/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/755/"
             }
         ]
     },
@@ -3915,11 +4013,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/a40czx8e-4022"
+                "link": "https://shoewiki.click/a40czx8e-4022"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/a40czx8e-4022"
+                "link": "https://shoewiki.click/a40czx8e-4022"
             }
         ]
     },
@@ -4120,30 +4218,16 @@
         ]
     },
     {
-        "id": 15,
-        "name": "NHL Gamecenter",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/15/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/15/"
-            }
-        ]
-    },
-    {
         "id": null,
         "name": "NHL Network",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/kelcwql2-1938"
+                "link": "https://shoewiki.click/kelcwql2-1938"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/kelcwql2-1938"
+                "link": "https://shoewiki.click/kelcwql2-1938"
             }
         ]
     },
@@ -4219,15 +4303,29 @@
     },
     {
         "id": null,
+        "name": "Nick HD+ (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://116.90.120.149:8000/play/a11j/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://116.90.120.149:8000/play/a11j/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nick Jr.",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/mkq4q2a4-9321"
+                "link": "https://shoewiki.click/mkq4q2a4-9321"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/mkq4q2a4-9321"
+                "link": "https://shoewiki.click/mkq4q2a4-9321"
             }
         ]
     },
@@ -4433,11 +4531,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/81giyo7o-5495"
+                "link": "https://shoewiki.click/81giyo7o-5495"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/81giyo7o-5495"
+                "link": "https://shoewiki.click/81giyo7o-5495"
             }
         ]
     },
@@ -4550,6 +4648,20 @@
             {
                 "name": "URL",
                 "link": "http://stream.mcquack.net/443/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nickelodeon (Spain)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://90.170.214.40:9700/stream/avatel/nickelodeon/master.m3u8"
             }
         ]
     },
@@ -4783,11 +4895,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/yrqvb007-1124"
+                "link": "https://shoewiki.click/yrqvb007-1124"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/yrqvb007-1124"
+                "link": "https://shoewiki.click/yrqvb007-1124"
             }
         ]
     },
@@ -5105,11 +5217,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
+                "link": "https://playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
+                "link": "https://playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -5938,6 +6050,20 @@
         ]
     },
     {
+        "id": 1023,
+        "name": "Nova Sport 3 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1023/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1023/"
+            }
+        ]
+    },
+    {
         "id": null,
         "name": "Nova Sport 3 HD GR",
         "servers": [
@@ -5948,6 +6074,48 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%203%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 1060,
+        "name": "Nova Sport 3 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1060/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1060/"
+            }
+        ]
+    },
+    {
+        "id": 1024,
+        "name": "Nova Sport 4 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1024/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1024/"
+            }
+        ]
+    },
+    {
+        "id": 1061,
+        "name": "Nova Sport 4 SK",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1061/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1061/"
             }
         ]
     },
@@ -5976,6 +6144,34 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Nova%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": 1026,
+        "name": "Nova Sport 6 CZ",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/1026/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/1026/"
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "name": "Nova Sport Bulgaria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tvnow247.top/embed/468/"
+            },
+            {
+                "name": "URL",
+                "link": "https://tvnow247.top/embed/468/"
             }
         ]
     },
@@ -6078,20 +6274,6 @@
         ]
     },
     {
-        "id": 3024,
-        "name": "Nova Sports Prime Greece",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvnow247.top/embed/3024/"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvnow247.top/embed/3024/"
-            }
-        ]
-    },
-    {
         "id": 637,
         "name": "Nova Sports Start Greece",
         "servers": [
@@ -6139,11 +6321,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ehgembxe.cfd/g3bz60d8-3347"
+                "link": "https://shoewiki.click/g3bz60d8-3347"
             },
             {
                 "name": "URL",
-                "link": "https://ehgembxe.cfd/g3bz60d8-3347"
+                "link": "https://shoewiki.click/g3bz60d8-3347"
             }
         ]
     },
