@@ -1025,20 +1025,6 @@
     },
     {
         "id": null,
-        "name": "Canal 1 Mar Menor Torre Pacheco (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://directo.tuwebtv.es/canal1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://directo.tuwebtv.es/canal1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal 1 Nuble (1080p)",
         "servers": [
             {
@@ -1300,6 +1286,20 @@
             {
                 "name": "URL",
                 "link": "http://45.228.234.9:8000/play/a06s/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal 12 Valledupar (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.78.8.199:8000/play/a0e4/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.78.8.199:8000/play/a0e4/index.m3u8"
             }
         ]
     },
@@ -2187,20 +2187,6 @@
     },
     {
         "id": null,
-        "name": "Canal 4 Catalunya (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal 4 Esquel (720p)",
         "servers": [
             {
@@ -2224,20 +2210,6 @@
             {
                 "name": "URL",
                 "link": "https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Canal 4 Mallorca (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8"
             }
         ]
     },
@@ -2658,6 +2630,20 @@
             {
                 "name": "URL",
                 "link": "https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal 63 TV Catolico Corinto (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8"
             }
         ]
     },
@@ -3195,20 +3181,6 @@
     },
     {
         "id": null,
-        "name": "Canal Coin TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://canalcoin.garjim.es/hls/directo.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://canalcoin.garjim.es/hls/directo.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Canal Congreso (1080p)",
         "servers": [
             {
@@ -3400,20 +3372,6 @@
             {
                 "name": "URL",
                 "link": "http://45.177.114.115/CANAL_EDUCACAO/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Canal Extremadura (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR="
-            },
-            {
-                "name": "URL",
-                "link": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR="
             }
         ]
     },
@@ -3643,15 +3601,15 @@
     },
     {
         "id": null,
-        "name": "Canal Luz Television (1080p)",
+        "name": "Canal Luz Television (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
+                "link": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
+                "link": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8"
             }
         ]
     },
@@ -5268,20 +5226,6 @@
             {
                 "name": "URL3",
                 "link": "https://104game.click/player/3/107"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CanalCosta (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8"
             }
         ]
     },
@@ -8675,15 +8619,15 @@
     },
     {
         "id": null,
-        "name": "CGTN Russian (1080p)",
+        "name": "CGTN Russian (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
+                "link": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
+                "link": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8"
             }
         ]
     },
@@ -8693,11 +8637,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+                "link": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+                "link": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
             }
         ]
     },
@@ -13841,20 +13785,6 @@
     },
     {
         "id": null,
-        "name": "Comedy TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.146.5.178:8087/play/a00b/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.146.5.178:8087/play/a00b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Comedy.TV (720p)",
         "servers": [
             {
@@ -13976,20 +13906,6 @@
             {
                 "name": "URL",
                 "link": "https://concordca.cablecast.tv/live/stream-2/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Condavision (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
             }
         ]
     },
@@ -15740,6 +15656,20 @@
             {
                 "name": "URL",
                 "link": "https://live.legitpro.co.in/ctvnakdplus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cubavision Internacional (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://90.183.52.46:4000/play/a04a/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://90.183.52.46:4000/play/a04a/index.m3u8"
             }
         ]
     },

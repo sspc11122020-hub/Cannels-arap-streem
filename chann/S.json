@@ -1177,6 +1177,20 @@
     },
     {
         "id": null,
+        "name": "SanjuaneraTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.obslivestream.com/sanjuanera/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.obslivestream.com/sanjuanera/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Sankara TV (576p)",
         "servers": [
             {
@@ -2544,6 +2558,20 @@
             {
                 "name": "URL",
                 "link": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref="
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "SelvaTV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8"
             }
         ]
     },
@@ -13133,6 +13161,20 @@
     },
     {
         "id": null,
+        "name": "Sullana TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mundial.cpustream.com:8081/sullanatv/video.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mundial.cpustream.com:8081/sullanatv/video.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Sultra TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -13637,15 +13679,15 @@
     },
     {
         "id": null,
-        "name": "Super7FM (720p)",
+        "name": "Super7FM",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
+                "link": "https://stream.haislin.com/super7fm/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8"
+                "link": "https://stream.haislin.com/super7fm/index.m3u8"
             }
         ]
     },
@@ -13842,20 +13884,6 @@
             {
                 "name": "URL",
                 "link": "https://sy.wns.live/hls/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Supremateve (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8"
             }
         ]
     },

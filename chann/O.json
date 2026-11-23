@@ -211,20 +211,6 @@
     },
     {
         "id": null,
-        "name": "Obieqtivi TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Observator News (360p)",
         "servers": [
             {
@@ -1765,15 +1751,15 @@
     },
     {
         "id": null,
-        "name": "Onda TV (Peru) (720p)",
+        "name": "Onda TV (Peru) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8"
+                "link": "https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8"
+                "link": "https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8"
             }
         ]
     },

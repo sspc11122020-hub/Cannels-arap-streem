@@ -3249,20 +3249,6 @@
     },
     {
         "id": null,
-        "name": "Rakuten Viki (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rakuten Viki Poland (720p)",
         "servers": [
             {
@@ -4560,20 +4546,6 @@
             {
                 "name": "URL",
                 "link": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Red Social Codi TV (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mp.panelchs.com:1936/8040/8040/playlist.m3u8"
             }
         ]
     },
@@ -6165,11 +6137,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://video.rionitv.com:9090/hls/live/rioni.m3u8"
+                "link": "https://video.rionitv.com/hls/live/rioni.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://video.rionitv.com:9090/hls/live/rioni.m3u8"
+                "link": "https://video.rionitv.com/hls/live/rioni.m3u8"
             }
         ]
     },
@@ -9445,11 +9417,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.146.5.178:8087/play/a008/index.m3u8"
+                "link": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts"
             },
             {
                 "name": "URL",
-                "link": "http://31.146.5.178:8087/play/a008/index.m3u8"
+                "link": "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts"
             }
         ]
     },

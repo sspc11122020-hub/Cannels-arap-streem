@@ -239,20 +239,6 @@
     },
     {
         "id": null,
-        "name": "Tac12",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Taevas TV7 (720p)",
         "servers": [
             {
@@ -2759,15 +2745,15 @@
     },
     {
         "id": null,
-        "name": "Teledeporte",
+        "name": "Teledeporte (720p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
+                "link": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8"
+                "link": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8"
             }
         ]
     },
@@ -3151,6 +3137,20 @@
     },
     {
         "id": null,
+        "name": "Telelima (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.telelima.net/web/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.telelima.net/web/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TeleM Botosani (540p) [Not 24/7]",
         "servers": [
             {
@@ -3496,20 +3496,6 @@
             {
                 "name": "URL",
                 "link": "http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Telemotril (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
             }
         ]
     },
@@ -3864,20 +3850,6 @@
             {
                 "name": "URL",
                 "link": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Teleonuba (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8"
             }
         ]
     },
@@ -11988,6 +11960,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "TV 2 Fyn (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd"
+            }
+        ]
+    },
+    {
         "id": 3068,
         "name": "TV 2 Play (NO)",
         "servers": [
@@ -13230,20 +13216,6 @@
             {
                 "name": "URL",
                 "link": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "TV Daja (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://edge.essastream.com/dajatv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://edge.essastream.com/dajatv/playlist.m3u8"
             }
         ]
     },
@@ -17953,20 +17925,6 @@
     },
     {
         "id": null,
-        "name": "TVC (Georgia) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://31.146.5.178:8087/play/a009/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://31.146.5.178:8087/play/a009/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVC (Nigeria) (1080p)",
         "servers": [
             {
@@ -18107,20 +18065,6 @@
     },
     {
         "id": null,
-        "name": "TVCentro Andalucia (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TVCG 1 (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -18247,15 +18191,15 @@
     },
     {
         "id": null,
-        "name": "TVE Internacional Asia-Oceania",
+        "name": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51"
+                "link": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51"
+                "link": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8"
             }
         ]
     },

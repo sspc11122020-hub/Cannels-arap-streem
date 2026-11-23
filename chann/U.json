@@ -1779,6 +1779,20 @@
     },
     {
         "id": null,
+        "name": "USIL TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://eu1.servers10.com:8081/8162/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://eu1.servers10.com:8081/8162/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "USMPTV (720p)",
         "servers": [
             {

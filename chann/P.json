@@ -687,34 +687,6 @@
     },
     {
         "id": null,
-        "name": "Parlamento de Andalucia (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Parlamento de Navarra (368p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Parlamentsfernsehen 1 (1080p) [Not 24/7]",
         "servers": [
             {
@@ -2502,20 +2474,6 @@
             {
                 "name": "URL",
                 "link": "http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pirineus TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8"
             }
         ]
     },
@@ -8891,20 +8849,6 @@
     },
     {
         "id": null,
-        "name": "Popular TV Melilla (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "PornHD",
         "servers": [
             {
@@ -8951,11 +8895,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8"
+                "link": "https://edge.essastream.com/portaldigital/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8"
+                "link": "https://edge.essastream.com/portaldigital/index.m3u8"
             }
         ]
     },
@@ -9899,6 +9843,20 @@
     },
     {
         "id": null,
+        "name": "Prima Sport 3 HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Prima Sport 4 FHD RO",
         "servers": [
             {
@@ -9908,6 +9866,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Prima%20Sport%204%20FHD%20RO&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Prima Sport 4 HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm"
             }
         ]
     },
@@ -9922,6 +9894,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/586/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Prima Sport 5 HD",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm"
             }
         ]
     },
@@ -10988,20 +10974,6 @@
             {
                 "name": "URL",
                 "link": "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Pula TV (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://fox.hostlagarto.com:8081/pulatv/index.m3u8"
             }
         ]
     },

@@ -617,29 +617,15 @@
     },
     {
         "id": null,
-        "name": "La Sexta (1080p)",
+        "name": "La Septima (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd"
+                "link": "https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La Sexta HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://ignac16.github.io/voxel-tv-streams/la6.mpd"
-            },
-            {
-                "name": "URL",
-                "link": "https://ignac16.github.io/voxel-tv-streams/la6.mpd"
+                "link": "https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd"
             }
         ]
     },
@@ -752,20 +738,6 @@
             {
                 "name": "URL",
                 "link": "http://41.205.93.154/LA-UNE/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "La Urban TV (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8"
             }
         ]
     },
@@ -3371,20 +3343,6 @@
     },
     {
         "id": null,
-        "name": "Logos TV Estudio (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Logos TV Kids (720p) [Not 24/7]",
         "servers": [
             {
@@ -3394,20 +3352,6 @@
             {
                 "name": "URL",
                 "link": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Logos TV Salud (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8"
             }
         ]
     },
