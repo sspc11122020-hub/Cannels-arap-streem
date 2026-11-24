@@ -617,7 +617,7 @@
     },
     {
         "id": null,
-        "name": "Abadan TV",
+        "name": "Abadan TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -659,7 +659,7 @@
     },
     {
         "id": null,
-        "name": "Abaza TV",
+        "name": "Abaza TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2003,7 +2003,7 @@
     },
     {
         "id": null,
-        "name": "Access 19",
+        "name": "Access 19 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2017,7 +2017,7 @@
     },
     {
         "id": null,
-        "name": "Access 4 PAC",
+        "name": "Access 4 PAC (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2731,7 +2731,7 @@
     },
     {
         "id": null,
-        "name": "Aflak TV",
+        "name": "Aflak TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2997,7 +2997,7 @@
     },
     {
         "id": null,
-        "name": "Aftab TV",
+        "name": "Aftab TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3095,7 +3095,7 @@
     },
     {
         "id": null,
-        "name": "AGR FM TV",
+        "name": "AGR FM TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4705,7 +4705,7 @@
     },
     {
         "id": null,
-        "name": "Alborz TV",
+        "name": "Alborz TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6385,7 +6385,7 @@
     },
     {
         "id": null,
-        "name": "Amouzesh TV",
+        "name": "Amouzesh TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8023,7 +8023,7 @@
     },
     {
         "id": null,
-        "name": "Aqlvoy",
+        "name": "Aqlvoy (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8051,7 +8051,7 @@
     },
     {
         "id": null,
-        "name": "Ara TV",
+        "name": "Ara TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8163,7 +8163,7 @@
     },
     {
         "id": null,
-        "name": "ARB 24",
+        "name": "ARB 24 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9157,7 +9157,7 @@
     },
     {
         "id": null,
-        "name": "Arutz HaYeladim",
+        "name": "Arutz HaYeladim (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9773,7 +9773,7 @@
     },
     {
         "id": null,
-        "name": "AT5",
+        "name": "AT5 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9913,6 +9913,20 @@
     },
     {
         "id": null,
+        "name": "Atlantic TV [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://trinicricket.com/hls/0/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://trinicricket.com/hls/0/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Atlantis Radio TV (720p)",
         "servers": [
             {
@@ -9936,20 +9950,6 @@
             {
                 "name": "URL",
                 "link": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "ATM Rozrywka REWORK (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8"
             }
         ]
     },
@@ -10053,7 +10053,7 @@
     },
     {
         "id": null,
-        "name": "Atrak TV",
+        "name": "Atrak TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10627,15 +10627,15 @@
     },
     {
         "id": null,
-        "name": "Auto Plus (576p)",
+        "name": "Auto Plus (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/Avto_Plus/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/Avto_Plus/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -11289,6 +11289,20 @@
     },
     {
         "id": null,
+        "name": "Ayaz TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AYM",
         "servers": [
             {
@@ -11428,20 +11442,6 @@
             {
                 "name": "URL",
                 "link": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Az TV",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://operativmm.az/tvs/az/stream9/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://operativmm.az/tvs/az/stream9/index.m3u8"
             }
         ]
     },

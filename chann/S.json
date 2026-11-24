@@ -113,7 +113,7 @@
     },
     {
         "id": null,
-        "name": "Sabalan TV",
+        "name": "Sabalan TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -295,7 +295,7 @@
     },
     {
         "id": null,
-        "name": "Sabz TV",
+        "name": "Sabz TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -491,7 +491,7 @@
     },
     {
         "id": null,
-        "name": "Sahand TV",
+        "name": "Sahand TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -589,7 +589,7 @@
     },
     {
         "id": null,
-        "name": "Salamat TV",
+        "name": "Salamat TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1499,7 +1499,7 @@
     },
     {
         "id": null,
-        "name": "Sarbedaran TV",
+        "name": "Sarbedaran TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1751,7 +1751,7 @@
     },
     {
         "id": null,
-        "name": "SBB TV",
+        "name": "SBB TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2871,7 +2871,7 @@
     },
     {
         "id": null,
-        "name": "Sepehr TV",
+        "name": "Sepehr TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3081,7 +3081,7 @@
     },
     {
         "id": null,
-        "name": "Sever",
+        "name": "Sever (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7467,11 +7467,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525"
+                "link": "https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt"
             },
             {
                 "name": "URL",
-                "link": "https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525"
+                "link": "https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt"
             }
         ]
     },
@@ -7883,20 +7883,6 @@
     },
     {
         "id": null,
-        "name": "Sonic (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.185.24.134:3001/SONIC/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.185.24.134:3001/SONIC/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sonic TV (720p)",
         "servers": [
             {
@@ -7962,20 +7948,6 @@
             {
                 "name": "URL",
                 "link": "http://27.124.71.27/Sony_Aath/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony BBC Earth HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a130/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a130/index.m3u8"
             }
         ]
     },
@@ -8074,20 +8046,6 @@
             {
                 "name": "URL",
                 "link": "https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony Max HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a123/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a123/index.m3u8"
             }
         ]
     },
@@ -8205,20 +8163,6 @@
     },
     {
         "id": null,
-        "name": "Sony Pix HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a138/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a138/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sony SAB HD (1080p)",
         "servers": [
             {
@@ -8303,48 +8247,6 @@
     },
     {
         "id": null,
-        "name": "Sony Sports Ten 1 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a126/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a126/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony Sports Ten 1 HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11t/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11t/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony Sports Ten 2 HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a137/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a137/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sony Sports Ten 3 Hindi (1080p)",
         "servers": [
             {
@@ -8354,20 +8256,6 @@
             {
                 "name": "URL",
                 "link": "https://r2.amml.in/sony-ten-3-hd/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony Sports Ten 5 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a117/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a117/index.m3u8"
             }
         ]
     },
@@ -9437,7 +9325,7 @@
     },
     {
         "id": null,
-        "name": "Sport (Uzbekistan)",
+        "name": "Sport (Uzbekistan) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11285,62 +11173,6 @@
     },
     {
         "id": null,
-        "name": "Star Gold 2 (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a12b/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a12b/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a12a/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a12a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold Romance (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a12c/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a12c/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Gold Select HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a131/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a131/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Star Jalsha (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -11425,20 +11257,6 @@
     },
     {
         "id": null,
-        "name": "Star Movies Select HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a139/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a139/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Star News (1080p)",
         "servers": [
             {
@@ -11476,48 +11294,6 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Sports 1 HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11x/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11x/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Sports 1 Hindi HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a122/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a122/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Sports 2 HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a120/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a120/index.m3u8"
             }
         ]
     },
@@ -12615,7 +12391,7 @@
     },
     {
         "id": null,
-        "name": "Strana FM",
+        "name": "Strana FM (720p)",
         "servers": [
             {
                 "name": "Main Server",

@@ -393,7 +393,7 @@
     },
     {
         "id": null,
-        "name": "Ofogh TV",
+        "name": "Ofogh TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -785,15 +785,15 @@
     },
     {
         "id": null,
-        "name": "Okhota i rybalka (576p)",
+        "name": "Okhota i rybalka (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/155/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/155/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -1807,7 +1807,7 @@
     },
     {
         "id": null,
-        "name": "One (Israel)",
+        "name": "One (Israel) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1849,7 +1849,7 @@
     },
     {
         "id": null,
-        "name": "One 2",
+        "name": "One 2 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1933,7 +1933,7 @@
     },
     {
         "id": null,
-        "name": "One Doco",
+        "name": "One Doco (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1947,7 +1947,7 @@
     },
     {
         "id": null,
-        "name": "One Edge",
+        "name": "One Edge (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2843,7 +2843,7 @@
     },
     {
         "id": null,
-        "name": "OSN",
+        "name": "OSN (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2866,6 +2866,20 @@
             {
                 "name": "URL",
                 "link": "http://116.90.120.151:8000/play/a0ax/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Osorno TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8"
             }
         ]
     },

@@ -957,7 +957,7 @@
     },
     {
         "id": null,
-        "name": "Mahabad TV",
+        "name": "Mahabad TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2091,6 +2091,20 @@
     },
     {
         "id": null,
+        "name": "Mas Radio TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://iptv.intersurtv.cl/intersur_mauletv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Mas Talk (1080p)",
         "servers": [
             {
@@ -2226,6 +2240,20 @@
             {
                 "name": "URL",
                 "link": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Master Video (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://eco.streams.ovh:8081/mastervideotv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://eco.streams.ovh:8081/mastervideotv/index.m3u8"
             }
         ]
     },
@@ -5073,7 +5101,7 @@
     },
     {
         "id": null,
-        "name": "Mihan TV",
+        "name": "Mihan TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5339,6 +5367,20 @@
     },
     {
         "id": null,
+        "name": "Mir (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Mir +2 (540p) [Not 24/7]",
         "servers": [
             {
@@ -5385,11 +5427,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+                "link": "https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+                "link": "https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -6351,11 +6393,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+                "link": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+                "link": "https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -6501,34 +6543,6 @@
     },
     {
         "id": null,
-        "name": "MNX (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11e/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11e/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MNX HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11m/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11m/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Moconomy (720p)",
         "servers": [
             {
@@ -6622,6 +6636,20 @@
             {
                 "name": "URL",
                 "link": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Moji (480p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8"
             }
         ]
     },
@@ -6767,21 +6795,21 @@
     },
     {
         "id": null,
-        "name": "MONO 29",
+        "name": "MONO 29 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8"
+                "link": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8"
+                "link": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Monroe Community Media Education Channel",
+        "name": "Monroe Community Media Education Channel (1920p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6795,7 +6823,7 @@
     },
     {
         "id": null,
-        "name": "Monroe Community Media Public Access Channel",
+        "name": "Monroe Community Media Public Access Channel (1920p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6893,7 +6921,7 @@
     },
     {
         "id": null,
-        "name": "Montgomery Channel",
+        "name": "Montgomery Channel (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7397,29 +7425,15 @@
     },
     {
         "id": null,
-        "name": "Movies Now + (1080p)",
+        "name": "Movies Now HD (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11k/index.m3u8"
+                "link": "http://27.124.71.27/Movies_Now/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11k/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Movies Now HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11f/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11f/index.m3u8"
+                "link": "http://27.124.71.27/Movies_Now/index.m3u8"
             }
         ]
     },
@@ -8363,20 +8377,6 @@
     },
     {
         "id": null,
-        "name": "MTV (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a136/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a136/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MTV (Japan)",
         "servers": [
             {
@@ -8386,6 +8386,20 @@
             {
                 "name": "URL",
                 "link": "http://103.255.250.188:5002/cs18.m3u8?channel=zhongying&gid=cs18&token=guoziyun"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "MTV (Netherlands)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646"
+            },
+            {
+                "name": "URL",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646"
             }
         ]
     },
@@ -8880,20 +8894,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "MTV Live (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
-            }
-        ]
-    },
-    {
         "id": 3074,
         "name": "MTV Max (FI)",
         "servers": [
@@ -9301,15 +9301,15 @@
     },
     {
         "id": null,
-        "name": "Multilandia (576p)",
+        "name": "Multilandia (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv"
+                "link": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv"
+                "link": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -9665,7 +9665,7 @@
     },
     {
         "id": null,
-        "name": "Music IL",
+        "name": "Music IL (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9763,7 +9763,7 @@
     },
     {
         "id": null,
-        "name": "Muz TV Uzbekistan",
+        "name": "Muz TV Uzbekistan (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9777,15 +9777,15 @@
     },
     {
         "id": null,
-        "name": "Muz-TV (576p)",
+        "name": "Muz-TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.5.241/kanal_20/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.5.241/kanal_20/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -9889,15 +9889,15 @@
     },
     {
         "id": null,
-        "name": "Muzyka Pervogo (576p)",
+        "name": "Muzyka Pervogo (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8"
+                "link": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8"
+                "link": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
             }
         ]
     },

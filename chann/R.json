@@ -547,6 +547,20 @@
     },
     {
         "id": null,
+        "name": "Radio Bohemia TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://portalstream.cl:8080/bohemia1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://portalstream.cl:8080/bohemia1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Radio Bonita 106.7 (720p)",
         "servers": [
             {
@@ -1023,15 +1037,15 @@
     },
     {
         "id": null,
-        "name": "Radio Isla TV (720p)",
+        "name": "Radio Isla TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
+                "link": "https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8"
+                "link": "https://panel2.videocontentstreaming.com/live/4fd37e086394ac7e11a87acbc55e8f91.m3u8"
             }
         ]
     },
@@ -3557,7 +3571,7 @@
     },
     {
         "id": null,
-        "name": "Razavi TV",
+        "name": "Razavi TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3641,15 +3655,15 @@
     },
     {
         "id": null,
-        "name": "RBK-TV (576p)",
+        "name": "RBK-TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://176.118.197.101/RBK/index.m3u8"
+                "link": "http://online-video.rbc.ru/online2/rbctv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://176.118.197.101/RBK/index.m3u8"
+                "link": "http://online-video.rbc.ru/online2/rbctv.m3u8"
             }
         ]
     },
@@ -5503,15 +5517,15 @@
     },
     {
         "id": null,
-        "name": "Retro (576p)",
+        "name": "Retro (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://176.118.197.101/Retro/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://176.118.197.101/Retro/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -5554,6 +5568,20 @@
             {
                 "name": "URL",
                 "link": "https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Retro vision TV (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://5790d294af2dc.streamlock.net/retrovision/retrovision/playlist.m3u8"
             }
         ]
     },
@@ -5909,7 +5937,7 @@
     },
     {
         "id": null,
-        "name": "Riddim & Hope TV",
+        "name": "Riddim & Hope TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6217,7 +6245,7 @@
     },
     {
         "id": null,
-        "name": "RL PRO TV",
+        "name": "RL PRO TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6655,15 +6683,15 @@
     },
     {
         "id": null,
-        "name": "Rodnoe Kino (576p)",
+        "name": "Rodnoe Kino (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/242/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/242/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -9067,11 +9095,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -9221,11 +9249,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8"
+                "link": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream.smotrim.ru/hls2/givc11_hd/playlist_4.m3u8"
+                "link": "https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
             }
         ]
     },

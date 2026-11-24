@@ -521,7 +521,7 @@
     },
     {
         "id": null,
-        "name": "Cadena TV SD",
+        "name": "Cadena TV SD (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -703,15 +703,15 @@
     },
     {
         "id": null,
-        "name": "Calvary TV (576p)",
+        "name": "Calvary TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/963/master.m3u8"
+                "link": "https://5dd3981940faa.streamlock.net/calvarytv/calvarytv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/963/master.m3u8"
+                "link": "https://5dd3981940faa.streamlock.net/calvarytv/calvarytv/playlist.m3u8"
             }
         ]
     },
@@ -2201,7 +2201,7 @@
     },
     {
         "id": null,
-        "name": "Canal 4 Jujuy",
+        "name": "Canal 4 Jujuy (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -4291,6 +4291,20 @@
     },
     {
         "id": null,
+        "name": "Canal+",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de"
+            },
+            {
+                "name": "URL",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4177424223ffc540a587de"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CANAL+ 360 (576i)",
         "servers": [
             {
@@ -4314,6 +4328,20 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%2B%20360%20FHD%20PL&code=&user=cdnlivetv&plan=free"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal+ Action Europe Austria",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3856042964fb24f530c4bc"
+            },
+            {
+                "name": "URL",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3856042964fb24f530c4bc"
             }
         ]
     },
@@ -5497,7 +5525,7 @@
     },
     {
         "id": null,
-        "name": "Capital City Connection Montgomery [Not 24/7]",
+        "name": "Capital City Connection Montgomery (1080p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
@@ -5665,7 +5693,7 @@
     },
     {
         "id": null,
-        "name": "Carac 5",
+        "name": "Carac 5 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5931,6 +5959,20 @@
     },
     {
         "id": null,
+        "name": "Cartoon Cartoons (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cartooncartoons.thatsoretro.com/hls/stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cartooncartoons.thatsoretro.com/hls/stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cartoon Classics (Poland)",
         "servers": [
             {
@@ -6136,20 +6178,6 @@
             {
                 "name": "URL",
                 "link": "http://45.132.87.69:8080/cartoon_network/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Cartoon Network HD+ (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8"
             }
         ]
     },
@@ -8563,15 +8591,15 @@
     },
     {
         "id": null,
-        "name": "CGTN Arabic",
+        "name": "CGTN Arabic (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8"
+                "link": "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8"
+                "link": "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
             }
         ]
     },
@@ -8595,11 +8623,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8"
+                "link": "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8"
+                "link": "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
             }
         ]
     },
@@ -8619,15 +8647,15 @@
     },
     {
         "id": null,
-        "name": "CGTN Russian (576p)",
+        "name": "CGTN Russian (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8"
+                "link": "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8"
+                "link": "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
             }
         ]
     },
@@ -8637,11 +8665,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
+                "link": "https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8"
+                "link": "https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
             }
         ]
     },
@@ -8815,21 +8843,21 @@
     },
     {
         "id": null,
-        "name": "Channel 16",
+        "name": "Channel 16 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+                "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+                "link": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Channel 18 GAC",
+        "name": "Channel 18 GAC (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -8871,7 +8899,21 @@
     },
     {
         "id": null,
-        "name": "Channel 4 (576p)",
+        "name": "Channel 4 (Russia) (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Channel 4 (United Kingdom) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -9571,7 +9613,7 @@
     },
     {
         "id": null,
-        "name": "Charoen Cable 37 TV",
+        "name": "Charoen Cable 37 TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10775,15 +10817,15 @@
     },
     {
         "id": null,
-        "name": "Cinema (Russia) (576p)",
+        "name": "Cinema (Russia) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://flussonic.linkintel.ru/cinema/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://flussonic.linkintel.ru/cinema/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -11503,7 +11545,7 @@
     },
     {
         "id": null,
-        "name": "City of Monroe Government Channel",
+        "name": "City of Monroe Government Channel (1280p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -12651,7 +12693,7 @@
     },
     {
         "id": null,
-        "name": "CNBC-e",
+        "name": "CNBC-e (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -13472,6 +13514,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Comedie+ (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b"
+            },
+            {
+                "name": "URL",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1928514641c723cfdf588b"
             }
         ]
     },
@@ -14569,7 +14625,7 @@
     },
     {
         "id": null,
-        "name": "COStv",
+        "name": "COStv (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -15003,15 +15059,15 @@
     },
     {
         "id": null,
-        "name": "Crimea 24",
+        "name": "Crimea 24 (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+                "link": "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8"
+                "link": "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
             }
         ]
     },

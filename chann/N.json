@@ -155,7 +155,7 @@
     },
     {
         "id": null,
-        "name": "Namayesh TV",
+        "name": "Namayesh TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -533,7 +533,7 @@
     },
     {
         "id": null,
-        "name": "Nashe Novoe Kino",
+        "name": "Nashe Novoe Kino (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -575,7 +575,7 @@
     },
     {
         "id": null,
-        "name": "Nasim",
+        "name": "Nasim (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -757,20 +757,6 @@
     },
     {
         "id": null,
-        "name": "National Geographic (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a115/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a115/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "National Geographic (Mexico) (1080p)",
         "servers": [
             {
@@ -864,20 +850,6 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/NatGeoHD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "National Geographic Wild (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11h/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11h/index.m3u8"
             }
         ]
     },
@@ -2917,7 +2889,7 @@
     },
     {
         "id": null,
-        "name": "News Central",
+        "name": "News Central (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3281,7 +3253,7 @@
     },
     {
         "id": null,
-        "name": "News12 Conneticut [Geo-blocked]",
+        "name": "News12 Conneticut (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
@@ -4023,20 +3995,6 @@
     },
     {
         "id": null,
-        "name": "NG Radio TV (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nghe An TV (720p)",
         "servers": [
             {
@@ -4303,20 +4261,6 @@
     },
     {
         "id": null,
-        "name": "Nick Jr. (India) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/NICK-Jr/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/NICK-Jr/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nick Jr. (Italy) (720p)",
         "servers": [
             {
@@ -4555,20 +4499,6 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon (India) (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/NICK/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/NICK/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nickelodeon (Netherlands)",
         "servers": [
             {
@@ -4578,6 +4508,34 @@
             {
                 "name": "URL",
                 "link": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nickelodeon (Netherlands) HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071"
+            },
+            {
+                "name": "URL",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Nickelodeon (Poland)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b"
+            },
+            {
+                "name": "URL",
+                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b"
             }
         ]
     },
@@ -5101,6 +5059,20 @@
     },
     {
         "id": null,
+        "name": "Nijam TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nika TV (576p) [Not 24/7]",
         "servers": [
             {
@@ -5491,7 +5463,7 @@
     },
     {
         "id": null,
-        "name": "Noor TV (Iran)",
+        "name": "Noor TV (Iran) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -6415,15 +6387,15 @@
     },
     {
         "id": null,
-        "name": "Novoe televidenie (576p)",
+        "name": "Novoe televidenie (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
+                "link": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv"
+                "link": "https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8"
             }
         ]
     },
@@ -7199,15 +7171,15 @@
     },
     {
         "id": null,
-        "name": "NTV (Russia) (576p)",
+        "name": "NTV (Russia) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.5.241/kanal_4/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.5.241/kanal_4/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -7283,7 +7255,7 @@
     },
     {
         "id": null,
-        "name": "NTV (Turkiye)",
+        "name": "NTV (Turkiye) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7451,20 +7423,6 @@
     },
     {
         "id": null,
-        "name": "Nueva Vida FM (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Nueva Vision 14 (1080p) [Not 24/7]",
         "servers": [
             {
@@ -7619,7 +7577,7 @@
     },
     {
         "id": null,
-        "name": "Nurafshon TV",
+        "name": "Nurafshon TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",

@@ -621,6 +621,20 @@
     },
     {
         "id": null,
+        "name": "WCLO 50.1 (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "WCOT (720p)",
         "servers": [
             {
@@ -901,15 +915,15 @@
     },
     {
         "id": null,
-        "name": "WECN (720p)",
+        "name": "WECN (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
+                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8"
+                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8"
             }
         ]
     },
@@ -1083,7 +1097,7 @@
     },
     {
         "id": null,
-        "name": "West Azerbaijan TV",
+        "name": "West Azerbaijan TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1377,7 +1391,7 @@
     },
     {
         "id": null,
-        "name": "Willamette Falls Media Center",
+        "name": "Willamette Falls Media Center (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2155,7 +2169,7 @@
     },
     {
         "id": null,
-        "name": "WTV",
+        "name": "WTV (1080p)",
         "servers": [
             {
                 "name": "Main Server",

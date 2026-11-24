@@ -519,7 +519,7 @@
     },
     {
         "id": null,
-        "name": "Economy Channel",
+        "name": "Economy Channel (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1947,7 +1947,7 @@
     },
     {
         "id": null,
-        "name": "Energy",
+        "name": "Energy (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2979,7 +2979,7 @@
     },
     {
         "id": null,
-        "name": "Eshragh Network",
+        "name": "Eshragh Network (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -3305,11 +3305,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.61.47.54:8000/play/a005/index.m3u8"
+                "link": "http://38.211.118.56:50002/play/a0fa/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.61.47.54:8000/play/a005/index.m3u8"
+                "link": "http://38.211.118.56:50002/play/a0fa/index.m3u8"
             }
         ]
     },
@@ -4301,7 +4301,7 @@
     },
     {
         "id": null,
-        "name": "eSports Max TV",
+        "name": "eSports Max TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5127,15 +5127,15 @@
     },
     {
         "id": null,
-        "name": "Euronews Russian (720p)",
+        "name": "Euronews Russian (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -5211,21 +5211,7 @@
     },
     {
         "id": null,
-        "name": "Eurosport (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a118/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a118/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Eurosport 1",
+        "name": "Eurosport 1 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -5378,20 +5364,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Eurosport 1 Italy",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
-            }
-        ]
-    },
-    {
         "id": 878,
         "name": "EuroSport 1 Italy",
         "servers": [
@@ -5402,6 +5374,20 @@
             {
                 "name": "URL",
                 "link": "https://tvnow247.top/embed/878/"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Eurosport 1 Italy (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -5533,15 +5519,15 @@
     },
     {
         "id": null,
-        "name": "Eurosport 1 Turkiye",
+        "name": "Eurosport 1 Turkiye (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8"
+                "link": "https://vavoo.alwaysdata.net/resolver.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F207886293750ec015d3e85"
             },
             {
                 "name": "URL",
-                "link": "https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8"
+                "link": "https://vavoo.alwaysdata.net/resolver.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F207886293750ec015d3e85"
             }
         ]
     },
@@ -5855,7 +5841,7 @@
     },
     {
         "id": null,
-        "name": "Eurosport 2 UK",
+        "name": "Eurosport 2 UK (540p)",
         "servers": [
             {
                 "name": "Main Server",

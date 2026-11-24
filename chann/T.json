@@ -127,15 +127,15 @@
     },
     {
         "id": null,
-        "name": "T24 (576p)",
+        "name": "T24 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://178.134.1.158:8081/t24/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://178.134.1.158:8081/t24/index.m3u8"
+                "link": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -211,7 +211,7 @@
     },
     {
         "id": null,
-        "name": "Tabarestan TV",
+        "name": "Tabarestan TV (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -290,6 +290,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Taino Live TV (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://tainolivetv.com/hls/taino2026.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://tainolivetv.com/hls/taino2026.m3u8"
             }
         ]
     },
@@ -491,7 +505,7 @@
     },
     {
         "id": null,
-        "name": "Tamasha",
+        "name": "Tamasha (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -715,7 +729,7 @@
     },
     {
         "id": null,
-        "name": "Taraqqiyot TV",
+        "name": "Taraqqiyot TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -869,7 +883,7 @@
     },
     {
         "id": null,
-        "name": "Tavriya",
+        "name": "Tavriya (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1317,7 +1331,7 @@
     },
     {
         "id": null,
-        "name": "TDK 42",
+        "name": "TDK 42 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1639,7 +1653,7 @@
     },
     {
         "id": null,
-        "name": "Tehran TV",
+        "name": "Tehran TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1788,6 +1802,20 @@
             {
                 "name": "URL",
                 "link": "https://hls.tvabierta.net/hls/010.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tele Azul (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.streamingcpanel.com:3327/live/teleazullive.m3u8"
             }
         ]
     },
@@ -2861,11 +2889,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://canal11saltatv.unpocodeawita.workers.dev/"
+                "link": "https://canal11saltatv.unpocodeawita.workers.dev"
             },
             {
                 "name": "URL",
-                "link": "https://canal11saltatv.unpocodeawita.workers.dev/"
+                "link": "https://canal11saltatv.unpocodeawita.workers.dev"
             }
         ]
     },
@@ -5609,7 +5637,7 @@
     },
     {
         "id": null,
-        "name": "Thaqalayn TV",
+        "name": "Thaqalayn TV (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -7793,20 +7821,6 @@
     },
     {
         "id": null,
-        "name": "TLC (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11g/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11g/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "TLC (Russia) (1080p)",
         "servers": [
             {
@@ -8967,15 +8981,15 @@
     },
     {
         "id": null,
-        "name": "TNV-Planet (576p)",
+        "name": "TNV-Planet (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv"
+                "link": "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv"
+                "link": "https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -9307,11 +9321,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://170.83.16.50:80/TOONCAST/index.m3u8"
+                "link": "http://170.83.16.50/TOONCAST/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://170.83.16.50:80/TOONCAST/index.m3u8"
+                "link": "http://170.83.16.50/TOONCAST/index.m3u8"
             }
         ]
     },
@@ -9992,6 +10006,34 @@
             {
                 "name": "URL",
                 "link": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Trans TV HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Trans7 HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8"
             }
         ]
     },
@@ -10851,15 +10893,15 @@
     },
     {
         "id": null,
-        "name": "TRT Muzik (720p)",
+        "name": "TRT Muzik (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+                "link": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
+                "link": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -14196,6 +14238,20 @@
             {
                 "name": "URL",
                 "link": "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV Maanaim (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8"
             }
         ]
     },
@@ -17785,7 +17841,7 @@
     },
     {
         "id": null,
-        "name": "TVA Nava",
+        "name": "TVA Nava (720p)",
         "servers": [
             {
                 "name": "Main Server",

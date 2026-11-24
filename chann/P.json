@@ -211,7 +211,7 @@
     },
     {
         "id": null,
-        "name": "Palestinetv",
+        "name": "Palestinetv (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -262,6 +262,20 @@
             {
                 "name": "URL",
                 "link": "https://streamunoapp.com:3255/live/palmartvlive.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "PalMundo FM (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8"
             }
         ]
     },
@@ -8023,20 +8037,6 @@
     },
     {
         "id": null,
-        "name": "Pogo (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/POGO/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/POGO/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Pointe TV",
         "servers": [
             {
@@ -8723,21 +8723,21 @@
     },
     {
         "id": null,
-        "name": "Pooya TV",
+        "name": "Pooya TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8"
+                "link": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8"
+                "link": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "Pooya TV Plus",
+        "name": "Pooya TV Plus (576p)",
         "servers": [
             {
                 "name": "Main Server",
