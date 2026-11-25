@@ -1989,20 +1989,6 @@
     },
     {
         "id": null,
-        "name": "History 2 (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a0l1/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a0l1/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "History 2 Latin America (1080p)",
         "servers": [
             {
@@ -3655,6 +3641,20 @@
     },
     {
         "id": null,
+        "name": "HTV2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=191"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=191"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HTV3 (1080p)",
         "servers": [
             {
@@ -3664,6 +3664,20 @@
             {
                 "name": "URL",
                 "link": "https://freem3u.xyz/api/live/play.m3u8?vid=192"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HTV4 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+            },
+            {
+                "name": "URL",
+                "link": "https://freem3u.xyz/api/live/play.m3u8?vid=9"
             }
         ]
     },

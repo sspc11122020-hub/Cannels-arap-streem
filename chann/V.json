@@ -369,11 +369,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8"
+                "link": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8"
             }
         ]
     },
@@ -542,6 +542,20 @@
             {
                 "name": "URL",
                 "link": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "VBC News (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/vbcthdpza/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/vbcthdpza/index.m3u8"
             }
         ]
     },
@@ -990,6 +1004,20 @@
             {
                 "name": "URL",
                 "link": "http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Verba (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d0f81d78600017e02c1/720p.m3u8"
             }
         ]
     },
@@ -2241,20 +2269,6 @@
     },
     {
         "id": null,
-        "name": "VIP News (360p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "VIP TV (720p)",
         "servers": [
             {
@@ -3216,20 +3230,6 @@
             {
                 "name": "URL",
                 "link": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "VR Live (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8"
             }
         ]
     },

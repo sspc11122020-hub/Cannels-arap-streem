@@ -141,20 +141,6 @@
     },
     {
         "id": null,
-        "name": "Raavi TV (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a01f/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a01f/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Rabeh Saqer (1080p)",
         "servers": [
             {
@@ -2759,29 +2745,15 @@
     },
     {
         "id": null,
-        "name": "Raj Pariwar (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Raj TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8"
+                "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8"
+                "link": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
             }
         ]
     },
@@ -4943,20 +4915,6 @@
     },
     {
         "id": null,
-        "name": "Reelz (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_REELZ/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Reelz Famous & Infamous (1080p)",
         "servers": [
             {
@@ -5335,15 +5293,15 @@
     },
     {
         "id": null,
-        "name": "Republic Bharat (1080p)",
+        "name": "Republic Bharat (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8"
+                "link": "http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8"
+                "link": "http://163.61.226.31:9981/stream/channelid/1090287783?profile=pass"
             }
         ]
     },
@@ -5367,11 +5325,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8"
+                "link": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8"
+                "link": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8"
             }
         ]
     },
@@ -6832,6 +6790,62 @@
             {
                 "name": "URL",
                 "link": "https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rotana Cinema KSA (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rotana Classic (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_classic/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rotana Clip (540p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_clip/live.livx/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Rotana Music",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_music/live.livx/playlist.m3u8"
             }
         ]
     },

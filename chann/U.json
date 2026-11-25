@@ -701,6 +701,20 @@
     },
     {
         "id": null,
+        "name": "Uni TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.unitvmm.com/live/unitv01/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.unitvmm.com/live/unitv01/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "UNIANDES TV (720p) [Not 24/7]",
         "servers": [
             {

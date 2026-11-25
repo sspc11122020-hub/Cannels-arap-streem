@@ -313,6 +313,20 @@
     },
     {
         "id": null,
+        "name": "Warner Channel (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://181.78.197.59:8000/play/a07s/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://181.78.197.59:8000/play/a07s/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Warner Channel Colombia (1080p)",
         "servers": [
             {
@@ -532,6 +546,20 @@
             {
                 "name": "URL",
                 "link": "https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wayanad Vision (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://online.wayanadvision.in/hls/wayanadvision.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://online.wayanadvision.in/hls/wayanadvision.m3u8"
             }
         ]
     },
@@ -910,20 +938,6 @@
             {
                 "name": "URL",
                 "link": "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "WECN (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8"
             }
         ]
     },
@@ -1512,6 +1526,20 @@
             {
                 "name": "URL",
                 "link": "https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "WIMN-TV (1080p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://video2.getstreamhosting.com:1936/8040/8040/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://video2.getstreamhosting.com:1936/8040/8040/playlist.m3u8"
             }
         ]
     },

@@ -238,6 +238,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "M3U World 4K (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://m3uworld4k.paid4k.workers.dev/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://m3uworld4k.paid4k.workers.dev/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": 265,
         "name": "M4 Sports Hungary",
         "servers": [
@@ -999,15 +1013,15 @@
     },
     {
         "id": null,
-        "name": "Mahimai TV (576p)",
+        "name": "Mahimai TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8"
+                "link": "https://ktismaservers.in:3161/live/mahimaitvlive.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8"
+                "link": "https://ktismaservers.in:3161/live/mahimaitvlive.m3u8"
             }
         ]
     },
@@ -3019,11 +3033,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/1479/master.m3u8"
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ad6c59acd03b4b5a9928e32d7fee66db/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/1479/master.m3u8"
+                "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ad6c59acd03b4b5a9928e32d7fee66db/index.m3u8"
             }
         ]
     },
@@ -5283,6 +5297,20 @@
     },
     {
         "id": null,
+        "name": "Mini Disco (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Minika Cocuk (720p)",
         "servers": [
             {
@@ -6342,20 +6370,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MLB Strike Zone (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8"
             }
         ]
     },
@@ -8055,20 +8069,6 @@
     },
     {
         "id": null,
-        "name": "MSG (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_MSG/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_MSG/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "MSG HD US",
         "servers": [
             {
@@ -9226,20 +9226,6 @@
             {
                 "name": "URL",
                 "link": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "MTV2 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://198.58.104.90:8989/mtv2/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://198.58.104.90:8989/mtv2/index.m3u8"
             }
         ]
     },

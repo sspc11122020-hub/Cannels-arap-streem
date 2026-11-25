@@ -1475,11 +1475,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8"
+                "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8"
+                "link": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
             }
         ]
     },
@@ -9199,20 +9199,6 @@
     },
     {
         "id": null,
-        "name": "Pradesh24 Gujarati (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Prag News (576p)",
         "servers": [
             {
@@ -10904,6 +10890,20 @@
             {
                 "name": "URL",
                 "link": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Public First (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
             }
         ]
     },

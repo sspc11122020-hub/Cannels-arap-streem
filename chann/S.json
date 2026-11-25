@@ -841,29 +841,15 @@
     },
     {
         "id": null,
-        "name": "Samarra TV",
+        "name": "Samarra TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
+                "link": "https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.bradosti.net/live/samaraweb_playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Samay Kolkata (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8"
+                "link": "https://live.samarra.tv/samarra/ngrp:live_abr/playlist.m3u8"
             }
         ]
     },
@@ -8153,25 +8139,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
+                "link": "http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass"
             },
             {
                 "name": "URL",
-                "link": "http://59.103.38.46:8000/play/a0ac/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sony SAB HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a128/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a128/index.m3u8"
+                "link": "http://163.61.226.31:9981/stream/channelid/1571254341?profile=pass"
             }
         ]
     },
@@ -11019,21 +10991,7 @@
     },
     {
         "id": null,
-        "name": "Star Bharat (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Bharat (United Kingdom) (576p)",
+        "name": "Star Bharat (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11173,29 +11131,15 @@
     },
     {
         "id": null,
-        "name": "Star Jalsha (1080p) [Geo-blocked]",
+        "name": "Star Jalsha HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805"
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Jalsha HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8"
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
             }
         ]
     },
@@ -11238,34 +11182,6 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star Movies (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a13a/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a13a/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Star News (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/Star-News/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/Star-News/index.m3u8"
             }
         ]
     },
@@ -11579,21 +11495,7 @@
     },
     {
         "id": null,
-        "name": "StarPlus (India) HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://66.102.126.10:8000/play/a008/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://66.102.126.10:8000/play/a008/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "StarPlus (United Kingdom) (576p)",
+        "name": "StarPlus (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -11700,20 +11602,6 @@
             {
                 "name": "URL",
                 "link": "https://shoewiki.click/7kshly84-4550"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Starz Cinema (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8"
             }
         ]
     },
@@ -14248,6 +14136,20 @@
             {
                 "name": "URL",
                 "link": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Swantham (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8"
             }
         ]
     },

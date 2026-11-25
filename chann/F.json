@@ -211,6 +211,20 @@
     },
     {
         "id": null,
+        "name": "Fajer TV 1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://e.siar.us/live/ozfest.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://e.siar.us/live/ozfest.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Fala Litoral (480p)",
         "servers": [
             {
@@ -981,15 +995,15 @@
     },
     {
         "id": null,
-        "name": "Fieri Tv (720p)",
+        "name": "Fieri Tv (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://valashop.online:8090/fieritv.m3u8"
+                "link": "https://live.fieritv.com/hls/fieritv/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://valashop.online:8090/fieritv.m3u8"
+                "link": "https://live.fieritv.com/hls/fieritv/index.m3u8"
             }
         ]
     },
@@ -2213,15 +2227,15 @@
     },
     {
         "id": null,
-        "name": "Formula 1 AntenaPlay (576i) [Not 24/7]",
+        "name": "Formula 1 AntenaPlay (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8"
+                "link": "https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8"
+                "link": "https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8"
             }
         ]
     },
@@ -2236,20 +2250,6 @@
             {
                 "name": "URL",
                 "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Formula Academy AntenaPlay (576p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8"
             }
         ]
     },
@@ -2376,6 +2376,20 @@
             {
                 "name": "URL",
                 "link": "https://shoewiki.click/bhg7rkug-6924"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "FOX",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8"
             }
         ]
     },
@@ -2907,11 +2921,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+                "link": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8"
+                "link": "https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8"
             }
         ]
     },
@@ -4245,6 +4259,20 @@
     },
     {
         "id": null,
+        "name": "Freeform (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9"
+            },
+            {
+                "name": "URL",
+                "link": "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Frequence Novelas (1080p)",
         "servers": [
             {
@@ -4534,6 +4562,20 @@
             {
                 "name": "URL",
                 "link": "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fuengirola TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://streaming004.gestec-video.com/hls/FTV.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://streaming004.gestec-video.com/hls/FTV.m3u8"
             }
         ]
     },

@@ -1220,6 +1220,34 @@
         ]
     },
     {
+        "id": null,
+        "name": "Canal 11 de la Costa (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Canal 11 Machagai (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8"
+            }
+        ]
+    },
+    {
         "id": 540,
         "name": "Canal 11 Portugal",
         "servers": [
@@ -2159,7 +2187,7 @@
     },
     {
         "id": null,
-        "name": "Canal 4 (Costa Rica) (720p)",
+        "name": "Canal 4 (720p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -2168,20 +2196,6 @@
             {
                 "name": "URL",
                 "link": "http://45.186.106.207:8000/play/a09t/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Canal 4 (El Salvador) (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://168.228.44.241:9999/play/a042/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://168.228.44.241:9999/play/a042/index.m3u8"
             }
         ]
     },
@@ -3741,15 +3755,15 @@
     },
     {
         "id": null,
-        "name": "Canal N (1080p)",
+        "name": "Canal N (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://187.102.208.209:8000/play/a0az/index.m3u8"
+                "link": "http://190.108.91.206:9050/play/a0bd/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://187.102.208.209:8000/play/a0az/index.m3u8"
+                "link": "http://190.108.91.206:9050/play/a0bd/index.m3u8"
             }
         ]
     },
@@ -7527,20 +7541,6 @@
     },
     {
         "id": null,
-        "name": "CBS WKRC-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "CBS WKYT-TV (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -9781,20 +9781,6 @@
     },
     {
         "id": null,
-        "name": "Chefi la cutite (576i)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Chefi.ro (1080p)",
         "servers": [
             {
@@ -10294,6 +10280,20 @@
             {
                 "name": "URL",
                 "link": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cine 1 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8"
             }
         ]
     },
@@ -13239,34 +13239,6 @@
     },
     {
         "id": null,
-        "name": "Colors Bangla Cinema (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors Bangla HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Colors Cineplex (576p)",
         "servers": [
             {
@@ -13318,20 +13290,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Colors HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/Color-HD/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/Color-HD/index.m3u8"
             }
         ]
     },
@@ -15535,15 +15493,15 @@
     },
     {
         "id": null,
-        "name": "CTN (Cambodia) [Not 24/7]",
+        "name": "CTN (Cambodia) (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8"
+                "link": "https://ip.pdtvhd.com/Khmer/streams/CTNHD.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8"
+                "link": "https://ip.pdtvhd.com/Khmer/streams/CTNHD.m3u8"
             }
         ]
     },

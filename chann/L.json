@@ -2483,20 +2483,6 @@
     },
     {
         "id": null,
-        "name": "Lifetime Movies (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/USA_LMN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/USA_LMN/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Lifetime UHD US",
         "servers": [
             {
@@ -3072,6 +3058,20 @@
             {
                 "name": "URL",
                 "link": "https://livingindia.ottlive.co.in/livingindia/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Lixdof TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2nbyjq47d53k-hls-live.5centscdn.com/Lixdofmultimedia/f55247a8bae691deb0ae56982af2d6bf.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2nbyjq47d53k-hls-live.5centscdn.com/Lixdofmultimedia/f55247a8bae691deb0ae56982af2d6bf.sdp/playlist.m3u8"
             }
         ]
     },

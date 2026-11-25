@@ -925,20 +925,6 @@
     },
     {
         "id": null,
-        "name": "DAZN 4 (540p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/DAZN_4/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/DAZN_4/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DAZN 4 FHD PT",
         "servers": [
             {
@@ -948,20 +934,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%204%20FHD%20PT&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "DAZN 5 (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://23.237.104.106:8080/DAZN_5/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://23.237.104.106:8080/DAZN_5/index.m3u8"
             }
         ]
     },
@@ -2163,20 +2135,6 @@
     },
     {
         "id": null,
-        "name": "Deewana HD (540p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "DeFiance Media (1080p)",
         "servers": [
             {
@@ -2858,20 +2816,6 @@
             {
                 "name": "URL",
                 "link": "https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Dhamaal (576p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8"
             }
         ]
     },
@@ -3607,11 +3551,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a0s8/index.m3u8"
+                "link": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a0s8/index.m3u8"
+                "link": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
             }
         ]
     },
@@ -5983,15 +5927,15 @@
     },
     {
         "id": null,
-        "name": "DSports 2 (1080p)",
+        "name": "DSports 2",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://187.102.208.209:8000/play/a0bq/index.m3u8"
+                "link": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://187.102.208.209:8000/play/a0bq/index.m3u8"
+                "link": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8"
             }
         ]
     },
@@ -6426,20 +6370,6 @@
             {
                 "name": "URL",
                 "link": "https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Duronto TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8"
             }
         ]
     },

@@ -411,15 +411,15 @@
     },
     {
         "id": null,
-        "name": "Zee 24 Ghanta (576p)",
+        "name": "Zee 24 Ghanta",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8"
+                "link": "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8"
+                "link": "https://d2dsoyvkr33m05.cloudfront.net/index_4.m3u8"
             }
         ]
     },
@@ -462,20 +462,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Bangla Sonar (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8"
             }
         ]
     },
@@ -733,20 +719,6 @@
     },
     {
         "id": null,
-        "name": "Zee Power HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://116.90.120.149:8000/play/a11p/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://116.90.120.149:8000/play/a11p/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Zee Punjab Haryana Himachal (720p)",
         "servers": [
             {
@@ -803,29 +775,15 @@
     },
     {
         "id": null,
-        "name": "Zee Tamil HD (1080p)",
+        "name": "Zee Tamil HD (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8"
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee Tamil News (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8"
+                "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8"
             }
         ]
     },
@@ -868,20 +826,6 @@
             {
                 "name": "URL",
                 "link": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Zee TV HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://103.135.253.32:8080/ZEE-TV/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://103.135.253.32:8080/ZEE-TV/index.m3u8"
             }
         ]
     },

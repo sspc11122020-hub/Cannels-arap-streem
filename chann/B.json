@@ -103,11 +103,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8"
+                "link": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8"
+                "link": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8"
             }
         ]
     },
@@ -262,20 +262,6 @@
             {
                 "name": "URL",
                 "link": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Bada Khabar (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8"
             }
         ]
     },
@@ -6507,6 +6493,20 @@
     },
     {
         "id": null,
+        "name": "Boricua TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Boss Brothers TV (1080p)",
         "servers": [
             {
@@ -6927,6 +6927,20 @@
     },
     {
         "id": null,
+        "name": "BRIDGE Dance (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BRIDGE Deluxe (1080p)",
         "servers": [
             {
@@ -6969,6 +6983,48 @@
     },
     {
         "id": null,
+        "name": "BRIDGE Jazz (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0a0390affe00013a80aa/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BRIDGE Rap (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed9990affe00013a80b1/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BRIDGE RNB (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affedb990affe00013a80b2/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "BRIDGE Rock (576p)",
         "servers": [
             {
@@ -6978,6 +7034,48 @@
             {
                 "name": "URL",
                 "link": "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BRIDGE Soul (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6affed7590affe00013a80b0/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BRIDGE Symphony (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff0d2a81d78600017e02c2/720p.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "BRIDGE Vostok (720p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1b6881d78600017e02c5/720p.m3u8"
             }
         ]
     },
