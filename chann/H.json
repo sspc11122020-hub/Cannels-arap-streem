@@ -1,7 +1,7 @@
 [
     {
         "id": null,
-        "name": "H!t Music Channel (480p)",
+        "name": "H!t Music Channel (Hungary) (480p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -10,6 +10,20 @@
             {
                 "name": "URL",
                 "link": "http://hitmusic.hu/hitmusic.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "H!t Music Channel (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.235.165.117:8001/play/a01e/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.235.165.117:8001/play/a01e/index.m3u8"
             }
         ]
     },

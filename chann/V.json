@@ -1541,7 +1541,21 @@
     },
     {
         "id": null,
-        "name": "Viasat Kino (576p)",
+        "name": "Viasat Kino (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.235.165.117:8001/play/a055/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.235.165.117:8001/play/a055/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viasat Kino (Ukraine) (576p)",
         "servers": [
             {
                 "name": "Main Server",
@@ -1550,6 +1564,20 @@
             {
                 "name": "URL",
                 "link": "http://dtv.vol.net.ua/Viasat_Kino/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Viasat Kino (Ukraine) Balkan (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://176.61.157.250/TV1000/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://176.61.157.250/TV1000/index.m3u8"
             }
         ]
     },
@@ -1564,20 +1592,6 @@
             {
                 "name": "URL",
                 "link": "http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Viasat Kino Balkan (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://176.61.157.250/TV1000/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://176.61.157.250/TV1000/index.m3u8"
             }
         ]
     },
@@ -3193,15 +3207,15 @@
     },
     {
         "id": null,
-        "name": "Voyo Sport 1 (1080i)",
+        "name": "Voyo Sport 1 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
+                "link": "http://89.45.22.101:8011/play/1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8"
+                "link": "http://89.45.22.101:8011/play/1/index.m3u8"
             }
         ]
     },

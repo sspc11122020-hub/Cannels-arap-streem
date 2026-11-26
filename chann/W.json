@@ -565,6 +565,34 @@
     },
     {
         "id": null,
+        "name": "Wayanad Vision Movies (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://online.wayanadvision.in/hls/wvmovies.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://online.wayanadvision.in/hls/wvmovies.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Wayanad Vision Plus (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://online.wayanadvision.in/hls/streaming1.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://online.wayanadvision.in/hls/streaming1.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Waypoint TV (1080p)",
         "servers": [
             {

@@ -897,6 +897,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic Wild (Turkiye) (1080p) [Geo-blocked]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://saran-live.ercdn.net/natgeowild/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic Wild (Ukraine) (1080p)",
         "servers": [
             {
@@ -934,6 +948,20 @@
             {
                 "name": "URL",
                 "link": "https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "National TV2 (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.235.165.117:8002/play/a098/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.235.165.117:8002/play/a098/index.m3u8"
             }
         ]
     },
@@ -2749,6 +2777,34 @@
     },
     {
         "id": null,
+        "name": "New TM (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "New Vision HD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/newvision2924/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/newvision2924/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "New Vision TV (360p)",
         "servers": [
             {
@@ -4093,15 +4149,15 @@
     },
     {
         "id": null,
-        "name": "NHL AntenaPlay (576i) [Not 24/7]",
+        "name": "NHL AntenaPlay (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8"
+                "link": "https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8"
+                "link": "https://stream1.antenaplay.ro/promo/nhl-2911/chunklist.m3u8"
             }
         ]
     },
@@ -4513,15 +4569,15 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon (Romania)",
+        "name": "Nickelodeon (Romania) (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://178.76.68.60:7442/64/mpegts"
+                "link": "http://91.235.165.117:8001/play/a05z/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://178.76.68.60:7442/64/mpegts"
+                "link": "http://91.235.165.117:8001/play/a05z/index.m3u8"
             }
         ]
     },
@@ -4849,15 +4905,15 @@
     },
     {
         "id": null,
-        "name": "Nicktoons (Romania)",
+        "name": "Nicktoons (Romania) (576p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://178.76.68.60:7442/80/mpegts"
+                "link": "http://91.235.165.117:8001/play/a061/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://178.76.68.60:7442/80/mpegts"
+                "link": "http://91.235.165.117:8001/play/a061/index.m3u8"
             }
         ]
     },
@@ -5295,6 +5351,20 @@
     },
     {
         "id": null,
+        "name": "NM Media Channel HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/newmedia2924/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/newmedia2924/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NMBTV (720p)",
         "servers": [
             {
@@ -5565,11 +5635,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://amaru.dyndns.org:8870/0.m3u8"
+                "link": "http://amaru.dyndns.org:8870/1.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://amaru.dyndns.org:8870/0.m3u8"
+                "link": "http://amaru.dyndns.org:8870/1.m3u8"
             }
         ]
     },
@@ -7320,6 +7390,20 @@
             {
                 "name": "URL",
                 "link": "https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NTV UAE HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8"
             }
         ]
     },

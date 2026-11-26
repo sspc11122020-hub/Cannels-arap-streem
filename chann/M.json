@@ -1279,6 +1279,34 @@
     },
     {
         "id": null,
+        "name": "Malabar Plus (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://cloud.logichost.in:1935/live/mplus/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://cloud.logichost.in:1935/live/mplus/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Malappuram Cable Vision (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Maldives TV (720p)",
         "servers": [
             {
@@ -1680,20 +1708,6 @@
             {
                 "name": "URL",
                 "link": "https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Mansudae Television (1080p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.koryocdn.org/mansudae/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.koryocdn.org/mansudae/index.m3u8"
             }
         ]
     },
@@ -9646,6 +9660,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.50/live/mb_sexy/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Music Channel SD (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.235.165.117:8001/play/a01u/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.235.165.117:8001/play/a01u/index.m3u8"
             }
         ]
     },

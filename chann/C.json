@@ -7709,6 +7709,20 @@
     },
     {
         "id": null,
+        "name": "CCTV Kunnamkulam (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CCTV-1 (720p)",
         "servers": [
             {
@@ -7923,11 +7937,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8"
+                "link": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8"
             }
         ]
     },
@@ -8717,15 +8731,15 @@
     },
     {
         "id": null,
-        "name": "Chacra TV",
+        "name": "Chacra TV (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
+                "link": "https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8"
+                "link": "https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8"
             }
         ]
     },
@@ -11223,6 +11237,20 @@
     },
     {
         "id": null,
+        "name": "City Channel HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/citytv2924/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/citytv2924/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "City Eden AutoGid [Not 24/7]",
         "servers": [
             {
@@ -11624,6 +11652,20 @@
             {
                 "name": "URL",
                 "link": "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "City Vision Kannur (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/citykannurcity/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/citykannurcity/index.m3u8"
             }
         ]
     },
