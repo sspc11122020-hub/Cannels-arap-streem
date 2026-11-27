@@ -673,6 +673,20 @@
     },
     {
         "id": null,
+        "name": "Tara TV (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.ottlive.co.in/taratv/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.ottlive.co.in/taratv/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Tarab (1080p)",
         "servers": [
             {
@@ -7639,15 +7653,15 @@
     },
     {
         "id": null,
-        "name": "TL Estrella (720p)",
+        "name": "TL Estrella (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.181.61.93:8000/play/a004/index.m3u8"
+                "link": "https://edge.enhdtv.com/teleestrella/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.181.61.93:8000/play/a004/index.m3u8"
+                "link": "https://edge.enhdtv.com/teleestrella/index.m3u8"
             }
         ]
     },
@@ -7704,6 +7718,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.7.14/live/tlc_hungary/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TLC (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.235.165.117:8001/play/a08f/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.235.165.117:8001/play/a08f/index.m3u8"
             }
         ]
     },
@@ -9247,6 +9275,20 @@
     },
     {
         "id": null,
+        "name": "Tooro TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TOP Barca (1080p)",
         "servers": [
             {
@@ -10076,6 +10118,20 @@
             {
                 "name": "URL",
                 "link": "https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Travel Mix 4K (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://91.235.165.117:8001/play/a08c/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://91.235.165.117:8001/play/a08c/index.m3u8"
             }
         ]
     },
@@ -15405,15 +15461,15 @@
     },
     {
         "id": null,
-        "name": "TV SE (576p) [Not 24/7]",
+        "name": "TV SE (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://89.38.8.130:39419"
+                "link": "http://91.235.165.117:8001/play/a00p/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://89.38.8.130:39419"
+                "link": "http://91.235.165.117:8001/play/a00p/index.m3u8"
             }
         ]
     },
