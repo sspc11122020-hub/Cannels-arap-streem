@@ -9212,6 +9212,20 @@
         ]
     },
     {
+        "id": null,
+        "name": "Powran Media (720p) [Not 24/7]",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://stream.onecloudlive.in/powranmedia/livestream/index.m3u8"
+            }
+        ]
+    },
+    {
         "id": 77,
         "name": "PPV Feed",
         "servers": [
@@ -9782,6 +9796,20 @@
             {
                 "name": "URL",
                 "link": "https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Prima PPV 3 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8"
             }
         ]
     },
@@ -10974,20 +11002,6 @@
             {
                 "name": "URL",
                 "link": "http://103.180.240.141:8080/hls/main1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Public First (576p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8"
             }
         ]
     },

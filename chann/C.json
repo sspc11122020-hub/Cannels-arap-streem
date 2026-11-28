@@ -5921,11 +5921,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/Karusel_HD/index.m3u8"
+                "link": "http://s7.merlive.am/Karusel/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/Karusel_HD/index.m3u8"
+                "link": "http://s7.merlive.am/Karusel/index.m3u8"
             }
         ]
     },
@@ -6141,6 +6141,20 @@
     },
     {
         "id": null,
+        "name": "Cartoon Network Asia Vietnam (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.16:8070"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.16:8070"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cartoon Network CEE",
         "servers": [
             {
@@ -6192,6 +6206,34 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8007/play/a009"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cartoon Network CEE Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cartoon Network CEE Russia (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/CartoonNetwork/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/CartoonNetwork/index.m3u8"
             }
         ]
     },
@@ -6267,15 +6309,15 @@
     },
     {
         "id": null,
-        "name": "Cartoon Network Western Europe Portugal (576p)",
+        "name": "Cartoon Network Western Europe Portugal (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec"
             },
             {
                 "name": "URL",
-                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec"
             }
         ]
     },
@@ -6332,6 +6374,20 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8007/play/a008"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cartoonito CEE Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8"
             }
         ]
     },
@@ -6911,6 +6967,20 @@
     },
     {
         "id": null,
+        "name": "CBeebies Asia Vietnam (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.3.200:11122"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.3.200:11122"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "CBN Espanol (1080p)",
         "servers": [
             {
@@ -7023,20 +7093,6 @@
     },
     {
         "id": null,
-        "name": "CBS KCCI (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "CBS KIRO-TV (1080p)",
         "servers": [
             {
@@ -7130,20 +7186,6 @@
             {
                 "name": "URL",
                 "link": "https://amg01438-amg01438c27-vizio-us-10895.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CBS KUTV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -7569,20 +7611,6 @@
     },
     {
         "id": null,
-        "name": "CBS WPEC (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "CBS WTKR (1080p)",
         "servers": [
             {
@@ -7620,20 +7648,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00312-amg00312c37-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c37-amgplt0022/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "CBS WWMT (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -9823,6 +9837,20 @@
     },
     {
         "id": null,
+        "name": "Chefi la cutite (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Chefi.ro (1080p)",
         "servers": [
             {
@@ -10887,6 +10915,20 @@
     },
     {
         "id": null,
+        "name": "CinemaWorld Vietnam (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.44:8244"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.44:8244"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cinemax (Czech Republic)",
         "servers": [
             {
@@ -10896,6 +10938,20 @@
             {
                 "name": "URL",
                 "link": "http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cinemax (Czech Republic) Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas1/usergendx27y41s0rnd.m3u8"
             }
         ]
     },
@@ -10943,6 +10999,20 @@
     },
     {
         "id": null,
+        "name": "Cinemax 2 Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Cinemax Asia (720p) [Geo-blocked]",
         "servers": [
             {
@@ -10957,20 +11027,6 @@
     },
     {
         "id": null,
-        "name": "Cinemax Asia HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Cinemax Asia Taiwan (1080p)",
         "servers": [
             {
@@ -10980,6 +11036,20 @@
             {
                 "name": "URL",
                 "link": "http://125.227.210.55:1001/VideoInput/play.ts"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Cinemax Asia Vietnam (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.20:8094"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.20:8094"
             }
         ]
     },
@@ -11111,15 +11181,15 @@
     },
     {
         "id": null,
-        "name": "Cinevault 80s (720p)",
+        "name": "Cinevault 80s (540p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8"
+                "link": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8"
+                "link": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8"
             }
         ]
     },
@@ -12623,20 +12693,6 @@
     },
     {
         "id": null,
-        "name": "CNBC (720p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://41.205.93.154/CNBC/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://41.205.93.154/CNBC/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "CNBC Arabiya (1080p)",
         "servers": [
             {
@@ -13309,6 +13365,20 @@
     },
     {
         "id": null,
+        "name": "Colors Bangla (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.16.24.4:8083/12.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.16.24.4:8083/12.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Colors Cineplex (576p)",
         "servers": [
             {
@@ -13631,6 +13701,20 @@
     },
     {
         "id": null,
+        "name": "Comedy Central (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/comedi/usergenrx7zo1kr.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/comedi/usergenrx7zo1kr.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Comedy Central (Spain) (1080p)",
         "servers": [
             {
@@ -13845,11 +13929,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8"
+                "link": "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8"
+                "link": "https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8"
             }
         ]
     },
@@ -15759,15 +15843,15 @@
     },
     {
         "id": null,
-        "name": "Cufo",
+        "name": "Cufo (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/49274168ddaab25fc722"
             },
             {
                 "name": "URL",
-                "link": "https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/49274168ddaab25fc722"
             }
         ]
     },

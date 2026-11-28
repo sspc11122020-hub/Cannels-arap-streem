@@ -1447,11 +1447,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/81/index.m3u8"
+                "link": "http://s7.merlive.am/Sarafan/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/81/index.m3u8"
+                "link": "http://s7.merlive.am/Sarafan/index.m3u8"
             }
         ]
     },
@@ -4033,6 +4033,20 @@
     },
     {
         "id": null,
+        "name": "Shot TV (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/SHOTTV/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/SHOTTV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Shout! Factory TV (1080p)",
         "servers": [
             {
@@ -4467,15 +4481,15 @@
     },
     {
         "id": null,
-        "name": "Siglo XXI TV (576p)",
+        "name": "Siglo XXI TV (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://190.181.61.93:8000/play/a00b/index.m3u8"
+                "link": "https://edge.enhdtv.com/sigloxxi/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://190.181.61.93:8000/play/a00b/index.m3u8"
+                "link": "https://edge.enhdtv.com/sigloxxi/index.m3u8"
             }
         ]
     },
@@ -5530,20 +5544,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Sky Sport 24",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/1k3ckb2m-8796"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/1k3ckb2m-8796"
-            }
-        ]
-    },
-    {
         "id": 166,
         "name": "Sky Sport 251 IT",
         "servers": [
@@ -5838,16 +5838,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 462,
         "name": "Sky Sport Arena IT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://shoewiki.click/akfl7ls6-2231"
+                "link": "https://tvnow247.top/embed/462/"
             },
             {
                 "name": "URL",
-                "link": "https://shoewiki.click/akfl7ls6-2231"
+                "link": "https://tvnow247.top/embed/462/"
             }
         ]
     },
@@ -6146,16 +6146,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 870,
         "name": "Sky Sport Calcio IT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://shoewiki.click/gib0w25z-357"
+                "link": "https://tvnow247.top/embed/870/"
             },
             {
                 "name": "URL",
-                "link": "https://shoewiki.click/gib0w25z-357"
+                "link": "https://tvnow247.top/embed/870/"
             }
         ]
     },
@@ -6203,20 +6203,6 @@
     },
     {
         "id": null,
-        "name": "Sky Sport F1 Italia",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/t5mpn192-927"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/t5mpn192-927"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Sky Sport Golf FHD DE",
         "servers": [
             {
@@ -6230,16 +6216,16 @@
         ]
     },
     {
-        "id": null,
+        "id": 460,
         "name": "Sky Sport Max IT",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://shoewiki.click/jfgks9vt-7958"
+                "link": "https://tvnow247.top/embed/460/"
             },
             {
                 "name": "URL",
-                "link": "https://shoewiki.click/jfgks9vt-7958"
+                "link": "https://tvnow247.top/embed/460/"
             }
         ]
     },
@@ -6268,20 +6254,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix%20FHD%20DE&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sky Sport MotoGP IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/z1b9nwhr-4813"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/z1b9nwhr-4813"
             }
         ]
     },
@@ -6333,11 +6305,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://shoewiki.click/b6ca3188-8449"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Select%20NZ&code=&user=cdnlivetv&plan=free"
             },
             {
                 "name": "URL",
-                "link": "https://shoewiki.click/b6ca3188-8449"
+                "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Select%20NZ&code=&user=cdnlivetv&plan=free"
             }
         ]
     },
@@ -6352,20 +6324,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Tennis%20FHD%20DE&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sky Sport Tennis IT",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/mssnlmj6-4172"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/mssnlmj6-4172"
             }
         ]
     },
@@ -6408,20 +6366,6 @@
             {
                 "name": "URL",
                 "link": "https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Top%20Event%20FHD%20DE&code=&user=cdnlivetv&plan=free"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Sky Sport Uno",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/pqd6qx47-4522"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/pqd6qx47-4522"
             }
         ]
     },
@@ -8228,6 +8172,20 @@
             {
                 "name": "URL",
                 "link": "https://shoewiki.click/oay9sxar-3985"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Sony Sports Ten 2 (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.16.24.4:8083/6.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.16.24.4:8083/6.m3u8"
             }
         ]
     },
@@ -11238,6 +11196,20 @@
             {
                 "name": "URL",
                 "link": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Star Sports Khel (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.175.73.12:8080/live/151/151_0.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.175.73.12:8080/live/151/151_0.m3u8"
             }
         ]
     },

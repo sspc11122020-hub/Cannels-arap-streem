@@ -939,6 +939,20 @@
     },
     {
         "id": null,
+        "name": "Tayny Galaktiki (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/tainigalaktiki/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/tainigalaktiki/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TBC1",
         "servers": [
             {
@@ -5903,20 +5917,6 @@
     },
     {
         "id": null,
-        "name": "The CW KTNV-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "The CW KWCH-DT (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -5926,20 +5926,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00312-amg00312c39-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c39-amgplt0022/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "The CW WAVE (1080p) [Geo-blocked]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8"
             }
         ]
     },
@@ -7993,15 +7979,15 @@
     },
     {
         "id": null,
-        "name": "TMZ (720p)",
+        "name": "TMZ (1080p) [Geo-blocked]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8"
+                "link": "https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8"
+                "link": "https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8"
             }
         ]
     },
@@ -8929,11 +8915,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/tochkaotriva/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/tochkaotriva/index.m3u8"
             }
         ]
     },
@@ -8948,6 +8934,20 @@
             {
                 "name": "URL",
                 "link": "http://31.148.48.15/Tochka_TV/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Tochka.rf (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/HDLife/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/HDLife/index.m3u8"
             }
         ]
     },
@@ -9396,6 +9396,20 @@
             {
                 "name": "URL",
                 "link": "https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Top Secret (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/sovershennosekretno/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/sovershennosekretno/index.m3u8"
             }
         ]
     },
@@ -11014,20 +11028,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "True Crime Network WCVB-TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"
             }
         ]
     },
@@ -14966,6 +14966,20 @@
             {
                 "name": "URL",
                 "link": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "TV Paprika (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/papi/usergendxs3jk0s9nd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/papi/usergendxs3jk0s9nd.m3u8"
             }
         ]
     },
@@ -18947,6 +18961,20 @@
     },
     {
         "id": null,
+        "name": "TVN News (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://cdn.pishow.tv/ott/live/10010/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://cdn.pishow.tv/ott/live/10010/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "TVN24 (720p) [Not 24/7]",
         "servers": [
             {
@@ -19325,15 +19353,15 @@
     },
     {
         "id": null,
-        "name": "TVP1",
+        "name": "TVP1 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://92.114.85.87:8009/play/a009/index.m3u8"
+                "link": "http://91.226.96.110:5555/tvp1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://92.114.85.87:8009/play/a009/index.m3u8"
+                "link": "http://91.226.96.110:5555/tvp1/index.m3u8"
             }
         ]
     },

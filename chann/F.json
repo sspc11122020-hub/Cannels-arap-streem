@@ -1275,6 +1275,34 @@
     },
     {
         "id": null,
+        "name": "Film Cafe Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/cofyfilm/usergendxn8lzrnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/cofyfilm/usergendxn8lzrnd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Film Now (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Filmax (576p)",
         "servers": [
             {
@@ -2007,11 +2035,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8"
+                "link": "http://s7.merlive.am/TNTMusic/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8"
+                "link": "http://s7.merlive.am/TNTMusic/index.m3u8"
             }
         ]
     },
@@ -2255,15 +2283,15 @@
     },
     {
         "id": null,
-        "name": "Formula 2 AntenaPlay (576i) [Not 24/7]",
+        "name": "Formula 2 AntenaPlay (576p) [Not 24/7]",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+                "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar-27-2911/chunklist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8"
+                "link": "https://stream1.antenaplay.ro/promo/formula-2-qatar-27-2911/chunklist.m3u8"
             }
         ]
     },
@@ -2479,20 +2507,6 @@
     },
     {
         "id": null,
-        "name": "Fox (United States) KMPH-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Fox (United States) KMSP-TV (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -2502,20 +2516,6 @@
             {
                 "name": "URL",
                 "link": "https://amg00488-foxdigital-amg00488c8-vizio-us-904.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox9minneapoliskmsp-vizious/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Fox (United States) KOKH-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -2633,20 +2633,6 @@
     },
     {
         "id": null,
-        "name": "Fox (United States) WBFF (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "Fox (United States) WBRC (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -2656,6 +2642,20 @@
             {
                 "name": "URL",
                 "link": "https://amg00312-amg00312c32-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c32-amgplt0022/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Fox (United States) WDRB (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8"
             }
         ]
     },

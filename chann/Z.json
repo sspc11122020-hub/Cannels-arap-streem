@@ -453,6 +453,20 @@
     },
     {
         "id": null,
+        "name": "Zee Bangla (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.16.24.4:8083/10.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.16.24.4:8083/10.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Zee Bangla HD (720p)",
         "servers": [
             {
@@ -1409,11 +1423,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/zoopark/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/zoopark/index.m3u8"
             }
         ]
     },
@@ -1470,6 +1484,20 @@
             {
                 "name": "URL",
                 "link": "http://51.158.144.33:2021/zvezda/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Zvezda +4 (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/Zvezda/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/Zvezda/index.m3u8"
             }
         ]
     },

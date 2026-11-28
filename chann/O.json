@@ -1555,6 +1555,34 @@
     },
     {
         "id": null,
+        "name": "ON Sports HD (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.208:9222"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.208:9222"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "ON Sports+ (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.220:9294"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.220:9294"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ON Style TV (1080p)",
         "servers": [
             {

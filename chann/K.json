@@ -2003,6 +2003,20 @@
     },
     {
         "id": null,
+        "name": "Kineko HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/kineko/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/kineko/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "King TV (720p) [Not 24/7]",
         "servers": [
             {
@@ -2119,11 +2133,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/265/index.m3u8"
+                "link": "http://s7.merlive.am/Kinokomedia/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/265/index.m3u8"
+                "link": "http://s7.merlive.am/Kinokomedia/index.m3u8"
             }
         ]
     },
@@ -2138,6 +2152,20 @@
             {
                 "name": "URL",
                 "link": "http://93.170.254.17/Kinomiks/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Kinomix HD (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/Kinomix/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/Kinomix/index.m3u8"
             }
         ]
     },
@@ -2161,11 +2189,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/Kinopremera/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/Kinopremera/index.m3u8"
             }
         ]
     },
@@ -2189,11 +2217,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/170/index.m3u8"
+                "link": "http://s7.merlive.am/Kinosemya/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/170/index.m3u8"
+                "link": "http://s7.merlive.am/Kinosemya/index.m3u8"
             }
         ]
     },
@@ -2203,11 +2231,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/Kinoseria/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv"
+                "link": "http://s7.merlive.am/Kinoseria/index.m3u8"
             }
         ]
     },
@@ -2446,6 +2474,20 @@
             {
                 "name": "URL",
                 "link": "https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "Klukva TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://klukva.mediacdn.ru/cdn/klukva/playlist.m3u8"
             }
         ]
     },
@@ -3155,11 +3197,25 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/Kto_est_kto/index.m3u8"
+                "link": "http://s7.merlive.am/ktoestkto/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/Kto_est_kto/index.m3u8"
+                "link": "http://s7.merlive.am/ktoestkto/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "KTOKUDA (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/ktokuda/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/ktokuda/index.m3u8"
             }
         ]
     },

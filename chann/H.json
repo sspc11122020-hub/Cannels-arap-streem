@@ -743,6 +743,20 @@
     },
     {
         "id": null,
+        "name": "HBO (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9rnd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "HBO (United States) (720p)",
         "servers": [
             {
@@ -780,6 +794,20 @@
             {
                 "name": "URL",
                 "link": "http://185.227.34.179:8080/hbo-2-hd/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO 2 (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8"
             }
         ]
     },
@@ -827,29 +855,43 @@
     },
     {
         "id": null,
-        "name": "HBO Asia HD (1080p)",
+        "name": "HBO 3 (Romania) (576i)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://202.150.165.66:8088/play/100-HBO/index.m3u8"
+                "link": "https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/h3/usergendx3kdg4rnd.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://202.150.165.66:8088/play/100-HBO/index.m3u8"
+                "link": "https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/h3/usergendx3kdg4rnd.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "HBO Asia SD (720p) [Geo-blocked]",
+        "name": "HBO Asia (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://tinyurl.com/yn3d3rmd"
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.19:8088"
             },
             {
                 "name": "URL",
-                "link": "https://tinyurl.com/yn3d3rmd"
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.19:8088"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HBO Asia SD (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.148.210.190:8000/play/a0s8/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.148.210.190:8000/play/a0s8/index.m3u8"
             }
         ]
     },
@@ -897,20 +939,6 @@
     },
     {
         "id": null,
-        "name": "HBO Family Asia HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HBO Family Latin America (1080p)",
         "servers": [
             {
@@ -953,20 +981,6 @@
     },
     {
         "id": null,
-        "name": "HBO Hits Asia HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "HBO Latino",
         "servers": [
             {
@@ -1004,20 +1018,6 @@
             {
                 "name": "URL",
                 "link": "http://15.204.246.24:8080/HBOPOPHD/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "HBO Signature Asia HD (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8"
             }
         ]
     },
@@ -1564,6 +1564,20 @@
             {
                 "name": "URL",
                 "link": "https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "HGTV (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/hgtivi/usergenx3kly4rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/hgtivi/usergenx3kly4rnd.m3u8"
             }
         ]
     },
@@ -3818,76 +3832,6 @@
             {
                 "name": "URL",
                 "link": "https://tv.huachotv.com/stream.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hub Sports 1 Singapore",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/2670rnlp-2693"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/2670rnlp-2693"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hub Sports 2 Singapore",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/uxjju28j-2977"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/uxjju28j-2977"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hub Sports 3 Singapore",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/91ieccpw-3489"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/91ieccpw-3489"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hub Sports 4 Singapore",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/pgb1kdmf-8296"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/pgb1kdmf-8296"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "Hub Sports 5 Singapore",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/tfrrx715-8124"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/tfrrx715-8124"
             }
         ]
     },

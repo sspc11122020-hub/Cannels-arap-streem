@@ -519,6 +519,20 @@
     },
     {
         "id": null,
+        "name": "Nashe Lubimoe Kino (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/lubimoekino/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/lubimoekino/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "NASHE Music (720p)",
         "servers": [
             {
@@ -799,6 +813,20 @@
     },
     {
         "id": null,
+        "name": "National Geographic (Romania) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "National Geographic (Russia) (1080p)",
         "servers": [
             {
@@ -864,6 +892,20 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8010/play/a005/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "National Geographic Wild (Romania) HD (1080i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8"
             }
         ]
     },
@@ -1401,20 +1443,6 @@
     },
     {
         "id": null,
-        "name": "NBC KSBW (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NBC KSBY (1080p)",
         "servers": [
             {
@@ -1438,20 +1466,6 @@
             {
                 "name": "URL",
                 "link": "https://amg01438-amg01438c35-vizio-us-10899.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NBC KSNV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -1643,20 +1657,6 @@
     },
     {
         "id": null,
-        "name": "NBC WBAL-TV (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NBC WBTS-CD (1080p)",
         "servers": [
             {
@@ -1680,20 +1680,6 @@
             {
                 "name": "URL",
                 "link": "http://stream.cammonitorplus.net/1800/index.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NBC WGAL (720p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8"
             }
         ]
     },
@@ -1727,20 +1713,6 @@
     },
     {
         "id": null,
-        "name": "NBC WJAC-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NBC WJAR (1080p)",
         "servers": [
             {
@@ -1764,20 +1736,6 @@
             {
                 "name": "URL",
                 "link": "https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NBC WLIO (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
             }
         ]
     },
@@ -1839,20 +1797,6 @@
     },
     {
         "id": null,
-        "name": "NBC WOAI-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NBC WPTV-TV (1080p)",
         "servers": [
             {
@@ -1881,20 +1825,6 @@
     },
     {
         "id": null,
-        "name": "NBC WRDE-LD (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://live.field59.com/wrde/wrde1/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://live.field59.com/wrde/wrde1/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
         "name": "NBC WSMV-TV (1080p) [Geo-blocked]",
         "servers": [
             {
@@ -1918,20 +1848,6 @@
             {
                 "name": "URL",
                 "link": "https://amg01438-amg01438c40-vizio-us-10892.playouts.now.amagi.tv/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "NBC WTOV-TV (1080p)",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -2735,6 +2651,20 @@
     },
     {
         "id": null,
+        "name": "Network Payyanur (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/networkpayyanur/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/networkpayyanur/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nevis Television (720p)",
         "servers": [
             {
@@ -2926,6 +2856,20 @@
             {
                 "name": "URL",
                 "link": "https://cdn.pishow.tv/ott/live/1498/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "News Adda (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://mumbai-edge.smartplaytv.in/NewsAdda/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://mumbai-edge.smartplaytv.in/NewsAdda/index.m3u8"
             }
         ]
     },
@@ -3383,11 +3327,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8"
+                "link": "https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8"
+                "link": "https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8"
             }
         ]
     },
@@ -3822,6 +3766,20 @@
             {
                 "name": "URL",
                 "link": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NewStar (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://live.skystream.in/live/newsstar2924/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://live.skystream.in/live/newsstar2924/index.m3u8"
             }
         ]
     },
@@ -4555,6 +4513,20 @@
     },
     {
         "id": null,
+        "name": "Nickelodeon (India)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://103.148.210.190:8000/play/a0zu"
+            },
+            {
+                "name": "URL",
+                "link": "http://103.148.210.190:8000/play/a0zu"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Nickelodeon (Netherlands)",
         "servers": [
             {
@@ -4583,29 +4555,29 @@
     },
     {
         "id": null,
-        "name": "Nickelodeon (Poland)",
+        "name": "Nickelodeon (Poland) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5189779876700e71d303b"
             },
             {
                 "name": "URL",
-                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/5189779876700e71d303b"
             }
         ]
     },
     {
         "id": null,
-        "name": "Nickelodeon (Portugal)",
+        "name": "Nickelodeon (Portugal) (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f"
             },
             {
                 "name": "URL",
-                "link": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f"
+                "link": "https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f"
             }
         ]
     },
@@ -4629,11 +4601,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/443/index.m3u8"
+                "link": "http://s7.merlive.am/Nickelodeon/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/443/index.m3u8"
+                "link": "http://s7.merlive.am/Nickelodeon/index.m3u8"
             }
         ]
     },
@@ -6372,20 +6344,6 @@
         ]
     },
     {
-        "id": null,
-        "name": "Nova TV HR",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://shoewiki.click/g3bz60d8-3347"
-            },
-            {
-                "name": "URL",
-                "link": "https://shoewiki.click/g3bz60d8-3347"
-            }
-        ]
-    },
-    {
         "id": 636,
         "name": "NovaSports 6 GR",
         "servers": [
@@ -7432,6 +7390,20 @@
             {
                 "name": "URL",
                 "link": "https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "NTV Stil zhizn (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://s7.merlive.am/ntvstil/index.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "http://s7.merlive.am/ntvstil/index.m3u8"
             }
         ]
     },

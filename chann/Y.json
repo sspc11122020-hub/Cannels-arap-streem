@@ -673,6 +673,20 @@
     },
     {
         "id": null,
+        "name": "YuppTV Veda (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            },
+            {
+                "name": "URL",
+                "link": "https://yuppnimresmum.akamaized.net/28072023/smil:yupptvveda1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Yurimaguas TV (720p)",
         "servers": [
             {
@@ -705,11 +719,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+                "link": "http://s7.merlive.am/uvelirochka/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8"
+                "link": "http://s7.merlive.am/uvelirochka/index.m3u8"
             }
         ]
     }

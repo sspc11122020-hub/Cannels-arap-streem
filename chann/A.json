@@ -103,11 +103,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/A1/index.m3u8"
+                "link": "http://s7.merlive.am/Amedia1/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/A1/index.m3u8"
+                "link": "http://s7.merlive.am/Amedia1/index.m3u8"
             }
         ]
     },
@@ -145,11 +145,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://31.148.48.15/A2/index.m3u8"
+                "link": "http://s7.merlive.am/Amedia2/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://31.148.48.15/A2/index.m3u8"
+                "link": "http://s7.merlive.am/Amedia2/index.m3u8"
             }
         ]
     },
@@ -841,6 +841,20 @@
     },
     {
         "id": null,
+        "name": "ABC KTRK-TV (1080p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "ABC KXXV (1080p)",
         "servers": [
             {
@@ -897,29 +911,29 @@
     },
     {
         "id": null,
-        "name": "ABC News Live 1 (720p)",
+        "name": "ABC News Live 1 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/42a9b78d0a1f4b6599bbdfb1ae512bc4/abcn-live-01-cmaf-manifest/abcn-live-01-index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/42a9b78d0a1f4b6599bbdfb1ae512bc4/abcn-live-01-cmaf-manifest/abcn-live-01-index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "ABC News Live 10 (720p)",
+        "name": "ABC News Live 10 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a82dc11a2f514a1a2/abcn-live-10-cmaf-manifest/abcn-live-10-index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a82dc11a2f514a1a2/abcn-live-10-cmaf-manifest/abcn-live-10-index.m3u8"
             }
         ]
     },
@@ -981,57 +995,57 @@
     },
     {
         "id": null,
-        "name": "ABC News Live 6 (720p)",
+        "name": "ABC News Live 6 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/9a9ee355c85a41139f57059aa69e2dbb/abcn-live-06-cmaf-manifest/abcn-live-06-index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/9a9ee355c85a41139f57059aa69e2dbb/abcn-live-06-cmaf-manifest/abcn-live-06-index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "ABC News Live 7 (720p)",
+        "name": "ABC News Live 7 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/154d2c2958f641ebaff682b130320ea5/abcn-live-07-cmaf-manifest/abcn-live-07-index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/154d2c2958f641ebaff682b130320ea5/abcn-live-07-cmaf-manifest/abcn-live-07-index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "ABC News Live 8 (720p)",
+        "name": "ABC News Live 8 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/b95119c72ad7477ca49c4d9dfd1271d5/abcn-live-08-cmaf-manifest/abcn-live-08-index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/b95119c72ad7477ca49c4d9dfd1271d5/abcn-live-08-cmaf-manifest/abcn-live-08-index.m3u8"
             }
         ]
     },
     {
         "id": null,
-        "name": "ABC News Live 9 (720p)",
+        "name": "ABC News Live 9 (1080p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/4122fc2fd19e4064861b3c6a096286fb/abcn-live-09-cmaf-manifest/abcn-live-09-index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8"
+                "link": "https://abcnews-livestreams.akamaized.net/out/v1/4122fc2fd19e4064861b3c6a096286fb/abcn-live-09-cmaf-manifest/abcn-live-09-index.m3u8"
             }
         ]
     },
@@ -2894,20 +2908,6 @@
             {
                 "name": "URL",
                 "link": "https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8"
-            }
-        ]
-    },
-    {
-        "id": null,
-        "name": "AFV Espanol (720p) [Not 24/7]",
-        "servers": [
-            {
-                "name": "Main Server",
-                "link": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8"
-            },
-            {
-                "name": "URL",
-                "link": "https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8"
             }
         ]
     },
@@ -5797,6 +5797,20 @@
     },
     {
         "id": null,
+        "name": "AMC Europe Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/amece/usergenrx3oq1kr.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/amece/usergenrx3oq1kr.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AMC Latin America (1080p)",
         "servers": [
             {
@@ -6655,11 +6669,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "https://cdn.pishow.tv/ott/live/453/master.m3u8"
+                "link": "http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8"
             },
             {
                 "name": "URL",
-                "link": "https://cdn.pishow.tv/ott/live/453/master.m3u8"
+                "link": "http://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8"
             }
         ]
     },
@@ -9339,6 +9353,20 @@
     },
     {
         "id": null,
+        "name": "Asianet Cinema (576p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://b-tr1.planetcast.in/asianet/master.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://b-tr1.planetcast.in/asianet/master.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "Asianet HD (1080p)",
         "servers": [
             {
@@ -10733,11 +10761,11 @@
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://stream.mcquack.net/78/index.m3u8"
+                "link": "http://s7.merlive.am/avto24/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://stream.mcquack.net/78/index.m3u8"
+                "link": "http://s7.merlive.am/avto24/index.m3u8"
             }
         ]
     },
@@ -10925,15 +10953,15 @@
     },
     {
         "id": null,
-        "name": "AXN Asia Indonesia",
+        "name": "AXN Asia Indonesia (720p)",
         "servers": [
             {
                 "name": "Main Server",
-                "link": "http://202.150.165.66:8088/play/301-AXN/index.m3u8"
+                "link": "http://103.165.207.108:8000/play/a00n/index.m3u8"
             },
             {
                 "name": "URL",
-                "link": "http://202.150.165.66:8088/play/301-AXN/index.m3u8"
+                "link": "http://103.165.207.108:8000/play/a00n/index.m3u8"
             }
         ]
     },
@@ -10948,6 +10976,20 @@
             {
                 "name": "URL",
                 "link": "http://125.227.210.55:4050/VideoInput/play.ts"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AXN Asia Vietnam (720p)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.14:8058"
+            },
+            {
+                "name": "URL",
+                "link": "http://antm.dynu.net:14285/rtp/232.84.1.14:8058"
             }
         ]
     },
@@ -10995,6 +11037,20 @@
     },
     {
         "id": null,
+        "name": "AXN Black (United States) Romania (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/axyblack/usergenrxi6s93hs2.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/axyblack/usergenrxi6s93hs2.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AXN CEE Bulgary",
         "servers": [
             {
@@ -11004,6 +11060,20 @@
             {
                 "name": "URL",
                 "link": "http://85.11.144.9:4222/AXN"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AXN CEE Romania HD (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8"
             }
         ]
     },
@@ -11065,6 +11135,20 @@
     },
     {
         "id": null,
+        "name": "AXN Spin (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
         "name": "AXN White (Poland) (576i)",
         "servers": [
             {
@@ -11074,6 +11158,20 @@
             {
                 "name": "URL",
                 "link": "http://92.114.85.87:8014/play/a004/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "name": "AXN White (United States) (576i)",
+        "servers": [
+            {
+                "name": "Main Server",
+                "link": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/axwhite/usergenx23rnd.m3u8"
+            },
+            {
+                "name": "URL",
+                "link": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/axwhite/usergenx23rnd.m3u8"
             }
         ]
     },
